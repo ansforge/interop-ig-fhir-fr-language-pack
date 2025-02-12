@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Start by finding all references to "myig" and updating to appropriate text for your IG, including changing realm -->
-<ImplementationGuide xmlns="http://hl7.org/fhir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../input-cache/schemas/R4/fhir-single.xsd">
+<ImplementationGuide xmlns="http://hl7.org/fhir"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../input-cache/schemas/R4/fhir-single.xsd">
   <id value="hl7.fhir.r4.sv"/>
   <url value="http://hl7.org/fhir/langs/ImplementationGuide/hl7.fhir.r4.sv"/>
   <!-- This version will propagate to all artifacts unless the "propagate-version" extension is overridden -->
@@ -27,9 +27,14 @@
   </dependsOn>
   <definition>
     <page>
-      <nameUrl value="index.html"/>
-      <title value="Home page"/>
-      <generation value="html"/>
+      <nameUrl value="index"/>
+      <title value="Home Page"/>
+      <generation value="markdown"/>
+    </page>
+    <page>
+      <nameUrl value="translation-principles.html"/>
+      <title value="Translation Principles"/>
+      <generation value="markdown"/>
     </page>
     <!-- copyright year is a mandatory parameter -->
     <parameter>

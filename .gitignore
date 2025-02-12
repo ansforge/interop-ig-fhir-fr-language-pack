@@ -1,5 +1,7 @@
 
 .DS_Store
+.index.db
+.index.json
 
 input-cache/
 
@@ -8,3 +10,5 @@ output/
 temp/
 
 template/
+
+translations/
