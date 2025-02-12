@@ -1,1 +1,54 @@
+msgid ""
+msgstr ""
+"Language: sv\n"
+"X-Generator: Poedit 3.5\n"
 
+# en -> sv
+
+msgctxt "unconfirmed"
+msgid "Unconfirmed"
+msgstr ""
+
+msgctxt "unconfirmed@definition"
+msgid "There is not sufficient evidence to assert the presence of the subject's condition."
+msgstr ""
+
+msgctxt "provisional"
+msgid "Provisional"
+msgstr ""
+
+msgctxt "provisional@definition"
+msgid "This is a tentative diagnosis - still a candidate that is under consideration."
+msgstr ""
+
+msgctxt "differential"
+msgid "Differential"
+msgstr ""
+
+msgctxt "differential@definition"
+msgid "One of a set of potential (and typically mutually exclusive) diagnoses asserted to further guide the diagnostic process and preliminary treatment."
+msgstr ""
+
+msgctxt "confirmed"
+msgid "Confirmed"
+msgstr ""
+
+msgctxt "confirmed@definition"
+msgid "There is sufficient evidence to assert the presence of the subject's condition."
+msgstr ""
+
+msgctxt "refuted"
+msgid "Refuted"
+msgstr ""
+
+msgctxt "refuted@definition"
+msgid "This condition has been ruled out by subsequent diagnostic and clinical evidence."
+msgstr ""
+
+msgctxt "entered-in-error"
+msgid "Entered in Error"
+msgstr ""
+
+msgctxt "entered-in-error@definition"
+msgid "The statement was entered in error and is not valid."
+msgstr ""
