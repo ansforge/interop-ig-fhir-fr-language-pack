@@ -20,11 +20,11 @@
   <packageId value="hl7.fhir.r4.sv"/>
   <license value="CC0-1.0"/>
   <fhirVersion value="4.0.1"/>
-  <dependsOn>
+  <!--   <dependsOn>
     <uri value="http://hl7.org/fhir"/>
     <packageId value="hl7.fhir.r4.examples"/>
     <version value="4.0.1"/>
-  </dependsOn>
+  </dependsOn> -->
   <definition>
     <page>
       <nameUrl value="index"/>
@@ -49,6 +49,10 @@
     <!-- The actual default working language -->
     <parameter>
       <code value="i18n-default-lang"/>
+      <value value="sv"/>
+    </parameter>
+    <parameter>
+      <code value="i18n-lang"/>
       <value value="sv"/>
     </parameter>
     <!-- folder to scan for translations to turn into supplements -->
