@@ -1,49 +1,49 @@
 # en -> sv
 
-msgctxt "unconfirmed"
+#: unconfirmed
 msgid "Unconfirmed"
 msgstr "Obekräftad"
 
-msgctxt "unconfirmed@definition"
+#: unconfirmed@definition
 msgid "There is not sufficient evidence to assert the presence of the subject's condition."
 msgstr "Det finns inte tillräckligt med bevis för att fastställa förekomsten av patientens tillstånd."
 
-msgctxt "provisional"
+#: provisional
 msgid "Provisional"
 msgstr "Preliminär"
 
-msgctxt "provisional@definition"
+#: provisional@definition
 msgid "This is a tentative diagnosis - still a candidate that is under consideration."
 msgstr "Detta är en preliminär diagnos - fortfarande ett alternativ som övervägs."
 
-msgctxt "differential"
+#: differential
 msgid "Differential"
 msgstr "Differential"
 
-msgctxt "differential@definition"
+#: differential@definition
 msgid "One of a set of potential (and typically mutually exclusive) diagnoses asserted to further guide the diagnostic process and preliminary treatment."
 msgstr "En av en uppsättning potentiella (och vanligtvis ömsesidigt uteslutande) diagnoser som anges för att ytterligare vägleda den diagnostiska processen och preliminär behandling."
 
-msgctxt "confirmed"
+#: confirmed
 msgid "Confirmed"
 msgstr "Bekräftad"
 
-msgctxt "confirmed@definition"
+#: confirmed@definition
 msgid "There is sufficient evidence to assert the presence of the subject's condition."
 msgstr "Det finns tillräckligt med bevis för att fastställa förekomsten av patientens tillstånd."
 
-msgctxt "refuted"
+#: refuted
 msgid "Refuted"
 msgstr "Motbevisad"
 
-msgctxt "refuted@definition"
+#: refuted@definition
 msgid "This condition has been ruled out by subsequent diagnostic and clinical evidence."
 msgstr "Detta tillstånd har uteslutits av efterföljande diagnostiska och kliniska bevis."
 
-msgctxt "entered-in-error"
+#: entered-in-error
 msgid "Entered in Error"
 msgstr "Felaktigt inmatad"
 
-msgctxt "entered-in-error@definition"
+#: entered-in-error@definition
 msgid "The statement was entered in error and is not valid."
 msgstr "Uttalandet matades in felaktigt och är inte giltigt."
