@@ -4,7 +4,7 @@ FHIRLangPackFrench : Validation Results
 err = 18, warn = 21, info = 33
 $--
 Generated $--. FHIR version $-- for ans.fhir.r4.fr#$-- (canonical = https://interop.esante.gouv.fr/ig/fhir/fr)
- Build Errors : 101 / 5 / 0
+ Build Errors : 2 / 5 / 0
  /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/fsh-generated/resources/ImplementationGuide-ans.fhir.r4.fr : 1 / 0 / 2
  /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-address-type : 1 / 1 / 3
  /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-address-use : 1 / 1 / 3
@@ -25,106 +25,7 @@ Generated $--. FHIR version $-- for ans.fhir.r4.fr#$-- (canonical = https://inte
 </table>
 == n/a ==
 ERROR: ImplementationGuide.definition.parameter[29].value: Supressed messages file not found
-ERROR: CodeSystem-cs-fr-FR-address-type-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-address-type.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-address-type.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-address-type.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-address-type.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-address-type.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-address-use-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-address-use.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-address-use.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-address-use.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-address-use.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-address-use.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-administrative-gender-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-administrative-gender.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-administrative-gender.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-administrative-gender.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-administrative-gender.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-administrative-gender.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-condition-ver-status-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-condition-ver-status.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-condition-ver-status.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-condition-ver-status.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-condition-ver-status.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-condition-ver-status.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contact-point-system-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contact-point-system.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contact-point-system.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contact-point-system.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contact-point-system.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contact-point-system.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contact-point-use-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contact-point-use.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contact-point-use.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contact-point-use.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contact-point-use.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contact-point-use.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contactentity-type-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contactentity-type.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contactentity-type.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contactentity-type.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contactentity-type.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-contactentity-type.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-days-of-week-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-days-of-week.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-days-of-week.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-days-of-week.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-days-of-week.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-days-of-week.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-identifier-use-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-identifier-use.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-identifier-use.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-identifier-use.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-identifier-use.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-identifier-use.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-link-type-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-link-type.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-link-type.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-link-type.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-link-type.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-link-type.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-name-use-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-name-use.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-name-use.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-name-use.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-name-use.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-name-use.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v2-0131-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v2-0131.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v2-0131.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v2-0131.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v2-0131.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v2-0131.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v2-0203-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v2-0203.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v2-0203.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v2-0203.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v2-0203.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v2-0203.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-EntityNamePartQualifierR2-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-EntityNamePartQualifierR2.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-EntityNamePartQualifierR2.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-EntityNamePartQualifierR2.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-EntityNamePartQualifierR2.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-EntityNamePartQualifierR2.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-MaritalStatus-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-MaritalStatus.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-MaritalStatus.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-MaritalStatus.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-MaritalStatus.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-MaritalStatus.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-NullFlavor-testing.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-NullFlavor.change.history.html#/html/body/div/div/nav/div/div/ul/li/a at Line 102, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-NullFlavor.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-NullFlavor.json.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-NullFlavor.ttl.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: CodeSystem-cs-fr-FR-v3-NullFlavor.xml.html#/html/body/div/div/nav/div/div/ul/li/a at Line 100, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: artifacts.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
-ERROR: index.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
 ERROR: searchform.html#/html/body/div/div/div/a/img/div/a/img/div/p/img at Line 57, column 3: The image source 'assets/images/fra.svg' cannot be resolved
-ERROR: toc.html#/html/body/div/div/nav/div/div/ul/li/a at Line 98, column 8: The link 'translation-principles.html' for "Principles" cannot be resolved
 WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
 WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
 WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml, dependency-table-nontech.xhtml] is not included anywhere in the produced implementation guide

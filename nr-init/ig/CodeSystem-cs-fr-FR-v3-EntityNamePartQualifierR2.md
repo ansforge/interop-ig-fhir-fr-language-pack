@@ -33,7 +33,7 @@
   "name" : "EntityNamePartQualifierR2",
   "title" : "EntityNamePartQualifierR2",
   "status" : "active",
-  "date" : "2025-12-22T14:16:52+00:00",
+  "date" : "2025-12-22T14:22:23+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "**Description:**The qualifier is a set of codes each of which specifies a certain subcategory of the name part in addition to the main name part type. For example, a given name may be flagged as a nickname, a family name may be a pseudonym or a name of public records.",
   "jurisdiction" : [

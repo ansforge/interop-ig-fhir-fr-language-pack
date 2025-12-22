@@ -32,7 +32,7 @@ The use of an address.
   "name" : "AddressUse",
   "title" : "AddressUse",
   "status" : "active",
-  "date" : "2025-12-22T14:16:52+00:00",
+  "date" : "2025-12-22T14:22:23+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "The use of an address.",
   "jurisdiction" : [

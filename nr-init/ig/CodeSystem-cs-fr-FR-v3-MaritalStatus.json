@@ -11,7 +11,7 @@
   "name" : "MaritalStatus",
   "title" : "MaritalStatus",
   "status" : "active",
-  "date" : "2025-12-22T14:16:52+00:00",
+  "date" : "2025-12-22T14:22:23+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "\\* \\* \\* No description supplied \\* \\* \\*\r\n\r\n*Open Issue:* The specific meanings of these codes can vary somewhat by jurisdiction and implementation so caution should be used when determining equivalency.\r\n\r\n*Open Issue:* fixing and completion of the hierarchy and proper good definitions of all the concepts is badly needed.",
   "jurisdiction" : [{

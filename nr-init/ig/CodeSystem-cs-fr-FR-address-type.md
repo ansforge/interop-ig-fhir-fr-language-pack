@@ -32,7 +32,7 @@ The type of an address (physical / postal).
   "name" : "AddressType",
   "title" : "AddressType",
   "status" : "active",
-  "date" : "2025-12-22T14:16:52+00:00",
+  "date" : "2025-12-22T14:22:23+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "The type of an address (physical / postal).",
   "jurisdiction" : [
