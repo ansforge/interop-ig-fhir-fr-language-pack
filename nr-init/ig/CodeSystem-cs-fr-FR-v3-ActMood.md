@@ -33,7 +33,7 @@ OpenIssue: In Ballot 2009May, a strong Negative vote was lodged against several 
   "name" : "ActMood",
   "title" : "ActMood",
   "status" : "active",
-  "date" : "2025-12-22T17:21:11+00:00",
+  "date" : "2025-12-22T17:32:51+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "OpenIssue: In Ballot 2009May, a strong Negative vote was lodged against several of the concept definitions in the vocabulary used for Act.moodCode. The vote was found \"Persuasive With Mod\", with the understanding that M and M would undertake a detailed review of these concept definitions for a future release of the RIM.",
   "jurisdiction" : [

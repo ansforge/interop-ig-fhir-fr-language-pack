@@ -22,7 +22,7 @@
   fhir:name [ fhir:v "ParticipationFunction"] ; # 
   fhir:title [ fhir:v "ParticipationFunction"] ; # 
   fhir:status [ fhir:v "active"] ; # 
-  fhir:date [ fhir:v "2025-12-22T17:21:11+00:00"^^xsd:dateTime] ; # 
+  fhir:date [ fhir:v "2025-12-22T17:32:51+00:00"^^xsd:dateTime] ; # 
   fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
   fhir:description [ fhir:v "This code is used to specify the exact function an actor had in a service in all necessary detail. This domain may include local extensions (CWE)."] ; # 
   fhir:jurisdiction ( [

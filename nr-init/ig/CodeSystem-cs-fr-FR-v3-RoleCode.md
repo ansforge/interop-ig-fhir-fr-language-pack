@@ -33,7 +33,7 @@ A set of codes further specifying the kind of Role; specific classification code
   "name" : "RoleCode",
   "title" : "RoleCode",
   "status" : "active",
-  "date" : "2025-12-22T17:21:11+00:00",
+  "date" : "2025-12-22T17:32:51+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "A set of codes further specifying the kind of Role; specific classification codes for further qualifying RoleClass codes.",
   "jurisdiction" : [
