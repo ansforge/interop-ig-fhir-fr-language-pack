@@ -18,6 +18,6 @@ Description: "AdministrativeGender"
 * ^date = "2025-12-16T14:18:38+01:00"
 * ^publisher = "Agence du Numérique en Santé(ANS) -2 - 10 Rue d'Oradour-sur-Glane, 75015 Paris"
 * ^jurisdiction = urn:iso:std:iso:3166#FRA
-* $v3-AdministrativeGender#F "Féminin"
-* $v3-AdministrativeGender#M "Masculin"
-* $v3-AdministrativeGender#UN "Inconnu"
+* $v3-AdministrativeGender#F
+* $v3-AdministrativeGender#M
+* $v3-AdministrativeGender#UN
