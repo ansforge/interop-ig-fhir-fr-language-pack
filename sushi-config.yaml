@@ -16,20 +16,21 @@ releaseLabel: ci-build # le release label doit être conforme au cycle de vie de
 jurisdiction: urn:iso:std:iso:3166#FR "FRANCE"
 
 parameters: #Parameters list - https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html
-    shownav: 'true'
-    path-expansion-params: '../../expansion-params.json' # for using French SNOMED CT Extension
-    i18n-default-lang: fr-FR # Default language
-    i18n-lang: fr-FR
-    pin-canonicals: pin-all
-    translation-supplements: input/translations
+  shownav: 'true'
+  path-expansion-params: '../../expansion-params.json' # for using French SNOMED CT Extension
+  i18n-default-lang: fr-FR # Default language
+  i18n-lang: fr-FR
+  pin-canonicals: pin-all
+  translation-supplements: input/translations
 
 pages:
-    index.md:
-        title: Accueil
+  index.md:
+    title: Accueil
 
 menu:
-    Accueil: index.html
-    Ressources de conformité: artifacts.html
-        "Spécifications FHIR ": new-tab {{site.data.fhir.path}}index.html
-        "Site de l'ANS ": new-tab https://esante.gouv.fr/
-    Documentation: new-tab https://interop.esante.gouv.fr/ig/documentation/
+  Accueil: index.html
+  Ressources de conformité: artifacts.html
+  Autres ressources:
+    "Spécifications FHIR ": new-tab {{site.data.fhir.path}}index.html
+    "Site de l'ANS ": new-tab https://esante.gouv.fr/
+  Documentation: new-tab https://interop.esante.gouv.fr/ig/documentation/
