@@ -1,3 +1,3 @@
-# Traduction des ressources FHIR en français
+### Traduction des ressources FHIR en français
 
-This Language Pack may include both HL7 FHIR CodeSystems and DomainResources.
+Ce language pack contient les traductions françaises des ressources
