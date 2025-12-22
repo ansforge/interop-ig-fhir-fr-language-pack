@@ -5,7 +5,7 @@ msgid "DICOM"
 msgstr "DICOM"
 
 #: application/dicom@definition
-msgid "Digital Imaging and Communications in Medicine (DICOM) MIME type defined in RFC3240 \[http://ietf.org/rfc/rfc3240.txt\]."
+msgid "Digital Imaging and Communications in Medicine (DICOM) MIME type defined in RFC3240 \\[http://ietf.org/rfc/rfc3240.txt\\]."
 msgstr ""
 
 #: application/msword
@@ -29,7 +29,7 @@ msgid "Basic Audio"
 msgstr "Basic Audio"
 
 #: audio/basic@definition
-msgid "This is a format for single channel audio, encoded using 8bit ISDN mu-law \[PCM\] at a sample rate of 8000 Hz. This format is standardized by: CCITT, Fascicle III.4 -Recommendation G.711. Pulse Code Modulation (PCM) of Voice Frequencies. Geneva, 1972."
+msgid "This is a format for single channel audio, encoded using 8bit ISDN mu-law \\[PCM\\] at a sample rate of 8000 Hz. This format is standardized by: CCITT, Fascicle III.4 -Recommendation G.711. Pulse Code Modulation (PCM) of Voice Frequencies. Geneva, 1972."
 msgstr ""
 
 #: audio/k32adpcm
@@ -37,7 +37,7 @@ msgid "K32ADPCM Audio"
 msgstr "K32ADPCM Audio"
 
 #: audio/k32adpcm@definition
-msgid "ADPCM allows compressing audio data. It is defined in the Internet specification RFC 2421 \[ftp://ftp.isi.edu/in-notes/rfc2421.txt\]. Its implementation base is unclear."
+msgid "ADPCM allows compressing audio data. It is defined in the Internet specification RFC 2421 \\[ftp://ftp.isi.edu/in-notes/rfc2421.txt\\]. Its implementation base is unclear."
 msgstr ""
 
 #: audio/mpeg
@@ -61,7 +61,7 @@ msgid "JPEG Image"
 msgstr "JPEG Image"
 
 #: image/jpeg@definition
-msgid "This format is required for high compression of high color photographs. It is a "lossy" compression, but the difference to lossless compression is almost unnoticeable to the human vision."
+msgid "This format is required for high compression of high color photographs. It is a \"lossy\" compression, but the difference to lossless compression is almost unnoticeable to the human vision."
 msgstr ""
 
 #: image/png
@@ -69,7 +69,7 @@ msgid "PNG Image"
 msgstr "PNG Image"
 
 #: image/png@definition
-msgid "Portable Network Graphics (PNG) \[http://www.cdrom.com/pub/png\] is a widely supported lossless image compression standard with open source code available."
+msgid "Portable Network Graphics (PNG) \\[http://www.cdrom.com/pub/png\\] is a widely supported lossless image compression standard with open source code available."
 msgstr ""
 
 #: image/tiff

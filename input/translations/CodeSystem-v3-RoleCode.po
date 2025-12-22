@@ -181,7 +181,7 @@ msgid "family member"
 msgstr "Autre membre de la famille"
 
 #: FAMMEMB@definition
-msgid "A relationship between two people characterizing their "familial" relationship"
+msgid "A relationship between two people characterizing their \"familial\" relationship"
 msgstr ""
 
 #: FMRSPS

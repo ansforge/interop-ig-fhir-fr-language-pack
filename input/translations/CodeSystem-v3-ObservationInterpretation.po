@@ -27,7 +27,7 @@ msgstr "Anormal"
 #: A@definition
 msgid "The result or observation value is outside the reference range or expected norm (as defined for the respective test procedure).
 
-\[Note: Typically applies to non-numeric results.\]"
+\\[Note: Typically applies to non-numeric results.\\]"
 msgstr ""
 
 #: AA
@@ -37,7 +37,7 @@ msgstr "Très anormal, alerte"
 #: AA@definition
 msgid "The result or observation value is outside a reference range or expected norm at a level at which immediate action should be considered for patient safety (as defined for the respective test procedure).
 
-\[Note: Typically applies to non-numeric results. Analogous to critical/panic limits for numeric results.\]"
+\\[Note: Typically applies to non-numeric results. Analogous to critical/panic limits for numeric results.\\]"
 msgstr ""
 
 #: B
@@ -47,7 +47,7 @@ msgstr "Amélioration"
 #: B@definition
 msgid "The current result or observation value has improved compared to the previous result or observation value (the change is significant as defined in the respective test procedure).
 
-\[Note: This can be applied to quantitative or qualitative observations.\]"
+\\[Note: This can be applied to quantitative or qualitative observations.\\]"
 msgstr ""
 
 #: CAR
@@ -91,7 +91,7 @@ msgid "The observation/test result is interpreted as being outside the inclusion
 
 **Example:** A positive result on a Hepatitis screening test.
 
-*Open Issue:* EX, HX, LX: These three concepts do not seem to meet a clear need in the vocabulary, and their use in observation interpretation appears likely to be covered by other existing concepts (e.g., A, H, L). The only apparent significant difference is their reference to use in protocols for exclusion of study subjects. These concepts/codes were proposed by RCRIM for use in the CTLaboratory message. They were submitted and approved in the November 2005 Harmonization cycle in proposal "030103C\_VOCAB\_RCRIM\_l\_quade\_RCRIM Obs Interp\_20051028154455". However, this proposal was not fully implemented in the vocabulary. The proposal recommended creation of the x\_ClinicalResearchExclusion domain in ObservationInterpretation with a value set including those three concepts/codes, but there is no subdomain of that name or equivalent with a binding to either of the value sets that contain these concepts/codes. Members of the OO WG have recently attempted to contact members of RCRIM regarding these concepts, both by email and at the recent WGM in Atlanta, without response. It is felt by OO that the best course of action to take at this time is to add this comprehensive Open Issue rather than deprecate these three concepts at this time, until further discussion is held."
+*Open Issue:* EX, HX, LX: These three concepts do not seem to meet a clear need in the vocabulary, and their use in observation interpretation appears likely to be covered by other existing concepts (e.g., A, H, L). The only apparent significant difference is their reference to use in protocols for exclusion of study subjects. These concepts/codes were proposed by RCRIM for use in the CTLaboratory message. They were submitted and approved in the November 2005 Harmonization cycle in proposal \"030103C\\_VOCAB\\_RCRIM\\_l\\_quade\\_RCRIM Obs Interp\\_20051028154455\". However, this proposal was not fully implemented in the vocabulary. The proposal recommended creation of the x\\_ClinicalResearchExclusion domain in ObservationInterpretation with a value set including those three concepts/codes, but there is no subdomain of that name or equivalent with a binding to either of the value sets that contain these concepts/codes. Members of the OO WG have recently attempted to contact members of RCRIM regarding these concepts, both by email and at the recent WGM in Atlanta, without response. It is felt by OO that the best course of action to take at this time is to add this comprehensive Open Issue rather than deprecate these three concepts at this time, until further discussion is held."
 msgstr ""
 
 #: EXP
@@ -99,7 +99,7 @@ msgid "Expected"
 msgstr "Attendu"
 
 #: EXP@definition
-msgid "This result has been evaluated in light of known contraindicators. Once those contraindicators have been taken into account the result is determined to be "Expected" (e.g., presence of drugs in a patient that is taking prescription medication for pain management)."
+msgid "This result has been evaluated in light of known contraindicators. Once those contraindicators have been taken into account the result is determined to be \"Expected\" (e.g., presence of drugs in a patient that is taking prescription medication for pain management)."
 msgstr ""
 
 #: H
@@ -139,7 +139,7 @@ msgid "The observation/test result is interpreted as being outside the inclusion
 
 **Example:** A positive result on a Hepatitis screening test.
 
-*Open Issue:* EX, HX, LX: These three concepts do not seem to meet a clear need in the vocabulary, and their use in observation interpretation appears likely to be covered by other existing concepts (e.g., A, H, L). The only apparent significant difference is their reference to use in protocols for exclusion of study subjects. These concepts/codes were proposed by RCRIM for use in the CTLaboratory message. They were submitted and approved in the November 2005 Harmonization cycle in proposal "030103C\_VOCAB\_RCRIM\_l\_quade\_RCRIM Obs Interp\_20051028154455". However, this proposal was not fully implemented in the vocabulary. The proposal recommended creation of the x\_ClinicalResearchExclusion domain in ObservationInterpretation with a value set including those three concepts/codes, but there is no subdomain of that name or equivalent with a binding to either of the value sets that contain these concepts/codes. Members of the OO WG have recently attempted to contact members of RCRIM regarding these concepts, both by email and at the recent WGM in Atlanta, without response. It is felt by OO that the best course of action to take at this time is to add this comprehensive Open Issue rather than deprecate these three concepts at this time, until further discussion is held."
+*Open Issue:* EX, HX, LX: These three concepts do not seem to meet a clear need in the vocabulary, and their use in observation interpretation appears likely to be covered by other existing concepts (e.g., A, H, L). The only apparent significant difference is their reference to use in protocols for exclusion of study subjects. These concepts/codes were proposed by RCRIM for use in the CTLaboratory message. They were submitted and approved in the November 2005 Harmonization cycle in proposal \"030103C\\_VOCAB\\_RCRIM\\_l\\_quade\\_RCRIM Obs Interp\\_20051028154455\". However, this proposal was not fully implemented in the vocabulary. The proposal recommended creation of the x\\_ClinicalResearchExclusion domain in ObservationInterpretation with a value set including those three concepts/codes, but there is no subdomain of that name or equivalent with a binding to either of the value sets that contain these concepts/codes. Members of the OO WG have recently attempted to contact members of RCRIM regarding these concepts, both by email and at the recent WGM in Atlanta, without response. It is felt by OO that the best course of action to take at this time is to add this comprehensive Open Issue rather than deprecate these three concepts at this time, until further discussion is held."
 msgstr ""
 
 #: I
@@ -147,15 +147,15 @@ msgid "Intermediate"
 msgstr "Intermédiaire"
 
 #: I@definition
-msgid "Bacterial strain inhibited in vitro by a concentration of an antimicrobial agent that is associated with uncertain therapeutic effect. Reference: CLSI (http://www.clsi.org/Content/NavigationMenu/Resources/HarmonizedTerminologyDatabase/Harmonized\_Terminolo.htm) Projects: ISO 20776-1, ISO 20776-2
+msgid "Bacterial strain inhibited in vitro by a concentration of an antimicrobial agent that is associated with uncertain therapeutic effect. Reference: CLSI (http://www.clsi.org/Content/NavigationMenu/Resources/HarmonizedTerminologyDatabase/Harmonized\\_Terminolo.htm) Projects: ISO 20776-1, ISO 20776-2
 
-\[Note 1: Bacterial strains are categorized as intermediate by applying the appropriate breakpoints in a defined phenotypic test system.\]
+\\[Note 1: Bacterial strains are categorized as intermediate by applying the appropriate breakpoints in a defined phenotypic test system.\\]
 
-\[Note 2: This class of susceptibility implies that an infection due to the isolate can be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug can be used.\]
+\\[Note 2: This class of susceptibility implies that an infection due to the isolate can be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug can be used.\\]
 
-\[Note 3: This class also indicates a "buffer zone," to prevent small, uncontrolled, technical factors from causing major discrepancies in interpretations.\]
+\\[Note 3: This class also indicates a \"buffer zone,\" to prevent small, uncontrolled, technical factors from causing major discrepancies in interpretations.\\]
 
-\[Note 4: These breakpoints can be altered due to changes in circumstances (e.g., changes in commonly used drug dosages, emergence of new resistance mechanisms).\]"
+\\[Note 4: These breakpoints can be altered due to changes in circumstances (e.g., changes in commonly used drug dosages, emergence of new resistance mechanisms).\\]"
 msgstr ""
 
 #: IE
@@ -165,7 +165,7 @@ msgstr "Preuves insuffisantes"
 #: IE@definition
 msgid "There is insufficient evidence that the species in question is a good target for therapy with the drug. A categorical interpretation is not possible.
 
-\[Note: A MIC with "IE" and/or a comment may be reported (without an accompanying S, I or R-categorization).\]"
+\\[Note: A MIC with \"IE\" and/or a comment may be reported (without an accompanying S, I or R-categorization).\\]"
 msgstr ""
 
 #: IND
@@ -175,7 +175,7 @@ msgstr "Indéterminé"
 #: IND@definition
 msgid "The specified component / analyte, organism or clinical sign could neither be declared positive / negative nor detected / not detected by the performed test or procedure.
 
-*Usage Note:* For example, if the specimen was degraded, poorly processed, or was missing the required anatomic structures, then "indeterminate" (i.e. "cannot be determined") is the appropriate response, not "equivocal"."
+*Usage Note:* For example, if the specimen was degraded, poorly processed, or was missing the required anatomic structures, then \"indeterminate\" (i.e. \"cannot be determined\") is the appropriate response, not \"equivocal\"."
 msgstr ""
 
 #: L
@@ -215,7 +215,7 @@ msgid "The numeric observation/test result is interpreted as being below the low
 
 **Example:** A Total White Blood Cell Count falling below a protocol-defined threshold value of 3000/mm^3
 
-*Open Issue:* EX, HX, LX: These three concepts do not seem to meet a clear need in the vocabulary, and their use in observation interpretation appears likely to be covered by other existing concepts (e.g., A, H, L). The only apparent significant difference is their reference to use in protocols for exclusion of study subjects. These concepts/codes were proposed by RCRIM for use in the CTLaboratory message. They were submitted and approved in the November 2005 Harmonization cycle in proposal "030103C\_VOCAB\_RCRIM\_l\_quade\_RCRIM Obs Interp\_20051028154455". However, this proposal was not fully implemented in the vocabulary. The proposal recommended creation of the x\_ClinicalResearchExclusion domain in ObservationInterpretation with a value set including those three concepts/codes, but there is no subdomain of that name or equivalent with a binding to either of the value sets that contain these concepts/codes. Members of the OO WG have recently attempted to contact members of RCRIM regarding these concepts, both by email and at the recent WGM in Atlanta, without response. It is felt by OO that the best course of action to take at this time is to add this comprehensive Open Issue rather than deprecate these three concepts at this time, until further discussion is held."
+*Open Issue:* EX, HX, LX: These three concepts do not seem to meet a clear need in the vocabulary, and their use in observation interpretation appears likely to be covered by other existing concepts (e.g., A, H, L). The only apparent significant difference is their reference to use in protocols for exclusion of study subjects. These concepts/codes were proposed by RCRIM for use in the CTLaboratory message. They were submitted and approved in the November 2005 Harmonization cycle in proposal \"030103C\\_VOCAB\\_RCRIM\\_l\\_quade\\_RCRIM Obs Interp\\_20051028154455\". However, this proposal was not fully implemented in the vocabulary. The proposal recommended creation of the x\\_ClinicalResearchExclusion domain in ObservationInterpretation with a value set including those three concepts/codes, but there is no subdomain of that name or equivalent with a binding to either of the value sets that contain these concepts/codes. Members of the OO WG have recently attempted to contact members of RCRIM regarding these concepts, both by email and at the recent WGM in Atlanta, without response. It is felt by OO that the best course of action to take at this time is to add this comprehensive Open Issue rather than deprecate these three concepts at this time, until further discussion is held."
 msgstr ""
 
 #: N
@@ -225,7 +225,7 @@ msgstr "Normal"
 #: N@definition
 msgid "The result or observation value is within the reference range or expected norm (as defined for the respective test procedure).
 
-\[Note: Applies to numeric or non-numeric results.\]"
+\\[Note: Applies to numeric or non-numeric results.\\]"
 msgstr ""
 
 #: NCL
@@ -251,7 +251,7 @@ msgstr "Négatif"
 #: NEG@definition
 msgid "An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.
 
-\[Note: Negative does not necessarily imply the complete absence of the specified item.\]"
+\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]"
 msgstr ""
 
 #: NR
@@ -271,7 +271,7 @@ msgid "A category used for isolates for which only a susceptible interpretive cr
 
 NOTE 1: An isolate that is interpreted as non-susceptible does not necessarily mean that the isolate has a resistance mechanism. It is possible that isolates with MICs above the susceptible breakpoint that lack resistance mechanisms may be encountered within the wild-type distribution subsequent to the time the susceptible-only breakpoint is set.
 
-NOTE 2: For strains yielding results in the "nonsusceptible" category, organism identification and antimicrobial susceptibility test results should be confirmed.
+NOTE 2: For strains yielding results in the \"nonsusceptible\" category, organism identification and antimicrobial susceptibility test results should be confirmed.
 
 Synonym: decreased susceptibility."
 msgstr ""
@@ -289,11 +289,11 @@ msgid "Resistant"
 msgstr "Résistant"
 
 #: R@definition
-msgid "Bacterial strain inhibited in vitro by a concentration of an antimicrobial agent that is associated with a high likelihood of therapeutic failure. Reference: CLSI (http://www.clsi.org/Content/NavigationMenu/Resources/HarmonizedTerminologyDatabase/Harmonized\_Terminolo.htm) Projects: ISO 20776-1, ISO 20776-2
+msgid "Bacterial strain inhibited in vitro by a concentration of an antimicrobial agent that is associated with a high likelihood of therapeutic failure. Reference: CLSI (http://www.clsi.org/Content/NavigationMenu/Resources/HarmonizedTerminologyDatabase/Harmonized\\_Terminolo.htm) Projects: ISO 20776-1, ISO 20776-2
 
-\[Note 1: Bacterial strains are categorized as resistant by applying the appropriate breakpoints in a defined phenotypic test system.\]
+\\[Note 1: Bacterial strains are categorized as resistant by applying the appropriate breakpoints in a defined phenotypic test system.\\]
 
-\[Note 2: This breakpoint can be altered due to changes in circumstances (e.g., changes in commonly used drug dosages, emergence of new resistance mechanisms).\]"
+\\[Note 2: This breakpoint can be altered due to changes in circumstances (e.g., changes in commonly used drug dosages, emergence of new resistance mechanisms).\\]"
 msgstr ""
 
 #: RR
@@ -309,11 +309,11 @@ msgid "Susceptible"
 msgstr "Sensible"
 
 #: S@definition
-msgid "Bacterial strain inhibited by in vitro concentration of an antimicrobial agent that is associated with a high likelihood of therapeutic success. Reference: CLSI (http://www.clsi.org/Content/NavigationMenu/Resources/HarmonizedTerminologyDatabase/Harmonized\_Terminolo.htm) Synonym (earlier term): Sensitive Projects: ISO 20776-1, ISO 20776-2
+msgid "Bacterial strain inhibited by in vitro concentration of an antimicrobial agent that is associated with a high likelihood of therapeutic success. Reference: CLSI (http://www.clsi.org/Content/NavigationMenu/Resources/HarmonizedTerminologyDatabase/Harmonized\\_Terminolo.htm) Synonym (earlier term): Sensitive Projects: ISO 20776-1, ISO 20776-2
 
-\[Note 1: Bacterial strains are categorized as susceptible by applying the appropriate breakpoints in a defined phenotypic system.\]
+\\[Note 1: Bacterial strains are categorized as susceptible by applying the appropriate breakpoints in a defined phenotypic system.\\]
 
-\[Note 2: This breakpoint can be altered due to changes in circumstances (e.g., changes in commonly used drug dosages, emergence of new resistance mechanisms).\]"
+\\[Note 2: This breakpoint can be altered due to changes in circumstances (e.g., changes in commonly used drug dosages, emergence of new resistance mechanisms).\\]"
 msgstr ""
 
 #: SDD
@@ -323,7 +323,7 @@ msgstr "Sensible à forte dose"
 #: SDD@definition
 msgid "A category that includes isolates with antimicrobial agent minimum inhibitory concentrations (MICs) that approach usually attainable blood and tissue levels and for which response rates may be lower than for susceptible isolates.
 
-Reference: CLSI document M44-A2 2009 "Method for antifungal disk diffusion susceptibility testing of yeasts; approved guideline - second edition" - page 2."
+Reference: CLSI document M44-A2 2009 \"Method for antifungal disk diffusion susceptibility testing of yeasts; approved guideline - second edition\" - page 2."
 msgstr ""
 
 #: SYN-R
@@ -363,7 +363,7 @@ msgid "Unexpected"
 msgstr "Inattendu"
 
 #: UNE@definition
-msgid "This result has been evaluated in light of known contraindicators. Once those contraindicators have been taken into account the result is determined to be "Unexpected" (e.g., presence of non-prescribed drugs in a patient that is taking prescription medication for pain management)."
+msgid "This result has been evaluated in light of known contraindicators. Once those contraindicators have been taken into account the result is determined to be \"Unexpected\" (e.g., presence of non-prescribed drugs in a patient that is taking prescription medication for pain management)."
 msgstr ""
 
 #: W
@@ -373,7 +373,7 @@ msgstr "Dégradation"
 #: W@definition
 msgid "The current result or observation value has degraded compared to the previous result or observation value (the change is significant as defined in the respective test procedure).
 
-\[Note: This can be applied to quantitative or qualitative observations.\]"
+\\[Note: This can be applied to quantitative or qualitative observations.\\]"
 msgstr ""
 
 #: WR

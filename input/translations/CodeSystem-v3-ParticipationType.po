@@ -15,9 +15,9 @@ msgstr "Cible d'une observation (substance ou composant le plus spécifique)"
 #: ALY@definition
 msgid "The target of an Observation action. Links an observation to a Role whose player is the substance or most specific component entity (material, micro-organism, etc.) being measured within the subject.
 
-*Examples:* A "plasma porcelain substance concentration" has analyte a Role with player substance Entity "porcelain".
+*Examples:* A \"plasma porcelain substance concentration\" has analyte a Role with player substance Entity \"porcelain\".
 
-*UsageNotes:* The Role that this participation connects to may be any Role whose player is that substance measured. Very often, the scoper may indicate the system in which the component is being measured. E.g., for "plasma porcelain" the scoper could be "Plasma"."
+*UsageNotes:* The Role that this participation connects to may be any Role whose player is that substance measured. Very often, the scoper may indicate the system in which the component is being measured. E.g., for \"plasma porcelain\" the scoper could be \"Plasma\"."
 msgstr ""
 
 #: ATND
@@ -274,7 +274,7 @@ msgid "information recipient"
 msgstr "Destinataire de l'information"
 
 #: IRCP@definition
-msgid "A party, who may or should receive or who has recieved the Act or subsequent or derivative information of that Act. Information recipient is inert, i.e., independent of mood." Rationale: this is a generalization of a too diverse family that the definition can't be any more specific, and the concept is abstract so one of the specializations should be used."
+msgid "A party, who may or should receive or who has recieved the Act or subsequent or derivative information of that Act. Information recipient is inert, i.e., independent of mood.\" Rationale: this is a generalization of a too diverse family that the definition can't be any more specific, and the concept is abstract so one of the specializations should be used."
 msgstr ""
 
 #: LA
@@ -426,7 +426,7 @@ msgid "remote"
 msgstr "Emplacement distant"
 
 #: RML@definition
-msgid "Some services take place at multiple concurrent locations (e.g., telemedicine, telephone consultation). The location where the principal performing actor is located is taken as the primary location (LOC) while the other location(s) are considered "remote.""
+msgid "Some services take place at multiple concurrent locations (e.g., telemedicine, telephone consultation). The location where the principal performing actor is located is taken as the primary location (LOC) while the other location(s) are considered \"remote.\""
 msgstr ""
 
 #: SBJ
