@@ -1,9 +1,9 @@
 # en -> fr
 
 #: N
-msgid "N"
+msgid "none"
 msgstr "Aucune substitution permise"
 
 #: G
-msgid "G"
+msgid "generic composition"
 msgstr "Substitution autorisée par un produit générique"

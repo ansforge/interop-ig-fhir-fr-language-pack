@@ -1,25 +1,25 @@
 # en -> fr
 
 #: L
-msgid "L"
+msgid "low"
 msgstr "Bas"
 
 #: M
-msgid "M"
+msgid "moderate"
 msgstr "Modéré"
 
 #: N
-msgid "N"
+msgid "normal"
 msgstr "Normal"
 
 #: R
-msgid "R"
+msgid "restricted"
 msgstr "Restreint"
 
 #: U
-msgid "U"
+msgid "unrestricted"
 msgstr "Non restreint"
 
 #: V
-msgid "V"
+msgid "very restricted"
 msgstr "Très restreint"

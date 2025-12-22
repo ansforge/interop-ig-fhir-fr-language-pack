@@ -1,33 +1,33 @@
 # en -> fr
 
 #: INGR
-msgid "INGR"
+msgid "ingredient"
 msgstr "Ingrédient"
 
 #: ACTI
-msgid "ACTI"
+msgid "active ingredient"
 msgstr "Ingredient actif"
 
 #: ADJV
-msgid "ADJV"
+msgid "adjuvant"
 msgstr "Adjuvant"
 
 #: ADTV
-msgid "ADTV"
+msgid "additive"
 msgstr "Additif"
 
 #: BASE
-msgid "BASE"
+msgid "base"
 msgstr "Base"
 
 #: CNTM
-msgid "CNTM"
+msgid "contaminant ingredient"
 msgstr "Ingredient contaminant"
 
 #: IACT
-msgid "IACT"
+msgid "inactive ingredient"
 msgstr "Ingredient inactif"
 
 #: MECH
-msgid "MECH"
+msgid "mechanical ingredient"
 msgstr "Ingrédient mécanique"

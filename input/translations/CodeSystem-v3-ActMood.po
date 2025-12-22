@@ -1,77 +1,77 @@
 # en -> fr
 
 #: DEF
-msgid "DEF"
+msgid "definition"
 msgstr "Définition"
 
 #: PERM
-msgid "PERM"
+msgid "permission"
 msgstr "Permission"
 
 #: SLOT
-msgid "SLOT"
+msgid "resource slot"
 msgstr "Possible sur la période spécifiée"
 
 #: EVN
-msgid "EVN"
+msgid "event (occurrence)"
 msgstr "Réalisé"
 
 #: INT
-msgid "INT"
+msgid "intent"
 msgstr "Prévu"
 
 #: ARQ
-msgid "ARQ"
+msgid "appointment request"
 msgstr "Prévu mais non confirmé"
 
 #: PERMRQ
-msgid "PERMRQ"
+msgid "permission request"
 msgstr "Demande d'autorisation"
 
 #: RQO
-msgid "RQO"
+msgid "request"
 msgstr "Demande"
 
 #: PRP
-msgid "PRP"
+msgid "proposal"
 msgstr "Proposition"
 
 #: RMD
-msgid "RMD"
+msgid "recommendation"
 msgstr "Recommandation"
 
 #: PRMS
-msgid "PRMS"
+msgid "promise"
 msgstr "Planifié et confirmé"
 
 #: APT
-msgid "APT"
+msgid "appointment"
 msgstr "Date et lieu confirmé"
 
 #: EXPEC
-msgid "EXPEC"
+msgid "expectation"
 msgstr "Attendu"
 
 #: GOL
-msgid "GOL"
+msgid "Goal"
 msgstr "But"
 
 #: RSK
-msgid "RSK"
+msgid "risk"
 msgstr "Risque"
 
 #: OPT
-msgid "OPT"
+msgid "option"
 msgstr "Option"
 
 #: ARQ
-msgid "ARQ"
+msgid "appointment request"
 msgstr "Prévu mais non confirmé"
 
 #: EVN
-msgid "EVN"
+msgid "event (occurrence)"
 msgstr "Réalisé"
 
 #: PRMS
-msgid "PRMS"
+msgid "promise"
 msgstr "Planifié et confirmé"

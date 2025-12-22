@@ -1,151 +1,151 @@
 # en -> fr
 
 #: ADM
-msgid "ADM"
+msgid "admitter"
 msgstr "Responsable de l'admission"
 
 #: ALY
-msgid "ALY"
+msgid "analyte"
 msgstr "Cible d'une observation (substance ou composant le plus spécifique)"
 
 #: ATND
-msgid "ATND"
+msgid "attender"
 msgstr "Superviseur / Responsable des soins"
 
 #: AUT
-msgid "AUT"
+msgid "author (originator)"
 msgstr "Auteur"
 
 #: AUTHEN
-msgid "AUTHEN"
+msgid "authenticator"
 msgstr "Valideur des résultats (ex : un biologiste ou un système expert)"
 
 #: BBY
-msgid "BBY"
+msgid "baby"
 msgstr "Nouveau né"
 
 #: BEN
-msgid "BEN"
+msgid "beneficiary"
 msgstr "Bénéficiaire"
 
 #: CAGNT
-msgid "CAGNT"
+msgid "causative agent"
 msgstr "Agent causal"
 
 #: CALLBCK
-msgid "CALLBCK"
+msgid "callback contact"
 msgstr "Contact à rappeler"
 
 #: CAT
-msgid "CAT"
+msgid "catalyst"
 msgstr "Catalyseur"
 
 #: CON
-msgid "CON"
+msgid "consultant"
 msgstr "Consultant"
 
 #: COV
-msgid "COV"
+msgid "coverage target"
 msgstr "Partie couverte (titulaire ou bénéficiaire)"
 
 #: CSM
-msgid "CSM"
+msgid "consumable"
 msgstr "Consommable"
 
 #: CST
-msgid "CST"
+msgid "custodian"
 msgstr "Responsable de l'information"
 
 #: DEV
-msgid "DEV"
+msgid "device"
 msgstr "Dispositif automatique impliqué dans la production des résultats"
 
 #: DIR
-msgid "DIR"
+msgid "direct target"
 msgstr "Participant direct"
 
 #: DIS
-msgid "DIS"
+msgid "discharger"
 msgstr "Responsable de la sortie"
 
 #: DIST
-msgid "DIST"
+msgid "distributor"
 msgstr "Distributeur"
 
 #: DON
-msgid "DON"
+msgid "donor"
 msgstr "Donneur"
 
 #: DST
-msgid "DST"
+msgid "destination"
 msgstr "Destination"
 
 #: ELOC
-msgid "ELOC"
+msgid "entry location"
 msgstr "Emplacement où les données sont saisies"
 
 #: ENT
-msgid "ENT"
+msgid "data entry person"
 msgstr "Transcripteur du contenu à partir d'une autre forme"
 
 #: ESC
-msgid "ESC"
+msgid "escort"
 msgstr "Accompagnateur"
 
 #: EXPAGNT
-msgid "EXPAGNT"
+msgid "ExposureAgent"
 msgstr "Agent de l'exposition"
 
 #: EXPART
-msgid "EXPART"
+msgid "ExposureParticipation"
 msgstr "Partie de l'exposition"
 
 #: EXSRC
-msgid "EXSRC"
+msgid "ExposureSource"
 msgstr "Source de l'exposition"
 
 #: EXPTRGT
-msgid "EXPTRGT"
+msgid "ExposureTarget"
 msgstr "Cible de l'exposition"
 
 #: GUAR
-msgid "GUAR"
+msgid "guarantor party"
 msgstr "Garant"
 
 #: HLD
-msgid "HLD"
+msgid "holder"
 msgstr "Souscripteur"
 
 #: IND
-msgid "IND"
+msgid "indirect target"
 msgstr "Cible indirecte"
 
 #: INF
-msgid "INF"
+msgid "informant"
 msgstr "Informateur"
 
 #: IRCP
-msgid "IRCP"
+msgid "information recipient"
 msgstr "Destinataire de l'information"
 
 #: LA
-msgid "LA"
+msgid "legal authenticator"
 msgstr "Responsable légal de l'acte"
 
 #: LOC
-msgid "LOC"
+msgid "location"
 msgstr "Emplacement principal"
 
 #: NRD
-msgid "NRD"
+msgid "non-reuseable device"
 msgstr "Dispositif non réutilisable"
 
 #: NOT
-msgid "NOT"
+msgid "ugent notification contact"
 msgstr "Personne à prévenir en cas d'urgence"
 
 #: ORG
-msgid "ORG"
+msgid "origin"
 msgstr "Lieu d'origine"
 
 #: PART
@@ -153,81 +153,81 @@ msgid "Participation"
 msgstr "Participant"
 
 #: PPRF
-msgid "PPRF"
+msgid "primary performer"
 msgstr "Exécutant principal"
 
 #: PRCP
-msgid "PRCP"
+msgid "primary information recipient"
 msgstr "Destinataire principal de l'information"
 
 #: PRD
-msgid "PRD"
+msgid "product"
 msgstr "Produit"
 
 #: PRF
-msgid "PRF"
+msgid "performer"
 msgstr "Exécutant"
 
 #: RCT
-msgid "RCT"
+msgid "record target"
 msgstr "Dossier médical"
 
 #: RCV
-msgid "RCV"
+msgid "receiver"
 msgstr "Récepteur"
 
 #: RDV
-msgid "RDV"
+msgid "reusable device"
 msgstr "Dispositif réutilisable"
 
 #: REF
-msgid "REF"
+msgid "referrer"
 msgstr "Référent / Prescripteur"
 
 #: REFB
-msgid "REFB"
+msgid "Referred By"
 msgstr "Personne ayant adressé le patient"
 
 #: REFT
-msgid "REFT"
+msgid "Referred to"
 msgstr "Personne recevant le patient"
 
 #: RESP
-msgid "RESP"
+msgid "responsible party"
 msgstr "Responsable de l'acte"
 
 #: RML
-msgid "RML"
+msgid "remote"
 msgstr "Emplacement distant"
 
 #: SBJ
-msgid "SBJ"
+msgid "subject"
 msgstr "Sujet"
 
 #: SPC
-msgid "SPC"
+msgid "specimen"
 msgstr "Echantillon"
 
 #: SPRF
-msgid "SPRF"
+msgid "secondary performer"
 msgstr "Exécutant secondaire"
 
 #: TRANS
-msgid "TRANS"
+msgid "Transcriber"
 msgstr "Transcripteur"
 
 #: TRC
-msgid "TRC"
+msgid "tracker"
 msgstr "Personne recevant une copie de l'information"
 
 #: VIA
-msgid "VIA"
+msgid "via"
 msgstr "Emplacement intermédiaire"
 
 #: VRF
-msgid "VRF"
+msgid "verifier"
 msgstr "Vérificateur"
 
 #: WIT
-msgid "WIT"
+msgid "witness"
 msgstr "Témoin"

@@ -5,11 +5,11 @@ msgid "Active"
 msgstr "Actif"
 
 #: recurrence
-msgid "recurrence"
+msgid "Recurrence"
 msgstr "Récurrent"
 
 #: relapse
-msgid "relapse"
+msgid "Relapse"
 msgstr "Rechute"
 
 #: inactive
@@ -17,9 +17,9 @@ msgid "Inactive"
 msgstr "Inactif"
 
 #: remission
-msgid "remission"
+msgid "Remission"
 msgstr "En rémission"
 
 #: resolved
-msgid "resolved"
+msgid "Resolved"
 msgstr "Résolu"

@@ -9,5 +9,5 @@ msgid "Inactive"
 msgstr "Inactif"
 
 #: resolved
-msgid "resolved"
+msgid "Resolved"
 msgstr "Résolu"

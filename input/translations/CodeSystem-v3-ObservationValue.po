@@ -1,39 +1,39 @@
 # en -> fr
 
 #: DS
-msgid "DS"
+msgid "daytime shift"
 msgstr "Journée (par exemple : entre 6h et 18h)"
 
 #: EMS
-msgid "EMS"
+msgid "early morning shift"
 msgstr "Matin (entre 2h et 14h)"
 
 #: ES
-msgid "ES"
+msgid "evening shift"
 msgstr "Après-midi (entre 14h et minuit)"
 
 #: NS
-msgid "NS"
+msgid "night shift"
 msgstr "Nuit (entre 21h et 8h)"
 
 #: RSWN
-msgid "RSWN"
+msgid "rotating shift with nights"
 msgstr "Variable (journées, soirées, avec parfois des nuits)"
 
 #: RSWON
-msgid "RSWON"
+msgid "rotating shift without nights"
 msgstr "Variable (journées, soirées, sans nuits ni soirées)"
 
 #: SS
-msgid "SS"
+msgid "split shift"
 msgstr "Journée avec coupure de 2 à 4 heures."
 
 #: VLS
-msgid "VLS"
+msgid "very long shift"
 msgstr "Horaires de longue durée (17h ou plus)"
 
 #: VS
-msgid "VS"
+msgid "variable shift"
 msgstr "Irrégulier avec information à court terme"
 
 #: Employed
@@ -41,7 +41,7 @@ msgid "Employed"
 msgstr "En activité"
 
 #: NotInLaborForce
-msgid "NotInLaborForce"
+msgid "Not In Labor Force"
 msgstr "Inactif"
 
 #: Unemployed
