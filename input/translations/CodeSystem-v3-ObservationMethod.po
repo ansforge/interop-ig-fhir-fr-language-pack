@@ -1,0 +1,1073 @@
+# en -> fr
+
+#: 1
+msgid "1"
+msgstr "Fixation complément"
+
+#: 2
+msgid "2"
+msgstr "Tomographie axiale"
+
+#: 3
+msgid "3"
+msgstr "Test de haut niveau de résistance aux aminosides sur gélose"
+
+#: 4
+msgid "4"
+msgstr "Examen macroscopique"
+
+#: 5
+msgid "5"
+msgstr "Résonnance magnétique"
+
+#: 6
+msgid "6"
+msgstr "Morphométrie"
+
+#: 7
+msgid "7"
+msgstr "Tomographie par émission de positrons"
+
+#: 8
+msgid "8"
+msgstr "SAMHSA confirmation"
+
+#: 9
+msgid "9"
+msgstr "SAMHSA dépistage"
+
+#: 10
+msgid "10"
+msgstr "Neutralisation sérum"
+
+#: 11
+msgid "11"
+msgstr "Titrimétrie"
+
+#: 12
+msgid "12"
+msgstr "Ultrasonographie"
+
+#: 13
+msgid "13"
+msgstr "Cristallographie Rayon X"
+
+#: 14
+msgid "14"
+msgstr "Agglutination"
+
+#: 15
+msgid "15"
+msgstr "Agglutination sur plaque tampon acidifié"
+
+#: 16
+msgid "16"
+msgstr "Agglutination sur carte"
+
+#: 17
+msgid "17"
+msgstr "Hémagglutination"
+
+#: 18
+msgid "18"
+msgstr "Inhibition hémagglutination"
+
+#: 19
+msgid "19"
+msgstr "Agglutination latex"
+
+#: 20
+msgid "20"
+msgstr "Agglutination plaque"
+
+#: 21
+msgid "21"
+msgstr "Agglutination rapide"
+
+#: 22
+msgid "22"
+msgstr "Agglutination érythrocytes"
+
+#: 23
+msgid "23"
+msgstr "Agglutination,rivanol"
+
+#: 24
+msgid "24"
+msgstr "Agglutination en tube"
+
+#: 25
+msgid "25"
+msgstr "Bioanalyse"
+
+#: 26
+msgid "26"
+msgstr "Inoculation animal"
+
+#: 27
+msgid "27"
+msgstr "Cytotoxicité"
+
+#: 30
+msgid "30"
+msgstr "Inoculation intracérébrale à la souris"
+
+#: 31
+msgid "31"
+msgstr "Analyse qualitative"
+
+#: 32
+msgid "32"
+msgstr "Analyse quantitative"
+
+#: 33
+msgid "33"
+msgstr "Méthode chimique"
+
+#: 34
+msgid "34"
+msgstr "Test chimique d'absorption de lumière différentielle"
+
+#: 37
+msgid "37"
+msgstr "Test sur bandelette"
+
+#: 38
+msgid "38"
+msgstr "Chromatographie"
+
+#: 39
+msgid "39"
+msgstr "Chromatographie d'affinité"
+
+#: 40
+msgid "40"
+msgstr "Chromatographie phase gazeuse liquide"
+
+#: 41
+msgid "41"
+msgstr "Chromatographie liquide haute pression"
+
+#: 42
+msgid "42"
+msgstr "Chromatographie liquide"
+
+#: 43
+msgid "43"
+msgstr "Chromatographie d'affinité à la protéine A"
+
+#: 44
+msgid "44"
+msgstr "Coagulation"
+
+#: 45
+msgid "45"
+msgstr "Temps de coagulation en tube"
+
+#: 46
+msgid "46"
+msgstr "Coagulation induite par reptilase en tube"
+
+#: 47
+msgid "47"
+msgstr "Comptage automatisé"
+
+#: 48
+msgid "48"
+msgstr "Comptage manuel"
+
+#: 49
+msgid "49"
+msgstr "Comptage plaquettaire de Rees-Ecker"
+
+#: 50
+msgid "50"
+msgstr "Culture aérobie"
+
+#: 51
+msgid "51"
+msgstr "Culture anaérobie"
+
+#: 52
+msgid "52"
+msgstr "Culture sur embryon de poulet"
+
+#: 53
+msgid "53"
+msgstr "Enrichissement secondaire retardé"
+
+#: 54
+msgid "54"
+msgstr "Culture microaérophile"
+
+#: 61
+msgid "61"
+msgstr "Culture cellulaire somatique"
+
+#: 62
+msgid "62"
+msgstr "Diffusion gel Agar"
+
+#: 63
+msgid "63"
+msgstr "Immunodiffusion"
+
+#: 64
+msgid "64"
+msgstr "Électrophorèse"
+
+#: 65
+msgid "65"
+msgstr "Électrophorèse gel agarose"
+
+#: 66
+msgid "66"
+msgstr "Électrophorèse citrate agar"
+
+#: 67
+msgid "67"
+msgstr "Immunoélectrophorèse"
+
+#: 68
+msgid "68"
+msgstr "Électrophorèse sur gel de polyacrylamide"
+
+#: 69
+msgid "69"
+msgstr "Électrophorèse sur gel d'amidon"
+
+#: 70
+msgid "70"
+msgstr "ELISA"
+
+#: 71
+msgid "71"
+msgstr "ELISA avec captude d'antigène"
+
+#: 72
+msgid "72"
+msgstr "ELISA avec complexe avidine biotine péroxydase"
+
+#: 73
+msgid "73"
+msgstr "ELISA avec cinétique"
+
+#: 74
+msgid "74"
+msgstr "ELISA avec péroxydase-anti-péroxydase"
+
+#: 75
+msgid "75"
+msgstr "Identification par galerie API 20 Strep"
+
+#: 76
+msgid "76"
+msgstr "Identification par galerie API 20A"
+
+#: 77
+msgid "77"
+msgstr "Identification par galerie API 20C AUX"
+
+#: 78
+msgid "78"
+msgstr "Identification par galerie API 20E"
+
+#: 79
+msgid "79"
+msgstr "Identification par galerie API 20NE"
+
+#: 80
+msgid "80"
+msgstr "Identification par galerie API 50 CH"
+
+#: 81
+msgid "81"
+msgstr "Identification par galerie API An-IDENT"
+
+#: 82
+msgid "82"
+msgstr "Identification par galerie API Coryne"
+
+#: 83
+msgid "83"
+msgstr "Identification par galerie API Rapid 20E"
+
+#: 84
+msgid "84"
+msgstr "Identification par galerie API Staph"
+
+#: 85
+msgid "85"
+msgstr "Identification par galerie API 20 Strep"
+
+#: 86
+msgid "86"
+msgstr "Identification bactérienne"
+
+#: 87
+msgid "87"
+msgstr "Identification par mini VIDAS"
+
+#: 88
+msgid "88"
+msgstr "Identification par lysotypie"
+
+#: 89
+msgid "89"
+msgstr "Identification par galerie QuadFERM+"
+
+#: 90
+msgid "90"
+msgstr "Identification par galerie RAPIDEC Staph"
+
+#: 91
+msgid "91"
+msgstr "Identification par agglutination latex Staphaurex"
+
+#: 92
+msgid "92"
+msgstr "Identification par VIDAS"
+
+#: 93
+msgid "93"
+msgstr "Identification par VITEK"
+
+#: 94
+msgid "94"
+msgstr "Identification par VITEK 2"
+
+#: 95
+msgid "95"
+msgstr "Coloration immune"
+
+#: 96
+msgid "96"
+msgstr "Immunofluorescence directe"
+
+#: 97
+msgid "97"
+msgstr "Immunofluorescence indirecte"
+
+#: 98
+msgid "98"
+msgstr "Immunopéroxydase (complexe avidine-Biotine)"
+
+#: 99
+msgid "99"
+msgstr "Immunopéroxydase (complexe péroxydase-antipéroxydase)"
+
+#: 100
+msgid "100"
+msgstr "Immunopéroxydase (complexe Protéine A-péroxydase)"
+
+#: 101
+msgid "101"
+msgstr "Immunoanalyse"
+
+#: 102
+msgid "102"
+msgstr "Immunoanalyse qualitative à plusieurs étapes"
+
+#: 103
+msgid "103"
+msgstr "Immunoanalyse qualitative à une étape"
+
+#: 104
+msgid "104"
+msgstr "Radioimmunologie"
+
+#: 105
+msgid "105"
+msgstr "Immunoanalyse semi-quantitative à plusieurs étapes"
+
+#: 106
+msgid "106"
+msgstr "Immunoanalyse semi-quantitative à une étape"
+
+#: 107
+msgid "107"
+msgstr "Microscopie"
+
+#: 108
+msgid "108"
+msgstr "Microscopie fond noir"
+
+#: 109
+msgid "109"
+msgstr "Microscopie électronique"
+
+#: 110
+msgid "110"
+msgstr "Microscopie électronique, Tomographie numérique"
+
+#: 111
+msgid "111"
+msgstr "Microscopie électronique en contraste de phase"
+
+#: 112
+msgid "112"
+msgstr "Microscopie électronique sur section épaisse"
+
+#: 113
+msgid "113"
+msgstr "Microscopie électronique sur section fine"
+
+#: 114
+msgid "114"
+msgstr "Microscvopie en lumière directe"
+
+#: 115
+msgid "115"
+msgstr "Microscopie à polarisation"
+
+#: 116
+msgid "116"
+msgstr "Microscopie électronique à balayage"
+
+#: 117
+msgid "117"
+msgstr "Microscopie électronique à transmission"
+
+#: 120
+msgid "120"
+msgstr "ADN branché"
+
+#: 122
+msgid "122"
+msgstr "Immunoblot"
+
+#: 123
+msgid "123"
+msgstr "Hybridation moléculaire in situ"
+
+#: 127
+msgid "127"
+msgstr "Sonde acide nucléique"
+
+#: 128
+msgid "128"
+msgstr "Sonde acide nucléique avec amplification"
+
+#: 129
+msgid "129"
+msgstr "Sonde acide nucléique avec amplification ciblée"
+
+#: 130
+msgid "130"
+msgstr "Transcription inverse"
+
+#: 131
+msgid "131"
+msgstr "Séquençage d'acides nucléiques"
+
+#: 132
+msgid "132"
+msgstr "PCR"
+
+#: 134
+msgid "134"
+msgstr "RFLP"
+
+#: 135
+msgid "135"
+msgstr "Southern-blot"
+
+#: 138
+msgid "138"
+msgstr "Western-Blot"
+
+#: 139
+msgid "139"
+msgstr "Floculation"
+
+#: 140
+msgid "140"
+msgstr "Immunoprécipitation"
+
+#: 141
+msgid "141"
+msgstr "Test à l'anneau de lait"
+
+#: 142
+msgid "142"
+msgstr "Précipitine"
+
+#: 143
+msgid "143"
+msgstr "Coloration acide rapide"
+
+#: 144
+msgid "144"
+msgstr "Coloration acide rapide/fluorochrome"
+
+#: 145
+msgid "145"
+msgstr "Coloration acide rapide Kinyoun"
+
+#: 146
+msgid "146"
+msgstr "Coloration acide Ziehl-Neelsen"
+
+#: 147
+msgid "147"
+msgstr "Coloration phosphatase acide"
+
+#: 148
+msgid "148"
+msgstr "Coloration acridine orange"
+
+#: 149
+msgid "149"
+msgstr "Coloration orange brillant KH"
+
+#: 150
+msgid "150"
+msgstr "Coloration rouge alizarine"
+
+#: 151
+msgid "151"
+msgstr "Coloration bleu alcian"
+
+#: 152
+msgid "152"
+msgstr "Coloration bleu alcian+acide périodique-Schiff"
+
+#: 153
+msgid "153"
+msgstr "Coloration argentaffine"
+
+#: 154
+msgid "154"
+msgstr "Coloration argent argentaffine"
+
+#: 155
+msgid "155"
+msgstr "Coloration azur-éosine"
+
+#: 156
+msgid "156"
+msgstr "Coloration fuchsine basique"
+
+#: 157
+msgid "157"
+msgstr "Coloration Bennhold"
+
+#: 158
+msgid "158"
+msgstr "Coloration rouge Congo/Bennhold"
+
+#: 159
+msgid "159"
+msgstr "Coloration Bielschowsky"
+
+#: 160
+msgid "160"
+msgstr "Coloration Argent/Bielschowsky"
+
+#: 161
+msgid "161"
+msgstr "Décoloration"
+
+#: 162
+msgid "162"
+msgstr "Coloration Bodian"
+
+#: 163
+msgid "163"
+msgstr "Coloration Brown et Brenn"
+
+#: 164
+msgid "164"
+msgstr "Coloration butyrate estérase"
+
+#: 165
+msgid "165"
+msgstr "Préparation calcofluor blanc"
+
+#: 166
+msgid "166"
+msgstr "Coloration carbol fuchsine"
+
+#: 167
+msgid "167"
+msgstr "Coloration carmin"
+
+#: 168
+msgid "168"
+msgstr "Coloration Churukian-Schenk"
+
+#: 169
+msgid "169"
+msgstr "Coloration rouge Congo"
+
+#: 170
+msgid "170"
+msgstr "Coloration violet de crésyl acétate"
+
+#: 171
+msgid "171"
+msgstr "Coloration crystal violet"
+
+#: 172
+msgid "172"
+msgstr "Coloration de Galantha"
+
+#: 173
+msgid "173"
+msgstr "Coloration de Dieterle par imprégnation argentique"
+
+#: 174
+msgid "174"
+msgstr "Coloration Fite-Faraco"
+
+#: 175
+msgid "175"
+msgstr "Coloration Fontana-Masson"
+
+#: 176
+msgid "176"
+msgstr "Coloration Fouchet"
+
+#: 177
+msgid "177"
+msgstr "Coloration Gomori"
+
+#: 178
+msgid "178"
+msgstr "Coloration méthénamine argent Gomori"
+
+#: 179
+msgid "179"
+msgstr "Coloration trichrome Gomori-Wheatly"
+
+#: 180
+msgid "180"
+msgstr "Coloration Gridley"
+
+#: 181
+msgid "181"
+msgstr "Coloration argent Grimelius"
+
+#: 182
+msgid "182"
+msgstr "Coloration de Grocott"
+
+#: 183
+msgid "183"
+msgstr "Coloration méthénamine argent Grocott"
+
+#: 184
+msgid "184"
+msgstr "Coloration à l'oxyde ferrique colloïdale de Hale"
+
+#: 185
+msgid "185"
+msgstr "Coloration au fer colloïdale de Hale"
+
+#: 186
+msgid "186"
+msgstr "Coloration Hansel"
+
+#: 187
+msgid "187"
+msgstr "Coloration hématoxylline Harris+éosine"
+
+#: 188
+msgid "188"
+msgstr "Coloration hématoxylline+éosine"
+
+#: 189
+msgid "189"
+msgstr "Coloration Highman"
+
+#: 190
+msgid "190"
+msgstr "Coloration Holzer"
+
+#: 191
+msgid "191"
+msgstr "Coloration fer hématoxylline"
+
+#: 192
+msgid "192"
+msgstr "Coloration Jones"
+
+#: 193
+msgid "193"
+msgstr "Coloration méthénamine argent Jones"
+
+#: 194
+msgid "194"
+msgstr "Coloration Kossa"
+
+#: 195
+msgid "195"
+msgstr "Coloration Lawson-Van Gieson"
+
+#: 196
+msgid "196"
+msgstr "Coloration bleu de méthylène Loeffler"
+
+#: 197
+msgid "197"
+msgstr "Coloration Luxol bleu au violet crésyl"
+
+#: 198
+msgid "198"
+msgstr "Coloration Luxol bleu à l'acide périodique-Schiff"
+
+#: 199
+msgid "199"
+msgstr "Coloration tétrachrome MacNeal"
+
+#: 200
+msgid "200"
+msgstr "Coloration Mallory-Heidenhain"
+
+#: 201
+msgid "201"
+msgstr "Coloration trichrome Masson"
+
+#: 202
+msgid "202"
+msgstr "Coloration Mayer mucicarmine"
+
+#: 203
+msgid "203"
+msgstr "Coloration Mayer hématoxyline éosine"
+
+#: 204
+msgid "204"
+msgstr "Coloration May-Grunwald Giemsa"
+
+#: 205
+msgid "205"
+msgstr "Coloration au vert de méthyl"
+
+#: 206
+msgid "206"
+msgstr "Coloration au vert de méthyl pyronine"
+
+#: 207
+msgid "207"
+msgstr "Coloration trichrome Gomori-Wheatley"
+
+#: 208
+msgid "208"
+msgstr "Coloration trichrome Masson modifié"
+
+#: 209
+msgid "209"
+msgstr "Coloration trichrome modifié"
+
+#: 210
+msgid "210"
+msgstr "Coloration pentachrome Movat"
+
+#: 211
+msgid "211"
+msgstr "Coloration mucicarmine"
+
+#: 212
+msgid "212"
+msgstr "Coloration rouge neutre"
+
+#: 213
+msgid "213"
+msgstr "Coloration bleu nuit"
+
+#: 214
+msgid "214"
+msgstr "Coloration estérase non spécifique"
+
+#: 215
+msgid "215"
+msgstr "Coloration huile rouge O"
+
+#: 216
+msgid "216"
+msgstr "Coloration orcéine"
+
+#: 217
+msgid "217"
+msgstr "Coloration de Perls"
+
+#: 218
+msgid "218"
+msgstr "Coloration hématoxyline phosphotungstique"
+
+#: 219
+msgid "219"
+msgstr "Coloration ferrocyanure de potassium"
+
+#: 220
+msgid "220"
+msgstr "Coloration bleu de Prusse"
+
+#: 221
+msgid "221"
+msgstr "Coloration Bennhold modifiée"
+
+#: 222
+msgid "222"
+msgstr "Coloration quinacrine fluorescente"
+
+#: 223
+msgid "223"
+msgstr "Coloration réticuline"
+
+#: 224
+msgid "224"
+msgstr "Coloration rhodamine"
+
+#: 225
+msgid "225"
+msgstr "Coloration safranée"
+
+#: 226
+msgid "226"
+msgstr "Coloration Schmorl"
+
+#: 227
+msgid "227"
+msgstr "Coloration Sevier-Munger"
+
+#: 228
+msgid "228"
+msgstr "Coloration argentique"
+
+#: 229
+msgid "229"
+msgstr "Coloration estérase spécifique (Butyrate estérase)"
+
+#: 230
+msgid "230"
+msgstr "Coloration Steiner"
+
+#: 231
+msgid "231"
+msgstr "Coloration Soudan III"
+
+#: 232
+msgid "232"
+msgstr "Coloration Soudan IV"
+
+#: 233
+msgid "233"
+msgstr "Coloration bleu alcian sulfaté"
+
+#: 234
+msgid "234"
+msgstr "Coloration supravitale"
+
+#: 235
+msgid "235"
+msgstr "Coloration thioflavine-S"
+
+#: 236
+msgid "236"
+msgstr "Coloration Giemsa 3µ"
+
+#: 237
+msgid "237"
+msgstr "Coloration Vassar-Culling"
+
+#: 238
+msgid "238"
+msgstr "Coloration vitale"
+
+#: 239
+msgid "239"
+msgstr "Coloration Von Kossa"
+
+#: 240
+msgid "240"
+msgstr "Antibiogramme méthode par diffusion"
+
+#: 241
+msgid "241"
+msgstr "Antibiogramme méthode par automate BACTEC"
+
+#: 242
+msgid "242"
+msgstr "Antibiogramme méthode par dilution"
+
+#: 243
+msgid "243"
+msgstr "Concentration minimale bactéricide (CMB) par macrodilution (tube)"
+
+#: 244
+msgid "244"
+msgstr "Concentration minimale bactéricide (CMB) par microdilution (plaque)"
+
+#: 245
+msgid "245"
+msgstr "Concentration minimale inhibitrice (CMI) par macrodilution (tube)"
+
+#: 246
+msgid "246"
+msgstr "Concentration minimale inhibitrice (CMI) par microdilution (plaque)"
+
+#: 247
+msgid "247"
+msgstr "Turbidimétrie"
+
+#: 248
+msgid "248"
+msgstr "Réfractométrie"
+
+#: 249
+msgid "249"
+msgstr "Chromatographie couche mince"
+
+#: 250
+msgid "250"
+msgstr "EMIT"
+
+#: 251
+msgid "251"
+msgstr "Cytométrie de flux"
+
+#: 252
+msgid "252"
+msgstr "Immunodiffusion radiale (RID)"
+
+#: 253
+msgid "253"
+msgstr "PFIA"
+
+#: 254
+msgid "254"
+msgstr "Immunofixation"
+
+#: 255
+msgid "255"
+msgstr "Dialyse à l'équilibre"
+
+#: 256
+msgid "256"
+msgstr "Elution acide de Kleihauer-Betke"
+
+#: 257
+msgid "257"
+msgstr "Immunofluorescence anti-complément (ACIF)"
+
+#: 258
+msgid "258"
+msgstr "Chromatographie phase gazeuse/Spectroscopie de masse (GC/MS)"
+
+#: 259
+msgid "259"
+msgstr "Néphélométrie"
+
+#: 261
+msgid "261"
+msgstr "Test de micro-lymphocytotoxicité"
+
+#: 262
+msgid "262"
+msgstr "Spectrophotométrie"
+
+#: 263
+msgid "263"
+msgstr "Spectrophotométrie d'absorption atomique (SAA)"
+
+#: 264
+msgid "264"
+msgstr "Electrode ionique sélective"
+
+#: 265
+msgid "265"
+msgstr "Chromatographie phase gazeuse (CG)"
+
+#: 266
+msgid "266"
+msgstr "Isoélectrofocalisation (IEF)"
+
+#: 267
+msgid "267"
+msgstr "Chimioluminescence"
+
+#: 268
+msgid "268"
+msgstr "MEIA"
+
+#: 269
+msgid "269"
+msgstr "Spectrométrie de masse à plasma à couplage inductif (ICP/MS)"
+
+#: 270
+msgid "270"
+msgstr "IRMA"
+
+#: 271
+msgid "271"
+msgstr "Coagulation par détection optique du caillot"
+
+#: 272
+msgid "272"
+msgstr "Concentration minimale inhibitrice (CMI)"
+
+#: 273
+msgid "273"
+msgstr "Susceptibilité génotypique virale"
+
+#: 274
+msgid "274"
+msgstr "Susceptibilité phénotypique virale"
+
+#: 275
+msgid "275"
+msgstr "Bandelette à gradient"
+
+#: 275a
+msgid "275a"
+msgstr "Concentration minimale létale (CML)"
+
+#: 276
+msgid "276"
+msgstr "Susceptibilité des mycobactéries à croissance lente"
+
+#: 277
+msgid "277"
+msgstr "Titre bactéricide sérique (TBS)"
+
+#: 278
+msgid "278"
+msgstr "Dépistage sur gélose"
+
+#: 279
+msgid "279"
+msgstr "Test d'induction par disque"
+
+#: 280
+msgid "280"
+msgstr "Test de sensibilité"
+
+#: ALGM
+msgid "ALGM"
+msgstr "Algorythme"
+
+#: BYCL
+msgid "BYCL"
+msgstr "Analyse stastistique Bayésienne"
+
+#: PCR
+msgid "PCR"
+msgstr "PCR"
+
+#: VDOC
+msgid "VDOC"
+msgstr "Vérification à partir d'un document"
+
+#: VREG
+msgid "VREG"
+msgstr "Vérification par requête électronique"
+
+#: VTOKEN
+msgid "VTOKEN"
+msgstr "Vérification au moyen d'un jeton électronique"
+
+#: VVOICE
+msgid "VVOICE"
+msgstr "Vérification par voie orale"

@@ -1,0 +1,33 @@
+# en -> fr
+
+#: INGR
+msgid "INGR"
+msgstr "Ingrédient"
+
+#: ACTI
+msgid "ACTI"
+msgstr "Ingredient actif"
+
+#: ADJV
+msgid "ADJV"
+msgstr "Adjuvant"
+
+#: ADTV
+msgid "ADTV"
+msgstr "Additif"
+
+#: BASE
+msgid "BASE"
+msgstr "Base"
+
+#: CNTM
+msgid "CNTM"
+msgstr "Ingredient contaminant"
+
+#: IACT
+msgid "IACT"
+msgstr "Ingredient inactif"
+
+#: MECH
+msgid "MECH"
+msgstr "Ingrédient mécanique"

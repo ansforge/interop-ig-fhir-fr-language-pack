@@ -1,0 +1,77 @@
+# en -> fr
+
+#: DEF
+msgid "DEF"
+msgstr "Définition"
+
+#: PERM
+msgid "PERM"
+msgstr "Permission"
+
+#: SLOT
+msgid "SLOT"
+msgstr "Possible sur la période spécifiée"
+
+#: EVN
+msgid "EVN"
+msgstr "Réalisé"
+
+#: INT
+msgid "INT"
+msgstr "Prévu"
+
+#: ARQ
+msgid "ARQ"
+msgstr "Prévu mais non confirmé"
+
+#: PERMRQ
+msgid "PERMRQ"
+msgstr "Demande d'autorisation"
+
+#: RQO
+msgid "RQO"
+msgstr "Demande"
+
+#: PRP
+msgid "PRP"
+msgstr "Proposition"
+
+#: RMD
+msgid "RMD"
+msgstr "Recommandation"
+
+#: PRMS
+msgid "PRMS"
+msgstr "Planifié et confirmé"
+
+#: APT
+msgid "APT"
+msgstr "Date et lieu confirmé"
+
+#: EXPEC
+msgid "EXPEC"
+msgstr "Attendu"
+
+#: GOL
+msgid "GOL"
+msgstr "But"
+
+#: RSK
+msgid "RSK"
+msgstr "Risque"
+
+#: OPT
+msgid "OPT"
+msgstr "Option"
+
+#: ARQ
+msgid "ARQ"
+msgstr "Prévu mais non confirmé"
+
+#: EVN
+msgid "EVN"
+msgstr "Réalisé"
+
+#: PRMS
+msgid "PRMS"
+msgstr "Planifié et confirmé"

@@ -1,0 +1,25 @@
+# en -> fr
+
+#: active
+msgid "Active"
+msgstr "Actif"
+
+#: recurrence
+msgid "recurrence"
+msgstr "Récurrent"
+
+#: relapse
+msgid "relapse"
+msgstr "Rechute"
+
+#: inactive
+msgid "Inactive"
+msgstr "Inactif"
+
+#: remission
+msgid "remission"
+msgstr "En rémission"
+
+#: resolved
+msgid "resolved"
+msgstr "Résolu"

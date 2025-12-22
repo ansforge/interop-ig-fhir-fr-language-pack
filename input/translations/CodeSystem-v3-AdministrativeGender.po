@@ -1,0 +1,13 @@
+# en -> fr
+
+#: F
+msgid "Female"
+msgstr "Féminin"
+
+#: M
+msgid "Male"
+msgstr "Masculin"
+
+#: UN
+msgid "Undifferentiated"
+msgstr "Inconnu"

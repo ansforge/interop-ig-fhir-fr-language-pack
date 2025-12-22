@@ -1,0 +1,13 @@
+# en -> fr
+
+#: active
+msgid "Active"
+msgstr "Actif"
+
+#: inactive
+msgid "Inactive"
+msgstr "Inactif"
+
+#: resolved
+msgid "resolved"
+msgstr "Résolu"

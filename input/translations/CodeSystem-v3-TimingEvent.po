@@ -1,0 +1,73 @@
+# en -> fr
+
+#: AC
+msgid "AC"
+msgstr "Avant le repas"
+
+#: ACD
+msgid "ACD"
+msgstr "Avant le déjeuner"
+
+#: ACM
+msgid "ACM"
+msgstr "Avant le petit-déjeuner"
+
+#: ACV
+msgid "ACV"
+msgstr "Avant le dîner"
+
+#: C
+msgid "C"
+msgstr "Pendant les repas"
+
+#: CD
+msgid "CD"
+msgstr "Pendant le déjeuner"
+
+#: CM
+msgid "CM"
+msgstr "Pendant le petit-déjeuner"
+
+#: CV
+msgid "CV"
+msgstr "Pendant le dîner"
+
+#: HS
+msgid "HS"
+msgstr "Au coucher"
+
+#: IC
+msgid "IC"
+msgstr "Entre les repas"
+
+#: ICD
+msgid "ICD"
+msgstr "Entre le déjeuner et le dîner"
+
+#: ICM
+msgid "ICM"
+msgstr "Entre le petit-déjeûner et le déjeûner"
+
+#: ICV
+msgid "ICV"
+msgstr "Entre le diner et le coucher"
+
+#: PC
+msgid "PC"
+msgstr "Après le repas"
+
+#: PCD
+msgid "PCD"
+msgstr "Après le déjeuner"
+
+#: PCM
+msgid "PCM"
+msgstr "Après le petit-déjeuner"
+
+#: PCV
+msgid "PCV"
+msgstr "Après le dîner"
+
+#: WAKE
+msgid "WAKE"
+msgstr "Au réveil"

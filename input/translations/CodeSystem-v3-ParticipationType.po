@@ -1,0 +1,233 @@
+# en -> fr
+
+#: ADM
+msgid "ADM"
+msgstr "Responsable de l'admission"
+
+#: ALY
+msgid "ALY"
+msgstr "Cible d'une observation (substance ou composant le plus spécifique)"
+
+#: ATND
+msgid "ATND"
+msgstr "Superviseur / Responsable des soins"
+
+#: AUT
+msgid "AUT"
+msgstr "Auteur"
+
+#: AUTHEN
+msgid "AUTHEN"
+msgstr "Valideur des résultats (ex : un biologiste ou un système expert)"
+
+#: BBY
+msgid "BBY"
+msgstr "Nouveau né"
+
+#: BEN
+msgid "BEN"
+msgstr "Bénéficiaire"
+
+#: CAGNT
+msgid "CAGNT"
+msgstr "Agent causal"
+
+#: CALLBCK
+msgid "CALLBCK"
+msgstr "Contact à rappeler"
+
+#: CAT
+msgid "CAT"
+msgstr "Catalyseur"
+
+#: CON
+msgid "CON"
+msgstr "Consultant"
+
+#: COV
+msgid "COV"
+msgstr "Partie couverte (titulaire ou bénéficiaire)"
+
+#: CSM
+msgid "CSM"
+msgstr "Consommable"
+
+#: CST
+msgid "CST"
+msgstr "Responsable de l'information"
+
+#: DEV
+msgid "DEV"
+msgstr "Dispositif automatique impliqué dans la production des résultats"
+
+#: DIR
+msgid "DIR"
+msgstr "Participant direct"
+
+#: DIS
+msgid "DIS"
+msgstr "Responsable de la sortie"
+
+#: DIST
+msgid "DIST"
+msgstr "Distributeur"
+
+#: DON
+msgid "DON"
+msgstr "Donneur"
+
+#: DST
+msgid "DST"
+msgstr "Destination"
+
+#: ELOC
+msgid "ELOC"
+msgstr "Emplacement où les données sont saisies"
+
+#: ENT
+msgid "ENT"
+msgstr "Transcripteur du contenu à partir d'une autre forme"
+
+#: ESC
+msgid "ESC"
+msgstr "Accompagnateur"
+
+#: EXPAGNT
+msgid "EXPAGNT"
+msgstr "Agent de l'exposition"
+
+#: EXPART
+msgid "EXPART"
+msgstr "Partie de l'exposition"
+
+#: EXSRC
+msgid "EXSRC"
+msgstr "Source de l'exposition"
+
+#: EXPTRGT
+msgid "EXPTRGT"
+msgstr "Cible de l'exposition"
+
+#: GUAR
+msgid "GUAR"
+msgstr "Garant"
+
+#: HLD
+msgid "HLD"
+msgstr "Souscripteur"
+
+#: IND
+msgid "IND"
+msgstr "Cible indirecte"
+
+#: INF
+msgid "INF"
+msgstr "Informateur"
+
+#: IRCP
+msgid "IRCP"
+msgstr "Destinataire de l'information"
+
+#: LA
+msgid "LA"
+msgstr "Responsable légal de l'acte"
+
+#: LOC
+msgid "LOC"
+msgstr "Emplacement principal"
+
+#: NRD
+msgid "NRD"
+msgstr "Dispositif non réutilisable"
+
+#: NOT
+msgid "NOT"
+msgstr "Personne à prévenir en cas d'urgence"
+
+#: ORG
+msgid "ORG"
+msgstr "Lieu d'origine"
+
+#: PART
+msgid "Participation"
+msgstr "Participant"
+
+#: PPRF
+msgid "PPRF"
+msgstr "Exécutant principal"
+
+#: PRCP
+msgid "PRCP"
+msgstr "Destinataire principal de l'information"
+
+#: PRD
+msgid "PRD"
+msgstr "Produit"
+
+#: PRF
+msgid "PRF"
+msgstr "Exécutant"
+
+#: RCT
+msgid "RCT"
+msgstr "Dossier médical"
+
+#: RCV
+msgid "RCV"
+msgstr "Récepteur"
+
+#: RDV
+msgid "RDV"
+msgstr "Dispositif réutilisable"
+
+#: REF
+msgid "REF"
+msgstr "Référent / Prescripteur"
+
+#: REFB
+msgid "REFB"
+msgstr "Personne ayant adressé le patient"
+
+#: REFT
+msgid "REFT"
+msgstr "Personne recevant le patient"
+
+#: RESP
+msgid "RESP"
+msgstr "Responsable de l'acte"
+
+#: RML
+msgid "RML"
+msgstr "Emplacement distant"
+
+#: SBJ
+msgid "SBJ"
+msgstr "Sujet"
+
+#: SPC
+msgid "SPC"
+msgstr "Echantillon"
+
+#: SPRF
+msgid "SPRF"
+msgstr "Exécutant secondaire"
+
+#: TRANS
+msgid "TRANS"
+msgstr "Transcripteur"
+
+#: TRC
+msgid "TRC"
+msgstr "Personne recevant une copie de l'information"
+
+#: VIA
+msgid "VIA"
+msgstr "Emplacement intermédiaire"
+
+#: VRF
+msgid "VRF"
+msgstr "Vérificateur"
+
+#: WIT
+msgid "WIT"
+msgstr "Témoin"

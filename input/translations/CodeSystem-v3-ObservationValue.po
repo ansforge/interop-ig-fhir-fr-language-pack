@@ -1,0 +1,49 @@
+# en -> fr
+
+#: DS
+msgid "DS"
+msgstr "Journée (par exemple : entre 6h et 18h)"
+
+#: EMS
+msgid "EMS"
+msgstr "Matin (entre 2h et 14h)"
+
+#: ES
+msgid "ES"
+msgstr "Après-midi (entre 14h et minuit)"
+
+#: NS
+msgid "NS"
+msgstr "Nuit (entre 21h et 8h)"
+
+#: RSWN
+msgid "RSWN"
+msgstr "Variable (journées, soirées, avec parfois des nuits)"
+
+#: RSWON
+msgid "RSWON"
+msgstr "Variable (journées, soirées, sans nuits ni soirées)"
+
+#: SS
+msgid "SS"
+msgstr "Journée avec coupure de 2 à 4 heures."
+
+#: VLS
+msgid "VLS"
+msgstr "Horaires de longue durée (17h ou plus)"
+
+#: VS
+msgid "VS"
+msgstr "Irrégulier avec information à court terme"
+
+#: Employed
+msgid "Employed"
+msgstr "En activité"
+
+#: NotInLaborForce
+msgid "NotInLaborForce"
+msgstr "Inactif"
+
+#: Unemployed
+msgid "Unemployed"
+msgstr "Sans activité"
