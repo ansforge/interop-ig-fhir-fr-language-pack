@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CodeSystem xmlns="http://hl7.org/fhir">
+  <id value="cs-fr-FR-v2-0203"/>
+  <language value="fr-FR"/>
+  <text>
+    <status value="generated"/><div xml:lang="fr-FR" xmlns="http://www.w3.org/1999/xhtml" lang="fr-FR"><p class="res-header-id"><b>Narratif généré : CodeSystem cs-fr-FR-v2-0203</b></p><a name="cs-fr-FR-v2-0203"> </a><a name="hccs-fr-FR-v2-0203"> </a><div style="display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%"><p style="margin-bottom: 0px">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v2-0203</code> defines fonctionnalités on the following codes:</p><table class="codes"><tr><td style="white-space:nowrap"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-AC">AC</a><a name="cs-fr-FR-v2-0203-AC"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-ACSN">ACSN</a><a name="cs-fr-FR-v2-0203-ACSN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-AIN">AIN</a><a name="cs-fr-FR-v2-0203-AIN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-AM">AM</a><a name="cs-fr-FR-v2-0203-AM"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-AMA">AMA</a><a name="cs-fr-FR-v2-0203-AMA"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-AN">AN</a><a name="cs-fr-FR-v2-0203-AN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-ANC">ANC</a><a name="cs-fr-FR-v2-0203-ANC"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-AND">AND</a><a name="cs-fr-FR-v2-0203-AND"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-ANON">ANON</a><a name="cs-fr-FR-v2-0203-ANON"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-ANT">ANT</a><a name="cs-fr-FR-v2-0203-ANT"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-APRN">APRN</a><a name="cs-fr-FR-v2-0203-APRN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-ASID">ASID</a><a name="cs-fr-FR-v2-0203-ASID"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-BA">BA</a><a name="cs-fr-FR-v2-0203-BA"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-BC">BC</a><a name="cs-fr-FR-v2-0203-BC"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-BCFN">BCFN</a><a name="cs-fr-FR-v2-0203-BCFN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-BCT">BCT</a><a name="cs-fr-FR-v2-0203-BCT"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-BR">BR</a><a name="cs-fr-FR-v2-0203-BR"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-BRN">BRN</a><a name="cs-fr-FR-v2-0203-BRN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-BSNR">BSNR</a><a name="cs-fr-FR-v2-0203-BSNR"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-CAAI">CAAI</a><a name="cs-fr-FR-v2-0203-CAAI"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-CC">CC</a><a name="cs-fr-FR-v2-0203-CC"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-CONM">CONM</a><a name="cs-fr-FR-v2-0203-CONM"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-CY">CY</a><a name="cs-fr-FR-v2-0203-CY"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-CZ">CZ</a><a name="cs-fr-FR-v2-0203-CZ"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-DC">DC</a><a name="cs-fr-FR-v2-0203-DC"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-DCFN">DCFN</a><a name="cs-fr-FR-v2-0203-DCFN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-DDS">DDS</a><a name="cs-fr-FR-v2-0203-DDS"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-DEA">DEA</a><a name="cs-fr-FR-v2-0203-DEA"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-DFN">DFN</a><a name="cs-fr-FR-v2-0203-DFN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-DI">DI</a><a name="cs-fr-FR-v2-0203-DI"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-DL">DL</a><a name="cs-fr-FR-v2-0203-DL"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-DN">DN</a><a name="cs-fr-FR-v2-0203-DN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-DO">DO</a><a name="cs-fr-FR-v2-0203-DO"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-DP">DP</a><a name="cs-fr-FR-v2-0203-DP"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-DPM">DPM</a><a name="cs-fr-FR-v2-0203-DPM"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-DR">DR</a><a name="cs-fr-FR-v2-0203-DR"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-DS">DS</a><a name="cs-fr-FR-v2-0203-DS"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-DSG">DSG</a><a name="cs-fr-FR-v2-0203-DSG"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-EI">EI</a><a name="cs-fr-FR-v2-0203-EI"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-EN">EN</a><a name="cs-fr-FR-v2-0203-EN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-ESN">ESN</a><a name="cs-fr-FR-v2-0203-ESN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-FDR">FDR</a><a name="cs-fr-FR-v2-0203-FDR"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-FDRFN">FDRFN</a><a name="cs-fr-FR-v2-0203-FDRFN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-FGN">FGN</a><a name="cs-fr-FR-v2-0203-FGN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-FI">FI</a><a name="cs-fr-FR-v2-0203-FI"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-FILL">FILL</a><a name="cs-fr-FR-v2-0203-FILL"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-GI">GI</a><a name="cs-fr-FR-v2-0203-GI"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-GIN">GIN</a><a name="cs-fr-FR-v2-0203-GIN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-GL">GL</a><a name="cs-fr-FR-v2-0203-GL"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-GN">GN</a><a name="cs-fr-FR-v2-0203-GN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-HC">HC</a><a name="cs-fr-FR-v2-0203-HC"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-IND">IND</a><a name="cs-fr-FR-v2-0203-IND"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-IRISTEM">IRISTEM</a><a name="cs-fr-FR-v2-0203-IRISTEM"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-JHN">JHN</a><a name="cs-fr-FR-v2-0203-JHN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-LACSN">LACSN</a><a name="cs-fr-FR-v2-0203-LACSN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-LANR">LANR</a><a name="cs-fr-FR-v2-0203-LANR"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-LI">LI</a><a name="cs-fr-FR-v2-0203-LI"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-L.38I">L&amp;I</a><a name="cs-fr-FR-v2-0203-L.38I"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-LN">LN</a><a name="cs-fr-FR-v2-0203-LN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-LR">LR</a><a name="cs-fr-FR-v2-0203-LR"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-MA">MA</a><a name="cs-fr-FR-v2-0203-MA"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-MB">MB</a><a name="cs-fr-FR-v2-0203-MB"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-MC">MC</a><a name="cs-fr-FR-v2-0203-MC"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-MCD">MCD</a><a name="cs-fr-FR-v2-0203-MCD"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-MCN">MCN</a><a name="cs-fr-FR-v2-0203-MCN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-MCR">MCR</a><a name="cs-fr-FR-v2-0203-MCR"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-MCT">MCT</a><a name="cs-fr-FR-v2-0203-MCT"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-MD">MD</a><a name="cs-fr-FR-v2-0203-MD"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-MI">MI</a><a name="cs-fr-FR-v2-0203-MI"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-MR">MR</a><a name="cs-fr-FR-v2-0203-MR"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-MRT">MRT</a><a name="cs-fr-FR-v2-0203-MRT"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-MS">MS</a><a name="cs-fr-FR-v2-0203-MS"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-NBSNR">NBSNR</a><a name="cs-fr-FR-v2-0203-NBSNR"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-NCT">NCT</a><a name="cs-fr-FR-v2-0203-NCT"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-NE">NE</a><a name="cs-fr-FR-v2-0203-NE"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-NH">NH</a><a name="cs-fr-FR-v2-0203-NH"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-NI">NI</a><a name="cs-fr-FR-v2-0203-NI"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-NII">NII</a><a name="cs-fr-FR-v2-0203-NII"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-NIIP">NIIP</a><a name="cs-fr-FR-v2-0203-NIIP"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-NNxxx">NNxxx</a><a name="cs-fr-FR-v2-0203-NNxxx"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-NP">NP</a><a name="cs-fr-FR-v2-0203-NP"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-NPI">NPI</a><a name="cs-fr-FR-v2-0203-NPI"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-OBI">OBI</a><a name="cs-fr-FR-v2-0203-OBI"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-OD">OD</a><a name="cs-fr-FR-v2-0203-OD"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PA">PA</a><a name="cs-fr-FR-v2-0203-PA"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PC">PC</a><a name="cs-fr-FR-v2-0203-PC"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PCN">PCN</a><a name="cs-fr-FR-v2-0203-PCN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PE">PE</a><a name="cs-fr-FR-v2-0203-PE"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PEN">PEN</a><a name="cs-fr-FR-v2-0203-PEN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PGN">PGN</a><a name="cs-fr-FR-v2-0203-PGN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PHC">PHC</a><a name="cs-fr-FR-v2-0203-PHC"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PHE">PHE</a><a name="cs-fr-FR-v2-0203-PHE"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PHO">PHO</a><a name="cs-fr-FR-v2-0203-PHO"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PI">PI</a><a name="cs-fr-FR-v2-0203-PI"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PIN">PIN</a><a name="cs-fr-FR-v2-0203-PIN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PLAC">PLAC</a><a name="cs-fr-FR-v2-0203-PLAC"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PN">PN</a><a name="cs-fr-FR-v2-0203-PN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PNT">PNT</a><a name="cs-fr-FR-v2-0203-PNT"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PPIN">PPIN</a><a name="cs-fr-FR-v2-0203-PPIN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PPN">PPN</a><a name="cs-fr-FR-v2-0203-PPN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PRC">PRC</a><a name="cs-fr-FR-v2-0203-PRC"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PRN">PRN</a><a name="cs-fr-FR-v2-0203-PRN"> </a></td><td>identifierare för vårdgivare eller utförare av socialtjänst</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-PT">PT</a><a name="cs-fr-FR-v2-0203-PT"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-QA">QA</a><a name="cs-fr-FR-v2-0203-QA"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-RI">RI</a><a name="cs-fr-FR-v2-0203-RI"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-RN">RN</a><a name="cs-fr-FR-v2-0203-RN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-RPH">RPH</a><a name="cs-fr-FR-v2-0203-RPH"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-RR">RR</a><a name="cs-fr-FR-v2-0203-RR"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-RRI">RRI</a><a name="cs-fr-FR-v2-0203-RRI"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-RRP">RRP</a><a name="cs-fr-FR-v2-0203-RRP"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-SAMN">SAMN</a><a name="cs-fr-FR-v2-0203-SAMN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-SB">SB</a><a name="cs-fr-FR-v2-0203-SB"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-SID">SID</a><a name="cs-fr-FR-v2-0203-SID"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-SL">SL</a><a name="cs-fr-FR-v2-0203-SL"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-SN">SN</a><a name="cs-fr-FR-v2-0203-SN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-SNBSN">SNBSN</a><a name="cs-fr-FR-v2-0203-SNBSN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-SNO">SNO</a><a name="cs-fr-FR-v2-0203-SNO"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-SP">SP</a><a name="cs-fr-FR-v2-0203-SP"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-SR">SR</a><a name="cs-fr-FR-v2-0203-SR"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-SRX">SRX</a><a name="cs-fr-FR-v2-0203-SRX"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-SS">SS</a><a name="cs-fr-FR-v2-0203-SS"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-STN">STN</a><a name="cs-fr-FR-v2-0203-STN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-TAX">TAX</a><a name="cs-fr-FR-v2-0203-TAX"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-TN">TN</a><a name="cs-fr-FR-v2-0203-TN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-TPR">TPR</a><a name="cs-fr-FR-v2-0203-TPR"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-TRL">TRL</a><a name="cs-fr-FR-v2-0203-TRL"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-U">U</a><a name="cs-fr-FR-v2-0203-U"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-UDI">UDI</a><a name="cs-fr-FR-v2-0203-UDI"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-UPIN">UPIN</a><a name="cs-fr-FR-v2-0203-UPIN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-USID">USID</a><a name="cs-fr-FR-v2-0203-USID"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-VN">VN</a><a name="cs-fr-FR-v2-0203-VN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-VP">VP</a><a name="cs-fr-FR-v2-0203-VP"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-VS">VS</a><a name="cs-fr-FR-v2-0203-VS"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-WC">WC</a><a name="cs-fr-FR-v2-0203-WC"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-WCN">WCN</a><a name="cs-fr-FR-v2-0203-WCN"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-WP">WP</a><a name="cs-fr-FR-v2-0203-WP"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-XV">XV</a><a name="cs-fr-FR-v2-0203-XV"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v2-0203.html#v2-0203-XX">XX</a><a name="cs-fr-FR-v2-0203-XX"> </a></td><td>identifierare för organisation</td></tr></table></div>
+  </text>
+  <url value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v2-0203"/>
+  <version value="0.1.0"/>
+  <name value="IdentifierType"/>
+  <title value="identifierType"/>
+  <status value="active"/>
+  <date value="2025-12-22T14:16:52+00:00"/>
+  <publisher value="Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"/>
+  <description value="HL7-defined code system of concepts specifying type of identifier. Used in HL7 Version 2.x messaging data types CX, PLN, PPN, XCN and XON."/>
+  <jurisdiction>
+    <coding>
+      <system value="urn:iso:std:iso:3166"/>
+      <code value="FR"/>
+      <display value="FRANCE"/>
+    </coding>
+  </jurisdiction>
+  <purpose value="Underlying Master Code System for V2 table 0203 (Identifier Type)"/>
+  <copyright value="This material derives from the HL7 Terminology (THO). THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html"/>
+  <caseSensitive value="false"/>
+  <content value="supplement"/>
+  <supplements value="http://terminology.hl7.org/CodeSystem/v2-0203|5.0.0"/>
+  <concept>
+    <code value="AC"/>
+  </concept>
+  <concept>
+    <code value="ACSN"/>
+  </concept>
+  <concept>
+    <code value="AIN"/>
+  </concept>
+  <concept>
+    <code value="AM"/>
+  </concept>
+  <concept>
+    <code value="AMA"/>
+  </concept>
+  <concept>
+    <code value="AN"/>
+  </concept>
+  <concept>
+    <code value="ANC"/>
+  </concept>
+  <concept>
+    <code value="AND"/>
+  </concept>
+  <concept>
+    <code value="ANON"/>
+  </concept>
+  <concept>
+    <code value="ANT"/>
+  </concept>
+  <concept>
+    <code value="APRN"/>
+  </concept>
+  <concept>
+    <code value="ASID"/>
+  </concept>
+  <concept>
+    <code value="BA"/>
+  </concept>
+  <concept>
+    <code value="BC"/>
+  </concept>
+  <concept>
+    <code value="BCFN"/>
+  </concept>
+  <concept>
+    <code value="BCT"/>
+  </concept>
+  <concept>
+    <code value="BR"/>
+  </concept>
+  <concept>
+    <code value="BRN"/>
+  </concept>
+  <concept>
+    <code value="BSNR"/>
+  </concept>
+  <concept>
+    <code value="CAAI"/>
+  </concept>
+  <concept>
+    <code value="CC"/>
+  </concept>
+  <concept>
+    <code value="CONM"/>
+  </concept>
+  <concept>
+    <code value="CY"/>
+  </concept>
+  <concept>
+    <code value="CZ"/>
+  </concept>
+  <concept>
+    <code value="DC"/>
+  </concept>
+  <concept>
+    <code value="DCFN"/>
+  </concept>
+  <concept>
+    <code value="DDS"/>
+  </concept>
+  <concept>
+    <code value="DEA"/>
+  </concept>
+  <concept>
+    <code value="DFN"/>
+  </concept>
+  <concept>
+    <code value="DI"/>
+  </concept>
+  <concept>
+    <code value="DL"/>
+  </concept>
+  <concept>
+    <code value="DN"/>
+  </concept>
+  <concept>
+    <code value="DO"/>
+  </concept>
+  <concept>
+    <code value="DP"/>
+  </concept>
+  <concept>
+    <code value="DPM"/>
+  </concept>
+  <concept>
+    <code value="DR"/>
+  </concept>
+  <concept>
+    <code value="DS"/>
+  </concept>
+  <concept>
+    <code value="DSG"/>
+  </concept>
+  <concept>
+    <code value="EI"/>
+  </concept>
+  <concept>
+    <code value="EN"/>
+  </concept>
+  <concept>
+    <code value="ESN"/>
+  </concept>
+  <concept>
+    <code value="FDR"/>
+  </concept>
+  <concept>
+    <code value="FDRFN"/>
+  </concept>
+  <concept>
+    <code value="FGN"/>
+  </concept>
+  <concept>
+    <code value="FI"/>
+  </concept>
+  <concept>
+    <code value="FILL"/>
+  </concept>
+  <concept>
+    <code value="GI"/>
+  </concept>
+  <concept>
+    <code value="GIN"/>
+  </concept>
+  <concept>
+    <code value="GL"/>
+  </concept>
+  <concept>
+    <code value="GN"/>
+  </concept>
+  <concept>
+    <code value="HC"/>
+  </concept>
+  <concept>
+    <code value="IND"/>
+  </concept>
+  <concept>
+    <code value="IRISTEM"/>
+  </concept>
+  <concept>
+    <code value="JHN"/>
+  </concept>
+  <concept>
+    <code value="LACSN"/>
+  </concept>
+  <concept>
+    <code value="LANR"/>
+  </concept>
+  <concept>
+    <code value="LI"/>
+  </concept>
+  <concept>
+    <code value="L&amp;I"/>
+  </concept>
+  <concept>
+    <code value="LN"/>
+  </concept>
+  <concept>
+    <code value="LR"/>
+  </concept>
+  <concept>
+    <code value="MA"/>
+  </concept>
+  <concept>
+    <code value="MB"/>
+  </concept>
+  <concept>
+    <code value="MC"/>
+  </concept>
+  <concept>
+    <code value="MCD"/>
+  </concept>
+  <concept>
+    <code value="MCN"/>
+  </concept>
+  <concept>
+    <code value="MCR"/>
+  </concept>
+  <concept>
+    <code value="MCT"/>
+  </concept>
+  <concept>
+    <code value="MD"/>
+  </concept>
+  <concept>
+    <code value="MI"/>
+  </concept>
+  <concept>
+    <code value="MR"/>
+  </concept>
+  <concept>
+    <code value="MRT"/>
+  </concept>
+  <concept>
+    <code value="MS"/>
+  </concept>
+  <concept>
+    <code value="NBSNR"/>
+  </concept>
+  <concept>
+    <code value="NCT"/>
+  </concept>
+  <concept>
+    <code value="NE"/>
+  </concept>
+  <concept>
+    <code value="NH"/>
+  </concept>
+  <concept>
+    <code value="NI"/>
+  </concept>
+  <concept>
+    <code value="NII"/>
+  </concept>
+  <concept>
+    <code value="NIIP"/>
+  </concept>
+  <concept>
+    <code value="NNxxx"/>
+  </concept>
+  <concept>
+    <code value="NP"/>
+  </concept>
+  <concept>
+    <code value="NPI"/>
+  </concept>
+  <concept>
+    <code value="OBI"/>
+  </concept>
+  <concept>
+    <code value="OD"/>
+  </concept>
+  <concept>
+    <code value="PA"/>
+  </concept>
+  <concept>
+    <code value="PC"/>
+  </concept>
+  <concept>
+    <code value="PCN"/>
+  </concept>
+  <concept>
+    <code value="PE"/>
+  </concept>
+  <concept>
+    <code value="PEN"/>
+  </concept>
+  <concept>
+    <code value="PGN"/>
+  </concept>
+  <concept>
+    <code value="PHC"/>
+  </concept>
+  <concept>
+    <code value="PHE"/>
+  </concept>
+  <concept>
+    <code value="PHO"/>
+  </concept>
+  <concept>
+    <code value="PI"/>
+  </concept>
+  <concept>
+    <code value="PIN"/>
+  </concept>
+  <concept>
+    <code value="PLAC"/>
+  </concept>
+  <concept>
+    <code value="PN"/>
+  </concept>
+  <concept>
+    <code value="PNT"/>
+  </concept>
+  <concept>
+    <code value="PPIN"/>
+  </concept>
+  <concept>
+    <code value="PPN"/>
+  </concept>
+  <concept>
+    <code value="PRC"/>
+  </concept>
+  <concept>
+    <code value="PRN"/>
+    <display value="identifierare för vårdgivare eller utförare av socialtjänst"/>
+  </concept>
+  <concept>
+    <code value="PT"/>
+  </concept>
+  <concept>
+    <code value="QA"/>
+  </concept>
+  <concept>
+    <code value="RI"/>
+  </concept>
+  <concept>
+    <code value="RN"/>
+  </concept>
+  <concept>
+    <code value="RPH"/>
+  </concept>
+  <concept>
+    <code value="RR"/>
+  </concept>
+  <concept>
+    <code value="RRI"/>
+  </concept>
+  <concept>
+    <code value="RRP"/>
+  </concept>
+  <concept>
+    <code value="SAMN"/>
+  </concept>
+  <concept>
+    <code value="SB"/>
+  </concept>
+  <concept>
+    <code value="SID"/>
+  </concept>
+  <concept>
+    <code value="SL"/>
+  </concept>
+  <concept>
+    <code value="SN"/>
+  </concept>
+  <concept>
+    <code value="SNBSN"/>
+  </concept>
+  <concept>
+    <code value="SNO"/>
+  </concept>
+  <concept>
+    <code value="SP"/>
+  </concept>
+  <concept>
+    <code value="SR"/>
+  </concept>
+  <concept>
+    <code value="SRX"/>
+  </concept>
+  <concept>
+    <code value="SS"/>
+  </concept>
+  <concept>
+    <code value="STN"/>
+  </concept>
+  <concept>
+    <code value="TAX"/>
+  </concept>
+  <concept>
+    <code value="TN"/>
+  </concept>
+  <concept>
+    <code value="TPR"/>
+  </concept>
+  <concept>
+    <code value="TRL"/>
+  </concept>
+  <concept>
+    <code value="U"/>
+  </concept>
+  <concept>
+    <code value="UDI"/>
+  </concept>
+  <concept>
+    <code value="UPIN"/>
+  </concept>
+  <concept>
+    <code value="USID"/>
+  </concept>
+  <concept>
+    <code value="VN"/>
+  </concept>
+  <concept>
+    <code value="VP"/>
+  </concept>
+  <concept>
+    <code value="VS"/>
+  </concept>
+  <concept>
+    <code value="WC"/>
+  </concept>
+  <concept>
+    <code value="WCN"/>
+  </concept>
+  <concept>
+    <code value="WP"/>
+  </concept>
+  <concept>
+    <code value="XV"/>
+  </concept>
+  <concept>
+    <code value="XX"/>
+    <display value="identifierare för organisation"/>
+  </concept>
+</CodeSystem>

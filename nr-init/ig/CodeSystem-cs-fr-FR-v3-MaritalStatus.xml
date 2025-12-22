@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CodeSystem xmlns="http://hl7.org/fhir">
+  <id value="cs-fr-FR-v3-MaritalStatus"/>
+  <language value="fr-FR"/>
+  <text>
+    <status value="generated"/><div xml:lang="fr-FR" xmlns="http://www.w3.org/1999/xhtml" lang="fr-FR"><p class="res-header-id"><b>Narratif généré : CodeSystem cs-fr-FR-v3-MaritalStatus</b></p><a name="cs-fr-FR-v3-MaritalStatus"> </a><a name="hccs-fr-FR-v3-MaritalStatus"> </a><div style="display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%"><p style="margin-bottom: 0px">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-MaritalStatus</code> defines fonctionnalités on the following codes:</p><table class="codes"><tr><td style="white-space:nowrap"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-A">A</a><a name="cs-fr-FR-v3-MaritalStatus-A"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-D">D</a><a name="cs-fr-FR-v3-MaritalStatus-D"> </a></td><td>skild</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-I">I</a><a name="cs-fr-FR-v3-MaritalStatus-I"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-L">L</a><a name="cs-fr-FR-v3-MaritalStatus-L"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-M">M</a><a name="cs-fr-FR-v3-MaritalStatus-M"> </a></td><td>gift</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-C">C</a><a name="cs-fr-FR-v3-MaritalStatus-C"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-P">P</a><a name="cs-fr-FR-v3-MaritalStatus-P"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-T">T</a><a name="cs-fr-FR-v3-MaritalStatus-T"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-U">U</a><a name="cs-fr-FR-v3-MaritalStatus-U"> </a></td><td>ogift</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-S">S</a><a name="cs-fr-FR-v3-MaritalStatus-S"> </a></td><td/></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-W">W</a><a name="cs-fr-FR-v3-MaritalStatus-W"> </a></td><td>änka/änkling</td></tr></table></div>
+  </text>
+  <url value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-MaritalStatus"/>
+  <version value="0.1.0"/>
+  <name value="MaritalStatus"/>
+  <title value="MaritalStatus"/>
+  <status value="active"/>
+  <date value="2025-12-22T14:16:52+00:00"/>
+  <publisher value="Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"/>
+  <description value="\* \* \* No description supplied \* \* \*&#xD;&#xA;&#xD;&#xA;*Open Issue:* The specific meanings of these codes can vary somewhat by jurisdiction and implementation so caution should be used when determining equivalency.&#xD;&#xA;&#xD;&#xA;*Open Issue:* fixing and completion of the hierarchy and proper good definitions of all the concepts is badly needed."/>
+  <jurisdiction>
+    <coding>
+      <system value="urn:iso:std:iso:3166"/>
+      <code value="FR"/>
+      <display value="FRANCE"/>
+    </coding>
+  </jurisdiction>
+  <copyright value="This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html"/>
+  <caseSensitive value="false"/>
+  <content value="supplement"/>
+  <supplements value="http://terminology.hl7.org/CodeSystem/v3-MaritalStatus|3.0.0"/>
+  <concept>
+    <code value="A"/>
+  </concept>
+  <concept>
+    <code value="D"/>
+    <display value="skild"/>
+  </concept>
+  <concept>
+    <code value="I"/>
+  </concept>
+  <concept>
+    <code value="L"/>
+  </concept>
+  <concept>
+    <code value="M"/>
+    <display value="gift"/>
+  </concept>
+  <concept>
+    <code value="C"/>
+  </concept>
+  <concept>
+    <code value="P"/>
+  </concept>
+  <concept>
+    <code value="T"/>
+  </concept>
+  <concept>
+    <code value="U"/>
+    <display value="ogift"/>
+  </concept>
+  <concept>
+    <code value="S"/>
+  </concept>
+  <concept>
+    <code value="W"/>
+    <display value="änka/änkling"/>
+  </concept>
+</CodeSystem>

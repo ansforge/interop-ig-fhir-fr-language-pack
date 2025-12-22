@@ -1,0 +1,121 @@
+[
+  {
+    "id" : "cs-fr-FR-address-type",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-address-type",
+    "version" : "0.1.0",
+    "name" : "AddressType"
+  },
+  {
+    "id" : "cs-fr-FR-address-use",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-address-use",
+    "version" : "0.1.0",
+    "name" : "AddressUse"
+  },
+  {
+    "id" : "cs-fr-FR-administrative-gender",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-administrative-gender",
+    "version" : "0.1.0",
+    "name" : "AdministrativeGender"
+  },
+  {
+    "id" : "cs-fr-FR-condition-ver-status",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-condition-ver-status",
+    "version" : "0.1.0",
+    "name" : "ConditionVerificationStatus"
+  },
+  {
+    "id" : "cs-fr-FR-contact-point-system",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-contact-point-system",
+    "version" : "0.1.0",
+    "name" : "ContactPointSystem"
+  },
+  {
+    "id" : "cs-fr-FR-contact-point-use",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-contact-point-use",
+    "version" : "0.1.0",
+    "name" : "ContactPointUse"
+  },
+  {
+    "id" : "cs-fr-FR-contactentity-type",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-contactentity-type",
+    "version" : "0.1.0",
+    "name" : "ContactEntityType"
+  },
+  {
+    "id" : "cs-fr-FR-days-of-week",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-days-of-week",
+    "version" : "0.1.0",
+    "name" : "DaysOfWeek"
+  },
+  {
+    "id" : "cs-fr-FR-identifier-use",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-identifier-use",
+    "version" : "0.1.0",
+    "name" : "IdentifierUse"
+  },
+  {
+    "id" : "cs-fr-FR-link-type",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-link-type",
+    "version" : "0.1.0",
+    "name" : "LinkType"
+  },
+  {
+    "id" : "cs-fr-FR-name-use",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-name-use",
+    "version" : "0.1.0",
+    "name" : "NameUse"
+  },
+  {
+    "id" : "cs-fr-FR-v2-0131",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v2-0131",
+    "version" : "0.1.0",
+    "name" : "ContactRole2"
+  },
+  {
+    "id" : "cs-fr-FR-v2-0203",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v2-0203",
+    "version" : "0.1.0",
+    "name" : "IdentifierType"
+  },
+  {
+    "id" : "cs-fr-FR-v3-EntityNamePartQualifierR2",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-EntityNamePartQualifierR2",
+    "version" : "0.1.0",
+    "name" : "EntityNamePartQualifierR2"
+  },
+  {
+    "id" : "cs-fr-FR-v3-MaritalStatus",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-MaritalStatus",
+    "version" : "0.1.0",
+    "name" : "MaritalStatus"
+  },
+  {
+    "id" : "cs-fr-FR-v3-NullFlavor",
+    "type" : "CodeSystem",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-NullFlavor",
+    "version" : "0.1.0",
+    "name" : "NullFlavor"
+  },
+  {
+    "id" : "ans.fhir.r4.fr",
+    "type" : "ImplementationGuide",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/ImplementationGuide/ans.fhir.r4.fr",
+    "version" : "0.1.0",
+    "name" : "FHIRLangPackFrench"
+  }
+]

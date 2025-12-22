@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CodeSystem xmlns="http://hl7.org/fhir">
+  <id value="cs-fr-FR-contactentity-type"/>
+  <language value="fr-FR"/>
+  <text>
+    <status value="generated"/><div xml:lang="fr-FR" xmlns="http://www.w3.org/1999/xhtml" lang="fr-FR"><p class="res-header-id"><b>Narratif généré : CodeSystem cs-fr-FR-contactentity-type</b></p><a name="cs-fr-FR-contactentity-type"> </a><a name="hccs-fr-FR-contactentity-type"> </a><div style="display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%"><p style="margin-bottom: 0px">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-contactentity-type</code> defines fonctionnalités on the following codes:</p><table class="codes"><tr><td style="white-space:nowrap"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-contactentity-type.html#contactentity-type-BILL">BILL</a><a name="cs-fr-FR-contactentity-type-BILL"> </a></td><td>fakturering</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-contactentity-type.html#contactentity-type-ADMIN">ADMIN</a><a name="cs-fr-FR-contactentity-type-ADMIN"> </a></td><td>administration</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-contactentity-type.html#contactentity-type-HR">HR</a><a name="cs-fr-FR-contactentity-type-HR"> </a></td><td>personalärenden</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-contactentity-type.html#contactentity-type-PAYOR">PAYOR</a><a name="cs-fr-FR-contactentity-type-PAYOR"> </a></td><td>ersättning</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-contactentity-type.html#contactentity-type-PATINF">PATINF</a><a name="cs-fr-FR-contactentity-type-PATINF"> </a></td><td>patient</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-contactentity-type.html#contactentity-type-PRESS">PRESS</a><a name="cs-fr-FR-contactentity-type-PRESS"> </a></td><td>media</td></tr></table></div>
+  </text>
+  <url value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-contactentity-type"/>
+  <version value="0.1.0"/>
+  <name value="ContactEntityType"/>
+  <title value="Contact entity type"/>
+  <status value="draft"/>
+  <date value="2025-12-22T14:16:52+00:00"/>
+  <publisher value="Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"/>
+  <description value="This example value set defines a set of codes that can be used to indicate the purpose for which you would contact a contact party."/>
+  <jurisdiction>
+    <coding>
+      <system value="urn:iso:std:iso:3166"/>
+      <code value="FR"/>
+      <display value="FRANCE"/>
+    </coding>
+  </jurisdiction>
+  <copyright value="This material derives from the HL7 Terminology (THO). THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html"/>
+  <caseSensitive value="false"/>
+  <content value="supplement"/>
+  <supplements value="http://terminology.hl7.org/CodeSystem/contactentity-type|1.0.0"/>
+  <concept>
+    <code value="BILL"/>
+    <display value="fakturering"/>
+  </concept>
+  <concept>
+    <code value="ADMIN"/>
+    <display value="administration"/>
+  </concept>
+  <concept>
+    <code value="HR"/>
+    <display value="personalärenden"/>
+  </concept>
+  <concept>
+    <code value="PAYOR"/>
+    <display value="ersättning"/>
+  </concept>
+  <concept>
+    <code value="PATINF"/>
+    <display value="patient"/>
+  </concept>
+  <concept>
+    <code value="PRESS"/>
+    <display value="media"/>
+  </concept>
+</CodeSystem>

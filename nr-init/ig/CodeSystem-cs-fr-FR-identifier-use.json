@@ -1,0 +1,46 @@
+{
+  "resourceType" : "CodeSystem",
+  "id" : "cs-fr-FR-identifier-use",
+  "language" : "fr-FR",
+  "text" : {
+    "status" : "generated",
+    "div" : "<div xml:lang=\"fr-FR\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr-FR\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-FR-identifier-use</b></p><a name=\"cs-fr-FR-identifier-use\"> </a><a name=\"hccs-fr-FR-identifier-use\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-identifier-use</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-identifier-use.html#identifier-use-usual\">usual</a><a name=\"cs-fr-FR-identifier-use-usual\"> </a></td><td/></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-identifier-use.html#identifier-use-official\">official</a><a name=\"cs-fr-FR-identifier-use-official\"> </a></td><td>officiell</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-identifier-use.html#identifier-use-temp\">temp</a><a name=\"cs-fr-FR-identifier-use-temp\"> </a></td><td>tillfällig</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-identifier-use.html#identifier-use-secondary\">secondary</a><a name=\"cs-fr-FR-identifier-use-secondary\"> </a></td><td>sekundär</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-identifier-use.html#identifier-use-old\">old</a><a name=\"cs-fr-FR-identifier-use-old\"> </a></td><td>inaktuell</td></tr></table></div>"
+  },
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-identifier-use",
+  "version" : "0.1.0",
+  "name" : "IdentifierUse",
+  "title" : "IdentifierUse",
+  "status" : "active",
+  "date" : "2025-12-22T14:16:52+00:00",
+  "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
+  "description" : "Identifies the purpose for this identifier, if known .",
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "urn:iso:std:iso:3166",
+      "code" : "FR",
+      "display" : "FRANCE"
+    }]
+  }],
+  "caseSensitive" : false,
+  "content" : "supplement",
+  "supplements" : "http://hl7.org/fhir/identifier-use|4.0.1",
+  "concept" : [{
+    "code" : "usual"
+  },
+  {
+    "code" : "official",
+    "display" : "officiell"
+  },
+  {
+    "code" : "temp",
+    "display" : "tillfällig"
+  },
+  {
+    "code" : "secondary",
+    "display" : "sekundär"
+  },
+  {
+    "code" : "old",
+    "display" : "inaktuell"
+  }]
+}

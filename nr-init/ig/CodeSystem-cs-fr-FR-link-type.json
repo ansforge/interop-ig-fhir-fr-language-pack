@@ -1,0 +1,43 @@
+{
+  "resourceType" : "CodeSystem",
+  "id" : "cs-fr-FR-link-type",
+  "language" : "fr-FR",
+  "text" : {
+    "status" : "generated",
+    "div" : "<div xml:lang=\"fr-FR\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr-FR\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-FR-link-type</b></p><a name=\"cs-fr-FR-link-type\"> </a><a name=\"hccs-fr-FR-link-type\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-link-type</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-link-type.html#link-type-replaced-by\">replaced-by</a><a name=\"cs-fr-FR-link-type-replaced-by\"> </a></td><td>ersatt av</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-link-type.html#link-type-replaces\">replaces</a><a name=\"cs-fr-FR-link-type-replaces\"> </a></td><td>ersätter</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-link-type.html#link-type-refer\">refer</a><a name=\"cs-fr-FR-link-type-refer\"> </a></td><td>hänvisning</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-link-type.html#link-type-seealso\">seealso</a><a name=\"cs-fr-FR-link-type-seealso\"> </a></td><td>se även</td></tr></table></div>"
+  },
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-link-type",
+  "version" : "0.1.0",
+  "name" : "LinkType",
+  "title" : "LinkType",
+  "status" : "active",
+  "date" : "2025-12-22T14:16:52+00:00",
+  "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
+  "description" : "The type of link between this patient resource and another patient resource.",
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "urn:iso:std:iso:3166",
+      "code" : "FR",
+      "display" : "FRANCE"
+    }]
+  }],
+  "caseSensitive" : false,
+  "content" : "supplement",
+  "supplements" : "http://hl7.org/fhir/link-type|4.0.1",
+  "concept" : [{
+    "code" : "replaced-by",
+    "display" : "ersatt av"
+  },
+  {
+    "code" : "replaces",
+    "display" : "ersätter"
+  },
+  {
+    "code" : "refer",
+    "display" : "hänvisning"
+  },
+  {
+    "code" : "seealso",
+    "display" : "se även"
+  }]
+}

@@ -1,0 +1,74 @@
+{
+  "resourceType" : "CodeSystem",
+  "id" : "cs-fr-FR-v2-0131",
+  "language" : "fr-FR",
+  "text" : {
+    "status" : "generated",
+    "div" : "<div xml:lang=\"fr-FR\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr-FR\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-FR-v2-0131</b></p><a name=\"cs-fr-FR-v2-0131\"> </a><a name=\"hccs-fr-FR-v2-0131\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v2-0131</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0131.html#v2-0131-BP\">BP</a><a name=\"cs-fr-FR-v2-0131-BP\"> </a></td><td>kontaktperson fakturering</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0131.html#v2-0131-CP\">CP</a><a name=\"cs-fr-FR-v2-0131-CP\"> </a></td><td>kontaktperson</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0131.html#v2-0131-EP\">EP</a><a name=\"cs-fr-FR-v2-0131-EP\"> </a></td><td>kontaktperson nöd</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0131.html#v2-0131-PR\">PR</a><a name=\"cs-fr-FR-v2-0131-PR\"> </a></td><td/></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0131.html#v2-0131-E\">E</a><a name=\"cs-fr-FR-v2-0131-E\"> </a></td><td>arbetsgivare</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0131.html#v2-0131-C\">C</a><a name=\"cs-fr-FR-v2-0131-C\"> </a></td><td>nödkontakt</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0131.html#v2-0131-F\">F</a><a name=\"cs-fr-FR-v2-0131-F\"> </a></td><td/></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0131.html#v2-0131-I\">I</a><a name=\"cs-fr-FR-v2-0131-I\"> </a></td><td>försäkringsbolag</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0131.html#v2-0131-N\">N</a><a name=\"cs-fr-FR-v2-0131-N\"> </a></td><td>anhörig</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0131.html#v2-0131-S\">S</a><a name=\"cs-fr-FR-v2-0131-S\"> </a></td><td/></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0131.html#v2-0131-O\">O</a><a name=\"cs-fr-FR-v2-0131-O\"> </a></td><td>annan</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0131.html#v2-0131-U\">U</a><a name=\"cs-fr-FR-v2-0131-U\"> </a></td><td>okänd</td></tr></table></div>"
+  },
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v2-0131",
+  "version" : "0.1.0",
+  "name" : "ContactRole2",
+  "title" : "contactRole2",
+  "status" : "active",
+  "date" : "2025-12-22T14:16:52+00:00",
+  "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
+  "description" : "Code system of concepts which specify a relationship role that the next of kin/associated parties plays with regard to the patient. Also used in referrals, for example, it may be necessary to identify the contact representative at the clinic that sent a referral. Used in HL7 Version 2 messaging in the NK1 and CTD segments after 2.5, when it replace 2.16.840.1.113883.18.57.",
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "urn:iso:std:iso:3166",
+      "code" : "FR",
+      "display" : "FRANCE"
+    }]
+  }],
+  "purpose" : "Underlying Master Code System for V2 table 0131 (Contact Role)",
+  "copyright" : "This material derives from the HL7 Terminology (THO). THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html",
+  "caseSensitive" : false,
+  "content" : "supplement",
+  "supplements" : "http://terminology.hl7.org/CodeSystem/v2-0131|3.0.0",
+  "concept" : [{
+    "code" : "BP",
+    "display" : "kontaktperson fakturering"
+  },
+  {
+    "code" : "CP",
+    "display" : "kontaktperson"
+  },
+  {
+    "code" : "EP",
+    "display" : "kontaktperson nöd"
+  },
+  {
+    "code" : "PR"
+  },
+  {
+    "code" : "E",
+    "display" : "arbetsgivare"
+  },
+  {
+    "code" : "C",
+    "display" : "nödkontakt"
+  },
+  {
+    "code" : "F"
+  },
+  {
+    "code" : "I",
+    "display" : "försäkringsbolag"
+  },
+  {
+    "code" : "N",
+    "display" : "anhörig"
+  },
+  {
+    "code" : "S"
+  },
+  {
+    "code" : "O",
+    "display" : "annan"
+  },
+  {
+    "code" : "U",
+    "display" : "okänd"
+  }]
+}

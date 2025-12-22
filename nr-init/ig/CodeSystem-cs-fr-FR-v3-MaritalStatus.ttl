@@ -1,0 +1,74 @@
+@prefix fhir: <http://hl7.org/fhir/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# - resource -------------------------------------------------------------------
+
+<https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-MaritalStatus> a fhir:CodeSystem ;
+  fhir:nodeRole fhir:treeRoot ;
+  fhir:id [ fhir:v "cs-fr-FR-v3-MaritalStatus"] ; # 
+  fhir:language [ fhir:v "fr-FR"] ; # 
+  fhir:text [
+     fhir:status [ fhir:v "generated" ] ;
+     fhir:div [ fhir:v "<div xml:lang=\"fr-FR\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr-FR\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-FR-v3-MaritalStatus</b></p><a name=\"cs-fr-FR-v3-MaritalStatus\"> </a><a name=\"hccs-fr-FR-v3-MaritalStatus\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-MaritalStatus</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-A\">A</a><a name=\"cs-fr-FR-v3-MaritalStatus-A\"> </a></td><td/></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-D\">D</a><a name=\"cs-fr-FR-v3-MaritalStatus-D\"> </a></td><td>skild</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-I\">I</a><a name=\"cs-fr-FR-v3-MaritalStatus-I\"> </a></td><td/></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-L\">L</a><a name=\"cs-fr-FR-v3-MaritalStatus-L\"> </a></td><td/></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-M\">M</a><a name=\"cs-fr-FR-v3-MaritalStatus-M\"> </a></td><td>gift</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-C\">C</a><a name=\"cs-fr-FR-v3-MaritalStatus-C\"> </a></td><td/></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-P\">P</a><a name=\"cs-fr-FR-v3-MaritalStatus-P\"> </a></td><td/></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-T\">T</a><a name=\"cs-fr-FR-v3-MaritalStatus-T\"> </a></td><td/></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-U\">U</a><a name=\"cs-fr-FR-v3-MaritalStatus-U\"> </a></td><td>ogift</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-S\">S</a><a name=\"cs-fr-FR-v3-MaritalStatus-S\"> </a></td><td/></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-MaritalStatus.html#v3-MaritalStatus-W\">W</a><a name=\"cs-fr-FR-v3-MaritalStatus-W\"> </a></td><td>änka/änkling</td></tr></table></div>"^^rdf:XMLLiteral ]
+  ] ; # 
+  fhir:url [
+     fhir:v "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-MaritalStatus"^^xsd:anyURI ;
+     fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-MaritalStatus>
+  ] ; # 
+  fhir:version [ fhir:v "0.1.0"] ; # 
+  fhir:name [ fhir:v "MaritalStatus"] ; # 
+  fhir:title [ fhir:v "MaritalStatus"] ; # 
+  fhir:status [ fhir:v "active"] ; # 
+  fhir:date [ fhir:v "2025-12-22T14:16:52+00:00"^^xsd:dateTime] ; # 
+  fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
+  fhir:description [ fhir:v "\\* \\* \\* No description supplied \\* \\* \\*\r\n\r\n*Open Issue:* The specific meanings of these codes can vary somewhat by jurisdiction and implementation so caution should be used when determining equivalency.\r\n\r\n*Open Issue:* fixing and completion of the hierarchy and proper good definitions of all the concepts is badly needed."] ; # 
+  fhir:jurisdiction ( [
+     fhir:coding ( [
+       fhir:system [
+         fhir:v "urn:iso:std:iso:3166"^^xsd:anyURI ;
+         fhir:l <urn:iso:std:iso:3166>
+       ] ;
+       fhir:code [ fhir:v "FR" ] ;
+       fhir:display [ fhir:v "FRANCE" ]
+     ] )
+  ] ) ; # 
+  fhir:copyright [ fhir:v "This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html"] ; # 
+  fhir:caseSensitive [ fhir:v false] ; # 
+  fhir:content [ fhir:v "supplement"] ; # 
+  fhir:supplements [
+     fhir:v "http://terminology.hl7.org/CodeSystem/v3-MaritalStatus|3.0.0"^^xsd:anyURI ;
+     fhir:l <http://terminology.hl7.org/CodeSystem/v3-MaritalStatus?version=3.0.0>
+  ] ; # 
+  fhir:concept ( [
+     fhir:code [ fhir:v "A" ]
+  ] [
+     fhir:code [ fhir:v "D" ] ;
+     fhir:display [ fhir:v "skild" ]
+  ] [
+     fhir:code [ fhir:v "I" ]
+  ] [
+     fhir:code [ fhir:v "L" ]
+  ] [
+     fhir:code [ fhir:v "M" ] ;
+     fhir:display [ fhir:v "gift" ]
+  ] [
+     fhir:code [ fhir:v "C" ]
+  ] [
+     fhir:code [ fhir:v "P" ]
+  ] [
+     fhir:code [ fhir:v "T" ]
+  ] [
+     fhir:code [ fhir:v "U" ] ;
+     fhir:display [ fhir:v "ogift" ]
+  ] [
+     fhir:code [ fhir:v "S" ]
+  ] [
+     fhir:code [ fhir:v "W" ] ;
+     fhir:display [ fhir:v "änka/änkling" ]
+  ] ) . # 
+
+# -------------------------------------------------------------------------------------
+

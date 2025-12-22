@@ -1,0 +1,66 @@
+@prefix fhir: <http://hl7.org/fhir/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# - resource -------------------------------------------------------------------
+
+<https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-condition-ver-status> a fhir:CodeSystem ;
+  fhir:nodeRole fhir:treeRoot ;
+  fhir:id [ fhir:v "cs-fr-FR-condition-ver-status"] ; # 
+  fhir:language [ fhir:v "fr-FR"] ; # 
+  fhir:text [
+     fhir:status [ fhir:v "generated" ] ;
+     fhir:div [ fhir:v "<div xml:lang=\"fr-FR\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr-FR\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-FR-condition-ver-status</b></p><a name=\"cs-fr-FR-condition-ver-status\"> </a><a name=\"hccs-fr-FR-condition-ver-status\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-condition-ver-status</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-condition-ver-status.html#condition-ver-status-unconfirmed\">unconfirmed</a><a name=\"cs-fr-FR-condition-ver-status-unconfirmed\"> </a></td><td>Obekräftad</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-condition-ver-status.html#condition-ver-status-provisional\">provisional</a><a name=\"cs-fr-FR-condition-ver-status-provisional\"> </a></td><td>Preliminär</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-condition-ver-status.html#condition-ver-status-differential\">differential</a><a name=\"cs-fr-FR-condition-ver-status-differential\"> </a></td><td>Differential</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-condition-ver-status.html#condition-ver-status-confirmed\">confirmed</a><a name=\"cs-fr-FR-condition-ver-status-confirmed\"> </a></td><td>Bekräftad</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-condition-ver-status.html#condition-ver-status-refuted\">refuted</a><a name=\"cs-fr-FR-condition-ver-status-refuted\"> </a></td><td>Motbevisad</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-condition-ver-status.html#condition-ver-status-entered-in-error\">entered-in-error</a><a name=\"cs-fr-FR-condition-ver-status-entered-in-error\"> </a></td><td>Felaktigt inmatad</td></tr></table></div>"^^rdf:XMLLiteral ]
+  ] ; # 
+  fhir:url [
+     fhir:v "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-condition-ver-status"^^xsd:anyURI ;
+     fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-condition-ver-status>
+  ] ; # 
+  fhir:version [ fhir:v "0.1.0"] ; # 
+  fhir:name [ fhir:v "ConditionVerificationStatus"] ; # 
+  fhir:title [ fhir:v "ConditionVerificationStatus"] ; # 
+  fhir:status [ fhir:v "active"] ; # 
+  fhir:date [ fhir:v "2025-12-22T14:16:52+00:00"^^xsd:dateTime] ; # 
+  fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
+  fhir:description [ fhir:v "The verification status to support or decline the clinical status of the condition or diagnosis."] ; # 
+  fhir:jurisdiction ( [
+     fhir:coding ( [
+       fhir:system [
+         fhir:v "urn:iso:std:iso:3166"^^xsd:anyURI ;
+         fhir:l <urn:iso:std:iso:3166>
+       ] ;
+       fhir:code [ fhir:v "FR" ] ;
+       fhir:display [ fhir:v "FRANCE" ]
+     ] )
+  ] ) ; # 
+  fhir:copyright [ fhir:v "This material derives from the HL7 Terminology (THO). THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license"] ; # 
+  fhir:caseSensitive [ fhir:v false] ; # 
+  fhir:content [ fhir:v "supplement"] ; # 
+  fhir:supplements [
+     fhir:v "http://terminology.hl7.org/CodeSystem/condition-ver-status|2.0.1"^^xsd:anyURI ;
+     fhir:l <http://terminology.hl7.org/CodeSystem/condition-ver-status?version=2.0.1>
+  ] ; # 
+  fhir:concept ( [
+     fhir:code [ fhir:v "unconfirmed" ] ;
+     fhir:display [ fhir:v "Obekräftad" ]
+  ] [
+     fhir:code [ fhir:v "provisional" ] ;
+     fhir:display [ fhir:v "Preliminär" ]
+  ] [
+     fhir:code [ fhir:v "differential" ] ;
+     fhir:display [ fhir:v "Differential" ]
+  ] [
+     fhir:code [ fhir:v "confirmed" ] ;
+     fhir:display [ fhir:v "Bekräftad" ]
+  ] [
+     fhir:code [ fhir:v "refuted" ] ;
+     fhir:display [ fhir:v "Motbevisad" ]
+  ] [
+     fhir:code [ fhir:v "entered-in-error" ] ;
+     fhir:display [ fhir:v "Felaktigt inmatad" ]
+  ] ) . # 
+
+# -------------------------------------------------------------------------------------
+

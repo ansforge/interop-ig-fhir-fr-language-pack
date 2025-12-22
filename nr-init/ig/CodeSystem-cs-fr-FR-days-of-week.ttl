@@ -1,0 +1,68 @@
+@prefix fhir: <http://hl7.org/fhir/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# - resource -------------------------------------------------------------------
+
+<https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-days-of-week> a fhir:CodeSystem ;
+  fhir:nodeRole fhir:treeRoot ;
+  fhir:id [ fhir:v "cs-fr-FR-days-of-week"] ; # 
+  fhir:language [ fhir:v "fr-FR"] ; # 
+  fhir:text [
+     fhir:status [ fhir:v "generated" ] ;
+     fhir:div [ fhir:v "<div xml:lang=\"fr-FR\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr-FR\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-FR-days-of-week</b></p><a name=\"cs-fr-FR-days-of-week\"> </a><a name=\"hccs-fr-FR-days-of-week\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-days-of-week</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-days-of-week.html#days-of-week-mon\">mon</a><a name=\"cs-fr-FR-days-of-week-mon\"> </a></td><td>måndag</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-days-of-week.html#days-of-week-tue\">tue</a><a name=\"cs-fr-FR-days-of-week-tue\"> </a></td><td>tisdag</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-days-of-week.html#days-of-week-wed\">wed</a><a name=\"cs-fr-FR-days-of-week-wed\"> </a></td><td>onsdag</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-days-of-week.html#days-of-week-thu\">thu</a><a name=\"cs-fr-FR-days-of-week-thu\"> </a></td><td>torsdag</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-days-of-week.html#days-of-week-fri\">fri</a><a name=\"cs-fr-FR-days-of-week-fri\"> </a></td><td>fredag</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-days-of-week.html#days-of-week-sat\">sat</a><a name=\"cs-fr-FR-days-of-week-sat\"> </a></td><td>lördag</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-days-of-week.html#days-of-week-sun\">sun</a><a name=\"cs-fr-FR-days-of-week-sun\"> </a></td><td>söndag</td></tr></table></div>"^^rdf:XMLLiteral ]
+  ] ; # 
+  fhir:url [
+     fhir:v "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-days-of-week"^^xsd:anyURI ;
+     fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-days-of-week>
+  ] ; # 
+  fhir:version [ fhir:v "0.1.0"] ; # 
+  fhir:name [ fhir:v "DaysOfWeek"] ; # 
+  fhir:title [ fhir:v "DaysOfWeek"] ; # 
+  fhir:status [ fhir:v "active"] ; # 
+  fhir:date [ fhir:v "2025-12-22T14:16:52+00:00"^^xsd:dateTime] ; # 
+  fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
+  fhir:description [ fhir:v "The days of the week."] ; # 
+  fhir:jurisdiction ( [
+     fhir:coding ( [
+       fhir:system [
+         fhir:v "urn:iso:std:iso:3166"^^xsd:anyURI ;
+         fhir:l <urn:iso:std:iso:3166>
+       ] ;
+       fhir:code [ fhir:v "FR" ] ;
+       fhir:display [ fhir:v "FRANCE" ]
+     ] )
+  ] ) ; # 
+  fhir:caseSensitive [ fhir:v false] ; # 
+  fhir:content [ fhir:v "supplement"] ; # 
+  fhir:supplements [
+     fhir:v "http://hl7.org/fhir/days-of-week|4.0.1"^^xsd:anyURI ;
+     fhir:l <http://hl7.org/fhir/days-of-week?version=4.0.1>
+  ] ; # 
+  fhir:concept ( [
+     fhir:code [ fhir:v "mon" ] ;
+     fhir:display [ fhir:v "måndag" ]
+  ] [
+     fhir:code [ fhir:v "tue" ] ;
+     fhir:display [ fhir:v "tisdag" ]
+  ] [
+     fhir:code [ fhir:v "wed" ] ;
+     fhir:display [ fhir:v "onsdag" ]
+  ] [
+     fhir:code [ fhir:v "thu" ] ;
+     fhir:display [ fhir:v "torsdag" ]
+  ] [
+     fhir:code [ fhir:v "fri" ] ;
+     fhir:display [ fhir:v "fredag" ]
+  ] [
+     fhir:code [ fhir:v "sat" ] ;
+     fhir:display [ fhir:v "lördag" ]
+  ] [
+     fhir:code [ fhir:v "sun" ] ;
+     fhir:display [ fhir:v "söndag" ]
+  ] ) . # 
+
+# -------------------------------------------------------------------------------------
+
