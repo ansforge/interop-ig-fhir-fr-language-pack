@@ -27,7 +27,7 @@ Ce language pack contient les traductions françaises des ressources
   "name" : "FHIRLangPackFrench",
   "title" : "French language pack for FHIR R4",
   "status" : "draft",
-  "date" : "2025-12-22T17:32:51+00:00",
+  "date" : "2025-12-22T17:37:51+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "contact" : [
     {

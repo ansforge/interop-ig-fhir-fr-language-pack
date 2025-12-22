@@ -33,7 +33,7 @@ The gender of a person used for adminstrative purposes (as opposed to clinical g
   "name" : "AdministrativeGender",
   "title" : "AdministrativeGender",
   "status" : "active",
-  "date" : "2025-12-22T17:32:51+00:00",
+  "date" : "2025-12-22T17:37:51+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "The gender of a person used for adminstrative purposes (as opposed to clinical gender)",
   "jurisdiction" : [

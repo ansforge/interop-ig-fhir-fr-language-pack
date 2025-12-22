@@ -11,7 +11,7 @@
   <name value="ActStatus"/>
   <title value="ActStatus"/>
   <status value="active"/>
-  <date value="2025-12-22T17:32:51+00:00"/>
+  <date value="2025-12-22T17:37:51+00:00"/>
   <publisher value="Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"/>
   <description value="Codes representing the defined possible states of an Act, as defined by the Act class state machine."/>
   <jurisdiction>

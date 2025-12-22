@@ -33,7 +33,7 @@ One or more codes providing a rough qualitative interpretation of the observatio
   "name" : "ObservationInterpretation",
   "title" : "ObservationInterpretation",
   "status" : "active",
-  "date" : "2025-12-22T17:32:51+00:00",
+  "date" : "2025-12-22T17:37:51+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "One or more codes providing a rough qualitative interpretation of the observation, such as \"normal\" / \"abnormal\", \"low\" / \"high\", \"better\" / \"worse\", \"resistant\" / \"susceptible\", \"expected\" / \"not expected\". The value set is intended to be for ANY use where coded representation of an interpretation is needed.",
   "jurisdiction" : [

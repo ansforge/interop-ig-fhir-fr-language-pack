@@ -22,7 +22,7 @@
   fhir:name [ fhir:v "OrderableDrugForm"] ; # 
   fhir:title [ fhir:v "Orderable Drug Form"] ; # 
   fhir:status [ fhir:v "active"] ; # 
-  fhir:date [ fhir:v "2025-12-22T17:32:51+00:00"^^xsd:dateTime] ; # 
+  fhir:date [ fhir:v "2025-12-22T17:37:51+00:00"^^xsd:dateTime] ; # 
   fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
   fhir:description [ fhir:v "*OpenIssue:* Missing description."] ; # 
   fhir:jurisdiction ( [

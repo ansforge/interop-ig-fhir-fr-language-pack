@@ -11,7 +11,7 @@
   "name" : "ConditionVerificationStatus",
   "title" : "ConditionVerificationStatus",
   "status" : "active",
-  "date" : "2025-12-22T17:32:51+00:00",
+  "date" : "2025-12-22T17:37:51+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "The verification status to support or decline the clinical status of the condition or diagnosis.",
   "jurisdiction" : [{
