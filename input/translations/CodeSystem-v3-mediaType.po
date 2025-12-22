@@ -4,54 +4,110 @@
 msgid "DICOM"
 msgstr "DICOM"
 
+#: application/dicom@definition
+msgid "Digital Imaging and Communications in Medicine (DICOM) MIME type defined in RFC3240 \[http://ietf.org/rfc/rfc3240.txt\]."
+msgstr ""
+
 #: application/msword
 msgid "MSWORD"
 msgstr "MSWORD"
+
+#: application/msword@definition
+msgid "This format is very prone to compatibility problems. If sharing of edit-able text is required, text/plain, text/html or text/rtf should be used instead."
+msgstr ""
 
 #: application/pdf
 msgid "PDF"
 msgstr "PDF"
 
+#: application/pdf@definition
+msgid "The Portable Document Format is recommended for written text that is completely laid out and read-only. PDF is a platform independent, widely deployed, and open specification with freely available creation and rendering tools."
+msgstr ""
+
 #: audio/basic
 msgid "Basic Audio"
 msgstr "Basic Audio"
+
+#: audio/basic@definition
+msgid "This is a format for single channel audio, encoded using 8bit ISDN mu-law \[PCM\] at a sample rate of 8000 Hz. This format is standardized by: CCITT, Fascicle III.4 -Recommendation G.711. Pulse Code Modulation (PCM) of Voice Frequencies. Geneva, 1972."
+msgstr ""
 
 #: audio/k32adpcm
 msgid "K32ADPCM Audio"
 msgstr "K32ADPCM Audio"
 
+#: audio/k32adpcm@definition
+msgid "ADPCM allows compressing audio data. It is defined in the Internet specification RFC 2421 \[ftp://ftp.isi.edu/in-notes/rfc2421.txt\]. Its implementation base is unclear."
+msgstr ""
+
 #: audio/mpeg
 msgid "MPEG audio layer 3"
 msgstr "MPEG audio layer 3 MP3 Audio"
+
+#: audio/mpeg@definition
+msgid "MPEG-1 Audio layer-3 is an audio compression algorithm and file format defined in ISO 11172-3 and ISO 13818-3. MP3 has an adjustable sampling frequency for highly compressed telephone to CD quality audio."
+msgstr ""
 
 #: image/gif
 msgid "GIF Image"
 msgstr "GIF Image"
 
+#: image/gif@definition
+msgid "GIF is a popular format that is universally well supported. However GIF is patent encumbered and should therefore be used with caution."
+msgstr ""
+
 #: image/jpeg
 msgid "JPEG Image"
 msgstr "JPEG Image"
+
+#: image/jpeg@definition
+msgid "This format is required for high compression of high color photographs. It is a "lossy" compression, but the difference to lossless compression is almost unnoticeable to the human vision."
+msgstr ""
 
 #: image/png
 msgid "PNG Image"
 msgstr "PNG Image"
 
+#: image/png@definition
+msgid "Portable Network Graphics (PNG) \[http://www.cdrom.com/pub/png\] is a widely supported lossless image compression standard with open source code available."
+msgstr ""
+
 #: image/tiff
 msgid "TIFF Image"
 msgstr "TIFF Image"
+
+#: image/tiff@definition
+msgid "Although TIFF (Tag Image File Format) is an international standard it has many interoperability problems in practice. Too many different versions that are not handled by all software alike."
+msgstr ""
 
 #: text/html
 msgid "HTML Text"
 msgstr "HTML Text"
 
+#: text/html@definition
+msgid "For marked-up text according to the Hypertext Mark-up Language. HTML markup is sufficient for typographically marking-up most written-text documents. HTML is platform independent and widely deployed."
+msgstr ""
+
 #: text/plain
 msgid "Plain Text"
 msgstr "Plain Text"
+
+#: text/plain@definition
+msgid "**Description:**For any plain text. This is the default and is used for a character string (ST) data type."
+msgstr ""
 
 #: text/rtf
 msgid "RTF Text"
 msgstr "RTF Text"
 
+#: text/rtf@definition
+msgid "The Rich Text Format is widely used to share word-processor documents. However, RTF does have compatibility problems, as it is quite dependent on the word processor. May be useful if word processor edit-able text should be shared."
+msgstr ""
+
 #: text/xml
 msgid "XML Text"
 msgstr "XML Text"
+
+#: text/xml@definition
+msgid "For structured character based data. There is a risk that general SGML/XML is too powerful to allow a sharing of general SGML/XML documents between different applications."
+msgstr ""

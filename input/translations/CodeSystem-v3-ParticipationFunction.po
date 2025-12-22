@@ -4,14 +4,30 @@
 msgid "admitting physician"
 msgstr "Responsable de l'admission"
 
+#: ADMPHYS@definition
+msgid "A physician who admitted a patient to a hospital or other care unit that is the context of this service."
+msgstr ""
+
 #: ATTPHYS
 msgid "attending physician"
 msgstr "Référent - Responsable du patient dans la structure de soins"
+
+#: ATTPHYS@definition
+msgid "A physician who is primarily responsible for a patient during the hospitalization, which is the context of the service."
+msgstr ""
 
 #: DISPHYS
 msgid "discharging physician"
 msgstr "Responsable de la sortie"
 
+#: DISPHYS@definition
+msgid "A physician who discharged a patient from a hospital or other care unit that is the context of this service."
+msgstr ""
+
 #: PCP
 msgid "primary care physician"
 msgstr "Médecin traitant"
+
+#: PCP@definition
+msgid "The healthcare provider that holds primary responsibility for the overall care of a patient."
+msgstr ""
