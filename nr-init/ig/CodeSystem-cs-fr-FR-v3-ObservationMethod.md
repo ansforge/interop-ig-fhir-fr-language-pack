@@ -35,7 +35,7 @@ A code that provides additional detail about the means or technique used to asce
   "name" : "ObservationMethod",
   "title" : "ObservationMethod",
   "status" : "active",
-  "date" : "2025-12-22T17:17:12+00:00",
+  "date" : "2025-12-22T17:21:11+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "A code that provides additional detail about the means or technique used to ascertain the observation.\r\n\r\n*Examples:* Blood pressure measurement method: arterial puncture vs. sphygmomanometer (Riva-Rocci), sitting vs. supine position, etc.\r\n\r\n*OpenIssue:* Description copied from Concept Domain of same name. Must be verified. Note that the Domain has a full discussion about use of the attribute and constraining that is not appropriate for the code system description. Needs to be improved.",
   "jurisdiction" : [

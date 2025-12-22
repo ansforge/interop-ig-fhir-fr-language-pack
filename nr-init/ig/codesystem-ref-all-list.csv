@@ -1,1 +1,2 @@
 URL,Version,Status,OIDs,Name,Title,Description,Used
+http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender,3.0.0,active,"2.16.840.1.113883.5.1",AdministrativeGender,AdministrativeGender,"The gender of a person used for adminstrative purposes (as opposed to clinical gender)","ValueSet/jdv-hl7-v3-AdministrativeGender-cisis"

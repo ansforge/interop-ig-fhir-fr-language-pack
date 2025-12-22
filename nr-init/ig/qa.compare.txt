@@ -1,11 +1,12 @@
 FHIRLangPackFrench : Validation Results
 =========================================
 
-err = 25, warn = 28, info = 47
+err = 25, warn = 28, info = 48
 $--
 Generated $--. FHIR version $-- for ans.fhir.r4.fr#$-- (canonical = https://interop.esante.gouv.fr/ig/fhir/fr)
  Build Errors : 2 / 5 / 0
  /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/fsh-generated/resources/ImplementationGuide-ans.fhir.r4.fr : 1 / 0 / 2
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/fsh-generated/resources/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis : 0 / 0 / 3
  /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-allergy-intolerance-criticality : 1 / 1 / 3
  /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-allergyintolerance-clinical : 1 / 1 / 3
  /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-condition-clinical : 1 / 1 / 3
@@ -41,6 +42,8 @@ WARNING: 5: The HTML fragment 'expansion-params.xhtml' is not included anywhere 
 == fsh-generated/resources/ImplementationGuide-ans.fhir.r4.fr.json ==
 INFORMATION: ImplementationGuide/ans.fhir.r4.fr: ImplementationGuide.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
 ERROR: ImplementationGuide/ans.fhir.r4.fr: ImplementationGuide.definition.extension[31].url: No definition could be found for URL value 'http://hl7.org/fhir/tools/StructureDefinition/expansion-parameters'
+== fsh-generated/resources/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.json ==
+INFORMATION: ValueSet/jdv-hl7-v3-AdministrativeGender-cisis: ValueSet.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
 == input/translations/CodeSystem-allergy-intolerance-criticality.po ==
 INFORMATION: CodeSystem.supplements: Pinned the version of http://hl7.org/fhir/allergy-intolerance-criticality to 4.0.1
 INFORMATION: CodeSystem/cs-fr-FR-allergy-intolerance-criticality: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120

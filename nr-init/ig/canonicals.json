@@ -166,5 +166,13 @@
     "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/ImplementationGuide/ans.fhir.r4.fr",
     "version" : "0.1.0",
     "name" : "FHIRLangPackFrench"
+  },
+  {
+    "id" : "jdv-hl7-v3-AdministrativeGender-cisis",
+    "type" : "ValueSet",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/ValueSet/jdv-hl7-v3-AdministrativeGender-cisis",
+    "version" : "0.1.0",
+    "name" : "AdministrativeGender",
+    "oids" : ["2.16.840.1.113883.1.11.1"]
   }
 ]

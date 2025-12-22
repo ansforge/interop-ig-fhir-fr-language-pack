@@ -27,7 +27,7 @@ Ce language pack contient les traductions françaises des ressources
   "name" : "FHIRLangPackFrench",
   "title" : "French language pack for FHIR R4",
   "status" : "draft",
-  "date" : "2025-12-22T17:17:12+00:00",
+  "date" : "2025-12-22T17:21:11+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "contact" : [
     {
@@ -901,6 +901,20 @@ Ce language pack contient les traductions françaises des ressources
       }
     ],
     "resource" : [
+      {
+        "extension" : [
+          {
+            "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+            "valueString" : "ValueSet"
+          }
+        ],
+        "reference" : {
+          "reference" : "ValueSet/jdv-hl7-v3-AdministrativeGender-cisis"
+        },
+        "name" : "AdministrativeGender",
+        "description" : "AdministrativeGender",
+        "exampleBoolean" : false
+      },
       {
         "extension" : [
           {

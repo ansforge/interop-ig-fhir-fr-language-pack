@@ -1,9 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Bundle xmlns="http://hl7.org/fhir">
-  <id value="aec5db3e-8461-4df7-9e8f-87da9cb9fca1"/>
+  <id value="eeeb3c42-972e-476e-ab64-231a30e805e7"/>
   <meta>
-    <lastUpdated value="2025-12-22T17:17:12.744+00:00"/>
+    <lastUpdated value="2025-12-22T17:21:11.914+00:00"/>
   </meta>
   <type value="collection"/>
+  <entry>
+    <fullUrl value="https://interop.esante.gouv.fr/ig/fhir/fr/ValueSet/jdv-hl7-v3-AdministrativeGender-cisis"/>
+    <resource>
+      <ValueSet>
+        <meta>
+          <versionId value="6"/>
+          <lastUpdated value="2025-12-17T15:42:39.378+01:00"/>
+          <profile value="http://hl7.org/fhir/StructureDefinition/shareablevalueset|4.0.1"/>
+        </meta>
+        <language value="fr-FR"/>
+        <text>
+          <status value="generated"/>
+          <div xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr-FR" lang="fr-FR" data-fhir="generated">
+            <p class="res-header-id"/>
+            <div style="border: black 1px dotted; background-color: #EEEEEE; padding: 8px; margin-bottom: 8px">
+              <p>Expansion effectuée en interne basée sur :</p>
+              <ul>
+                <li>
+                  <a href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-AdministrativeGender.html">codesystem AdministrativeGender v3.0.0 (CodeSystem)</a>
+                  <span class="copy-text-inline">
+                    <button data-clipboard-text="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender|3.0.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
+                  </span>
+                </li>
+                <li>
+                  <a href="CodeSystem-cs-fr-FR-v3-AdministrativeGender.html">supplement AdministrativeGender v0.1.0 (CodeSystem)</a>
+                  <span class="copy-text-inline">
+                    <button data-clipboard-text="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-AdministrativeGender|0.1.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
+                  </span>
+                </li>
+              </ul>
+            </div>
+            <p>Ce jeu de valeur (ValueSet) contient 3 concepts</p>
+            <table class="codes" data-fhir="generated">
+              <tr>
+                <td>
+                  <b>Système</b>
+                </td>
+                <td style="white-space:nowrap">
+                  <b>Code</b>
+                </td>
+                <td>
+                  <b>Affichage (fr-FR)</b>
+                </td>
+                <td>
+                  <b>Définition</b>
+                </td>
+                <td>
+                  <b>JSON</b>
+                </td>
+                <td>
+                  <b>XML</b>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender-F"> </a>
+                  <code>http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender</code>
+                </td>
+                <td style="white-space:nowrap">  
+                  <code>F</code>
+                </td>
+                <td>Female</td>
+                <td>
+                  <div>
+                    <p>Female</p>
+
+                  </div>
+                </td>
+                <td>
+                  <span class="copy-text-inline">
+                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;3.0.0&quot;, &quot;code&quot;: &quot;F&quot;, &quot;display&quot;: &quot;Female&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                  </span>
+                </td>
+                <td>
+                  <span class="copy-text-inline">
+                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;3.0.0&quot;&gt;&lt;code value=&quot;F&quot;&gt;&lt;display value=&quot;Female&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                  </span>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender-M"> </a>
+                  <code>http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender</code>
+                </td>
+                <td style="white-space:nowrap">  
+                  <code>M</code>
+                </td>
+                <td>Male</td>
+                <td>
+                  <div>
+                    <p>Male</p>
+
+                  </div>
+                </td>
+                <td>
+                  <span class="copy-text-inline">
+                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;3.0.0&quot;, &quot;code&quot;: &quot;M&quot;, &quot;display&quot;: &quot;Male&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                  </span>
+                </td>
+                <td>
+                  <span class="copy-text-inline">
+                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;3.0.0&quot;&gt;&lt;code value=&quot;M&quot;&gt;&lt;display value=&quot;Male&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                  </span>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a name="x-http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender-UN"> </a>
+                  <code>http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender</code>
+                </td>
+                <td style="white-space:nowrap">  
+                  <code>UN</code>
+                </td>
+                <td>Undifferentiated</td>
+                <td>
+                  <div>
+                    <p>En: The gender of a person could not be uniquely defined as male or female, such as intersex. Nl: Het geslacht van een persoon kan niet uniek worden gedefinieerd als man of vrouw, zoals een intersekse-conditie.</p>
+
+                    <p>
+                      <em>Open Issue:</em> This is a short-term stopgap solution to the definition issue, full solutions are being worked out by the Gender Harmony project launched in 2019.
+                    </p>
+
+                  </div>
+                </td>
+                <td>
+                  <span class="copy-text-inline">
+                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;3.0.0&quot;, &quot;code&quot;: &quot;UN&quot;, &quot;display&quot;: &quot;Undifferentiated&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                  </span>
+                </td>
+                <td>
+                  <span class="copy-text-inline">
+                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;3.0.0&quot;&gt;&lt;code value=&quot;UN&quot;&gt;&lt;display value=&quot;Undifferentiated&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                  </span>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </text>
+        <url value="https://interop.esante.gouv.fr/ig/fhir/fr/ValueSet/jdv-hl7-v3-AdministrativeGender-cisis"/>
+        <identifier>
+          <system value="urn:ietf:rfc:3986"/>
+          <value value="urn:oid:2.16.840.1.113883.1.11.1"/>
+        </identifier>
+        <version value="0.1.0"/>
+        <name value="AdministrativeGender"/>
+        <title value="AdministrativeGender"/>
+        <status value="active"/>
+        <experimental value="false"/>
+        <date value="2025-12-16T14:18:38+01:00"/>
+        <jurisdiction>
+          <coding>
+            <system value="urn:iso:std:iso:3166"/>
+            <code value="FR"/>
+            <display value="FRANCE"/>
+          </coding>
+        </jurisdiction>
+        <expansion>
+          <identifier value="urn:uuid:642e3bbb-6ad8-433a-bc48-b0ff9d07d0b7"/>
+          <timestamp value="2025-12-22T17:21:54+00:00"/>
+          <total value="3"/>
+          <offset value="0"/>
+          <parameter>
+            <name value="displayLanguage"/>
+            <valueCode value="fr"/>
+          </parameter>
+          <parameter>
+            <name value="count"/>
+            <valueInteger value="1000"/>
+          </parameter>
+          <parameter>
+            <name value="offset"/>
+            <valueInteger value="0"/>
+          </parameter>
+          <parameter>
+            <name value="excludeNested"/>
+            <valueBoolean value="false"/>
+          </parameter>
+          <parameter>
+            <name value="used-codesystem"/>
+            <valueUri value="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender|3.0.0"/>
+          </parameter>
+          <parameter>
+            <name value="used-supplement"/>
+            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-AdministrativeGender|0.1.0"/>
+          </parameter>
+          <contains>
+            <system value="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender"/>
+            <code value="F"/>
+            <display value="Female"/>
+          </contains>
+          <contains>
+            <system value="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender"/>
+            <code value="M"/>
+            <display value="Male"/>
+          </contains>
+          <contains>
+            <system value="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender"/>
+            <code value="UN"/>
+            <display value="Undifferentiated"/>
+          </contains>
+        </expansion>
+      </ValueSet>
+    </resource>
+  </entry>
 </Bundle>

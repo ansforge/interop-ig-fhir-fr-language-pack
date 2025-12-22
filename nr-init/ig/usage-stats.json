@@ -6,6 +6,9 @@
   "extensions": [],
   "profiles": {},
   "usage": {
+    "http://hl7.org/fhir/StructureDefinition/resource-effectivePeriod": [
+      "ValueSet"
+    ],
     "http://hl7.org/fhir/tools/StructureDefinition/expansion-parameters": [
       "ImplementationGuide.definition"
     ],

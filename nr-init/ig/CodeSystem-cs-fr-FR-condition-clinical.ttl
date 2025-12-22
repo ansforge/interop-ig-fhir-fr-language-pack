@@ -22,7 +22,7 @@
   fhir:name [ fhir:v "ConditionClinicalStatusCodes"] ; # 
   fhir:title [ fhir:v "Condition Clinical Status Codes"] ; # 
   fhir:status [ fhir:v "active"] ; # 
-  fhir:date [ fhir:v "2025-12-22T17:17:12+00:00"^^xsd:dateTime] ; # 
+  fhir:date [ fhir:v "2025-12-22T17:21:11+00:00"^^xsd:dateTime] ; # 
   fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
   fhir:description [ fhir:v "Preferred value set for Condition Clinical Status."] ; # 
   fhir:jurisdiction ( [

@@ -1,3 +1,16 @@
 {
-  "codeSystems" : []
+  "codeSystems" : [
+    {
+      "url" : "http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender",
+      "version" : "3.0.0",
+      "status" : "active",
+      "name" : "AdministrativeGender",
+      "title" : "AdministrativeGender",
+      "description" : "The gender of a person used for adminstrative purposes (as opposed to clinical gender)",
+      "oids" : ["2.16.840.1.113883.5.1"],
+      "uses" : {
+      },
+      "ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.html" : "AdministrativeGender"
+    }
+  ]
 }

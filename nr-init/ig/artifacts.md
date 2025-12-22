@@ -7,6 +7,14 @@
 
 This page provides a list of the FHIR artifacts defined as part of this implementation guide.
 
+### Terminology: Value Sets 
+
+These define sets of codes used by systems conforming to this implementation guide.
+
+| | |
+| :--- | :--- |
+| [AdministrativeGender](ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.md) | AdministrativeGender |
+
 ### Terminology: Code Systems 
 
 These define new code systems used by systems conforming to this implementation guide.

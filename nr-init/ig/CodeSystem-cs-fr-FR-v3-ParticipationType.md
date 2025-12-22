@@ -33,7 +33,7 @@ A code specifying the meaning and purpose of every Participation instance. Each 
   "name" : "ParticipationType",
   "title" : "ParticipationType",
   "status" : "active",
-  "date" : "2025-12-22T17:17:12+00:00",
+  "date" : "2025-12-22T17:21:11+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "A code specifying the meaning and purpose of every Participation instance. Each of its values implies specific constraints on the Roles undertaking the participation.",
   "jurisdiction" : [
