@@ -33,7 +33,7 @@ This code is used to specify the exact function an actor had in a service in all
   "name" : "ParticipationFunction",
   "title" : "ParticipationFunction",
   "status" : "active",
-  "date" : "2025-12-22T17:37:51+00:00",
+  "date" : "2025-12-22T17:43:16+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "This code is used to specify the exact function an actor had in a service in all necessary detail. This domain may include local extensions (CWE).",
   "jurisdiction" : [

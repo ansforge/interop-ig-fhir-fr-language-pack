@@ -36,7 +36,7 @@ Underlying Master Code System for V2 table 0066 (Employment Status)
   "name" : "EmploymentStatus",
   "title" : "employmentStatus",
   "status" : "active",
-  "date" : "2025-12-22T17:37:51+00:00",
+  "date" : "2025-12-22T17:43:16+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "HL7-defined code system of concepts which specify an employment status of a person. Used in HL7 Version 2 messaging in the GT1 segment.",
   "jurisdiction" : [

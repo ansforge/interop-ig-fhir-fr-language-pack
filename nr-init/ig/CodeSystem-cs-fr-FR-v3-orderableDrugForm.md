@@ -33,7 +33,7 @@
   "name" : "OrderableDrugForm",
   "title" : "Orderable Drug Form",
   "status" : "active",
-  "date" : "2025-12-22T17:37:51+00:00",
+  "date" : "2025-12-22T17:43:16+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "*OpenIssue:* Missing description.",
   "jurisdiction" : [

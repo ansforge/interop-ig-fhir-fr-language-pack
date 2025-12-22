@@ -53,7 +53,6 @@ Ce jeu de valeurs nest pas utilisé ici ; il peut être utilisé autre part (par
       "http://hl7.org/fhir/StructureDefinition/shareablevalueset|4.0.1"
     ]
   },
-  "language" : "fr-FR",
   "extension" : [
     {
       "url" : "http://hl7.org/fhir/StructureDefinition/resource-effectivePeriod",

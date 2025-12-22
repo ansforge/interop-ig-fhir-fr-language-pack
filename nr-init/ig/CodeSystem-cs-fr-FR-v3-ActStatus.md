@@ -33,7 +33,7 @@ Codes representing the defined possible states of an Act, as defined by the Act 
   "name" : "ActStatus",
   "title" : "ActStatus",
   "status" : "active",
-  "date" : "2025-12-22T17:37:51+00:00",
+  "date" : "2025-12-22T17:43:16+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "Codes representing the defined possible states of an Act, as defined by the Act class state machine.",
   "jurisdiction" : [

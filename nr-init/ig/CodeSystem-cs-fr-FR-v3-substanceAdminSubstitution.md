@@ -33,7 +33,7 @@ Identifies what sort of change is permitted or has occurred between the therapy 
   "name" : "SubstanceAdminSubstitution",
   "title" : "Substance Admin Substitution",
   "status" : "active",
-  "date" : "2025-12-22T17:37:51+00:00",
+  "date" : "2025-12-22T17:43:16+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "Identifies what sort of change is permitted or has occurred between the therapy that was ordered and the therapy that was/will be provided.",
   "jurisdiction" : [

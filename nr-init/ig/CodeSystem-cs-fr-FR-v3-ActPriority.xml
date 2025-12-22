@@ -11,7 +11,7 @@
   <name value="ActPriority"/>
   <title value="ActPriority"/>
   <status value="active"/>
-  <date value="2025-12-22T17:37:51+00:00"/>
+  <date value="2025-12-22T17:43:16+00:00"/>
   <publisher value="Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"/>
   <description value="A set of codes (e.g., for routine, emergency), specifying the urgency under which the Act happened, can happen, is happening, is intended to happen, or is requested/demanded to happen."/>
   <jurisdiction>
