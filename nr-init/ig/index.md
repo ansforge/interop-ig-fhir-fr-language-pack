@@ -10,9 +10,9 @@
 | *Official URL*:https://interop.esante.gouv.fr/ig/fhir/fr/ImplementationGuide/ans.fhir.r4.fr | *Version*:0.1.0 |
 | Draft as of 2025-12-22 | *Computable Name*:FHIRLangPackFrench |
 
-# Traduction des ressources FHIR en français
+### Traduction des ressources FHIR en français
 
-This Language Pack may include both HL7 FHIR CodeSystems and DomainResources.
+Ce language pack contient les traductions françaises des ressources
 
 
 
@@ -27,7 +27,7 @@ This Language Pack may include both HL7 FHIR CodeSystems and DomainResources.
   "name" : "FHIRLangPackFrench",
   "title" : "French language pack for FHIR R4",
   "status" : "draft",
-  "date" : "2025-12-22T17:10:15+00:00",
+  "date" : "2025-12-22T17:17:12+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "contact" : [
     {

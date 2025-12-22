@@ -22,7 +22,7 @@
   fhir:name [ fhir:v "AllergyIntoleranceCriticality"] ; # 
   fhir:title [ fhir:v "AllergyIntoleranceCriticality"] ; # 
   fhir:status [ fhir:v "draft"] ; # 
-  fhir:date [ fhir:v "2025-12-22T17:10:15+00:00"^^xsd:dateTime] ; # 
+  fhir:date [ fhir:v "2025-12-22T17:17:12+00:00"^^xsd:dateTime] ; # 
   fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
   fhir:description [ fhir:v "Estimate of the potential clinical harm, or seriousness, of a reaction to an identified substance."] ; # 
   fhir:jurisdiction ( [

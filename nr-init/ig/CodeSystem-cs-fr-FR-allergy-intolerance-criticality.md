@@ -32,7 +32,7 @@ Estimate of the potential clinical harm, or seriousness, of a reaction to an ide
   "name" : "AllergyIntoleranceCriticality",
   "title" : "AllergyIntoleranceCriticality",
   "status" : "draft",
-  "date" : "2025-12-22T17:10:15+00:00",
+  "date" : "2025-12-22T17:17:12+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "Estimate of the potential clinical harm, or seriousness, of a reaction to an identified substance.",
   "jurisdiction" : [
