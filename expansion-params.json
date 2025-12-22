@@ -9,6 +9,10 @@
         {
           "name": "displayLanguage",
           "valueCode": "fr"
+        },
+        {
+          "name": "includeDesignations",
+          "valueBoolean": true
         }
     ]
 }

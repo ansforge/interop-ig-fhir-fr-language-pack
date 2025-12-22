@@ -7,7 +7,6 @@ Description: "AdministrativeGender"
 * ^meta.versionId = "6"
 * ^meta.lastUpdated = "2025-12-17T15:42:39.378+01:00"
 * ^meta.profile = "http://hl7.org/fhir/StructureDefinition/shareablevalueset|4.0.1"
-* ^language = #fr-FR
 * ^extension.url = "http://hl7.org/fhir/StructureDefinition/resource-effectivePeriod"
 * ^extension.valuePeriod.start = "2010-01-01T00:00:00+01:00"
 * ^identifier.system = "urn:ietf:rfc:3986"
