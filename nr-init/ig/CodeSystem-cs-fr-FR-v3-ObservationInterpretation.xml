@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CodeSystem xmlns="http://hl7.org/fhir">
+  <id value="cs-fr-FR-v3-ObservationInterpretation"/>
+  <language value="fr-FR"/>
+  <text>
+    <status value="generated"/><div xml:lang="fr-FR" xmlns="http://www.w3.org/1999/xhtml" lang="fr-FR"><p class="res-header-id"><b>Narratif généré : CodeSystem cs-fr-FR-v3-ObservationInterpretation</b></p><a name="cs-fr-FR-v3-ObservationInterpretation"> </a><a name="hccs-fr-FR-v3-ObservationInterpretation"> </a><div style="display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%"><p style="margin-bottom: 0px">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationInterpretation</code> defines fonctionnalités on the following codes:</p><table class="codes"><tr><td style="white-space:nowrap"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-.60">&lt;</a><a name="cs-fr-FR-v3-ObservationInterpretation-.60"> </a></td><td>Inférieur à la limite de détection</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-.62">&gt;</a><a name="cs-fr-FR-v3-ObservationInterpretation-.62"> </a></td><td>Supérieur à la limite maximale de mesure</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-A">A</a><a name="cs-fr-FR-v3-ObservationInterpretation-A"> </a></td><td>Anormal</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-AA">AA</a><a name="cs-fr-FR-v3-ObservationInterpretation-AA"> </a></td><td>Très anormal, alerte</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-B">B</a><a name="cs-fr-FR-v3-ObservationInterpretation-B"> </a></td><td>Amélioration</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-CAR">CAR</a><a name="cs-fr-FR-v3-ObservationInterpretation-CAR"> </a></td><td>Porteur d'une forme altérée d'un gène</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-D">D</a><a name="cs-fr-FR-v3-ObservationInterpretation-D"> </a></td><td>Diminution significative par rapport au résultat antérieur</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-DET">DET</a><a name="cs-fr-FR-v3-ObservationInterpretation-DET"> </a></td><td>Détecté</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-E">E</a><a name="cs-fr-FR-v3-ObservationInterpretation-E"> </a></td><td>Équivoque</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-EX">EX</a><a name="cs-fr-FR-v3-ObservationInterpretation-EX"> </a></td><td>Hors seuils</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-EXP">EXP</a><a name="cs-fr-FR-v3-ObservationInterpretation-EXP"> </a></td><td>Attendu</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-H">H</a><a name="cs-fr-FR-v3-ObservationInterpretation-H"> </a></td><td>Anormalement haut</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-HH">HH</a><a name="cs-fr-FR-v3-ObservationInterpretation-HH"> </a></td><td>Très anormalement haut, alerte</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-HU">HU</a><a name="cs-fr-FR-v3-ObservationInterpretation-HU"> </a></td><td>Significativement haut</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-HX">HX</a><a name="cs-fr-FR-v3-ObservationInterpretation-HX"> </a></td><td>Hors seuil supérieur</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-I">I</a><a name="cs-fr-FR-v3-ObservationInterpretation-I"> </a></td><td>Intermédiaire</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-IE">IE</a><a name="cs-fr-FR-v3-ObservationInterpretation-IE"> </a></td><td>Preuves insuffisantes</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-IND">IND</a><a name="cs-fr-FR-v3-ObservationInterpretation-IND"> </a></td><td>Indéterminé</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-L">L</a><a name="cs-fr-FR-v3-ObservationInterpretation-L"> </a></td><td>Anormalement bas</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-LL">LL</a><a name="cs-fr-FR-v3-ObservationInterpretation-LL"> </a></td><td>Très anormalement bas, alerte</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-LU">LU</a><a name="cs-fr-FR-v3-ObservationInterpretation-LU"> </a></td><td>Significativement bas</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-LX">LX</a><a name="cs-fr-FR-v3-ObservationInterpretation-LX"> </a></td><td>Hors seuil inférieur</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-N">N</a><a name="cs-fr-FR-v3-ObservationInterpretation-N"> </a></td><td>Normal</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-NCL">NCL</a><a name="cs-fr-FR-v3-ObservationInterpretation-NCL"> </a></td><td>Pas de standard défini</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-ND">ND</a><a name="cs-fr-FR-v3-ObservationInterpretation-ND"> </a></td><td>Non détecté</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-NEG">NEG</a><a name="cs-fr-FR-v3-ObservationInterpretation-NEG"> </a></td><td>Négatif</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-NR">NR</a><a name="cs-fr-FR-v3-ObservationInterpretation-NR"> </a></td><td>Non réactif</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-NS">NS</a><a name="cs-fr-FR-v3-ObservationInterpretation-NS"> </a></td><td>Non sensible</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-POS">POS</a><a name="cs-fr-FR-v3-ObservationInterpretation-POS"> </a></td><td>Positif</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-R">R</a><a name="cs-fr-FR-v3-ObservationInterpretation-R"> </a></td><td>Résistant</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-RR">RR</a><a name="cs-fr-FR-v3-ObservationInterpretation-RR"> </a></td><td>Réactif</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-S">S</a><a name="cs-fr-FR-v3-ObservationInterpretation-S"> </a></td><td>Sensible</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-SDD">SDD</a><a name="cs-fr-FR-v3-ObservationInterpretation-SDD"> </a></td><td>Sensible à forte dose</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-SYN-R">SYN-R</a><a name="cs-fr-FR-v3-ObservationInterpretation-SYN-R"> </a></td><td>Synergie - résistant</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-SYN-S">SYN-S</a><a name="cs-fr-FR-v3-ObservationInterpretation-SYN-S"> </a></td><td>Synergie - sensible</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-U">U</a><a name="cs-fr-FR-v3-ObservationInterpretation-U"> </a></td><td>Augmentation significative par rapport au résultat antérieur</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-UNE">UNE</a><a name="cs-fr-FR-v3-ObservationInterpretation-UNE"> </a></td><td>Inattendu</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-W">W</a><a name="cs-fr-FR-v3-ObservationInterpretation-W"> </a></td><td>Dégradation</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationInterpretation.html#v3-ObservationInterpretation-WR">WR</a><a name="cs-fr-FR-v3-ObservationInterpretation-WR"> </a></td><td>Faiblement réactif</td></tr></table></div>
+  </text>
+  <url value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationInterpretation"/>
+  <version value="0.1.0"/>
+  <name value="ObservationInterpretation"/>
+  <title value="ObservationInterpretation"/>
+  <status value="active"/>
+  <date value="2025-12-22T17:10:15+00:00"/>
+  <publisher value="Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"/>
+  <description value="One or more codes providing a rough qualitative interpretation of the observation, such as &quot;normal&quot; / &quot;abnormal&quot;, &quot;low&quot; / &quot;high&quot;, &quot;better&quot; / &quot;worse&quot;, &quot;resistant&quot; / &quot;susceptible&quot;, &quot;expected&quot; / &quot;not expected&quot;. The value set is intended to be for ANY use where coded representation of an interpretation is needed."/>
+  <jurisdiction>
+    <coding>
+      <system value="urn:iso:std:iso:3166"/>
+      <code value="FR"/>
+      <display value="FRANCE"/>
+    </coding>
+  </jurisdiction>
+  <copyright value="This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html"/>
+  <caseSensitive value="false"/>
+  <content value="supplement"/>
+  <supplements value="http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation|3.0.0"/>
+  <concept>
+    <code value="&lt;"/>
+    <display value="Inférieur à la limite de détection"/>
+  </concept>
+  <concept>
+    <code value="&gt;"/>
+    <display value="Supérieur à la limite maximale de mesure"/>
+  </concept>
+  <concept>
+    <code value="A"/>
+    <display value="Anormal"/>
+  </concept>
+  <concept>
+    <code value="AA"/>
+    <display value="Très anormal, alerte"/>
+  </concept>
+  <concept>
+    <code value="B"/>
+    <display value="Amélioration"/>
+  </concept>
+  <concept>
+    <code value="CAR"/>
+    <display value="Porteur d'une forme altérée d'un gène"/>
+  </concept>
+  <concept>
+    <code value="D"/>
+    <display value="Diminution significative par rapport au résultat antérieur"/>
+  </concept>
+  <concept>
+    <code value="DET"/>
+    <display value="Détecté"/>
+  </concept>
+  <concept>
+    <code value="E"/>
+    <display value="Équivoque"/>
+  </concept>
+  <concept>
+    <code value="EX"/>
+    <display value="Hors seuils"/>
+  </concept>
+  <concept>
+    <code value="EXP"/>
+    <display value="Attendu"/>
+  </concept>
+  <concept>
+    <code value="H"/>
+    <display value="Anormalement haut"/>
+  </concept>
+  <concept>
+    <code value="HH"/>
+    <display value="Très anormalement haut, alerte"/>
+  </concept>
+  <concept>
+    <code value="HU"/>
+    <display value="Significativement haut"/>
+  </concept>
+  <concept>
+    <code value="HX"/>
+    <display value="Hors seuil supérieur"/>
+  </concept>
+  <concept>
+    <code value="I"/>
+    <display value="Intermédiaire"/>
+  </concept>
+  <concept>
+    <code value="IE"/>
+    <display value="Preuves insuffisantes"/>
+  </concept>
+  <concept>
+    <code value="IND"/>
+    <display value="Indéterminé"/>
+  </concept>
+  <concept>
+    <code value="L"/>
+    <display value="Anormalement bas"/>
+  </concept>
+  <concept>
+    <code value="LL"/>
+    <display value="Très anormalement bas, alerte"/>
+  </concept>
+  <concept>
+    <code value="LU"/>
+    <display value="Significativement bas"/>
+  </concept>
+  <concept>
+    <code value="LX"/>
+    <display value="Hors seuil inférieur"/>
+  </concept>
+  <concept>
+    <code value="N"/>
+    <display value="Normal"/>
+  </concept>
+  <concept>
+    <code value="NCL"/>
+    <display value="Pas de standard défini"/>
+  </concept>
+  <concept>
+    <code value="ND"/>
+    <display value="Non détecté"/>
+  </concept>
+  <concept>
+    <code value="NEG"/>
+    <display value="Négatif"/>
+  </concept>
+  <concept>
+    <code value="NR"/>
+    <display value="Non réactif"/>
+  </concept>
+  <concept>
+    <code value="NS"/>
+    <display value="Non sensible"/>
+  </concept>
+  <concept>
+    <code value="POS"/>
+    <display value="Positif"/>
+  </concept>
+  <concept>
+    <code value="R"/>
+    <display value="Résistant"/>
+  </concept>
+  <concept>
+    <code value="RR"/>
+    <display value="Réactif"/>
+  </concept>
+  <concept>
+    <code value="S"/>
+    <display value="Sensible"/>
+  </concept>
+  <concept>
+    <code value="SDD"/>
+    <display value="Sensible à forte dose"/>
+  </concept>
+  <concept>
+    <code value="SYN-R"/>
+    <display value="Synergie - résistant"/>
+  </concept>
+  <concept>
+    <code value="SYN-S"/>
+    <display value="Synergie - sensible"/>
+  </concept>
+  <concept>
+    <code value="U"/>
+    <display value="Augmentation significative par rapport au résultat antérieur"/>
+  </concept>
+  <concept>
+    <code value="UNE"/>
+    <display value="Inattendu"/>
+  </concept>
+  <concept>
+    <code value="W"/>
+    <display value="Dégradation"/>
+  </concept>
+  <concept>
+    <code value="WR"/>
+    <display value="Faiblement réactif"/>
+  </concept>
+</CodeSystem>

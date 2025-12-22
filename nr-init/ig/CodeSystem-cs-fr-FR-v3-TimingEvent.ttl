@@ -1,0 +1,102 @@
+@prefix fhir: <http://hl7.org/fhir/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# - resource -------------------------------------------------------------------
+
+<https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-TimingEvent> a fhir:CodeSystem ;
+  fhir:nodeRole fhir:treeRoot ;
+  fhir:id [ fhir:v "cs-fr-FR-v3-TimingEvent"] ; # 
+  fhir:language [ fhir:v "fr-FR"] ; # 
+  fhir:text [
+     fhir:status [ fhir:v "generated" ] ;
+     fhir:div [ fhir:v "<div xml:lang=\"fr-FR\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr-FR\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-FR-v3-TimingEvent</b></p><a name=\"cs-fr-FR-v3-TimingEvent\"> </a><a name=\"hccs-fr-FR-v3-TimingEvent\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-TimingEvent</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-AC\">AC</a><a name=\"cs-fr-FR-v3-TimingEvent-AC\"> </a></td><td>Avant le repas</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-ACD\">ACD</a><a name=\"cs-fr-FR-v3-TimingEvent-ACD\"> </a></td><td>Avant le déjeuner</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-ACM\">ACM</a><a name=\"cs-fr-FR-v3-TimingEvent-ACM\"> </a></td><td>Avant le petit-déjeuner</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-ACV\">ACV</a><a name=\"cs-fr-FR-v3-TimingEvent-ACV\"> </a></td><td>Avant le dîner</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-C\">C</a><a name=\"cs-fr-FR-v3-TimingEvent-C\"> </a></td><td>Pendant les repas</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-CD\">CD</a><a name=\"cs-fr-FR-v3-TimingEvent-CD\"> </a></td><td>Pendant le déjeuner</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-CM\">CM</a><a name=\"cs-fr-FR-v3-TimingEvent-CM\"> </a></td><td>Pendant le petit-déjeuner</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-CV\">CV</a><a name=\"cs-fr-FR-v3-TimingEvent-CV\"> </a></td><td>Pendant le dîner</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-HS\">HS</a><a name=\"cs-fr-FR-v3-TimingEvent-HS\"> </a></td><td>Au coucher</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-IC\">IC</a><a name=\"cs-fr-FR-v3-TimingEvent-IC\"> </a></td><td>Entre les repas</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-ICD\">ICD</a><a name=\"cs-fr-FR-v3-TimingEvent-ICD\"> </a></td><td>Entre le déjeuner et le dîner</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-ICM\">ICM</a><a name=\"cs-fr-FR-v3-TimingEvent-ICM\"> </a></td><td>Entre le petit-déjeûner et le déjeûner</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-ICV\">ICV</a><a name=\"cs-fr-FR-v3-TimingEvent-ICV\"> </a></td><td>Entre le diner et le coucher</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-PC\">PC</a><a name=\"cs-fr-FR-v3-TimingEvent-PC\"> </a></td><td>Après le repas</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-PCD\">PCD</a><a name=\"cs-fr-FR-v3-TimingEvent-PCD\"> </a></td><td>Après le déjeuner</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-PCM\">PCM</a><a name=\"cs-fr-FR-v3-TimingEvent-PCM\"> </a></td><td>Après le petit-déjeuner</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-PCV\">PCV</a><a name=\"cs-fr-FR-v3-TimingEvent-PCV\"> </a></td><td>Après le dîner</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-TimingEvent.html#v3-TimingEvent-WAKE\">WAKE</a><a name=\"cs-fr-FR-v3-TimingEvent-WAKE\"> </a></td><td>Au réveil</td></tr></table></div>"^^rdf:XMLLiteral ]
+  ] ; # 
+  fhir:url [
+     fhir:v "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-TimingEvent"^^xsd:anyURI ;
+     fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-TimingEvent>
+  ] ; # 
+  fhir:version [ fhir:v "0.1.0"] ; # 
+  fhir:name [ fhir:v "TimingEvent"] ; # 
+  fhir:title [ fhir:v "TimingEvent"] ; # 
+  fhir:status [ fhir:v "active"] ; # 
+  fhir:date [ fhir:v "2025-12-22T17:10:15+00:00"^^xsd:dateTime] ; # 
+  fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
+  fhir:description [ fhir:v "**** MISSING DESCRIPTION ****"] ; # 
+  fhir:jurisdiction ( [
+     fhir:coding ( [
+       fhir:system [
+         fhir:v "urn:iso:std:iso:3166"^^xsd:anyURI ;
+         fhir:l <urn:iso:std:iso:3166>
+       ] ;
+       fhir:code [ fhir:v "FR" ] ;
+       fhir:display [ fhir:v "FRANCE" ]
+     ] )
+  ] ) ; # 
+  fhir:copyright [ fhir:v "This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html"] ; # 
+  fhir:caseSensitive [ fhir:v false] ; # 
+  fhir:content [ fhir:v "supplement"] ; # 
+  fhir:supplements [
+     fhir:v "http://terminology.hl7.org/CodeSystem/v3-TimingEvent|3.0.0"^^xsd:anyURI ;
+     fhir:l <http://terminology.hl7.org/CodeSystem/v3-TimingEvent?version=3.0.0>
+  ] ; # 
+  fhir:concept ( [
+     fhir:code [ fhir:v "AC" ] ;
+     fhir:display [ fhir:v "Avant le repas" ]
+  ] [
+     fhir:code [ fhir:v "ACD" ] ;
+     fhir:display [ fhir:v "Avant le déjeuner" ]
+  ] [
+     fhir:code [ fhir:v "ACM" ] ;
+     fhir:display [ fhir:v "Avant le petit-déjeuner" ]
+  ] [
+     fhir:code [ fhir:v "ACV" ] ;
+     fhir:display [ fhir:v "Avant le dîner" ]
+  ] [
+     fhir:code [ fhir:v "C" ] ;
+     fhir:display [ fhir:v "Pendant les repas" ]
+  ] [
+     fhir:code [ fhir:v "CD" ] ;
+     fhir:display [ fhir:v "Pendant le déjeuner" ]
+  ] [
+     fhir:code [ fhir:v "CM" ] ;
+     fhir:display [ fhir:v "Pendant le petit-déjeuner" ]
+  ] [
+     fhir:code [ fhir:v "CV" ] ;
+     fhir:display [ fhir:v "Pendant le dîner" ]
+  ] [
+     fhir:code [ fhir:v "HS" ] ;
+     fhir:display [ fhir:v "Au coucher" ]
+  ] [
+     fhir:code [ fhir:v "IC" ] ;
+     fhir:display [ fhir:v "Entre les repas" ]
+  ] [
+     fhir:code [ fhir:v "ICD" ] ;
+     fhir:display [ fhir:v "Entre le déjeuner et le dîner" ]
+  ] [
+     fhir:code [ fhir:v "ICM" ] ;
+     fhir:display [ fhir:v "Entre le petit-déjeûner et le déjeûner" ]
+  ] [
+     fhir:code [ fhir:v "ICV" ] ;
+     fhir:display [ fhir:v "Entre le diner et le coucher" ]
+  ] [
+     fhir:code [ fhir:v "PC" ] ;
+     fhir:display [ fhir:v "Après le repas" ]
+  ] [
+     fhir:code [ fhir:v "PCD" ] ;
+     fhir:display [ fhir:v "Après le déjeuner" ]
+  ] [
+     fhir:code [ fhir:v "PCM" ] ;
+     fhir:display [ fhir:v "Après le petit-déjeuner" ]
+  ] [
+     fhir:code [ fhir:v "PCV" ] ;
+     fhir:display [ fhir:v "Après le dîner" ]
+  ] [
+     fhir:code [ fhir:v "WAKE" ] ;
+     fhir:display [ fhir:v "Au réveil" ]
+  ] ) . # 
+
+# -------------------------------------------------------------------------------------
+

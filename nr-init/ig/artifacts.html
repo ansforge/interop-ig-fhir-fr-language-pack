@@ -137,7 +137,7 @@
 
             <a href="#bottom">bottom</a>
 
-          | <a href="CodeSystem-cs-fr-FR-address-type.html">next&gt;</a>
+          | <a href="CodeSystem-cs-fr-FR-v3-mediaType.html">next&gt;</a>
 
           </span>
 
@@ -186,29 +186,80 @@ h6:before{color:silver;counter-increment:more-detail;content:var(--heading-prefi
       <tbody>
          <tr>
             <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-address-type.html"
-                  title="CodeSystem/cs-fr-FR-address-type">AddressType</a>
+               <a href="CodeSystem-cs-fr-FR-v3-ActCode.html"
+                  title="CodeSystem/cs-fr-FR-v3-ActCode">ActCode</a>
             </td>
             <td>
-<p>The type of an address (physical / postal).</p>
+<p>A code specifying the particular kind of Act that the Act-instance represents within its class.
+
+<em>Constraints:</em> The kind of Act (e.g. physical examination, serum potassium, inpatient encounter, charge financial transaction, etc.) is specified with a code from one of several, typically external, coding systems. The coding system will depend on the class of Act, such as LOINC for observations, etc.
+
+Conceptually, the Act.code must be a specialization of the Act.classCode. This is why the structure of ActClass domain should be reflected in the superstructure of the ActCode domain and then individual codes or externally referenced vocabularies subordinated under these domains that reflect the ActClass structure.
+
+Act.classCode and Act.code are not modifiers of each other but the Act.code concept should really imply the Act.classCode concept. For a negative example, it is not appropriate to use an Act.code "potassium" together with and Act.classCode for "laboratory observation" to somehow mean "potassium laboratory observation" and then use the same Act.code for "potassium" together with Act.classCode for "medication" to mean "substitution of potassium". This mutually modifying use of Act.code and Act.classCode is not permitted.</p>
 </td>
          </tr>
          <tr>
             <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-address-use.html"
-                  title="CodeSystem/cs-fr-FR-address-use">AddressUse</a>
+               <a href="CodeSystem-cs-fr-FR-v3-ActMood.html"
+                  title="CodeSystem/cs-fr-FR-v3-ActMood">ActMood</a>
             </td>
             <td>
-<p>The use of an address.</p>
+<p>OpenIssue: In Ballot 2009May, a strong Negative vote was lodged against several of the concept definitions in the vocabulary used for Act.moodCode. The vote was found "Persuasive With Mod", with the understanding that M and M would undertake a detailed review of these concept definitions for a future release of the RIM.</p>
 </td>
          </tr>
          <tr>
             <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-administrative-gender.html"
-                  title="CodeSystem/cs-fr-FR-administrative-gender">AdministrativeGender</a>
+               <a href="CodeSystem-cs-fr-FR-v3-ActPriority.html"
+                  title="CodeSystem/cs-fr-FR-v3-ActPriority">ActPriority</a>
             </td>
             <td>
-<p>The gender of a person used for administrative purposes.</p>
+<p>A set of codes (e.g., for routine, emergency), specifying the urgency under which the Act happened, can happen, is happening, is intended to happen, or is requested/demanded to happen.</p>
+</td>
+         </tr>
+         <tr>
+            <td style="column-width:30%">
+               <a href="CodeSystem-cs-fr-FR-v3-ActStatus.html"
+                  title="CodeSystem/cs-fr-FR-v3-ActStatus">ActStatus</a>
+            </td>
+            <td>
+<p>Codes representing the defined possible states of an Act, as defined by the Act class state machine.</p>
+</td>
+         </tr>
+         <tr>
+            <td style="column-width:30%">
+               <a href="CodeSystem-cs-fr-FR-v3-AdministrativeGender.html"
+                  title="CodeSystem/cs-fr-FR-v3-AdministrativeGender">AdministrativeGender</a>
+            </td>
+            <td>
+<p>The gender of a person used for adminstrative purposes (as opposed to clinical gender)</p>
+</td>
+         </tr>
+         <tr>
+            <td style="column-width:30%">
+               <a href="CodeSystem-cs-fr-FR-allergyintolerance-clinical.html"
+                  title="CodeSystem/cs-fr-FR-allergyintolerance-clinical">AllergyIntoleranceClinicalStatusCodes</a>
+            </td>
+            <td>
+<p>Preferred value set for AllergyIntolerance Clinical Status.</p>
+</td>
+         </tr>
+         <tr>
+            <td style="column-width:30%">
+               <a href="CodeSystem-cs-fr-FR-allergy-intolerance-criticality.html"
+                  title="CodeSystem/cs-fr-FR-allergy-intolerance-criticality">AllergyIntoleranceCriticality</a>
+            </td>
+            <td>
+<p>Estimate of the potential clinical harm, or seriousness, of a reaction to an identified substance.</p>
+</td>
+         </tr>
+         <tr>
+            <td style="column-width:30%">
+               <a href="CodeSystem-cs-fr-FR-condition-clinical.html"
+                  title="CodeSystem/cs-fr-FR-condition-clinical">ConditionClinicalStatusCodes</a>
+            </td>
+            <td>
+<p>Preferred value set for Condition Clinical Status.</p>
 </td>
          </tr>
          <tr>
@@ -222,114 +273,163 @@ h6:before{color:silver;counter-increment:more-detail;content:var(--heading-prefi
          </tr>
          <tr>
             <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-contactentity-type.html"
-                  title="CodeSystem/cs-fr-FR-contactentity-type">ContactEntityType</a>
+               <a href="CodeSystem-cs-fr-FR-v3-Confidentiality.html"
+                  title="CodeSystem/cs-fr-FR-v3-Confidentiality">Confidentiality</a>
             </td>
             <td>
-<p>This example value set defines a set of codes that can be used to indicate the purpose for which you would contact a contact party.</p>
+<p>A set of codes specifying the security classification of acts and roles in accordance with the definition for concept domain "Confidentiality".</p>
 </td>
          </tr>
          <tr>
             <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-contact-point-system.html"
-                  title="CodeSystem/cs-fr-FR-contact-point-system">ContactPointSystem</a>
+               <a href="CodeSystem-cs-fr-FR-v2-0066.html"
+                  title="CodeSystem/cs-fr-FR-v2-0066">EmploymentStatus</a>
             </td>
             <td>
-<p>Telecommunications form for contact point.</p>
+<p>HL7-defined code system of concepts which specify an employment status of a person. Used in HL7 Version 2 messaging in the GT1 segment.</p>
 </td>
          </tr>
          <tr>
             <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-contact-point-use.html"
-                  title="CodeSystem/cs-fr-FR-contact-point-use">ContactPointUse</a>
+               <a href="CodeSystem-cs-fr-FR-v3-mediaType.html"
+                  title="CodeSystem/cs-fr-FR-v3-mediaType">MediaType</a>
             </td>
             <td>
-<p>Use of contact point.</p>
-</td>
-         </tr>
-         <tr>
-            <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-v2-0131.html"
-                  title="CodeSystem/cs-fr-FR-v2-0131">ContactRole2</a>
-            </td>
-            <td>
-<p>Code system of concepts which specify a relationship role that the next of kin/associated parties plays with regard to the patient. Also used in referrals, for example, it may be necessary to identify the contact representative at the clinic that sent a referral. Used in HL7 Version 2 messaging in the NK1 and CTD segments after 2.5, when it replace 2.16.840.1.113883.18.57.</p>
-</td>
-         </tr>
-         <tr>
-            <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-days-of-week.html"
-                  title="CodeSystem/cs-fr-FR-days-of-week">DaysOfWeek</a>
-            </td>
-            <td>
-<p>The days of the week.</p>
-</td>
-         </tr>
-         <tr>
-            <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-v3-EntityNamePartQualifierR2.html"
-                  title="CodeSystem/cs-fr-FR-v3-EntityNamePartQualifierR2">EntityNamePartQualifierR2</a>
-            </td>
-            <td>
-<p><strong>Description:</strong>The qualifier is a set of codes each of which specifies a certain subcategory of the name part in addition to the main name part type. For example, a given name may be flagged as a nickname, a family name may be a pseudonym or a name of public records.</p>
-</td>
-         </tr>
-         <tr>
-            <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-v2-0203.html"
-                  title="CodeSystem/cs-fr-FR-v2-0203">IdentifierType</a>
-            </td>
-            <td>
-<p>HL7-defined code system of concepts specifying type of identifier. Used in HL7 Version 2.x messaging data types CX, PLN, PPN, XCN and XON.</p>
-</td>
-         </tr>
-         <tr>
-            <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-identifier-use.html"
-                  title="CodeSystem/cs-fr-FR-identifier-use">IdentifierUse</a>
-            </td>
-            <td>
-<p>Identifies the purpose for this identifier, if known .</p>
-</td>
-         </tr>
-         <tr>
-            <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-link-type.html"
-                  title="CodeSystem/cs-fr-FR-link-type">LinkType</a>
-            </td>
-            <td>
-<p>The type of link between this patient resource and another patient resource.</p>
-</td>
-         </tr>
-         <tr>
-            <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-v3-MaritalStatus.html"
-                  title="CodeSystem/cs-fr-FR-v3-MaritalStatus">MaritalStatus</a>
-            </td>
-            <td>
-<p>* * * No description supplied * * *
+<p>Internet Assigned Numbers Authority (IANA) Mime Media Types. Identifies the type of the encapsulated data and identifies a method to interpret or render the data. The IANA defined domain of media types is established by the Internet standard RFC 2045 [http://www.ietf.org/rfc/rfc2045.txt] and 2046 [http://www.ietf.org/rfc/rfc2046.txt]. RFC 2046 defines the media type to consist of two parts:
+</p>
+<ol>
+  <li>top level media type, and</li>
+  <li>media subtype
 
-<em>Open Issue:</em> The specific meanings of these codes can vary somewhat by jurisdiction and implementation so caution should be used when determining equivalency.
+However, this HL7 datatypes specification treats the entire media type as one atomic code symbol in the form defined by IANA, i.e., top level type followed by a slash "/" followed by media subtype. Currently defined media types are registered in a database [http://www.iana.org/assignments/media-types/index.html] maintained by IANA. Currently several hundred different MIME media types are defined, with the list growing rapidly. In general, all those types defined by the IANA MAY be used.</li>
+</ol>
+</td>
+         </tr>
+         <tr>
+            <td style="column-width:30%">
+               <a href="CodeSystem-cs-fr-FR-v3-ObservationInterpretation.html"
+                  title="CodeSystem/cs-fr-FR-v3-ObservationInterpretation">ObservationInterpretation</a>
+            </td>
+            <td>
+<p>One or more codes providing a rough qualitative interpretation of the observation, such as "normal" / "abnormal", "low" / "high", "better" / "worse", "resistant" / "susceptible", "expected" / "not expected". The value set is intended to be for ANY use where coded representation of an interpretation is needed.</p>
+</td>
+         </tr>
+         <tr>
+            <td style="column-width:30%">
+               <a href="CodeSystem-cs-fr-FR-v3-ObservationMethod.html"
+                  title="CodeSystem/cs-fr-FR-v3-ObservationMethod">ObservationMethod</a>
+            </td>
+            <td>
+<p>A code that provides additional detail about the means or technique used to ascertain the observation.
 
-<em>Open Issue:</em> fixing and completion of the hierarchy and proper good definitions of all the concepts is badly needed.</p>
+<em>Examples:</em> Blood pressure measurement method: arterial puncture vs. sphygmomanometer (Riva-Rocci), sitting vs. supine position, etc.
+
+<em>OpenIssue:</em> Description copied from Concept Domain of same name. Must be verified. Note that the Domain has a full discussion about use of the attribute and constraining that is not appropriate for the code system description. Needs to be improved.</p>
 </td>
          </tr>
          <tr>
             <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-name-use.html"
-                  title="CodeSystem/cs-fr-FR-name-use">NameUse</a>
+               <a href="CodeSystem-cs-fr-FR-v3-ObservationValue.html"
+                  title="CodeSystem/cs-fr-FR-v3-ObservationValue">ObservationValue</a>
             </td>
             <td>
-<p>The use of a human name.</p>
+<p>This code system covers all concepts of HL7-defined values for the Observation value element, when it has a coded datatype.</p>
 </td>
          </tr>
          <tr>
             <td style="column-width:30%">
-               <a href="CodeSystem-cs-fr-FR-v3-NullFlavor.html"
-                  title="CodeSystem/cs-fr-FR-v3-NullFlavor">NullFlavor</a>
+               <a href="CodeSystem-cs-fr-FR-v3-orderableDrugForm.html"
+                  title="CodeSystem/cs-fr-FR-v3-orderableDrugForm">OrderableDrugForm</a>
             </td>
             <td>
-<p>A collection of codes specifying why a valid value is not present.</p>
+<p><em>OpenIssue:</em> Missing description.</p>
+</td>
+         </tr>
+         <tr>
+            <td style="column-width:30%">
+               <a href="CodeSystem-cs-fr-FR-v3-ParticipationFunction.html"
+                  title="CodeSystem/cs-fr-FR-v3-ParticipationFunction">ParticipationFunction</a>
+            </td>
+            <td>
+<p>This code is used to specify the exact function an actor had in a service in all necessary detail. This domain may include local extensions (CWE).</p>
+</td>
+         </tr>
+         <tr>
+            <td style="column-width:30%">
+               <a href="CodeSystem-cs-fr-FR-v3-ParticipationType.html"
+                  title="CodeSystem/cs-fr-FR-v3-ParticipationType">ParticipationType</a>
+            </td>
+            <td>
+<p>A code specifying the meaning and purpose of every Participation instance. Each of its values implies specific constraints on the Roles undertaking the participation.</p>
+</td>
+         </tr>
+         <tr>
+            <td style="column-width:30%">
+               <a href="CodeSystem-cs-fr-FR-v3-RoleClass.html"
+                  title="CodeSystem/cs-fr-FR-v3-RoleClass">RoleClass</a>
+            </td>
+            <td>
+<p>Codes for the Role class hierarchy. The values in this hierarchy, represent a Role which is an association or relationship between two entities - the entity that plays the role and the entity that scopes the role. Roles names are derived from the name of the playing entity in that role.
+
+The role hierarchy stems from three core concepts, or abstract domains:
+</p>
+<ul>
+  <li><strong>RoleClassOntological</strong> is an abstract domain that collects roles in which the playing entity is defined or specified by the scoping entity.</li>
+  <li><strong>RoleClassPartitive</strong> collects roles in which the playing entity is in some sense a "part" of the scoping entity.</li>
+  <li><strong>RoleClassAssociative</strong> collects all of the remaining forms of association between the playing entity and the scoping entity. This set of roles is further partitioned between:
+
+    <ul>
+      <li><strong>RoleClassPassive</strong> which are roles in which the playing entity is used, known, treated, handled, built, or destroyed, etc. under the auspices of the scoping entity. The playing entity is passive in these roles in that the role exists without an agreement from the playing entity.</li>
+      <li><strong>RoleClassMutualRelationship</strong> which are relationships based on mutual behavior of the two entities. The basis of these relationship may be formal agreements or they may be <em>de facto</em> behavior. Thus, this sub-domain is further divided into:
+
+        <ul>
+          <li><strong>RoleClassRelationshipFormal</strong> in which the relationship is formally defined, frequently by a contract or agreement.</li>
+          <li><strong>Personal relationship</strong> which inks two people in a personal relationship.
+
+The hierarchy discussed above is represented In the current vocabulary tables as a set of abstract domains, with the exception of the "Personal relationship" which is a leaf concept.
+
+<em>OpenIssue:</em> Description copied from Concept Domain of same name. Must be verified.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+</td>
+         </tr>
+         <tr>
+            <td style="column-width:30%">
+               <a href="CodeSystem-cs-fr-FR-v3-RoleCode.html"
+                  title="CodeSystem/cs-fr-FR-v3-RoleCode">RoleCode</a>
+            </td>
+            <td>
+<p>A set of codes further specifying the kind of Role; specific classification codes for further qualifying RoleClass codes.</p>
+</td>
+         </tr>
+         <tr>
+            <td style="column-width:30%">
+               <a href="CodeSystem-cs-fr-FR-v2-0487.html"
+                  title="CodeSystem/cs-fr-FR-v2-0487">SpecimenType</a>
+            </td>
+            <td>
+<p>HL7-defined code system of concepts that describe the precise nature of an entity that may be used as the source material for an observation.  This is one of two code systems that are used instead of table 0070 (code system 2.16.840.1.113883.18.28) which conflated specimen types and specimen collection methods.   Used in HL7 Version 2.x messaging in the SPM segment.</p>
+</td>
+         </tr>
+         <tr>
+            <td style="column-width:30%">
+               <a href="CodeSystem-cs-fr-FR-v3-substanceAdminSubstitution.html"
+                  title="CodeSystem/cs-fr-FR-v3-substanceAdminSubstitution">SubstanceAdminSubstitution</a>
+            </td>
+            <td>
+<p>Identifies what sort of change is permitted or has occurred between the therapy that was ordered and the therapy that was/will be provided.</p>
+</td>
+         </tr>
+         <tr>
+            <td style="column-width:30%">
+               <a href="CodeSystem-cs-fr-FR-v3-TimingEvent.html"
+                  title="CodeSystem/cs-fr-FR-v3-TimingEvent">TimingEvent</a>
+            </td>
+            <td>
+<p><strong>** MISSING DESCRIPTION **</strong></p>
 </td>
          </tr>
       </tbody>
@@ -364,7 +464,7 @@ h6:before{color:silver;counter-increment:more-detail;content:var(--heading-prefi
               </td>
               <td style="text-align:right">&#xA0;
 
-                <a href="CodeSystem-cs-fr-FR-address-type.html">next&gt;</a>
+                <a href="CodeSystem-cs-fr-FR-v3-mediaType.html">next&gt;</a>
 
               </td>
             </tr>
@@ -374,7 +474,7 @@ h6:before{color:silver;counter-increment:more-detail;content:var(--heading-prefi
 
       <div class="inner-wrapper">
         <p>
-          IG &#169; 2020+ <a style="color:var(--footer-hyperlink-text-color)" href="https://esante.gouv.fr">Agence du Numérique en Santé (ANS) - 2-10 Rue d&#39;Oradour-sur-Glane, 75015 Paris</a>.  Package ans.fhir.r4.fr#0.1.0 based on <a style="color: var(--footer-hyperlink-text-color)" href="http://hl7.org/fhir/R4/">FHIR 4.0.1</a>. Generated <span title="Mon, Dec 22, 2025 14:22+0000">2025-12-22</span>
+          IG &#169; 2020+ <a style="color:var(--footer-hyperlink-text-color)" href="https://esante.gouv.fr">Agence du Numérique en Santé (ANS) - 2-10 Rue d&#39;Oradour-sur-Glane, 75015 Paris</a>.  Package ans.fhir.r4.fr#0.1.0 based on <a style="color: var(--footer-hyperlink-text-color)" href="http://hl7.org/fhir/R4/">FHIR 4.0.1</a>. Generated <span title="Mon, Dec 22, 2025 17:10+0000">2025-12-22</span>
           <br/>
           <span style="color: var(--footer-highlight-text-color)"></span>
             Liens : <a style="color: var(--footer-hyperlink-text-color)" href="toc.html">Table des matières</a> |

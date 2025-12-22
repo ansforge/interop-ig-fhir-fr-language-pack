@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CodeSystem xmlns="http://hl7.org/fhir">
+  <id value="cs-fr-FR-v3-ActStatus"/>
+  <language value="fr-FR"/>
+  <text>
+    <status value="generated"/><div xml:lang="fr-FR" xmlns="http://www.w3.org/1999/xhtml" lang="fr-FR"><p class="res-header-id"><b>Narratif généré : CodeSystem cs-fr-FR-v3-ActStatus</b></p><a name="cs-fr-FR-v3-ActStatus"> </a><a name="hccs-fr-FR-v3-ActStatus"> </a><div style="display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%"><p style="margin-bottom: 0px">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActStatus</code> defines fonctionnalités on the following codes:</p><table class="codes"><tr><td style="white-space:nowrap"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-aborted">aborted</a><a name="cs-fr-FR-v3-ActStatus-aborted"> </a></td><td>Arrêté (après son lancement)</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-active">active</a><a name="cs-fr-FR-v3-ActStatus-active"> </a></td><td>Actif (en cours ou à venir)</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-cancelled">cancelled</a><a name="cs-fr-FR-v3-ActStatus-cancelled"> </a></td><td>Annulé (avant son lancement)</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-completed">completed</a><a name="cs-fr-FR-v3-ActStatus-completed"> </a></td><td>Terminé</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-held">held</a><a name="cs-fr-FR-v3-ActStatus-held"> </a></td><td>En attente (avant son lancement)</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-new">new</a><a name="cs-fr-FR-v3-ActStatus-new"> </a></td><td>En préparation</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-suspended">suspended</a><a name="cs-fr-FR-v3-ActStatus-suspended"> </a></td><td>Suspendu (au cours de sa réalisation)</td></tr></table></div>
+  </text>
+  <url value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActStatus"/>
+  <version value="0.1.0"/>
+  <name value="ActStatus"/>
+  <title value="ActStatus"/>
+  <status value="active"/>
+  <date value="2025-12-22T17:10:15+00:00"/>
+  <publisher value="Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"/>
+  <description value="Codes representing the defined possible states of an Act, as defined by the Act class state machine."/>
+  <jurisdiction>
+    <coding>
+      <system value="urn:iso:std:iso:3166"/>
+      <code value="FR"/>
+      <display value="FRANCE"/>
+    </coding>
+  </jurisdiction>
+  <copyright value="This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html"/>
+  <caseSensitive value="false"/>
+  <content value="supplement"/>
+  <supplements value="http://terminology.hl7.org/CodeSystem/v3-ActStatus|3.0.0"/>
+  <concept>
+    <code value="aborted"/>
+    <display value="Arrêté (après son lancement)"/>
+  </concept>
+  <concept>
+    <code value="active"/>
+    <display value="Actif (en cours ou à venir)"/>
+  </concept>
+  <concept>
+    <code value="cancelled"/>
+    <display value="Annulé (avant son lancement)"/>
+  </concept>
+  <concept>
+    <code value="completed"/>
+    <display value="Terminé"/>
+  </concept>
+  <concept>
+    <code value="held"/>
+    <display value="En attente (avant son lancement)"/>
+  </concept>
+  <concept>
+    <code value="new"/>
+    <display value="En préparation"/>
+  </concept>
+  <concept>
+    <code value="suspended"/>
+    <display value="Suspendu (au cours de sa réalisation)"/>
+  </concept>
+</CodeSystem>

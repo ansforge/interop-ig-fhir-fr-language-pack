@@ -1,0 +1,56 @@
+{
+  "resourceType" : "CodeSystem",
+  "id" : "cs-fr-FR-v3-ObservationMethod",
+  "language" : "fr-FR",
+  "text" : {
+    "status" : "generated",
+    "div" : "<div xml:lang=\"fr-FR\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr-FR\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-FR-v3-ObservationMethod</b></p><a name=\"cs-fr-FR-v3-ObservationMethod\"> </a><a name=\"hccs-fr-FR-v3-ObservationMethod\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationMethod</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationMethod.html#v3-ObservationMethod-ALGM\">ALGM</a><a name=\"cs-fr-FR-v3-ObservationMethod-ALGM\"> </a></td><td>Algorythme</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationMethod.html#v3-ObservationMethod-BYCL\">BYCL</a><a name=\"cs-fr-FR-v3-ObservationMethod-BYCL\"> </a></td><td>Analyse stastistique Bayésienne</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationMethod.html#v3-ObservationMethod-PCR\">PCR</a><a name=\"cs-fr-FR-v3-ObservationMethod-PCR\"> </a></td><td>PCR</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationMethod.html#v3-ObservationMethod-VDOC\">VDOC</a><a name=\"cs-fr-FR-v3-ObservationMethod-VDOC\"> </a></td><td>Vérification à partir d'un document</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationMethod.html#v3-ObservationMethod-VREG\">VREG</a><a name=\"cs-fr-FR-v3-ObservationMethod-VREG\"> </a></td><td>Vérification par requête électronique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationMethod.html#v3-ObservationMethod-VTOKEN\">VTOKEN</a><a name=\"cs-fr-FR-v3-ObservationMethod-VTOKEN\"> </a></td><td>Vérification au moyen d'un jeton électronique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationMethod.html#v3-ObservationMethod-VVOICE\">VVOICE</a><a name=\"cs-fr-FR-v3-ObservationMethod-VVOICE\"> </a></td><td>Vérification par voie orale</td></tr></table></div>"
+  },
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationMethod",
+  "version" : "0.1.0",
+  "name" : "ObservationMethod",
+  "title" : "ObservationMethod",
+  "status" : "active",
+  "date" : "2025-12-22T17:10:15+00:00",
+  "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
+  "description" : "A code that provides additional detail about the means or technique used to ascertain the observation.\r\n\r\n*Examples:* Blood pressure measurement method: arterial puncture vs. sphygmomanometer (Riva-Rocci), sitting vs. supine position, etc.\r\n\r\n*OpenIssue:* Description copied from Concept Domain of same name. Must be verified. Note that the Domain has a full discussion about use of the attribute and constraining that is not appropriate for the code system description. Needs to be improved.",
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "urn:iso:std:iso:3166",
+      "code" : "FR",
+      "display" : "FRANCE"
+    }]
+  }],
+  "copyright" : "This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html",
+  "caseSensitive" : false,
+  "content" : "supplement",
+  "supplements" : "http://terminology.hl7.org/CodeSystem/v3-ObservationMethod|3.0.0",
+  "concept" : [{
+    "code" : "ALGM",
+    "display" : "Algorythme"
+  },
+  {
+    "code" : "BYCL",
+    "display" : "Analyse stastistique Bayésienne"
+  },
+  {
+    "code" : "PCR",
+    "display" : "PCR"
+  },
+  {
+    "code" : "VDOC",
+    "display" : "Vérification à partir d'un document"
+  },
+  {
+    "code" : "VREG",
+    "display" : "Vérification par requête électronique"
+  },
+  {
+    "code" : "VTOKEN",
+    "display" : "Vérification au moyen d'un jeton électronique"
+  },
+  {
+    "code" : "VVOICE",
+    "display" : "Vérification par voie orale"
+  }]
+}

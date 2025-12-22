@@ -33,7 +33,7 @@ The verification status to support or decline the clinical status of the conditi
   "name" : "ConditionVerificationStatus",
   "title" : "ConditionVerificationStatus",
   "status" : "active",
-  "date" : "2025-12-22T14:22:23+00:00",
+  "date" : "2025-12-22T17:10:15+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "The verification status to support or decline the clinical status of the condition or diagnosis.",
   "jurisdiction" : [
@@ -54,27 +54,15 @@ The verification status to support or decline the clinical status of the conditi
   "concept" : [
     {
       "code" : "unconfirmed",
-      "display" : "Obekräftad"
-    },
-    {
-      "code" : "provisional",
-      "display" : "Preliminär"
-    },
-    {
-      "code" : "differential",
-      "display" : "Differential"
+      "display" : "Non confirmé"
     },
     {
       "code" : "confirmed",
-      "display" : "Bekräftad"
+      "display" : "Confirmé"
     },
     {
       "code" : "refuted",
-      "display" : "Motbevisad"
-    },
-    {
-      "code" : "entered-in-error",
-      "display" : "Felaktigt inmatad"
+      "display" : "Réfuté"
     }
   ]
 }

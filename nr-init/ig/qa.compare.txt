@@ -1,27 +1,34 @@
 FHIRLangPackFrench : Validation Results
 =========================================
 
-err = 18, warn = 21, info = 33
+err = 25, warn = 28, info = 47
 $--
 Generated $--. FHIR version $-- for ans.fhir.r4.fr#$-- (canonical = https://interop.esante.gouv.fr/ig/fhir/fr)
  Build Errors : 2 / 5 / 0
  /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/fsh-generated/resources/ImplementationGuide-ans.fhir.r4.fr : 1 / 0 / 2
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-address-type : 1 / 1 / 3
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-address-use : 1 / 1 / 3
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-administrative-gender : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-allergy-intolerance-criticality : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-allergyintolerance-clinical : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-condition-clinical : 1 / 1 / 3
  /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-condition-ver-status : 1 / 1 / 3
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-contact-point-system : 1 / 1 / 3
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-contact-point-use : 1 / 1 / 3
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-contactentity-type : 1 / 1 / 3
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-days-of-week : 1 / 1 / 3
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-identifier-use : 1 / 1 / 3
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-link-type : 1 / 1 / 3
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-name-use : 1 / 1 / 3
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v2-0131 : 1 / 1 / 3
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v2-0203 : 1 / 1 / 3
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-EntityNamePartQualifierR2 : 1 / 1 / 3
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-MaritalStatus : 1 / 1 / 3
- /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-NullFlavor : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v2-0066 : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v2-0487 : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-ActCode : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-ActMood : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-ActPriority : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-ActStatus : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-AdministrativeGender : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-Confidentiality : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-ObservationInterpretation : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-ObservationMethod : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-ObservationValue : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-ParticipationFunction : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-ParticipationType : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-RoleClass : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-RoleCode : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-TimingEvent : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-mediaType : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-orderableDrugForm : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/CodeSystem-v3-substanceAdminSubstitution : 1 / 1 / 3
 </table>
 == n/a ==
 ERROR: ImplementationGuide.definition.parameter[29].value: Supressed messages file not found
@@ -34,83 +41,118 @@ WARNING: 5: The HTML fragment 'expansion-params.xhtml' is not included anywhere 
 == fsh-generated/resources/ImplementationGuide-ans.fhir.r4.fr.json ==
 INFORMATION: ImplementationGuide/ans.fhir.r4.fr: ImplementationGuide.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
 ERROR: ImplementationGuide/ans.fhir.r4.fr: ImplementationGuide.definition.extension[31].url: No definition could be found for URL value 'http://hl7.org/fhir/tools/StructureDefinition/expansion-parameters'
-== input/translations/CodeSystem-address-type.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://hl7.org/fhir/address-type to 4.0.1
-INFORMATION: CodeSystem/cs-fr-FR-address-type: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-address-type: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-address-type: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
-== input/translations/CodeSystem-address-use.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://hl7.org/fhir/address-use to 4.0.1
-INFORMATION: CodeSystem/cs-fr-FR-address-use: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-address-use: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-address-use: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
-== input/translations/CodeSystem-administrative-gender.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://hl7.org/fhir/administrative-gender to 4.0.1
-INFORMATION: CodeSystem/cs-fr-FR-administrative-gender: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-administrative-gender: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-administrative-gender: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-allergy-intolerance-criticality.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://hl7.org/fhir/allergy-intolerance-criticality to 4.0.1
+INFORMATION: CodeSystem/cs-fr-FR-allergy-intolerance-criticality: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-allergy-intolerance-criticality: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-allergy-intolerance-criticality: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-allergyintolerance-clinical.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/allergyintolerance-clinical to 1.0.1
+INFORMATION: CodeSystem/cs-fr-FR-allergyintolerance-clinical: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-allergyintolerance-clinical: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-allergyintolerance-clinical: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-condition-clinical.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/condition-clinical to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-condition-clinical: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-condition-clinical: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-condition-clinical: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
 == input/translations/CodeSystem-condition-ver-status.po ==
 INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/condition-ver-status to 2.0.1
 INFORMATION: CodeSystem/cs-fr-FR-condition-ver-status: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
 ERROR: CodeSystem/cs-fr-FR-condition-ver-status: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
 WARNING: CodeSystem/cs-fr-FR-condition-ver-status: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
-== input/translations/CodeSystem-contact-point-system.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://hl7.org/fhir/contact-point-system to 4.0.1
-INFORMATION: CodeSystem/cs-fr-FR-contact-point-system: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-contact-point-system: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-contact-point-system: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
-== input/translations/CodeSystem-contact-point-use.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://hl7.org/fhir/contact-point-use to 4.0.1
-INFORMATION: CodeSystem/cs-fr-FR-contact-point-use: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-contact-point-use: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-contact-point-use: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
-== input/translations/CodeSystem-contactentity-type.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/contactentity-type to 1.0.0
-INFORMATION: CodeSystem/cs-fr-FR-contactentity-type: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-contactentity-type: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-contactentity-type: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
-== input/translations/CodeSystem-days-of-week.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://hl7.org/fhir/days-of-week to 4.0.1
-INFORMATION: CodeSystem/cs-fr-FR-days-of-week: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-days-of-week: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-days-of-week: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
-== input/translations/CodeSystem-identifier-use.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://hl7.org/fhir/identifier-use to 4.0.1
-INFORMATION: CodeSystem/cs-fr-FR-identifier-use: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-identifier-use: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-identifier-use: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
-== input/translations/CodeSystem-link-type.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://hl7.org/fhir/link-type to 4.0.1
-INFORMATION: CodeSystem/cs-fr-FR-link-type: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-link-type: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-link-type: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
-== input/translations/CodeSystem-name-use.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://hl7.org/fhir/name-use to 4.0.1
-INFORMATION: CodeSystem/cs-fr-FR-name-use: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-name-use: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-name-use: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
-== input/translations/CodeSystem-v2-0131.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v2-0131 to 3.0.0
-INFORMATION: CodeSystem/cs-fr-FR-v2-0131: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-v2-0131: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-v2-0131: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
-== input/translations/CodeSystem-v2-0203.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v2-0203 to 5.0.0
-INFORMATION: CodeSystem/cs-fr-FR-v2-0203: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-v2-0203: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-v2-0203: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
-== input/translations/CodeSystem-v3-EntityNamePartQualifierR2.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-EntityNamePartQualifierR2 to 3.0.0
-INFORMATION: CodeSystem/cs-fr-FR-v3-EntityNamePartQualifierR2: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-v3-EntityNamePartQualifierR2: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-v3-EntityNamePartQualifierR2: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
-== input/translations/CodeSystem-v3-MaritalStatus.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-MaritalStatus to 3.0.0
-INFORMATION: CodeSystem/cs-fr-FR-v3-MaritalStatus: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-v3-MaritalStatus: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-v3-MaritalStatus: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
-== input/translations/CodeSystem-v3-NullFlavor.po ==
-INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-NullFlavor to 3.0.0
-INFORMATION: CodeSystem/cs-fr-FR-v3-NullFlavor: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
-ERROR: CodeSystem/cs-fr-FR-v3-NullFlavor: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
-WARNING: CodeSystem/cs-fr-FR-v3-NullFlavor: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v2-0066.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v2-0066 to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v2-0066: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v2-0066: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v2-0066: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v2-0487.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v2-0487 to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v2-0487: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v2-0487: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v2-0487: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-ActCode.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-ActCode to 9.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-ActCode: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-ActCode: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-ActCode: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-ActMood.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-ActMood to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-ActMood: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-ActMood: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-ActMood: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-ActPriority.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-ActPriority to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-ActPriority: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-ActPriority: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-ActPriority: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-ActStatus.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-ActStatus to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-ActStatus: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-ActStatus: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-ActStatus: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-AdministrativeGender.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-AdministrativeGender: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-AdministrativeGender: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-AdministrativeGender: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-Confidentiality.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-Confidentiality to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-Confidentiality: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-Confidentiality: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-Confidentiality: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-ObservationInterpretation.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-ObservationInterpretation: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-ObservationInterpretation: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-ObservationInterpretation: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-ObservationMethod.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-ObservationMethod to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-ObservationMethod: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-ObservationMethod: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-ObservationMethod: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-ObservationValue.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-ObservationValue to 4.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-ObservationValue: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-ObservationValue: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-ObservationValue: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-ParticipationFunction.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-ParticipationFunction to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-ParticipationFunction: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-ParticipationFunction: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-ParticipationFunction: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-ParticipationType.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-ParticipationType to 5.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-ParticipationType: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-ParticipationType: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-ParticipationType: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-RoleClass.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-RoleClass to 4.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-RoleClass: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-RoleClass: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-RoleClass: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-RoleCode.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-RoleCode to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-RoleCode: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-RoleCode: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-RoleCode: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-TimingEvent.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-TimingEvent to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-TimingEvent: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-TimingEvent: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-TimingEvent: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-mediaType.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-mediaType to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-mediaType: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-mediaType: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-mediaType: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-orderableDrugForm.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-orderableDrugForm: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-orderableDrugForm: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-orderableDrugForm: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/CodeSystem-v3-substanceAdminSubstitution.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-substanceAdminSubstitution to 3.0.0
+INFORMATION: CodeSystem/cs-fr-FR-v3-substanceAdminSubstitution: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-FR-v3-substanceAdminSubstitution: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-FR-v3-substanceAdminSubstitution: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present

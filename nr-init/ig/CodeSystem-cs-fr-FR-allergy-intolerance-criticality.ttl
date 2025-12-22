@@ -1,0 +1,56 @@
+@prefix fhir: <http://hl7.org/fhir/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# - resource -------------------------------------------------------------------
+
+<https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-allergy-intolerance-criticality> a fhir:CodeSystem ;
+  fhir:nodeRole fhir:treeRoot ;
+  fhir:id [ fhir:v "cs-fr-FR-allergy-intolerance-criticality"] ; # 
+  fhir:language [ fhir:v "fr-FR"] ; # 
+  fhir:text [
+     fhir:status [ fhir:v "generated" ] ;
+     fhir:div [ fhir:v "<div xml:lang=\"fr-FR\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr-FR\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-FR-allergy-intolerance-criticality</b></p><a name=\"cs-fr-FR-allergy-intolerance-criticality\"> </a><a name=\"hccs-fr-FR-allergy-intolerance-criticality\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-allergy-intolerance-criticality</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-allergy-intolerance-criticality.html#allergy-intolerance-criticality-low\">low</a><a name=\"cs-fr-FR-allergy-intolerance-criticality-low\"> </a></td><td>Bas</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-allergy-intolerance-criticality.html#allergy-intolerance-criticality-high\">high</a><a name=\"cs-fr-FR-allergy-intolerance-criticality-high\"> </a></td><td>Elevé</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-allergy-intolerance-criticality.html#allergy-intolerance-criticality-unable-to-assess\">unable-to-assess</a><a name=\"cs-fr-FR-allergy-intolerance-criticality-unable-to-assess\"> </a></td><td>Impossible à évaluer</td></tr></table></div>"^^rdf:XMLLiteral ]
+  ] ; # 
+  fhir:url [
+     fhir:v "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-allergy-intolerance-criticality"^^xsd:anyURI ;
+     fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-allergy-intolerance-criticality>
+  ] ; # 
+  fhir:version [ fhir:v "0.1.0"] ; # 
+  fhir:name [ fhir:v "AllergyIntoleranceCriticality"] ; # 
+  fhir:title [ fhir:v "AllergyIntoleranceCriticality"] ; # 
+  fhir:status [ fhir:v "draft"] ; # 
+  fhir:date [ fhir:v "2025-12-22T17:10:15+00:00"^^xsd:dateTime] ; # 
+  fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
+  fhir:description [ fhir:v "Estimate of the potential clinical harm, or seriousness, of a reaction to an identified substance."] ; # 
+  fhir:jurisdiction ( [
+     fhir:coding ( [
+       fhir:system [
+         fhir:v "urn:iso:std:iso:3166"^^xsd:anyURI ;
+         fhir:l <urn:iso:std:iso:3166>
+       ] ;
+       fhir:code [ fhir:v "FR" ] ;
+       fhir:display [ fhir:v "FRANCE" ]
+     ] )
+  ] ) ; # 
+  fhir:caseSensitive [ fhir:v false] ; # 
+  fhir:content [ fhir:v "supplement"] ; # 
+  fhir:supplements [
+     fhir:v "http://hl7.org/fhir/allergy-intolerance-criticality|4.0.1"^^xsd:anyURI ;
+     fhir:l <http://hl7.org/fhir/allergy-intolerance-criticality?version=4.0.1>
+  ] ; # 
+  fhir:concept ( [
+     fhir:code [ fhir:v "low" ] ;
+     fhir:display [ fhir:v "Bas" ]
+  ] [
+     fhir:code [ fhir:v "high" ] ;
+     fhir:display [ fhir:v "Elevé" ]
+  ] [
+     fhir:code [ fhir:v "unable-to-assess" ] ;
+     fhir:display [ fhir:v "Impossible à évaluer" ]
+  ] ) . # 
+
+# -------------------------------------------------------------------------------------
+
