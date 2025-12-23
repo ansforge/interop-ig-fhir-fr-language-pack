@@ -1,13 +1,15 @@
 FHIRLangPackFrench : Validation Results
 =========================================
 
-err = 3, warn = 6, info = 4
+err = 5, warn = 8, info = 8
 $--
 Generated $--. FHIR version $-- for ans.fhir.r4.fr#$-- (canonical = https://interop.esante.gouv.fr/ig/fhir/fr)
  Build Errors : 1 / 5 / 0
  /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/fsh-generated/resources/ImplementationGuide-ans.fhir.r4.fr : 1 / 0 / 2
  /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/fsh-generated/resources/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis : 0 / 0 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/fr/CodeSystem-v2-0066 : 1 / 1 / 3
  /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/fr/CodeSystem-v3-AdministrativeGender : 1 / 1 / 3
+ /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/fr/CodeSystem-v3-orderableDrugForm : 1 / 1 / 3
 </table>
 == n/a ==
 ERROR: ImplementationGuide.definition.parameter[28].value: Supressed messages file not found
@@ -21,8 +23,18 @@ INFORMATION: ImplementationGuide/ans.fhir.r4.fr: ImplementationGuide.jurisdictio
 ERROR: ImplementationGuide/ans.fhir.r4.fr: ImplementationGuide.definition.extension[30].url: No definition could be found for URL value 'http://hl7.org/fhir/tools/StructureDefinition/expansion-parameters'
 == fsh-generated/resources/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.json ==
 INFORMATION: ValueSet/jdv-hl7-v3-AdministrativeGender-cisis: ValueSet.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+== input/translations/fr/CodeSystem-v2-0066.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v2-0066 to 3.0.0
+INFORMATION: CodeSystem/cs-fr-v2-0066: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-v2-0066: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-v2-0066: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
 == input/translations/fr/CodeSystem-v3-AdministrativeGender.po ==
 INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender to 3.0.0
 INFORMATION: CodeSystem/cs-fr-v3-AdministrativeGender: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
 ERROR: CodeSystem/cs-fr-v3-AdministrativeGender: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
 WARNING: CodeSystem/cs-fr-v3-AdministrativeGender: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
+== input/translations/fr/CodeSystem-v3-orderableDrugForm.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm to 3.0.0
+INFORMATION: CodeSystem/cs-fr-v3-orderableDrugForm: CodeSystem.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: CodeSystem/cs-fr-v3-orderableDrugForm: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+WARNING: CodeSystem/cs-fr-v3-orderableDrugForm: CodeSystem: Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present

@@ -22,7 +22,7 @@
   fhir:name [ fhir:v "FHIRLangPackFrench"] ; # 
   fhir:title [ fhir:v "French language pack for FHIR R4"] ; # 
   fhir:status [ fhir:v "draft"] ; # 
-  fhir:date [ fhir:v "2025-12-23T09:39:52+00:00"^^xsd:dateTime] ; # 
+  fhir:date [ fhir:v "2025-12-23T09:57:47+00:00"^^xsd:dateTime] ; # 
   fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
   fhir:contact ( [
      fhir:name [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris" ] ;
@@ -1576,11 +1576,45 @@
          ]
        ] ) ;
        fhir:reference [
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v2-0066> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-v2-0066" ]
+       ] ;
+       fhir:name [ fhir:v "EmploymentStatus" ] ;
+       fhir:description [ fhir:v "HL7-defined code system of concepts which specify an employment status of a person. Used in HL7 Version 2 messaging in the GT1 segment." ]
+     ] [
+       fhir:extension ( [
+         fhir:url [
+           fhir:v "http://hl7.org/fhir/tools/StructureDefinition/resource-information"^^xsd:anyURI ;
+           fhir:l <http://hl7.org/fhir/tools/StructureDefinition/resource-information>
+         ] ;
+         fhir:value [
+           a fhir:String ;
+           fhir:v "CodeSystem"
+         ]
+       ] ) ;
+       fhir:reference [
          fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender> ;
          fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-AdministrativeGender" ]
        ] ;
        fhir:name [ fhir:v "AdministrativeGender" ] ;
        fhir:description [ fhir:v "The gender of a person used for adminstrative purposes (as opposed to clinical gender)" ]
+     ] [
+       fhir:extension ( [
+         fhir:url [
+           fhir:v "http://hl7.org/fhir/tools/StructureDefinition/resource-information"^^xsd:anyURI ;
+           fhir:l <http://hl7.org/fhir/tools/StructureDefinition/resource-information>
+         ] ;
+         fhir:value [
+           a fhir:String ;
+           fhir:v "CodeSystem"
+         ]
+       ] ) ;
+       fhir:reference [
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-orderableDrugForm> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-orderableDrugForm" ]
+       ] ;
+       fhir:name [ fhir:v "OrderableDrugForm" ] ;
+       fhir:description [ fhir:v "*OpenIssue:* Missing description." ]
      ] ) ;
      fhir:page [
        fhir:extension ( [
