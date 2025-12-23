@@ -1,0 +1,71 @@
+{
+  "id" : "ImplementationGuide-ans.fhir.r4.fr",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "fr",
+      "entries" : [
+        {
+          "id" : "ImplementationGuide.name",
+          "context" : "A natural language name identifying the implementation guide. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "FHIRLangPackFrench",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.title",
+          "context" : "A short, descriptive, user-friendly title for the implementation guide.",
+          "source" : "French language pack for FHIR R4",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.publisher",
+          "context" : "The name of the organization or individual that published the implementation guide.",
+          "source" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
+          "target" : null
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.description",
+          "context" : "A free text natural language description of the implementation guide from a consumer's perspective.",
+          "source" : "Description du projet",
+          "target" : null
+        },
+        {
+          "id" : "Coding.display",
+          "context" : "A representation of the meaning of the code in the system, following the rules of the system.",
+          "source" : "FRANCE",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "AdministrativeGender",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "AdministrativeGender",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.page.title",
+          "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
+          "source" : "Table of Contents",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.page.title",
+          "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
+          "source" : "Accueil",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}
