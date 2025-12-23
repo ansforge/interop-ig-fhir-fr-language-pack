@@ -9,7 +9,7 @@
 | | |
 | :--- | :--- |
 | *Official URL*:https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActMood | *Version*:0.1.0 |
-| Active as of 2025-12-22 | *Computable Name*:ActMood |
+| Active as of 2025-12-23 | *Computable Name*:ActMood |
 | **Copyright/Legal**: This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html | |
 
  
@@ -33,7 +33,7 @@ OpenIssue: In Ballot 2009May, a strong Negative vote was lodged against several 
   "name" : "ActMood",
   "title" : "ActMood",
   "status" : "active",
-  "date" : "2025-12-22T17:43:16+00:00",
+  "date" : "2025-12-23T08:16:55+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "OpenIssue: In Ballot 2009May, a strong Negative vote was lodged against several of the concept definitions in the vocabulary used for Act.moodCode. The vote was found \"Persuasive With Mod\", with the understanding that M and M would undertake a detailed review of these concept definitions for a future release of the RIM.",
   "jurisdiction" : [

@@ -9,7 +9,7 @@
 | | |
 | :--- | :--- |
 | *Official URL*:https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-allergy-intolerance-criticality | *Version*:0.1.0 |
-| Draft as of 2025-12-22 | *Computable Name*:AllergyIntoleranceCriticality |
+| Draft as of 2025-12-23 | *Computable Name*:AllergyIntoleranceCriticality |
 
  
 Estimate of the potential clinical harm, or seriousness, of a reaction to an identified substance. 
@@ -32,7 +32,7 @@ Estimate of the potential clinical harm, or seriousness, of a reaction to an ide
   "name" : "AllergyIntoleranceCriticality",
   "title" : "AllergyIntoleranceCriticality",
   "status" : "draft",
-  "date" : "2025-12-22T17:43:16+00:00",
+  "date" : "2025-12-23T08:16:55+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "Estimate of the potential clinical harm, or seriousness, of a reaction to an identified substance.",
   "jurisdiction" : [

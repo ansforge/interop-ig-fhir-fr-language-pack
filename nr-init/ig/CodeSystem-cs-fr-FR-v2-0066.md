@@ -9,7 +9,7 @@
 | | |
 | :--- | :--- |
 | *Official URL*:https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v2-0066 | *Version*:0.1.0 |
-| Active as of 2025-12-22 | *Computable Name*:EmploymentStatus |
+| Active as of 2025-12-23 | *Computable Name*:EmploymentStatus |
 | **Copyright/Legal**: This material derives from the HL7 Terminology (THO). THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html | |
 
  
@@ -36,7 +36,7 @@ Underlying Master Code System for V2 table 0066 (Employment Status)
   "name" : "EmploymentStatus",
   "title" : "employmentStatus",
   "status" : "active",
-  "date" : "2025-12-22T17:43:16+00:00",
+  "date" : "2025-12-23T08:16:55+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "HL7-defined code system of concepts which specify an employment status of a person. Used in HL7 Version 2 messaging in the GT1 segment.",
   "jurisdiction" : [

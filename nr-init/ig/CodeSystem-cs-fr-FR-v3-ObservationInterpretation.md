@@ -9,7 +9,7 @@
 | | |
 | :--- | :--- |
 | *Official URL*:https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationInterpretation | *Version*:0.1.0 |
-| Active as of 2025-12-22 | *Computable Name*:ObservationInterpretation |
+| Active as of 2025-12-23 | *Computable Name*:ObservationInterpretation |
 | **Copyright/Legal**: This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html | |
 
  
@@ -33,7 +33,7 @@ One or more codes providing a rough qualitative interpretation of the observatio
   "name" : "ObservationInterpretation",
   "title" : "ObservationInterpretation",
   "status" : "active",
-  "date" : "2025-12-22T17:43:16+00:00",
+  "date" : "2025-12-23T08:16:55+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "One or more codes providing a rough qualitative interpretation of the observation, such as \"normal\" / \"abnormal\", \"low\" / \"high\", \"better\" / \"worse\", \"resistant\" / \"susceptible\", \"expected\" / \"not expected\". The value set is intended to be for ANY use where coded representation of an interpretation is needed.",
   "jurisdiction" : [

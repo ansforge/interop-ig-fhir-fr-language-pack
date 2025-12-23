@@ -9,7 +9,7 @@
 | | |
 | :--- | :--- |
 | *Official URL*:https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-mediaType | *Version*:0.1.0 |
-| Active as of 2025-12-22 | *Computable Name*:MediaType |
+| Active as of 2025-12-23 | *Computable Name*:MediaType |
 | **Copyright/Legal**: This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html | |
 
  
@@ -37,7 +37,7 @@ However, this HL7 datatypes specification treats the entire media type as one at
   "name" : "MediaType",
   "title" : "Media Type",
   "status" : "active",
-  "date" : "2025-12-22T17:43:16+00:00",
+  "date" : "2025-12-23T08:16:55+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "Internet Assigned Numbers Authority (IANA) Mime Media Types. Identifies the type of the encapsulated data and identifies a method to interpret or render the data. The IANA defined domain of media types is established by the Internet standard RFC 2045 \\[http://www.ietf.org/rfc/rfc2045.txt\\] and 2046 \\[http://www.ietf.org/rfc/rfc2046.txt\\]. RFC 2046 defines the media type to consist of two parts:\r\n\r\n1.  top level media type, and\r\n2.  media subtype\r\n\r\nHowever, this HL7 datatypes specification treats the entire media type as one atomic code symbol in the form defined by IANA, i.e., top level type followed by a slash \"/\" followed by media subtype. Currently defined media types are registered in a database \\[http://www.iana.org/assignments/media-types/index.html\\] maintained by IANA. Currently several hundred different MIME media types are defined, with the list growing rapidly. In general, all those types defined by the IANA MAY be used.",
   "jurisdiction" : [

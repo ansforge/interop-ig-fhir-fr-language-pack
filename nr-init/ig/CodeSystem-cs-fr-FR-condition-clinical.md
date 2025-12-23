@@ -9,7 +9,7 @@
 | | |
 | :--- | :--- |
 | *Official URL*:https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-condition-clinical | *Version*:0.1.0 |
-| Active as of 2025-12-22 | *Computable Name*:ConditionClinicalStatusCodes |
+| Active as of 2025-12-23 | *Computable Name*:ConditionClinicalStatusCodes |
 | **Copyright/Legal**: This material derives from the HL7 Terminology (THO). THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html | |
 
  
@@ -33,7 +33,7 @@ Preferred value set for Condition Clinical Status.
   "name" : "ConditionClinicalStatusCodes",
   "title" : "Condition Clinical Status Codes",
   "status" : "active",
-  "date" : "2025-12-22T17:43:16+00:00",
+  "date" : "2025-12-23T08:16:55+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "Preferred value set for Condition Clinical Status.",
   "jurisdiction" : [

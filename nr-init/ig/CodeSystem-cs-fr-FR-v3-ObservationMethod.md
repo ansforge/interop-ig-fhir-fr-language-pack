@@ -9,7 +9,7 @@
 | | |
 | :--- | :--- |
 | *Official URL*:https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationMethod | *Version*:0.1.0 |
-| Active as of 2025-12-22 | *Computable Name*:ObservationMethod |
+| Active as of 2025-12-23 | *Computable Name*:ObservationMethod |
 | **Copyright/Legal**: This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html | |
 
  
@@ -35,7 +35,7 @@ A code that provides additional detail about the means or technique used to asce
   "name" : "ObservationMethod",
   "title" : "ObservationMethod",
   "status" : "active",
-  "date" : "2025-12-22T17:43:16+00:00",
+  "date" : "2025-12-23T08:16:55+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "A code that provides additional detail about the means or technique used to ascertain the observation.\r\n\r\n*Examples:* Blood pressure measurement method: arterial puncture vs. sphygmomanometer (Riva-Rocci), sitting vs. supine position, etc.\r\n\r\n*OpenIssue:* Description copied from Concept Domain of same name. Must be verified. Note that the Domain has a full discussion about use of the attribute and constraining that is not appropriate for the code system description. Needs to be improved.",
   "jurisdiction" : [
