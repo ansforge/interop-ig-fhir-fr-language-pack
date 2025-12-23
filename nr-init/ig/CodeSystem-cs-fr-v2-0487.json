@@ -1,0 +1,1281 @@
+{
+  "resourceType" : "CodeSystem",
+  "id" : "cs-fr-v2-0487",
+  "language" : "fr",
+  "text" : {
+    "status" : "generated",
+    "div" : "<div xml:lang=\"fr\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-v2-0487</b></p><a name=\"cs-fr-v2-0487\"> </a><a name=\"hccs-fr-v2-0487\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v2-0487</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ABS\">ABS</a><a name=\"cs-fr-v2-0487-ABS\"> </a></td><td>Abcès</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ACNE\">ACNE</a><a name=\"cs-fr-v2-0487-ACNE\"> </a></td><td>Acné</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ACNFLD\">ACNFLD</a><a name=\"cs-fr-v2-0487-ACNFLD\"> </a></td><td>Liquide d'acné</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-AIRS\">AIRS</a><a name=\"cs-fr-v2-0487-AIRS\"> </a></td><td>Échantillon d'air</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ALL\">ALL</a><a name=\"cs-fr-v2-0487-ALL\"> </a></td><td>Allogreffe</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-AMN\">AMN</a><a name=\"cs-fr-v2-0487-AMN\"> </a></td><td>Liquide amniotique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-AMP\">AMP</a><a name=\"cs-fr-v2-0487-AMP\"> </a></td><td>Amputation</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ANGI\">ANGI</a><a name=\"cs-fr-v2-0487-ANGI\"> </a></td><td>Cathéter d'angiographie (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ARTC\">ARTC</a><a name=\"cs-fr-v2-0487-ARTC\"> </a></td><td>Cathéter artériel (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ASERU\">ASERU</a><a name=\"cs-fr-v2-0487-ASERU\"> </a></td><td>Sérum en phase aigüe</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ASP\">ASP</a><a name=\"cs-fr-v2-0487-ASP\"> </a></td><td>Aspiration</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ATTE\">ATTE</a><a name=\"cs-fr-v2-0487-ATTE\"> </a></td><td>Environnement, Attest</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-AUTOA\">AUTOA</a><a name=\"cs-fr-v2-0487-AUTOA\"> </a></td><td>Ampoule d'autoclave</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-AUTOC\">AUTOC</a><a name=\"cs-fr-v2-0487-AUTOC\"> </a></td><td>Capsule d'autoclave</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-AUTP\">AUTP</a><a name=\"cs-fr-v2-0487-AUTP\"> </a></td><td>Autopsie</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BBL\">BBL</a><a name=\"cs-fr-v2-0487-BBL\"> </a></td><td>Poche de sang</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BCYST\">BCYST</a><a name=\"cs-fr-v2-0487-BCYST\"> </a></td><td>Kyste de Baker</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BDY\">BDY</a><a name=\"cs-fr-v2-0487-BDY\"> </a></td><td>Corps humain</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BIFL\">BIFL</a><a name=\"cs-fr-v2-0487-BIFL\"> </a></td><td>Bile</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BITE\">BITE</a><a name=\"cs-fr-v2-0487-BITE\"> </a></td><td>Morsure</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BLD\">BLD</a><a name=\"cs-fr-v2-0487-BLD\"> </a></td><td>Sang</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BLDA\">BLDA</a><a name=\"cs-fr-v2-0487-BLDA\"> </a></td><td>Sang artériel</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BLDCO\">BLDCO</a><a name=\"cs-fr-v2-0487-BLDCO\"> </a></td><td>Sang de cordon</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BLDV\">BLDV</a><a name=\"cs-fr-v2-0487-BLDV\"> </a></td><td>Sang veineux</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BLEB\">BLEB</a><a name=\"cs-fr-v2-0487-BLEB\"> </a></td><td>Cloque</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BLIST\">BLIST</a><a name=\"cs-fr-v2-0487-BLIST\"> </a></td><td>Ampoule</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BOIL\">BOIL</a><a name=\"cs-fr-v2-0487-BOIL\"> </a></td><td>Clou</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BON\">BON</a><a name=\"cs-fr-v2-0487-BON\"> </a></td><td>Os</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BOWL\">BOWL</a><a name=\"cs-fr-v2-0487-BOWL\"> </a></td><td>Contenu intestinal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BPH\">BPH</a><a name=\"cs-fr-v2-0487-BPH\"> </a></td><td>Polynucléaires basophiles</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BPU\">BPU</a><a name=\"cs-fr-v2-0487-BPU\"> </a></td><td>Produit sanguin labile</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BRN\">BRN</a><a name=\"cs-fr-v2-0487-BRN\"> </a></td><td>Brûlure</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BRSH\">BRSH</a><a name=\"cs-fr-v2-0487-BRSH\"> </a></td><td>Brosse</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BRTH\">BRTH</a><a name=\"cs-fr-v2-0487-BRTH\"> </a></td><td>Gas expiré (use EXG)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BRUS\">BRUS</a><a name=\"cs-fr-v2-0487-BRUS\"> </a></td><td>Brossage</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BUB\">BUB</a><a name=\"cs-fr-v2-0487-BUB\"> </a></td><td>Bubon</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BULLA\">BULLA</a><a name=\"cs-fr-v2-0487-BULLA\"> </a></td><td>Bulle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-BX\">BX</a><a name=\"cs-fr-v2-0487-BX\"> </a></td><td>Biopsie</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CALC\">CALC</a><a name=\"cs-fr-v2-0487-CALC\"> </a></td><td>Calcul</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CARBU\">CARBU</a><a name=\"cs-fr-v2-0487-CARBU\"> </a></td><td>Anthrax</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CAT\">CAT</a><a name=\"cs-fr-v2-0487-CAT\"> </a></td><td>Cathéter</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CBITE\">CBITE</a><a name=\"cs-fr-v2-0487-CBITE\"> </a></td><td>Morsure de chat</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CDM\">CDM</a><a name=\"cs-fr-v2-0487-CDM\"> </a></td><td>Muscle cardiaque</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CLIPP\">CLIPP</a><a name=\"cs-fr-v2-0487-CLIPP\"> </a></td><td>Coupures</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CNJT\">CNJT</a><a name=\"cs-fr-v2-0487-CNJT\"> </a></td><td>Conjonctive</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CNL\">CNL</a><a name=\"cs-fr-v2-0487-CNL\"> </a></td><td>Canule</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-COL\">COL</a><a name=\"cs-fr-v2-0487-COL\"> </a></td><td>Colostrum</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CONE\">CONE</a><a name=\"cs-fr-v2-0487-CONE\"> </a></td><td>Biopsie conique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CSCR\">CSCR</a><a name=\"cs-fr-v2-0487-CSCR\"> </a></td><td>Griffure de chat</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CSERU\">CSERU</a><a name=\"cs-fr-v2-0487-CSERU\"> </a></td><td>Sérum de convalescent</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CSF\">CSF</a><a name=\"cs-fr-v2-0487-CSF\"> </a></td><td>Liquide céphalorachidien</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CSITE\">CSITE</a><a name=\"cs-fr-v2-0487-CSITE\"> </a></td><td>Cathéter (Site d'insertion)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CSMY\">CSMY</a><a name=\"cs-fr-v2-0487-CSMY\"> </a></td><td>Liquide de tube de cystostomie</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CST\">CST</a><a name=\"cs-fr-v2-0487-CST\"> </a></td><td>Liquide de kyste</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CSVR\">CSVR</a><a name=\"cs-fr-v2-0487-CSVR\"> </a></td><td>Récupérateur de sang</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CTP\">CTP</a><a name=\"cs-fr-v2-0487-CTP\"> </a></td><td>Cathéter (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CUR\">CUR</a><a name=\"cs-fr-v2-0487-CUR\"> </a></td><td>Curetage</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CVM\">CVM</a><a name=\"cs-fr-v2-0487-CVM\"> </a></td><td>Glaire cervicale</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CVPS\">CVPS</a><a name=\"cs-fr-v2-0487-CVPS\"> </a></td><td>Cathéter veineux central (site)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CVPT\">CVPT</a><a name=\"cs-fr-v2-0487-CVPT\"> </a></td><td>Cathéter veineux central (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CYN\">CYN</a><a name=\"cs-fr-v2-0487-CYN\"> </a></td><td>Nodule kystique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-CYST\">CYST</a><a name=\"cs-fr-v2-0487-CYST\"> </a></td><td>Kyste</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-DBITE\">DBITE</a><a name=\"cs-fr-v2-0487-DBITE\"> </a></td><td>Morsure de chien</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-DCS\">DCS</a><a name=\"cs-fr-v2-0487-DCS\"> </a></td><td>Expectoration profonde (crachat)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-DEC\">DEC</a><a name=\"cs-fr-v2-0487-DEC\"> </a></td><td>Ulcère de décubitus</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-DEION\">DEION</a><a name=\"cs-fr-v2-0487-DEION\"> </a></td><td>Eau déminéralisée</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-DIA\">DIA</a><a name=\"cs-fr-v2-0487-DIA\"> </a></td><td>Dialysat</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-DIAF\">DIAF</a><a name=\"cs-fr-v2-0487-DIAF\"> </a></td><td>Liquide de dialyse</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-DISCHG\">DISCHG</a><a name=\"cs-fr-v2-0487-DISCHG\"> </a></td><td>Décharge</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-DIV\">DIV</a><a name=\"cs-fr-v2-0487-DIV\"> </a></td><td>Diverticule</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-DRN\">DRN</a><a name=\"cs-fr-v2-0487-DRN\"> </a></td><td>Drain</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-DRNG\">DRNG</a><a name=\"cs-fr-v2-0487-DRNG\"> </a></td><td>Drain (Tube)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-DRNGP\">DRNGP</a><a name=\"cs-fr-v2-0487-DRNGP\"> </a></td><td>Drain Penrose</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-DUFL\">DUFL</a><a name=\"cs-fr-v2-0487-DUFL\"> </a></td><td>Liquide duodénal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-EARW\">EARW</a><a name=\"cs-fr-v2-0487-EARW\"> </a></td><td>Cérumen</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-EBRUSH\">EBRUSH</a><a name=\"cs-fr-v2-0487-EBRUSH\"> </a></td><td>Brossage oesophagien</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-EEYE\">EEYE</a><a name=\"cs-fr-v2-0487-EEYE\"> </a></td><td>Lavage oculaire</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-EFF\">EFF</a><a name=\"cs-fr-v2-0487-EFF\"> </a></td><td>Éffluent environnemental</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-EFFUS\">EFFUS</a><a name=\"cs-fr-v2-0487-EFFUS\"> </a></td><td>Éffusion</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-EFOD\">EFOD</a><a name=\"cs-fr-v2-0487-EFOD\"> </a></td><td>Aliment</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-EISO\">EISO</a><a name=\"cs-fr-v2-0487-EISO\"> </a></td><td>Isolette environnementale</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ELT\">ELT</a><a name=\"cs-fr-v2-0487-ELT\"> </a></td><td>Electrode</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ENVIR\">ENVIR</a><a name=\"cs-fr-v2-0487-ENVIR\"> </a></td><td>Substance non identifiée</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-EOS\">EOS</a><a name=\"cs-fr-v2-0487-EOS\"> </a></td><td>Polynucléaires éosinophiles</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-EOTH\">EOTH</a><a name=\"cs-fr-v2-0487-EOTH\"> </a></td><td>Autre substance</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ESOI\">ESOI</a><a name=\"cs-fr-v2-0487-ESOI\"> </a></td><td>Sol</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ESOS\">ESOS</a><a name=\"cs-fr-v2-0487-ESOS\"> </a></td><td>Solution stérile</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ETA\">ETA</a><a name=\"cs-fr-v2-0487-ETA\"> </a></td><td>Aspiration endotrachéale</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ETTP\">ETTP</a><a name=\"cs-fr-v2-0487-ETTP\"> </a></td><td>Cathéter endotrachéal (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ETTUB\">ETTUB</a><a name=\"cs-fr-v2-0487-ETTUB\"> </a></td><td>Tube endotrachéal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-EWHI\">EWHI</a><a name=\"cs-fr-v2-0487-EWHI\"> </a></td><td>Bain à remous</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-EXG\">EXG</a><a name=\"cs-fr-v2-0487-EXG\"> </a></td><td>Gaz expiré</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-EXS\">EXS</a><a name=\"cs-fr-v2-0487-EXS\"> </a></td><td>Dérivation externe</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-EXUDTE\">EXUDTE</a><a name=\"cs-fr-v2-0487-EXUDTE\"> </a></td><td>Exudat</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-FAW\">FAW</a><a name=\"cs-fr-v2-0487-FAW\"> </a></td><td>Eau de puits</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-FBLOOD\">FBLOOD</a><a name=\"cs-fr-v2-0487-FBLOOD\"> </a></td><td>Sang foetal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-FGA\">FGA</a><a name=\"cs-fr-v2-0487-FGA\"> </a></td><td>Liquide abdominal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-FIB\">FIB</a><a name=\"cs-fr-v2-0487-FIB\"> </a></td><td>Fibroblastes</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-FIST\">FIST</a><a name=\"cs-fr-v2-0487-FIST\"> </a></td><td>Fistule</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-FLD\">FLD</a><a name=\"cs-fr-v2-0487-FLD\"> </a></td><td>Liquide (autre)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-FLT\">FLT</a><a name=\"cs-fr-v2-0487-FLT\"> </a></td><td>Filtre</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-FLU\">FLU</a><a name=\"cs-fr-v2-0487-FLU\"> </a></td><td>Liquide biologique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-FLUID\">FLUID</a><a name=\"cs-fr-v2-0487-FLUID\"> </a></td><td>Liquide</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-FOLEY\">FOLEY</a><a name=\"cs-fr-v2-0487-FOLEY\"> </a></td><td>Cathéter de Foley (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-FRS\">FRS</a><a name=\"cs-fr-v2-0487-FRS\"> </a></td><td>Liquide respiratoire</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-FSCLP\">FSCLP</a><a name=\"cs-fr-v2-0487-FSCLP\"> </a></td><td>Cuir chevelu foetal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-FUR\">FUR</a><a name=\"cs-fr-v2-0487-FUR\"> </a></td><td>Furoncle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GAS\">GAS</a><a name=\"cs-fr-v2-0487-GAS\"> </a></td><td>Gaz du sang</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GASA\">GASA</a><a name=\"cs-fr-v2-0487-GASA\"> </a></td><td>Aspiration gastrique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GASAN\">GASAN</a><a name=\"cs-fr-v2-0487-GASAN\"> </a></td><td>Antre gastrique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GASBR\">GASBR</a><a name=\"cs-fr-v2-0487-GASBR\"> </a></td><td>Brossage gastrique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GASD\">GASD</a><a name=\"cs-fr-v2-0487-GASD\"> </a></td><td>Drainage gastrique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GAST\">GAST</a><a name=\"cs-fr-v2-0487-GAST\"> </a></td><td>Prélèvement digestif</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GENL\">GENL</a><a name=\"cs-fr-v2-0487-GENL\"> </a></td><td>Lochies</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GENV\">GENV</a><a name=\"cs-fr-v2-0487-GENV\"> </a></td><td>Prélèvement vaginal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GRAFT\">GRAFT</a><a name=\"cs-fr-v2-0487-GRAFT\"> </a></td><td>Greffe</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GRAFTS\">GRAFTS</a><a name=\"cs-fr-v2-0487-GRAFTS\"> </a></td><td>Greffe (Site)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GRANU\">GRANU</a><a name=\"cs-fr-v2-0487-GRANU\"> </a></td><td>Granulome</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GROSH\">GROSH</a><a name=\"cs-fr-v2-0487-GROSH\"> </a></td><td>Cathéter Groshong</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GSOL\">GSOL</a><a name=\"cs-fr-v2-0487-GSOL\"> </a></td><td>Solution pour gastrostomie</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GSPEC\">GSPEC</a><a name=\"cs-fr-v2-0487-GSPEC\"> </a></td><td>Biopsie gastrique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GT\">GT</a><a name=\"cs-fr-v2-0487-GT\"> </a></td><td>Sonde gastrique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-GTUBE\">GTUBE</a><a name=\"cs-fr-v2-0487-GTUBE\"> </a></td><td>Drainage de gastrostomie</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-HAR\">HAR</a><a name=\"cs-fr-v2-0487-HAR\"> </a></td><td>Poils/Cheveux</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-HBITE\">HBITE</a><a name=\"cs-fr-v2-0487-HBITE\"> </a></td><td>Morsure humaine</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-HBLUD\">HBLUD</a><a name=\"cs-fr-v2-0487-HBLUD\"> </a></td><td>Sang (Autopsie)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-HEMAQ\">HEMAQ</a><a name=\"cs-fr-v2-0487-HEMAQ\"> </a></td><td>Cathéter Hemaquit (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-HEMO\">HEMO</a><a name=\"cs-fr-v2-0487-HEMO\"> </a></td><td>Cathéter Hemovac (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-HERNI\">HERNI</a><a name=\"cs-fr-v2-0487-HERNI\"> </a></td><td>Hernie</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-HEV\">HEV</a><a name=\"cs-fr-v2-0487-HEV\"> </a></td><td>Drain Hemovac</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-HIC\">HIC</a><a name=\"cs-fr-v2-0487-HIC\"> </a></td><td>Cathéter de Hickman</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-HYDC\">HYDC</a><a name=\"cs-fr-v2-0487-HYDC\"> </a></td><td>Hydrocèle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-IBITE\">IBITE</a><a name=\"cs-fr-v2-0487-IBITE\"> </a></td><td>Morsure d'insecte</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ICYST\">ICYST</a><a name=\"cs-fr-v2-0487-ICYST\"> </a></td><td>Kyste d'inclusion</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-IDC\">IDC</a><a name=\"cs-fr-v2-0487-IDC\"> </a></td><td>Cathéter Indwelling (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-IHG\">IHG</a><a name=\"cs-fr-v2-0487-IHG\"> </a></td><td>Gaz inhalé</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ILEO\">ILEO</a><a name=\"cs-fr-v2-0487-ILEO\"> </a></td><td>Drainage d'iléostomie</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ILLEG\">ILLEG</a><a name=\"cs-fr-v2-0487-ILLEG\"> </a></td><td>Source du spécimen illisible</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-IMP\">IMP</a><a name=\"cs-fr-v2-0487-IMP\"> </a></td><td>Implant</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-INCI\">INCI</a><a name=\"cs-fr-v2-0487-INCI\"> </a></td><td>Incision/chirurgie (Site)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-INFIL\">INFIL</a><a name=\"cs-fr-v2-0487-INFIL\"> </a></td><td>Infiltration</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-INS\">INS</a><a name=\"cs-fr-v2-0487-INS\"> </a></td><td>Insecte</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-INTRD\">INTRD</a><a name=\"cs-fr-v2-0487-INTRD\"> </a></td><td>Cathéter (Guide)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ISLT\">ISLT</a><a name=\"cs-fr-v2-0487-ISLT\"> </a></td><td>Isolat</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-IT\">IT</a><a name=\"cs-fr-v2-0487-IT\"> </a></td><td>Tube d'intubation</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-IUD\">IUD</a><a name=\"cs-fr-v2-0487-IUD\"> </a></td><td>Dispositif intra-utérin</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-IVCAT\">IVCAT</a><a name=\"cs-fr-v2-0487-IVCAT\"> </a></td><td>Cathéter intraveineux</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-IVFLD\">IVFLD</a><a name=\"cs-fr-v2-0487-IVFLD\"> </a></td><td>Liquide intraveineux</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-IVTIP\">IVTIP</a><a name=\"cs-fr-v2-0487-IVTIP\"> </a></td><td>Sonde intraveineuse</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-JEJU\">JEJU</a><a name=\"cs-fr-v2-0487-JEJU\"> </a></td><td>Drainage jéjunal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-JNTFLD\">JNTFLD</a><a name=\"cs-fr-v2-0487-JNTFLD\"> </a></td><td>Liquide articulaire</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-JP\">JP</a><a name=\"cs-fr-v2-0487-JP\"> </a></td><td>Drain Jackson Pratt</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-KELOI\">KELOI</a><a name=\"cs-fr-v2-0487-KELOI\"> </a></td><td>Lavage</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-KIDFLD\">KIDFLD</a><a name=\"cs-fr-v2-0487-KIDFLD\"> </a></td><td>Liquide rénal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-LAVG\">LAVG</a><a name=\"cs-fr-v2-0487-LAVG\"> </a></td><td>Lavage bronchial</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-LAVGG\">LAVGG</a><a name=\"cs-fr-v2-0487-LAVGG\"> </a></td><td>Lavage gastrique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-LAVGP\">LAVGP</a><a name=\"cs-fr-v2-0487-LAVGP\"> </a></td><td>Lavage péritonéal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-LAVPG\">LAVPG</a><a name=\"cs-fr-v2-0487-LAVPG\"> </a></td><td>Lavage pré-bronchial</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-LENS1\">LENS1</a><a name=\"cs-fr-v2-0487-LENS1\"> </a></td><td>Lentilles de contact</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-LENS2\">LENS2</a><a name=\"cs-fr-v2-0487-LENS2\"> </a></td><td>Étui pour lentilles de contact</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-LESN\">LESN</a><a name=\"cs-fr-v2-0487-LESN\"> </a></td><td>Lésion</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-LIQ\">LIQ</a><a name=\"cs-fr-v2-0487-LIQ\"> </a></td><td>Liquide non spécifié</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-LIQO\">LIQO</a><a name=\"cs-fr-v2-0487-LIQO\"> </a></td><td>Liquide (autres)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-LNA\">LNA</a><a name=\"cs-fr-v2-0487-LNA\"> </a></td><td>Ponction artérielle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-LNV\">LNV</a><a name=\"cs-fr-v2-0487-LNV\"> </a></td><td>Ponction veineuse</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-LSAC\">LSAC</a><a name=\"cs-fr-v2-0487-LSAC\"> </a></td><td>Liquide de sac lombaire</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-LYM\">LYM</a><a name=\"cs-fr-v2-0487-LYM\"> </a></td><td>Lymphocytes</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-MAC\">MAC</a><a name=\"cs-fr-v2-0487-MAC\"> </a></td><td>Macrophages</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-MAHUR\">MAHUR</a><a name=\"cs-fr-v2-0487-MAHUR\"> </a></td><td>Catheter Makurkour</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-MAR\">MAR</a><a name=\"cs-fr-v2-0487-MAR\"> </a></td><td>Moelle osseuse</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-MASS\">MASS</a><a name=\"cs-fr-v2-0487-MASS\"> </a></td><td>Masse</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-MBLD\">MBLD</a><a name=\"cs-fr-v2-0487-MBLD\"> </a></td><td>Sang menstruel</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-MEC\">MEC</a><a name=\"cs-fr-v2-0487-MEC\"> </a></td><td>Méconium</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-MILK\">MILK</a><a name=\"cs-fr-v2-0487-MILK\"> </a></td><td>Lait maternel</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-MLK\">MLK</a><a name=\"cs-fr-v2-0487-MLK\"> </a></td><td>Lait</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-MUCOS\">MUCOS</a><a name=\"cs-fr-v2-0487-MUCOS\"> </a></td><td>Muqueuse</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-MUCUS\">MUCUS</a><a name=\"cs-fr-v2-0487-MUCUS\"> </a></td><td>Mucus</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-NAIL\">NAIL</a><a name=\"cs-fr-v2-0487-NAIL\"> </a></td><td>Ongle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-NASDR\">NASDR</a><a name=\"cs-fr-v2-0487-NASDR\"> </a></td><td>Drainage des voies nasales</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-NEDL\">NEDL</a><a name=\"cs-fr-v2-0487-NEDL\"> </a></td><td>Aiguille</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-NEPH\">NEPH</a><a name=\"cs-fr-v2-0487-NEPH\"> </a></td><td>Néphrostomie (site)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-NGASP\">NGASP</a><a name=\"cs-fr-v2-0487-NGASP\"> </a></td><td>Aspiration nasogastrique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-NGAST\">NGAST</a><a name=\"cs-fr-v2-0487-NGAST\"> </a></td><td>Drainage nasogastrique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-NGS\">NGS</a><a name=\"cs-fr-v2-0487-NGS\"> </a></td><td>Nasogastrique (site)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-NODUL\">NODUL</a><a name=\"cs-fr-v2-0487-NODUL\"> </a></td><td>Nodule(s)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-NSECR\">NSECR</a><a name=\"cs-fr-v2-0487-NSECR\"> </a></td><td>Sécrétion nasale</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ORH\">ORH</a><a name=\"cs-fr-v2-0487-ORH\"> </a></td><td>Autre</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-ORL\">ORL</a><a name=\"cs-fr-v2-0487-ORL\"> </a></td><td>Lésion orale</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-OTH\">OTH</a><a name=\"cs-fr-v2-0487-OTH\"> </a></td><td>Autre origine</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PACEM\">PACEM</a><a name=\"cs-fr-v2-0487-PACEM\"> </a></td><td>Stimulateur cardiaque</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PAFL\">PAFL</a><a name=\"cs-fr-v2-0487-PAFL\"> </a></td><td>Liquide pancréatique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PCFL\">PCFL</a><a name=\"cs-fr-v2-0487-PCFL\"> </a></td><td>Liquide péricardique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PDSIT\">PDSIT</a><a name=\"cs-fr-v2-0487-PDSIT\"> </a></td><td>Dialyse péritonéale (site)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PDTS\">PDTS</a><a name=\"cs-fr-v2-0487-PDTS\"> </a></td><td>Dialyse péritonéale, Tunnel (site)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PELVA\">PELVA</a><a name=\"cs-fr-v2-0487-PELVA\"> </a></td><td>Abcès pelvien</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PENIL\">PENIL</a><a name=\"cs-fr-v2-0487-PENIL\"> </a></td><td>Lésion du pénis</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PERIA\">PERIA</a><a name=\"cs-fr-v2-0487-PERIA\"> </a></td><td>Abcès périanal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PILOC\">PILOC</a><a name=\"cs-fr-v2-0487-PILOC\"> </a></td><td>kyste pilonidal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PINS\">PINS</a><a name=\"cs-fr-v2-0487-PINS\"> </a></td><td>Site de la broche</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PIS\">PIS</a><a name=\"cs-fr-v2-0487-PIS\"> </a></td><td>Site d'insertion du stimulateur cardiaque</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PLAN\">PLAN</a><a name=\"cs-fr-v2-0487-PLAN\"> </a></td><td>Matériel végétal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PLAS\">PLAS</a><a name=\"cs-fr-v2-0487-PLAS\"> </a></td><td>Plasma</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PLB\">PLB</a><a name=\"cs-fr-v2-0487-PLB\"> </a></td><td>Poche de plasma</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PLC\">PLC</a><a name=\"cs-fr-v2-0487-PLC\"> </a></td><td>Placenta</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PLEVS\">PLEVS</a><a name=\"cs-fr-v2-0487-PLEVS\"> </a></td><td>Sérum au pic</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PLR\">PLR</a><a name=\"cs-fr-v2-0487-PLR\"> </a></td><td>Liquide pleural</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PMN\">PMN</a><a name=\"cs-fr-v2-0487-PMN\"> </a></td><td>Polynucléaires neutrophiles</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PND\">PND</a><a name=\"cs-fr-v2-0487-PND\"> </a></td><td>Drainage pénien</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-POL\">POL</a><a name=\"cs-fr-v2-0487-POL\"> </a></td><td>Polypes</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-POPGS\">POPGS</a><a name=\"cs-fr-v2-0487-POPGS\"> </a></td><td>Site de greffe poplité</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-POPLG\">POPLG</a><a name=\"cs-fr-v2-0487-POPLG\"> </a></td><td>Greffe poplitée</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-POPLV\">POPLV</a><a name=\"cs-fr-v2-0487-POPLV\"> </a></td><td>Veine poplitée (site)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PORTA\">PORTA</a><a name=\"cs-fr-v2-0487-PORTA\"> </a></td><td>Chambre implantable</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PPP\">PPP</a><a name=\"cs-fr-v2-0487-PPP\"> </a></td><td>Plasma pauvre en plaquettes</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PROST\">PROST</a><a name=\"cs-fr-v2-0487-PROST\"> </a></td><td>Appareil prothétique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PRP\">PRP</a><a name=\"cs-fr-v2-0487-PRP\"> </a></td><td>Plasma riche en plaquettes</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PSC\">PSC</a><a name=\"cs-fr-v2-0487-PSC\"> </a></td><td>Pseudokyste</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PUNCT\">PUNCT</a><a name=\"cs-fr-v2-0487-PUNCT\"> </a></td><td>Blessure, Perforation</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PUS\">PUS</a><a name=\"cs-fr-v2-0487-PUS\"> </a></td><td>Pus</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PUSFR\">PUSFR</a><a name=\"cs-fr-v2-0487-PUSFR\"> </a></td><td>Pustule</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-PUST\">PUST</a><a name=\"cs-fr-v2-0487-PUST\"> </a></td><td>Pus</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-QC3\">QC3</a><a name=\"cs-fr-v2-0487-QC3\"> </a></td><td>Contrôle qualité</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-RANDU\">RANDU</a><a name=\"cs-fr-v2-0487-RANDU\"> </a></td><td>Urine aléatoire</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-RBC\">RBC</a><a name=\"cs-fr-v2-0487-RBC\"> </a></td><td>Erythrocytes</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-RBITE\">RBITE</a><a name=\"cs-fr-v2-0487-RBITE\"> </a></td><td>Morsure de reptile</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-RECT\">RECT</a><a name=\"cs-fr-v2-0487-RECT\"> </a></td><td>Drainage rectal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-RECTA\">RECTA</a><a name=\"cs-fr-v2-0487-RECTA\"> </a></td><td>Abcès rectal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-RENALC\">RENALC</a><a name=\"cs-fr-v2-0487-RENALC\"> </a></td><td>Kyste rénal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-RENC\">RENC</a><a name=\"cs-fr-v2-0487-RENC\"> </a></td><td>Liquide de kyste rénal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-RES\">RES</a><a name=\"cs-fr-v2-0487-RES\"> </a></td><td>Respiratoire</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SAL\">SAL</a><a name=\"cs-fr-v2-0487-SAL\"> </a></td><td>Salive</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SCAR\">SCAR</a><a name=\"cs-fr-v2-0487-SCAR\"> </a></td><td>Cicatrice</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SCLV\">SCLV</a><a name=\"cs-fr-v2-0487-SCLV\"> </a></td><td>Cathéter sous-clavière (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SCROA\">SCROA</a><a name=\"cs-fr-v2-0487-SCROA\"> </a></td><td>Abcès scrotal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SECRE\">SECRE</a><a name=\"cs-fr-v2-0487-SECRE\"> </a></td><td>Sécrétion(s)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SER\">SER</a><a name=\"cs-fr-v2-0487-SER\"> </a></td><td>Sérum</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SHU\">SHU</a><a name=\"cs-fr-v2-0487-SHU\"> </a></td><td>Site du shunt</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SHUNF\">SHUNF</a><a name=\"cs-fr-v2-0487-SHUNF\"> </a></td><td>Liquide de shunt</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SHUNT\">SHUNT</a><a name=\"cs-fr-v2-0487-SHUNT\"> </a></td><td>Shunt (site)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SITE\">SITE</a><a name=\"cs-fr-v2-0487-SITE\"> </a></td><td>Site</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SKBP\">SKBP</a><a name=\"cs-fr-v2-0487-SKBP\"> </a></td><td>Biopsie de peau</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SKN\">SKN</a><a name=\"cs-fr-v2-0487-SKN\"> </a></td><td>Peau</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SMM\">SMM</a><a name=\"cs-fr-v2-0487-SMM\"> </a></td><td>Masse sous-mandibulaire</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SMN\">SMN</a><a name=\"cs-fr-v2-0487-SMN\"> </a></td><td>Sperme</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SNV\">SNV</a><a name=\"cs-fr-v2-0487-SNV\"> </a></td><td>Liquide synovial</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SPRM\">SPRM</a><a name=\"cs-fr-v2-0487-SPRM\"> </a></td><td>Spermatozoïdes</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SPRP\">SPRP</a><a name=\"cs-fr-v2-0487-SPRP\"> </a></td><td>Cathéter sus-pubien (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SPRPB\">SPRPB</a><a name=\"cs-fr-v2-0487-SPRPB\"> </a></td><td>Cathéter suprapubien (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SPS\">SPS</a><a name=\"cs-fr-v2-0487-SPS\"> </a></td><td>Bande de spores</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SPT\">SPT</a><a name=\"cs-fr-v2-0487-SPT\"> </a></td><td>Expectoration (crachat)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SPTC\">SPTC</a><a name=\"cs-fr-v2-0487-SPTC\"> </a></td><td>Expectoration (Toux)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SPTT\">SPTT</a><a name=\"cs-fr-v2-0487-SPTT\"> </a></td><td>Expectoration (crachat) par aspiration trachéale</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SPUT1\">SPUT1</a><a name=\"cs-fr-v2-0487-SPUT1\"> </a></td><td>Expectoration simulée (crachat)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SPUTIN\">SPUTIN</a><a name=\"cs-fr-v2-0487-SPUTIN\"> </a></td><td>Expectoration induite (crachat)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SPUTSP\">SPUTSP</a><a name=\"cs-fr-v2-0487-SPUTSP\"> </a></td><td>Expectoration spontanée (crachat)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-STER\">STER</a><a name=\"cs-fr-v2-0487-STER\"> </a></td><td>Sterrad</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-STL\">STL</a><a name=\"cs-fr-v2-0487-STL\"> </a></td><td>Selles</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-STONE\">STONE</a><a name=\"cs-fr-v2-0487-STONE\"> </a></td><td>Calcul rénal</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SUBMA\">SUBMA</a><a name=\"cs-fr-v2-0487-SUBMA\"> </a></td><td>Abcès sous-mandibulaire</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SUBMX\">SUBMX</a><a name=\"cs-fr-v2-0487-SUBMX\"> </a></td><td>Abcès sous-maxillaire</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SUMP\">SUMP</a><a name=\"cs-fr-v2-0487-SUMP\"> </a></td><td>Drain de puisard</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SUP\">SUP</a><a name=\"cs-fr-v2-0487-SUP\"> </a></td><td>Robinet suprapubien</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SUTUR\">SUTUR</a><a name=\"cs-fr-v2-0487-SUTUR\"> </a></td><td>Suture</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SWGZ\">SWGZ</a><a name=\"cs-fr-v2-0487-SWGZ\"> </a></td><td>Cathéter de Swan-Ganz</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-SWT\">SWT</a><a name=\"cs-fr-v2-0487-SWT\"> </a></td><td>Sueur</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-TASP\">TASP</a><a name=\"cs-fr-v2-0487-TASP\"> </a></td><td>Aspiration trachéale</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-TEAR\">TEAR</a><a name=\"cs-fr-v2-0487-TEAR\"> </a></td><td>Larmes</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-THRB\">THRB</a><a name=\"cs-fr-v2-0487-THRB\"> </a></td><td>Plaquettes</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-TISS\">TISS</a><a name=\"cs-fr-v2-0487-TISS\"> </a></td><td>Tissu</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-TISU\">TISU</a><a name=\"cs-fr-v2-0487-TISU\"> </a></td><td>Tissu ulcéreux</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-TLC\">TLC</a><a name=\"cs-fr-v2-0487-TLC\"> </a></td><td>Cathéter triple lumière (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-TRAC\">TRAC</a><a name=\"cs-fr-v2-0487-TRAC\"> </a></td><td>Trachéotomie (site)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-TRANS\">TRANS</a><a name=\"cs-fr-v2-0487-TRANS\"> </a></td><td>Transudat</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-TSERU\">TSERU</a><a name=\"cs-fr-v2-0487-TSERU\"> </a></td><td>par sérum</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-TSTES\">TSTES</a><a name=\"cs-fr-v2-0487-TSTES\"> </a></td><td>Abcès testiculaire</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-TTRA\">TTRA</a><a name=\"cs-fr-v2-0487-TTRA\"> </a></td><td>Aspiration transtrachéale</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-TUBES\">TUBES</a><a name=\"cs-fr-v2-0487-TUBES\"> </a></td><td>Tubes</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-TUMOR\">TUMOR</a><a name=\"cs-fr-v2-0487-TUMOR\"> </a></td><td>Tumeur</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-TZANC\">TZANC</a><a name=\"cs-fr-v2-0487-TZANC\"> </a></td><td>Frottis de Tzanck</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-UDENT\">UDENT</a><a name=\"cs-fr-v2-0487-UDENT\"> </a></td><td>Origine non identifiée</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-UMED\">UMED</a><a name=\"cs-fr-v2-0487-UMED\"> </a></td><td>Médicament inconnu</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-UR\">UR</a><a name=\"cs-fr-v2-0487-UR\"> </a></td><td>Urine</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-URC\">URC</a><a name=\"cs-fr-v2-0487-URC\"> </a></td><td>Urine 1er jet</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-URINB\">URINB</a><a name=\"cs-fr-v2-0487-URINB\"> </a></td><td>Urine de lavage vésical</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-URINC\">URINC</a><a name=\"cs-fr-v2-0487-URINC\"> </a></td><td>Urine cathétérisée</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-URINM\">URINM</a><a name=\"cs-fr-v2-0487-URINM\"> </a></td><td>Urine milieu de jet</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-URINN\">URINN</a><a name=\"cs-fr-v2-0487-URINN\"> </a></td><td>Urine de néphrostomie</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-URINP\">URINP</a><a name=\"cs-fr-v2-0487-URINP\"> </a></td><td>Urine de poche pédiatrique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-URNS\">URNS</a><a name=\"cs-fr-v2-0487-URNS\"> </a></td><td>Sédiments urinaires</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-URT\">URT</a><a name=\"cs-fr-v2-0487-URT\"> </a></td><td>Urine par cathéter</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-USCOP\">USCOP</a><a name=\"cs-fr-v2-0487-USCOP\"> </a></td><td>Urine de cystoscopie</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-USPEC\">USPEC</a><a name=\"cs-fr-v2-0487-USPEC\"> </a></td><td>Origine non spécifiée</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-USUB\">USUB</a><a name=\"cs-fr-v2-0487-USUB\"> </a></td><td>Substance inconnue</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-VASTIP\">VASTIP</a><a name=\"cs-fr-v2-0487-VASTIP\"> </a></td><td>Cathéter vasculaire (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-VENT\">VENT</a><a name=\"cs-fr-v2-0487-VENT\"> </a></td><td>Cathéter ventriculaire (embout)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-VITF\">VITF</a><a name=\"cs-fr-v2-0487-VITF\"> </a></td><td>Corps vitré</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-VOM\">VOM</a><a name=\"cs-fr-v2-0487-VOM\"> </a></td><td>Vomissure</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WASH\">WASH</a><a name=\"cs-fr-v2-0487-WASH\"> </a></td><td>Produit de lavage</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WASI\">WASI</a><a name=\"cs-fr-v2-0487-WASI\"> </a></td><td>Lavage, par ex. lavage broncho-alvéolaire</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WAT\">WAT</a><a name=\"cs-fr-v2-0487-WAT\"> </a></td><td>Eau</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WB\">WB</a><a name=\"cs-fr-v2-0487-WB\"> </a></td><td>Sang total</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WBC\">WBC</a><a name=\"cs-fr-v2-0487-WBC\"> </a></td><td>Leucocytes</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WEN\">WEN</a><a name=\"cs-fr-v2-0487-WEN\"> </a></td><td>Loupe</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WICK\">WICK</a><a name=\"cs-fr-v2-0487-WICK\"> </a></td><td>Mèche</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WND\">WND</a><a name=\"cs-fr-v2-0487-WND\"> </a></td><td>Plaie</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WNDA\">WNDA</a><a name=\"cs-fr-v2-0487-WNDA\"> </a></td><td>Abcès d'une plaie</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WNDD\">WNDD</a><a name=\"cs-fr-v2-0487-WNDD\"> </a></td><td>Drainage d'une plaie</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WNDE\">WNDE</a><a name=\"cs-fr-v2-0487-WNDE\"> </a></td><td>Exsudat d'une plaie</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WORM\">WORM</a><a name=\"cs-fr-v2-0487-WORM\"> </a></td><td>Ver</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WRT\">WRT</a><a name=\"cs-fr-v2-0487-WRT\"> </a></td><td>Verrue</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WWA\">WWA</a><a name=\"cs-fr-v2-0487-WWA\"> </a></td><td>Eau environnementale</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WWO\">WWO</a><a name=\"cs-fr-v2-0487-WWO\"> </a></td><td>Eau (océan)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v2-0487.html#v2-0487-WWT\">WWT</a><a name=\"cs-fr-v2-0487-WWT\"> </a></td><td>Eau (robinet)</td></tr></table></div>"
+  },
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v2-0487",
+  "version" : "0.1.0",
+  "name" : "SpecimenType",
+  "title" : "specimenType",
+  "status" : "active",
+  "date" : "2025-12-23T08:21:42+00:00",
+  "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
+  "description" : "HL7-defined code system of concepts that describe the precise nature of an entity that may be used as the source material for an observation.  This is one of two code systems that are used instead of table 0070 (code system 2.16.840.1.113883.18.28) which conflated specimen types and specimen collection methods.   Used in HL7 Version 2.x messaging in the SPM segment.",
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "urn:iso:std:iso:3166",
+      "code" : "FR",
+      "display" : "FRANCE"
+    }]
+  }],
+  "purpose" : "Underlying Master Code System for V2 table 0487 (Specimen Type)",
+  "copyright" : "This material derives from the HL7 Terminology (THO). THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html",
+  "caseSensitive" : false,
+  "content" : "supplement",
+  "supplements" : "http://terminology.hl7.org/CodeSystem/v2-0487|3.0.0",
+  "concept" : [{
+    "code" : "ABS",
+    "display" : "Abcès"
+  },
+  {
+    "code" : "ACNE",
+    "display" : "Acné"
+  },
+  {
+    "code" : "ACNFLD",
+    "display" : "Liquide d'acné"
+  },
+  {
+    "code" : "AIRS",
+    "display" : "Échantillon d'air"
+  },
+  {
+    "code" : "ALL",
+    "display" : "Allogreffe"
+  },
+  {
+    "code" : "AMN",
+    "display" : "Liquide amniotique"
+  },
+  {
+    "code" : "AMP",
+    "display" : "Amputation"
+  },
+  {
+    "code" : "ANGI",
+    "display" : "Cathéter d'angiographie (embout)"
+  },
+  {
+    "code" : "ARTC",
+    "display" : "Cathéter artériel (embout)"
+  },
+  {
+    "code" : "ASERU",
+    "display" : "Sérum en phase aigüe"
+  },
+  {
+    "code" : "ASP",
+    "display" : "Aspiration"
+  },
+  {
+    "code" : "ATTE",
+    "display" : "Environnement, Attest"
+  },
+  {
+    "code" : "AUTOA",
+    "display" : "Ampoule d'autoclave"
+  },
+  {
+    "code" : "AUTOC",
+    "display" : "Capsule d'autoclave"
+  },
+  {
+    "code" : "AUTP",
+    "display" : "Autopsie"
+  },
+  {
+    "code" : "BBL",
+    "display" : "Poche de sang"
+  },
+  {
+    "code" : "BCYST",
+    "display" : "Kyste de Baker"
+  },
+  {
+    "code" : "BDY",
+    "display" : "Corps humain"
+  },
+  {
+    "code" : "BIFL",
+    "display" : "Bile"
+  },
+  {
+    "code" : "BITE",
+    "display" : "Morsure"
+  },
+  {
+    "code" : "BLD",
+    "display" : "Sang"
+  },
+  {
+    "code" : "BLDA",
+    "display" : "Sang artériel"
+  },
+  {
+    "code" : "BLDCO",
+    "display" : "Sang de cordon"
+  },
+  {
+    "code" : "BLDV",
+    "display" : "Sang veineux"
+  },
+  {
+    "code" : "BLEB",
+    "display" : "Cloque"
+  },
+  {
+    "code" : "BLIST",
+    "display" : "Ampoule"
+  },
+  {
+    "code" : "BOIL",
+    "display" : "Clou"
+  },
+  {
+    "code" : "BON",
+    "display" : "Os"
+  },
+  {
+    "code" : "BOWL",
+    "display" : "Contenu intestinal"
+  },
+  {
+    "code" : "BPH",
+    "display" : "Polynucléaires basophiles"
+  },
+  {
+    "code" : "BPU",
+    "display" : "Produit sanguin labile"
+  },
+  {
+    "code" : "BRN",
+    "display" : "Brûlure"
+  },
+  {
+    "code" : "BRSH",
+    "display" : "Brosse"
+  },
+  {
+    "code" : "BRTH",
+    "display" : "Gas expiré (use EXG)"
+  },
+  {
+    "code" : "BRUS",
+    "display" : "Brossage"
+  },
+  {
+    "code" : "BUB",
+    "display" : "Bubon"
+  },
+  {
+    "code" : "BULLA",
+    "display" : "Bulle"
+  },
+  {
+    "code" : "BX",
+    "display" : "Biopsie"
+  },
+  {
+    "code" : "CALC",
+    "display" : "Calcul"
+  },
+  {
+    "code" : "CARBU",
+    "display" : "Anthrax"
+  },
+  {
+    "code" : "CAT",
+    "display" : "Cathéter"
+  },
+  {
+    "code" : "CBITE",
+    "display" : "Morsure de chat"
+  },
+  {
+    "code" : "CDM",
+    "display" : "Muscle cardiaque"
+  },
+  {
+    "code" : "CLIPP",
+    "display" : "Coupures"
+  },
+  {
+    "code" : "CNJT",
+    "display" : "Conjonctive"
+  },
+  {
+    "code" : "CNL",
+    "display" : "Canule"
+  },
+  {
+    "code" : "COL",
+    "display" : "Colostrum"
+  },
+  {
+    "code" : "CONE",
+    "display" : "Biopsie conique"
+  },
+  {
+    "code" : "CSCR",
+    "display" : "Griffure de chat"
+  },
+  {
+    "code" : "CSERU",
+    "display" : "Sérum de convalescent"
+  },
+  {
+    "code" : "CSF",
+    "display" : "Liquide céphalorachidien"
+  },
+  {
+    "code" : "CSITE",
+    "display" : "Cathéter (Site d'insertion)"
+  },
+  {
+    "code" : "CSMY",
+    "display" : "Liquide de tube de cystostomie"
+  },
+  {
+    "code" : "CST",
+    "display" : "Liquide de kyste"
+  },
+  {
+    "code" : "CSVR",
+    "display" : "Récupérateur de sang"
+  },
+  {
+    "code" : "CTP",
+    "display" : "Cathéter (embout)"
+  },
+  {
+    "code" : "CUR",
+    "display" : "Curetage"
+  },
+  {
+    "code" : "CVM",
+    "display" : "Glaire cervicale"
+  },
+  {
+    "code" : "CVPS",
+    "display" : "Cathéter veineux central (site)"
+  },
+  {
+    "code" : "CVPT",
+    "display" : "Cathéter veineux central (embout)"
+  },
+  {
+    "code" : "CYN",
+    "display" : "Nodule kystique"
+  },
+  {
+    "code" : "CYST",
+    "display" : "Kyste"
+  },
+  {
+    "code" : "DBITE",
+    "display" : "Morsure de chien"
+  },
+  {
+    "code" : "DCS",
+    "display" : "Expectoration profonde (crachat)"
+  },
+  {
+    "code" : "DEC",
+    "display" : "Ulcère de décubitus"
+  },
+  {
+    "code" : "DEION",
+    "display" : "Eau déminéralisée"
+  },
+  {
+    "code" : "DIA",
+    "display" : "Dialysat"
+  },
+  {
+    "code" : "DIAF",
+    "display" : "Liquide de dialyse"
+  },
+  {
+    "code" : "DISCHG",
+    "display" : "Décharge"
+  },
+  {
+    "code" : "DIV",
+    "display" : "Diverticule"
+  },
+  {
+    "code" : "DRN",
+    "display" : "Drain"
+  },
+  {
+    "code" : "DRNG",
+    "display" : "Drain (Tube)"
+  },
+  {
+    "code" : "DRNGP",
+    "display" : "Drain Penrose"
+  },
+  {
+    "code" : "DUFL",
+    "display" : "Liquide duodénal"
+  },
+  {
+    "code" : "EARW",
+    "display" : "Cérumen"
+  },
+  {
+    "code" : "EBRUSH",
+    "display" : "Brossage oesophagien"
+  },
+  {
+    "code" : "EEYE",
+    "display" : "Lavage oculaire"
+  },
+  {
+    "code" : "EFF",
+    "display" : "Éffluent environnemental"
+  },
+  {
+    "code" : "EFFUS",
+    "display" : "Éffusion"
+  },
+  {
+    "code" : "EFOD",
+    "display" : "Aliment"
+  },
+  {
+    "code" : "EISO",
+    "display" : "Isolette environnementale"
+  },
+  {
+    "code" : "ELT",
+    "display" : "Electrode"
+  },
+  {
+    "code" : "ENVIR",
+    "display" : "Substance non identifiée"
+  },
+  {
+    "code" : "EOS",
+    "display" : "Polynucléaires éosinophiles"
+  },
+  {
+    "code" : "EOTH",
+    "display" : "Autre substance"
+  },
+  {
+    "code" : "ESOI",
+    "display" : "Sol"
+  },
+  {
+    "code" : "ESOS",
+    "display" : "Solution stérile"
+  },
+  {
+    "code" : "ETA",
+    "display" : "Aspiration endotrachéale"
+  },
+  {
+    "code" : "ETTP",
+    "display" : "Cathéter endotrachéal (embout)"
+  },
+  {
+    "code" : "ETTUB",
+    "display" : "Tube endotrachéal"
+  },
+  {
+    "code" : "EWHI",
+    "display" : "Bain à remous"
+  },
+  {
+    "code" : "EXG",
+    "display" : "Gaz expiré"
+  },
+  {
+    "code" : "EXS",
+    "display" : "Dérivation externe"
+  },
+  {
+    "code" : "EXUDTE",
+    "display" : "Exudat"
+  },
+  {
+    "code" : "FAW",
+    "display" : "Eau de puits"
+  },
+  {
+    "code" : "FBLOOD",
+    "display" : "Sang foetal"
+  },
+  {
+    "code" : "FGA",
+    "display" : "Liquide abdominal"
+  },
+  {
+    "code" : "FIB",
+    "display" : "Fibroblastes"
+  },
+  {
+    "code" : "FIST",
+    "display" : "Fistule"
+  },
+  {
+    "code" : "FLD",
+    "display" : "Liquide (autre)"
+  },
+  {
+    "code" : "FLT",
+    "display" : "Filtre"
+  },
+  {
+    "code" : "FLU",
+    "display" : "Liquide biologique"
+  },
+  {
+    "code" : "FLUID",
+    "display" : "Liquide"
+  },
+  {
+    "code" : "FOLEY",
+    "display" : "Cathéter de Foley (embout)"
+  },
+  {
+    "code" : "FRS",
+    "display" : "Liquide respiratoire"
+  },
+  {
+    "code" : "FSCLP",
+    "display" : "Cuir chevelu foetal"
+  },
+  {
+    "code" : "FUR",
+    "display" : "Furoncle"
+  },
+  {
+    "code" : "GAS",
+    "display" : "Gaz du sang"
+  },
+  {
+    "code" : "GASA",
+    "display" : "Aspiration gastrique"
+  },
+  {
+    "code" : "GASAN",
+    "display" : "Antre gastrique"
+  },
+  {
+    "code" : "GASBR",
+    "display" : "Brossage gastrique"
+  },
+  {
+    "code" : "GASD",
+    "display" : "Drainage gastrique"
+  },
+  {
+    "code" : "GAST",
+    "display" : "Prélèvement digestif"
+  },
+  {
+    "code" : "GENL",
+    "display" : "Lochies"
+  },
+  {
+    "code" : "GENV",
+    "display" : "Prélèvement vaginal"
+  },
+  {
+    "code" : "GRAFT",
+    "display" : "Greffe"
+  },
+  {
+    "code" : "GRAFTS",
+    "display" : "Greffe (Site)"
+  },
+  {
+    "code" : "GRANU",
+    "display" : "Granulome"
+  },
+  {
+    "code" : "GROSH",
+    "display" : "Cathéter Groshong"
+  },
+  {
+    "code" : "GSOL",
+    "display" : "Solution pour gastrostomie"
+  },
+  {
+    "code" : "GSPEC",
+    "display" : "Biopsie gastrique"
+  },
+  {
+    "code" : "GT",
+    "display" : "Sonde gastrique"
+  },
+  {
+    "code" : "GTUBE",
+    "display" : "Drainage de gastrostomie"
+  },
+  {
+    "code" : "HAR",
+    "display" : "Poils/Cheveux"
+  },
+  {
+    "code" : "HBITE",
+    "display" : "Morsure humaine"
+  },
+  {
+    "code" : "HBLUD",
+    "display" : "Sang (Autopsie)"
+  },
+  {
+    "code" : "HEMAQ",
+    "display" : "Cathéter Hemaquit (embout)"
+  },
+  {
+    "code" : "HEMO",
+    "display" : "Cathéter Hemovac (embout)"
+  },
+  {
+    "code" : "HERNI",
+    "display" : "Hernie"
+  },
+  {
+    "code" : "HEV",
+    "display" : "Drain Hemovac"
+  },
+  {
+    "code" : "HIC",
+    "display" : "Cathéter de Hickman"
+  },
+  {
+    "code" : "HYDC",
+    "display" : "Hydrocèle"
+  },
+  {
+    "code" : "IBITE",
+    "display" : "Morsure d'insecte"
+  },
+  {
+    "code" : "ICYST",
+    "display" : "Kyste d'inclusion"
+  },
+  {
+    "code" : "IDC",
+    "display" : "Cathéter Indwelling (embout)"
+  },
+  {
+    "code" : "IHG",
+    "display" : "Gaz inhalé"
+  },
+  {
+    "code" : "ILEO",
+    "display" : "Drainage d'iléostomie"
+  },
+  {
+    "code" : "ILLEG",
+    "display" : "Source du spécimen illisible"
+  },
+  {
+    "code" : "IMP",
+    "display" : "Implant"
+  },
+  {
+    "code" : "INCI",
+    "display" : "Incision/chirurgie (Site)"
+  },
+  {
+    "code" : "INFIL",
+    "display" : "Infiltration"
+  },
+  {
+    "code" : "INS",
+    "display" : "Insecte"
+  },
+  {
+    "code" : "INTRD",
+    "display" : "Cathéter (Guide)"
+  },
+  {
+    "code" : "ISLT",
+    "display" : "Isolat"
+  },
+  {
+    "code" : "IT",
+    "display" : "Tube d'intubation"
+  },
+  {
+    "code" : "IUD",
+    "display" : "Dispositif intra-utérin"
+  },
+  {
+    "code" : "IVCAT",
+    "display" : "Cathéter intraveineux"
+  },
+  {
+    "code" : "IVFLD",
+    "display" : "Liquide intraveineux"
+  },
+  {
+    "code" : "IVTIP",
+    "display" : "Sonde intraveineuse"
+  },
+  {
+    "code" : "JEJU",
+    "display" : "Drainage jéjunal"
+  },
+  {
+    "code" : "JNTFLD",
+    "display" : "Liquide articulaire"
+  },
+  {
+    "code" : "JP",
+    "display" : "Drain Jackson Pratt"
+  },
+  {
+    "code" : "KELOI",
+    "display" : "Lavage"
+  },
+  {
+    "code" : "KIDFLD",
+    "display" : "Liquide rénal"
+  },
+  {
+    "code" : "LAVG",
+    "display" : "Lavage bronchial"
+  },
+  {
+    "code" : "LAVGG",
+    "display" : "Lavage gastrique"
+  },
+  {
+    "code" : "LAVGP",
+    "display" : "Lavage péritonéal"
+  },
+  {
+    "code" : "LAVPG",
+    "display" : "Lavage pré-bronchial"
+  },
+  {
+    "code" : "LENS1",
+    "display" : "Lentilles de contact"
+  },
+  {
+    "code" : "LENS2",
+    "display" : "Étui pour lentilles de contact"
+  },
+  {
+    "code" : "LESN",
+    "display" : "Lésion"
+  },
+  {
+    "code" : "LIQ",
+    "display" : "Liquide non spécifié"
+  },
+  {
+    "code" : "LIQO",
+    "display" : "Liquide (autres)"
+  },
+  {
+    "code" : "LNA",
+    "display" : "Ponction artérielle"
+  },
+  {
+    "code" : "LNV",
+    "display" : "Ponction veineuse"
+  },
+  {
+    "code" : "LSAC",
+    "display" : "Liquide de sac lombaire"
+  },
+  {
+    "code" : "LYM",
+    "display" : "Lymphocytes"
+  },
+  {
+    "code" : "MAC",
+    "display" : "Macrophages"
+  },
+  {
+    "code" : "MAHUR",
+    "display" : "Catheter Makurkour"
+  },
+  {
+    "code" : "MAR",
+    "display" : "Moelle osseuse"
+  },
+  {
+    "code" : "MASS",
+    "display" : "Masse"
+  },
+  {
+    "code" : "MBLD",
+    "display" : "Sang menstruel"
+  },
+  {
+    "code" : "MEC",
+    "display" : "Méconium"
+  },
+  {
+    "code" : "MILK",
+    "display" : "Lait maternel"
+  },
+  {
+    "code" : "MLK",
+    "display" : "Lait"
+  },
+  {
+    "code" : "MUCOS",
+    "display" : "Muqueuse"
+  },
+  {
+    "code" : "MUCUS",
+    "display" : "Mucus"
+  },
+  {
+    "code" : "NAIL",
+    "display" : "Ongle"
+  },
+  {
+    "code" : "NASDR",
+    "display" : "Drainage des voies nasales"
+  },
+  {
+    "code" : "NEDL",
+    "display" : "Aiguille"
+  },
+  {
+    "code" : "NEPH",
+    "display" : "Néphrostomie (site)"
+  },
+  {
+    "code" : "NGASP",
+    "display" : "Aspiration nasogastrique"
+  },
+  {
+    "code" : "NGAST",
+    "display" : "Drainage nasogastrique"
+  },
+  {
+    "code" : "NGS",
+    "display" : "Nasogastrique (site)"
+  },
+  {
+    "code" : "NODUL",
+    "display" : "Nodule(s)"
+  },
+  {
+    "code" : "NSECR",
+    "display" : "Sécrétion nasale"
+  },
+  {
+    "code" : "ORH",
+    "display" : "Autre"
+  },
+  {
+    "code" : "ORL",
+    "display" : "Lésion orale"
+  },
+  {
+    "code" : "OTH",
+    "display" : "Autre origine"
+  },
+  {
+    "code" : "PACEM",
+    "display" : "Stimulateur cardiaque"
+  },
+  {
+    "code" : "PAFL",
+    "display" : "Liquide pancréatique"
+  },
+  {
+    "code" : "PCFL",
+    "display" : "Liquide péricardique"
+  },
+  {
+    "code" : "PDSIT",
+    "display" : "Dialyse péritonéale (site)"
+  },
+  {
+    "code" : "PDTS",
+    "display" : "Dialyse péritonéale, Tunnel (site)"
+  },
+  {
+    "code" : "PELVA",
+    "display" : "Abcès pelvien"
+  },
+  {
+    "code" : "PENIL",
+    "display" : "Lésion du pénis"
+  },
+  {
+    "code" : "PERIA",
+    "display" : "Abcès périanal"
+  },
+  {
+    "code" : "PILOC",
+    "display" : "kyste pilonidal"
+  },
+  {
+    "code" : "PINS",
+    "display" : "Site de la broche"
+  },
+  {
+    "code" : "PIS",
+    "display" : "Site d'insertion du stimulateur cardiaque"
+  },
+  {
+    "code" : "PLAN",
+    "display" : "Matériel végétal"
+  },
+  {
+    "code" : "PLAS",
+    "display" : "Plasma"
+  },
+  {
+    "code" : "PLB",
+    "display" : "Poche de plasma"
+  },
+  {
+    "code" : "PLC",
+    "display" : "Placenta"
+  },
+  {
+    "code" : "PLEVS",
+    "display" : "Sérum au pic"
+  },
+  {
+    "code" : "PLR",
+    "display" : "Liquide pleural"
+  },
+  {
+    "code" : "PMN",
+    "display" : "Polynucléaires neutrophiles"
+  },
+  {
+    "code" : "PND",
+    "display" : "Drainage pénien"
+  },
+  {
+    "code" : "POL",
+    "display" : "Polypes"
+  },
+  {
+    "code" : "POPGS",
+    "display" : "Site de greffe poplité"
+  },
+  {
+    "code" : "POPLG",
+    "display" : "Greffe poplitée"
+  },
+  {
+    "code" : "POPLV",
+    "display" : "Veine poplitée (site)"
+  },
+  {
+    "code" : "PORTA",
+    "display" : "Chambre implantable"
+  },
+  {
+    "code" : "PPP",
+    "display" : "Plasma pauvre en plaquettes"
+  },
+  {
+    "code" : "PROST",
+    "display" : "Appareil prothétique"
+  },
+  {
+    "code" : "PRP",
+    "display" : "Plasma riche en plaquettes"
+  },
+  {
+    "code" : "PSC",
+    "display" : "Pseudokyste"
+  },
+  {
+    "code" : "PUNCT",
+    "display" : "Blessure, Perforation"
+  },
+  {
+    "code" : "PUS",
+    "display" : "Pus"
+  },
+  {
+    "code" : "PUSFR",
+    "display" : "Pustule"
+  },
+  {
+    "code" : "PUST",
+    "display" : "Pus"
+  },
+  {
+    "code" : "QC3",
+    "display" : "Contrôle qualité"
+  },
+  {
+    "code" : "RANDU",
+    "display" : "Urine aléatoire"
+  },
+  {
+    "code" : "RBC",
+    "display" : "Erythrocytes"
+  },
+  {
+    "code" : "RBITE",
+    "display" : "Morsure de reptile"
+  },
+  {
+    "code" : "RECT",
+    "display" : "Drainage rectal"
+  },
+  {
+    "code" : "RECTA",
+    "display" : "Abcès rectal"
+  },
+  {
+    "code" : "RENALC",
+    "display" : "Kyste rénal"
+  },
+  {
+    "code" : "RENC",
+    "display" : "Liquide de kyste rénal"
+  },
+  {
+    "code" : "RES",
+    "display" : "Respiratoire"
+  },
+  {
+    "code" : "SAL",
+    "display" : "Salive"
+  },
+  {
+    "code" : "SCAR",
+    "display" : "Cicatrice"
+  },
+  {
+    "code" : "SCLV",
+    "display" : "Cathéter sous-clavière (embout)"
+  },
+  {
+    "code" : "SCROA",
+    "display" : "Abcès scrotal"
+  },
+  {
+    "code" : "SECRE",
+    "display" : "Sécrétion(s)"
+  },
+  {
+    "code" : "SER",
+    "display" : "Sérum"
+  },
+  {
+    "code" : "SHU",
+    "display" : "Site du shunt"
+  },
+  {
+    "code" : "SHUNF",
+    "display" : "Liquide de shunt"
+  },
+  {
+    "code" : "SHUNT",
+    "display" : "Shunt (site)"
+  },
+  {
+    "code" : "SITE",
+    "display" : "Site"
+  },
+  {
+    "code" : "SKBP",
+    "display" : "Biopsie de peau"
+  },
+  {
+    "code" : "SKN",
+    "display" : "Peau"
+  },
+  {
+    "code" : "SMM",
+    "display" : "Masse sous-mandibulaire"
+  },
+  {
+    "code" : "SMN",
+    "display" : "Sperme"
+  },
+  {
+    "code" : "SNV",
+    "display" : "Liquide synovial"
+  },
+  {
+    "code" : "SPRM",
+    "display" : "Spermatozoïdes"
+  },
+  {
+    "code" : "SPRP",
+    "display" : "Cathéter sus-pubien (embout)"
+  },
+  {
+    "code" : "SPRPB",
+    "display" : "Cathéter suprapubien (embout)"
+  },
+  {
+    "code" : "SPS",
+    "display" : "Bande de spores"
+  },
+  {
+    "code" : "SPT",
+    "display" : "Expectoration (crachat)"
+  },
+  {
+    "code" : "SPTC",
+    "display" : "Expectoration (Toux)"
+  },
+  {
+    "code" : "SPTT",
+    "display" : "Expectoration (crachat) par aspiration trachéale"
+  },
+  {
+    "code" : "SPUT1",
+    "display" : "Expectoration simulée (crachat)"
+  },
+  {
+    "code" : "SPUTIN",
+    "display" : "Expectoration induite (crachat)"
+  },
+  {
+    "code" : "SPUTSP",
+    "display" : "Expectoration spontanée (crachat)"
+  },
+  {
+    "code" : "STER",
+    "display" : "Sterrad"
+  },
+  {
+    "code" : "STL",
+    "display" : "Selles"
+  },
+  {
+    "code" : "STONE",
+    "display" : "Calcul rénal"
+  },
+  {
+    "code" : "SUBMA",
+    "display" : "Abcès sous-mandibulaire"
+  },
+  {
+    "code" : "SUBMX",
+    "display" : "Abcès sous-maxillaire"
+  },
+  {
+    "code" : "SUMP",
+    "display" : "Drain de puisard"
+  },
+  {
+    "code" : "SUP",
+    "display" : "Robinet suprapubien"
+  },
+  {
+    "code" : "SUTUR",
+    "display" : "Suture"
+  },
+  {
+    "code" : "SWGZ",
+    "display" : "Cathéter de Swan-Ganz"
+  },
+  {
+    "code" : "SWT",
+    "display" : "Sueur"
+  },
+  {
+    "code" : "TASP",
+    "display" : "Aspiration trachéale"
+  },
+  {
+    "code" : "TEAR",
+    "display" : "Larmes"
+  },
+  {
+    "code" : "THRB",
+    "display" : "Plaquettes"
+  },
+  {
+    "code" : "TISS",
+    "display" : "Tissu"
+  },
+  {
+    "code" : "TISU",
+    "display" : "Tissu ulcéreux"
+  },
+  {
+    "code" : "TLC",
+    "display" : "Cathéter triple lumière (embout)"
+  },
+  {
+    "code" : "TRAC",
+    "display" : "Trachéotomie (site)"
+  },
+  {
+    "code" : "TRANS",
+    "display" : "Transudat"
+  },
+  {
+    "code" : "TSERU",
+    "display" : "par sérum"
+  },
+  {
+    "code" : "TSTES",
+    "display" : "Abcès testiculaire"
+  },
+  {
+    "code" : "TTRA",
+    "display" : "Aspiration transtrachéale"
+  },
+  {
+    "code" : "TUBES",
+    "display" : "Tubes"
+  },
+  {
+    "code" : "TUMOR",
+    "display" : "Tumeur"
+  },
+  {
+    "code" : "TZANC",
+    "display" : "Frottis de Tzanck"
+  },
+  {
+    "code" : "UDENT",
+    "display" : "Origine non identifiée"
+  },
+  {
+    "code" : "UMED",
+    "display" : "Médicament inconnu"
+  },
+  {
+    "code" : "UR",
+    "display" : "Urine"
+  },
+  {
+    "code" : "URC",
+    "display" : "Urine 1er jet"
+  },
+  {
+    "code" : "URINB",
+    "display" : "Urine de lavage vésical"
+  },
+  {
+    "code" : "URINC",
+    "display" : "Urine cathétérisée"
+  },
+  {
+    "code" : "URINM",
+    "display" : "Urine milieu de jet"
+  },
+  {
+    "code" : "URINN",
+    "display" : "Urine de néphrostomie"
+  },
+  {
+    "code" : "URINP",
+    "display" : "Urine de poche pédiatrique"
+  },
+  {
+    "code" : "URNS",
+    "display" : "Sédiments urinaires"
+  },
+  {
+    "code" : "URT",
+    "display" : "Urine par cathéter"
+  },
+  {
+    "code" : "USCOP",
+    "display" : "Urine de cystoscopie"
+  },
+  {
+    "code" : "USPEC",
+    "display" : "Origine non spécifiée"
+  },
+  {
+    "code" : "USUB",
+    "display" : "Substance inconnue"
+  },
+  {
+    "code" : "VASTIP",
+    "display" : "Cathéter vasculaire (embout)"
+  },
+  {
+    "code" : "VENT",
+    "display" : "Cathéter ventriculaire (embout)"
+  },
+  {
+    "code" : "VITF",
+    "display" : "Corps vitré"
+  },
+  {
+    "code" : "VOM",
+    "display" : "Vomissure"
+  },
+  {
+    "code" : "WASH",
+    "display" : "Produit de lavage"
+  },
+  {
+    "code" : "WASI",
+    "display" : "Lavage, par ex. lavage broncho-alvéolaire"
+  },
+  {
+    "code" : "WAT",
+    "display" : "Eau"
+  },
+  {
+    "code" : "WB",
+    "display" : "Sang total"
+  },
+  {
+    "code" : "WBC",
+    "display" : "Leucocytes"
+  },
+  {
+    "code" : "WEN",
+    "display" : "Loupe"
+  },
+  {
+    "code" : "WICK",
+    "display" : "Mèche"
+  },
+  {
+    "code" : "WND",
+    "display" : "Plaie"
+  },
+  {
+    "code" : "WNDA",
+    "display" : "Abcès d'une plaie"
+  },
+  {
+    "code" : "WNDD",
+    "display" : "Drainage d'une plaie"
+  },
+  {
+    "code" : "WNDE",
+    "display" : "Exsudat d'une plaie"
+  },
+  {
+    "code" : "WORM",
+    "display" : "Ver"
+  },
+  {
+    "code" : "WRT",
+    "display" : "Verrue"
+  },
+  {
+    "code" : "WWA",
+    "display" : "Eau environnementale"
+  },
+  {
+    "code" : "WWO",
+    "display" : "Eau (océan)"
+  },
+  {
+    "code" : "WWT",
+    "display" : "Eau (robinet)"
+  }]
+}

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Bundle xmlns="http://hl7.org/fhir">
-  <id value="78eac3bd-0853-47a2-b8c5-5f27b9274bd0"/>
+  <id value="f59e9c38-2c9f-4eb5-ab61-078328233e46"/>
   <meta>
-    <lastUpdated value="2025-12-23T08:16:55.758+00:00"/>
+    <lastUpdated value="2025-12-23T08:21:42.613+00:00"/>
   </meta>
   <type value="collection"/>
   <entry>
@@ -29,9 +29,9 @@
                   </span>
                 </li>
                 <li>
-                  <a href="CodeSystem-cs-fr-FR-v3-AdministrativeGender.html">supplement AdministrativeGender v0.1.0 (CodeSystem)</a>
+                  <a href="CodeSystem-cs-fr-v3-AdministrativeGender.html">supplement AdministrativeGender v0.1.0 (CodeSystem)</a>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-AdministrativeGender|0.1.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
+                    <button data-clipboard-text="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender|0.1.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
                   </span>
                 </li>
               </ul>
@@ -162,8 +162,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:bb4a2ec2-3002-419c-92a8-edbb0bd9dce3"/>
-          <timestamp value="2025-12-23T08:17:36+00:00"/>
+          <identifier value="urn:uuid:c20fab1c-eb77-4c4c-9fec-fa0f6b8f1662"/>
+          <timestamp value="2025-12-23T08:22:37+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -188,7 +188,7 @@
           </parameter>
           <parameter>
             <name value="used-supplement"/>
-            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-AdministrativeGender|0.1.0"/>
+            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender|0.1.0"/>
           </parameter>
           <contains>
             <system value="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender"/>

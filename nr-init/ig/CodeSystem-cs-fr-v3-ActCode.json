@@ -1,0 +1,120 @@
+{
+  "resourceType" : "CodeSystem",
+  "id" : "cs-fr-v3-ActCode",
+  "language" : "fr",
+  "text" : {
+    "status" : "generated",
+    "div" : "<div xml:lang=\"fr\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-v3-ActCode</b></p><a name=\"cs-fr-v3-ActCode\"> </a><a name=\"hccs-fr-v3-ActCode\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ActCode</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-AMB\">AMB</a><a name=\"cs-fr-v3-ActCode-AMB\"> </a></td><td>Ambulatoire (hors établissement)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-EMER\">EMER</a><a name=\"cs-fr-v3-ActCode-EMER\"> </a></td><td>Passage aux urgences (établissement)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-FLD\">FLD</a><a name=\"cs-fr-v3-ActCode-FLD\"> </a></td><td>Terrain (voie publique, hélicoptère, ambulance, etc.)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-HH\">HH</a><a name=\"cs-fr-v3-ActCode-HH\"> </a></td><td>Soins à domicile (hors établissement)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-IMP\">IMP</a><a name=\"cs-fr-v3-ActCode-IMP\"> </a></td><td>Hospitalisation (établissement, y compris HAD)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-OBSENC\">OBSENC</a><a name=\"cs-fr-v3-ActCode-OBSENC\"> </a></td><td>Observation</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-PRENC\">PRENC</a><a name=\"cs-fr-v3-ActCode-PRENC\"> </a></td><td>Pré-admission</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-SS\">SS</a><a name=\"cs-fr-v3-ActCode-SS\"> </a></td><td>Hospitalisation de jour</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-VR\">VR</a><a name=\"cs-fr-v3-ActCode-VR\"> </a></td><td>Virtuelle (exemple : RCP en l'absence du patient)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-CIRCLE\">CIRCLE</a><a name=\"cs-fr-v3-ActCode-CIRCLE\"> </a></td><td>Cercle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-ELLIPSE\">ELLIPSE</a><a name=\"cs-fr-v3-ActCode-ELLIPSE\"> </a></td><td>Elipse</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-POINT\">POINT</a><a name=\"cs-fr-v3-ActCode-POINT\"> </a></td><td>Point</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-POLY\">POLY</a><a name=\"cs-fr-v3-ActCode-POLY\"> </a></td><td>Multi</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-DRUG\">DRUG</a><a name=\"cs-fr-v3-ActCode-DRUG\"> </a></td><td>Médicament</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-FD\">FD</a><a name=\"cs-fr-v3-ActCode-FD\"> </a></td><td>Aliment</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-BOOSTER\">BOOSTER</a><a name=\"cs-fr-v3-ActCode-BOOSTER\"> </a></td><td>Rappel de vaccin</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-IMMUNIZ\">IMMUNIZ</a><a name=\"cs-fr-v3-ActCode-IMMUNIZ\"> </a></td><td>Vaccination sans autre précision</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-INITIMMUNIZ\">INITIMMUNIZ</a><a name=\"cs-fr-v3-ActCode-INITIMMUNIZ\"> </a></td><td>1ère série vaccinante</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-SEV\">SEV</a><a name=\"cs-fr-v3-ActCode-SEV\"> </a></td><td>Sévérité</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-FFC\">FFC</a><a name=\"cs-fr-v3-ActCode-FFC\"> </a></td><td>Première dispensation - complète</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-FFP\">FFP</a><a name=\"cs-fr-v3-ActCode-FFP\"> </a></td><td>Première dispensation - partielle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-RFP\">RFP</a><a name=\"cs-fr-v3-ActCode-RFP\"> </a></td><td>Dispensation suivante - partielle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActCode.html#v3-ActCode-RFC\">RFC</a><a name=\"cs-fr-v3-ActCode-RFC\"> </a></td><td>Dispensation suivante - complète</td></tr></table></div>"
+  },
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ActCode",
+  "version" : "0.1.0",
+  "name" : "ActCode",
+  "title" : "ActCode",
+  "status" : "active",
+  "date" : "2025-12-23T08:21:42+00:00",
+  "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
+  "description" : "A code specifying the particular kind of Act that the Act-instance represents within its class.\r\n\r\n*Constraints:* The kind of Act (e.g. physical examination, serum potassium, inpatient encounter, charge financial transaction, etc.) is specified with a code from one of several, typically external, coding systems. The coding system will depend on the class of Act, such as LOINC for observations, etc.\r\n\r\nConceptually, the Act.code must be a specialization of the Act.classCode. This is why the structure of ActClass domain should be reflected in the superstructure of the ActCode domain and then individual codes or externally referenced vocabularies subordinated under these domains that reflect the ActClass structure.\r\n\r\nAct.classCode and Act.code are not modifiers of each other but the Act.code concept should really imply the Act.classCode concept. For a negative example, it is not appropriate to use an Act.code \"potassium\" together with and Act.classCode for \"laboratory observation\" to somehow mean \"potassium laboratory observation\" and then use the same Act.code for \"potassium\" together with Act.classCode for \"medication\" to mean \"substitution of potassium\". This mutually modifying use of Act.code and Act.classCode is not permitted.",
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "urn:iso:std:iso:3166",
+      "code" : "FR",
+      "display" : "FRANCE"
+    }]
+  }],
+  "copyright" : "This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html",
+  "caseSensitive" : false,
+  "content" : "supplement",
+  "supplements" : "http://terminology.hl7.org/CodeSystem/v3-ActCode|9.0.0",
+  "concept" : [{
+    "code" : "AMB",
+    "display" : "Ambulatoire (hors établissement)"
+  },
+  {
+    "code" : "EMER",
+    "display" : "Passage aux urgences (établissement)"
+  },
+  {
+    "code" : "FLD",
+    "display" : "Terrain (voie publique, hélicoptère, ambulance, etc.)"
+  },
+  {
+    "code" : "HH",
+    "display" : "Soins à domicile (hors établissement)"
+  },
+  {
+    "code" : "IMP",
+    "display" : "Hospitalisation (établissement, y compris HAD)"
+  },
+  {
+    "code" : "OBSENC",
+    "display" : "Observation"
+  },
+  {
+    "code" : "PRENC",
+    "display" : "Pré-admission"
+  },
+  {
+    "code" : "SS",
+    "display" : "Hospitalisation de jour"
+  },
+  {
+    "code" : "VR",
+    "display" : "Virtuelle (exemple : RCP en l'absence du patient)"
+  },
+  {
+    "code" : "CIRCLE",
+    "display" : "Cercle"
+  },
+  {
+    "code" : "ELLIPSE",
+    "display" : "Elipse"
+  },
+  {
+    "code" : "POINT",
+    "display" : "Point"
+  },
+  {
+    "code" : "POLY",
+    "display" : "Multi"
+  },
+  {
+    "code" : "DRUG",
+    "display" : "Médicament"
+  },
+  {
+    "code" : "FD",
+    "display" : "Aliment"
+  },
+  {
+    "code" : "BOOSTER",
+    "display" : "Rappel de vaccin"
+  },
+  {
+    "code" : "IMMUNIZ",
+    "display" : "Vaccination sans autre précision"
+  },
+  {
+    "code" : "INITIMMUNIZ",
+    "display" : "1ère série vaccinante"
+  },
+  {
+    "code" : "SEV",
+    "display" : "Sévérité"
+  },
+  {
+    "code" : "FFC",
+    "display" : "Première dispensation - complète"
+  },
+  {
+    "code" : "FFP",
+    "display" : "Première dispensation - partielle"
+  },
+  {
+    "code" : "RFP",
+    "display" : "Dispensation suivante - partielle"
+  },
+  {
+    "code" : "RFC",
+    "display" : "Dispensation suivante - complète"
+  }]
+}

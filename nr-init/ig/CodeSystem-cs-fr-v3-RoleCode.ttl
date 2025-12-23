@@ -1,0 +1,393 @@
+@prefix fhir: <http://hl7.org/fhir/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# - resource -------------------------------------------------------------------
+
+<https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-RoleCode> a fhir:CodeSystem ;
+  fhir:nodeRole fhir:treeRoot ;
+  fhir:id [ fhir:v "cs-fr-v3-RoleCode"] ; # 
+  fhir:language [ fhir:v "fr"] ; # 
+  fhir:text [
+     fhir:status [ fhir:v "generated" ] ;
+     fhir:div [ fhir:v "<div xml:lang=\"fr\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-v3-RoleCode</b></p><a name=\"cs-fr-v3-RoleCode\"> </a><a name=\"hccs-fr-v3-RoleCode\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-RoleCode</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-C\">C</a><a name=\"cs-fr-v3-RoleCode-C\"> </a></td><td>Spécimen utilisé pour les paramètres d'étalonnage initiaux d'un instrument</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-G\">G</a><a name=\"cs-fr-v3-RoleCode-G\"> </a></td><td>Ensemble d'échantillons de patients dans lequel les individus du groupe peuvent ou non être identifiés.</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-L\">L</a><a name=\"cs-fr-v3-RoleCode-L\"> </a></td><td>Aliquot d'échantillons individuels combinés pour former un seul spécimen représentant tous les individus inclus.</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-P\">P</a><a name=\"cs-fr-v3-RoleCode-P\"> </a></td><td>Spécimen prélevé sur un patient</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-ADOPTF\">ADOPTF</a><a name=\"cs-fr-v3-RoleCode-ADOPTF\"> </a></td><td>Père adoptif</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-ADOPTM\">ADOPTM</a><a name=\"cs-fr-v3-RoleCode-ADOPTM\"> </a></td><td>Mère adoptive</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-ADOPTP\">ADOPTP</a><a name=\"cs-fr-v3-RoleCode-ADOPTP\"> </a></td><td>Parent adoptif, au sens père ou mère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-AUNT\">AUNT</a><a name=\"cs-fr-v3-RoleCode-AUNT\"> </a></td><td>Tante</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-BRO\">BRO</a><a name=\"cs-fr-v3-RoleCode-BRO\"> </a></td><td>Frère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-BROINLAW\">BROINLAW</a><a name=\"cs-fr-v3-RoleCode-BROINLAW\"> </a></td><td>Beau-frère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-CHILD\">CHILD</a><a name=\"cs-fr-v3-RoleCode-CHILD\"> </a></td><td>Enfant</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-CHLDADOPT\">CHLDADOPT</a><a name=\"cs-fr-v3-RoleCode-CHLDADOPT\"> </a></td><td>Enfant adopté</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-CHLDFOST\">CHLDFOST</a><a name=\"cs-fr-v3-RoleCode-CHLDFOST\"> </a></td><td>Enfant placé en famille d'accueil</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-CHLDINLAW\">CHLDINLAW</a><a name=\"cs-fr-v3-RoleCode-CHLDINLAW\"> </a></td><td>Gendre ou belle-fille</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-COUSN\">COUSN</a><a name=\"cs-fr-v3-RoleCode-COUSN\"> </a></td><td>Cousin(e)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-DAU\">DAU</a><a name=\"cs-fr-v3-RoleCode-DAU\"> </a></td><td>Fille biologique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-DAUADOPT\">DAUADOPT</a><a name=\"cs-fr-v3-RoleCode-DAUADOPT\"> </a></td><td>Fille adoptive</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-DAUC\">DAUC</a><a name=\"cs-fr-v3-RoleCode-DAUC\"> </a></td><td>Fille</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-DAUFOST\">DAUFOST</a><a name=\"cs-fr-v3-RoleCode-DAUFOST\"> </a></td><td>Fille placée en famille d'accueil</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-DAUINLAW\">DAUINLAW</a><a name=\"cs-fr-v3-RoleCode-DAUINLAW\"> </a></td><td>Belle-fille</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-DOMPART\">DOMPART</a><a name=\"cs-fr-v3-RoleCode-DOMPART\"> </a></td><td>Concubin(e) ou partenaire PACS</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-EXT\">EXT</a><a name=\"cs-fr-v3-RoleCode-EXT\"> </a></td><td>Autre membre de la famille sans lien génétique direct</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-FAMMEMB\">FAMMEMB</a><a name=\"cs-fr-v3-RoleCode-FAMMEMB\"> </a></td><td>Autre membre de la famille</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-FMRSPS\">FMRSPS</a><a name=\"cs-fr-v3-RoleCode-FMRSPS\"> </a></td><td>Ancien époux ou ancienne épouse</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-FRND\">FRND</a><a name=\"cs-fr-v3-RoleCode-FRND\"> </a></td><td>Autre proche</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-FTH\">FTH</a><a name=\"cs-fr-v3-RoleCode-FTH\"> </a></td><td>Père</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-FTHFOST\">FTHFOST</a><a name=\"cs-fr-v3-RoleCode-FTHFOST\"> </a></td><td>Assistant familial - Famille d'accueil</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-FTHINLAW\">FTHINLAW</a><a name=\"cs-fr-v3-RoleCode-FTHINLAW\"> </a></td><td>Beau-père</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-FTWIN\">FTWIN</a><a name=\"cs-fr-v3-RoleCode-FTWIN\"> </a></td><td>Jumeau ou jumelle dizygote</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-FTWINBRO\">FTWINBRO</a><a name=\"cs-fr-v3-RoleCode-FTWINBRO\"> </a></td><td>Jumeau dizygote</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-FTWINSIS\">FTWINSIS</a><a name=\"cs-fr-v3-RoleCode-FTWINSIS\"> </a></td><td>Jumelle dizygote</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-GESTM\">GESTM</a><a name=\"cs-fr-v3-RoleCode-GESTM\"> </a></td><td>Mère porteuse</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-GGRFTH\">GGRFTH</a><a name=\"cs-fr-v3-RoleCode-GGRFTH\"> </a></td><td>Arrière-grand-père</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-GGRMTH\">GGRMTH</a><a name=\"cs-fr-v3-RoleCode-GGRMTH\"> </a></td><td>Arrière-grand-mère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-GGRPRN\">GGRPRN</a><a name=\"cs-fr-v3-RoleCode-GGRPRN\"> </a></td><td>Arrière-grand-parent</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-GRFTH\">GRFTH</a><a name=\"cs-fr-v3-RoleCode-GRFTH\"> </a></td><td>Grand-père</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-GRMTH\">GRMTH</a><a name=\"cs-fr-v3-RoleCode-GRMTH\"> </a></td><td>Grand-mère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-GRPRN\">GRPRN</a><a name=\"cs-fr-v3-RoleCode-GRPRN\"> </a></td><td>Grand-parent</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-GRNDCHILD\">GRNDCHILD</a><a name=\"cs-fr-v3-RoleCode-GRNDCHILD\"> </a></td><td>Petit-enfant</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-GRNDDAU\">GRNDDAU</a><a name=\"cs-fr-v3-RoleCode-GRNDDAU\"> </a></td><td>Petite-fille</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-GRNDSON\">GRNDSON</a><a name=\"cs-fr-v3-RoleCode-GRNDSON\"> </a></td><td>Petit-fils</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-HBRO\">HBRO</a><a name=\"cs-fr-v3-RoleCode-HBRO\"> </a></td><td>Demi-frère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-HSIB\">HSIB</a><a name=\"cs-fr-v3-RoleCode-HSIB\"> </a></td><td>Demi-frère ou demi-sœur</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-HSIS\">HSIS</a><a name=\"cs-fr-v3-RoleCode-HSIS\"> </a></td><td>Demi-sœur</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-HUSB\">HUSB</a><a name=\"cs-fr-v3-RoleCode-HUSB\"> </a></td><td>Epoux</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-ITWIN\">ITWIN</a><a name=\"cs-fr-v3-RoleCode-ITWIN\"> </a></td><td>Jumeau ou jumelle monozygote</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-ITWINBRO\">ITWINBRO</a><a name=\"cs-fr-v3-RoleCode-ITWINBRO\"> </a></td><td>Jumeau monozygote</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-ITWINSIS\">ITWINSIS</a><a name=\"cs-fr-v3-RoleCode-ITWINSIS\"> </a></td><td>Jumelle monozygote</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-MAUNT\">MAUNT</a><a name=\"cs-fr-v3-RoleCode-MAUNT\"> </a></td><td>Tante maternelle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-MCOUSN\">MCOUSN</a><a name=\"cs-fr-v3-RoleCode-MCOUSN\"> </a></td><td>Cousin (maternel)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-MGGRFTH\">MGGRFTH</a><a name=\"cs-fr-v3-RoleCode-MGGRFTH\"> </a></td><td>Arrière-grand-père maternel</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-MGGRMTH\">MGGRMTH</a><a name=\"cs-fr-v3-RoleCode-MGGRMTH\"> </a></td><td>Arrière-grand-mère maternelle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-MGGRPRN\">MGGRPRN</a><a name=\"cs-fr-v3-RoleCode-MGGRPRN\"> </a></td><td>Arrière grand parent maternel</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-MGRFTH\">MGRFTH</a><a name=\"cs-fr-v3-RoleCode-MGRFTH\"> </a></td><td>Grand-père maternel</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-MGRMTH\">MGRMTH</a><a name=\"cs-fr-v3-RoleCode-MGRMTH\"> </a></td><td>Grand-mère maternelle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-MGRPRN\">MGRPRN</a><a name=\"cs-fr-v3-RoleCode-MGRPRN\"> </a></td><td>Grand parent maternel</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-MTH\">MTH</a><a name=\"cs-fr-v3-RoleCode-MTH\"> </a></td><td>Mère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-MTHFOST\">MTHFOST</a><a name=\"cs-fr-v3-RoleCode-MTHFOST\"> </a></td><td>Assistante familiale - Famille d'accueil</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-MTHINLAW\">MTHINLAW</a><a name=\"cs-fr-v3-RoleCode-MTHINLAW\"> </a></td><td>Belle-mère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-MUNCLE\">MUNCLE</a><a name=\"cs-fr-v3-RoleCode-MUNCLE\"> </a></td><td>Oncle maternel</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-NBOR\">NBOR</a><a name=\"cs-fr-v3-RoleCode-NBOR\"> </a></td><td>Voisin(e)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-NBRO\">NBRO</a><a name=\"cs-fr-v3-RoleCode-NBRO\"> </a></td><td>Frère biologique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-NCHILD\">NCHILD</a><a name=\"cs-fr-v3-RoleCode-NCHILD\"> </a></td><td>Enfant biologique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-NEPHEW\">NEPHEW</a><a name=\"cs-fr-v3-RoleCode-NEPHEW\"> </a></td><td>Neveu</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-NFTH\">NFTH</a><a name=\"cs-fr-v3-RoleCode-NFTH\"> </a></td><td>Père biologique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-NFTHF\">NFTHF</a><a name=\"cs-fr-v3-RoleCode-NFTHF\"> </a></td><td>Père biologique du fœtus</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-NIECE\">NIECE</a><a name=\"cs-fr-v3-RoleCode-NIECE\"> </a></td><td>Nièce</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-NIENEPH\">NIENEPH</a><a name=\"cs-fr-v3-RoleCode-NIENEPH\"> </a></td><td>Neveu ou nièce</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-NMTH\">NMTH</a><a name=\"cs-fr-v3-RoleCode-NMTH\"> </a></td><td>Mère biologique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-NMTHF\">NMTHF</a><a name=\"cs-fr-v3-RoleCode-NMTHF\"> </a></td><td>Mère biologique du fœtus</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-NPRN\">NPRN</a><a name=\"cs-fr-v3-RoleCode-NPRN\"> </a></td><td>Parent biologique, au sens père ou mère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-NSIB\">NSIB</a><a name=\"cs-fr-v3-RoleCode-NSIB\"> </a></td><td>Frère ou soeur biologique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-NSIS\">NSIS</a><a name=\"cs-fr-v3-RoleCode-NSIS\"> </a></td><td>Soeur biologique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-PAUNT\">PAUNT</a><a name=\"cs-fr-v3-RoleCode-PAUNT\"> </a></td><td>Tante paternelle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-PCOUSN\">PCOUSN</a><a name=\"cs-fr-v3-RoleCode-PCOUSN\"> </a></td><td>Cousin (paternel)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-PGGRFTH\">PGGRFTH</a><a name=\"cs-fr-v3-RoleCode-PGGRFTH\"> </a></td><td>Arrière-grand-père paternel</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-PGGRMTH\">PGGRMTH</a><a name=\"cs-fr-v3-RoleCode-PGGRMTH\"> </a></td><td>Arrière-grand-mère paternelle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-PGGRPRN\">PGGRPRN</a><a name=\"cs-fr-v3-RoleCode-PGGRPRN\"> </a></td><td>Arrière grand parent paternel</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-PGRFTH\">PGRFTH</a><a name=\"cs-fr-v3-RoleCode-PGRFTH\"> </a></td><td>Grand-père paternel</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-PGRMTH\">PGRMTH</a><a name=\"cs-fr-v3-RoleCode-PGRMTH\"> </a></td><td>Grand-mère paternelle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-PGRPRN\">PGRPRN</a><a name=\"cs-fr-v3-RoleCode-PGRPRN\"> </a></td><td>Grand parent paternel</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-PRN\">PRN</a><a name=\"cs-fr-v3-RoleCode-PRN\"> </a></td><td>Parent, au sens père ou mère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-PRNINLAW\">PRNINLAW</a><a name=\"cs-fr-v3-RoleCode-PRNINLAW\"> </a></td><td>Beau-père ou belle-mère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-PRNFOST\">PRNFOST</a><a name=\"cs-fr-v3-RoleCode-PRNFOST\"> </a></td><td>Parent, au sens famille d'accueil</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-PUNCLE\">PUNCLE</a><a name=\"cs-fr-v3-RoleCode-PUNCLE\"> </a></td><td>Oncle paternel</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-RESPRSN\">RESPRSN</a><a name=\"cs-fr-v3-RoleCode-RESPRSN\"> </a></td><td>Responsable légal non membre de la famille</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-ROOM\">ROOM</a><a name=\"cs-fr-v3-RoleCode-ROOM\"> </a></td><td>Personne vivant sous le même toit</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-SIB\">SIB</a><a name=\"cs-fr-v3-RoleCode-SIB\"> </a></td><td>Frère ou sœur</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-SIBINLAW\">SIBINLAW</a><a name=\"cs-fr-v3-RoleCode-SIBINLAW\"> </a></td><td>Beau-frère ou belle-sœur</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-SIGOTHR\">SIGOTHR</a><a name=\"cs-fr-v3-RoleCode-SIGOTHR\"> </a></td><td>Conjoint</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-SIS\">SIS</a><a name=\"cs-fr-v3-RoleCode-SIS\"> </a></td><td>Sœur</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-SISINLAW\">SISINLAW</a><a name=\"cs-fr-v3-RoleCode-SISINLAW\"> </a></td><td>Belle-sœur</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-SON\">SON</a><a name=\"cs-fr-v3-RoleCode-SON\"> </a></td><td>Fils biologique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-SONADOPT\">SONADOPT</a><a name=\"cs-fr-v3-RoleCode-SONADOPT\"> </a></td><td>Fils adoptif</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-SONC\">SONC</a><a name=\"cs-fr-v3-RoleCode-SONC\"> </a></td><td>Fils</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-SONFOST\">SONFOST</a><a name=\"cs-fr-v3-RoleCode-SONFOST\"> </a></td><td>Garçon placé en famille d'accueil</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-SONINLAW\">SONINLAW</a><a name=\"cs-fr-v3-RoleCode-SONINLAW\"> </a></td><td>Gendre</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-SPS\">SPS</a><a name=\"cs-fr-v3-RoleCode-SPS\"> </a></td><td>Epoux ou épouse</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-STPBRO\">STPBRO</a><a name=\"cs-fr-v3-RoleCode-STPBRO\"> </a></td><td>Fils du beau-père ou de la belle-mère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-STPFTH\">STPFTH</a><a name=\"cs-fr-v3-RoleCode-STPFTH\"> </a></td><td>Beau-père - époux du père ou de la mère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-STPMTH\">STPMTH</a><a name=\"cs-fr-v3-RoleCode-STPMTH\"> </a></td><td>Belle-mère - épouse du père ou de la mère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-STPCHLD\">STPCHLD</a><a name=\"cs-fr-v3-RoleCode-STPCHLD\"> </a></td><td>Enfant du conjoint, issu d'un mariage précédent</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-STPDAU\">STPDAU</a><a name=\"cs-fr-v3-RoleCode-STPDAU\"> </a></td><td>Fille du conjoint, issue d'un mariage précédent</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-STPPRN\">STPPRN</a><a name=\"cs-fr-v3-RoleCode-STPPRN\"> </a></td><td>Beau-père ou belle-mère - époux(se) du père ou de la mère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-STPSIB\">STPSIB</a><a name=\"cs-fr-v3-RoleCode-STPSIB\"> </a></td><td>Enfant du beau-père ou de la belle-mère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-STPSIS\">STPSIS</a><a name=\"cs-fr-v3-RoleCode-STPSIS\"> </a></td><td>Fille du beau-père ou de la belle-mère</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-STPSON\">STPSON</a><a name=\"cs-fr-v3-RoleCode-STPSON\"> </a></td><td>Fils du conjoint, issu d'un mariage précédent</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-TWIN\">TWIN</a><a name=\"cs-fr-v3-RoleCode-TWIN\"> </a></td><td>Frère jumeau ou soeur jumelle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-TWINBRO\">TWINBRO</a><a name=\"cs-fr-v3-RoleCode-TWINBRO\"> </a></td><td>Frère jumeau</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-TWINSIS\">TWINSIS</a><a name=\"cs-fr-v3-RoleCode-TWINSIS\"> </a></td><td>Soeur jumelle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-UNCLE\">UNCLE</a><a name=\"cs-fr-v3-RoleCode-UNCLE\"> </a></td><td>Oncle</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-WIFE\">WIFE</a><a name=\"cs-fr-v3-RoleCode-WIFE\"> </a></td><td>Epouse</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-FAMDEP\">FAMDEP</a><a name=\"cs-fr-v3-RoleCode-FAMDEP\"> </a></td><td>Couverture familiale</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-STUD\">STUD</a><a name=\"cs-fr-v3-RoleCode-STUD\"> </a></td><td>Couverture étudiante</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-RoleCode.html#v3-RoleCode-SELF\">SELF</a><a name=\"cs-fr-v3-RoleCode-SELF\"> </a></td><td>Couverture personnelle</td></tr></table></div>"^^rdf:XMLLiteral ]
+  ] ; # 
+  fhir:url [
+     fhir:v "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-RoleCode"^^xsd:anyURI ;
+     fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-RoleCode>
+  ] ; # 
+  fhir:version [ fhir:v "0.1.0"] ; # 
+  fhir:name [ fhir:v "RoleCode"] ; # 
+  fhir:title [ fhir:v "RoleCode"] ; # 
+  fhir:status [ fhir:v "active"] ; # 
+  fhir:date [ fhir:v "2025-12-23T08:21:42+00:00"^^xsd:dateTime] ; # 
+  fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
+  fhir:description [ fhir:v "A set of codes further specifying the kind of Role; specific classification codes for further qualifying RoleClass codes."] ; # 
+  fhir:jurisdiction ( [
+     fhir:coding ( [
+       fhir:system [
+         fhir:v "urn:iso:std:iso:3166"^^xsd:anyURI ;
+         fhir:l <urn:iso:std:iso:3166>
+       ] ;
+       fhir:code [ fhir:v "FR" ] ;
+       fhir:display [ fhir:v "FRANCE" ]
+     ] )
+  ] ) ; # 
+  fhir:copyright [ fhir:v "This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html"] ; # 
+  fhir:caseSensitive [ fhir:v false] ; # 
+  fhir:content [ fhir:v "supplement"] ; # 
+  fhir:supplements [
+     fhir:v "http://terminology.hl7.org/CodeSystem/v3-RoleCode|3.0.0"^^xsd:anyURI ;
+     fhir:l <http://terminology.hl7.org/CodeSystem/v3-RoleCode?version=3.0.0>
+  ] ; # 
+  fhir:concept ( [
+     fhir:code [ fhir:v "C" ] ;
+     fhir:display [ fhir:v "Spécimen utilisé pour les paramètres d'étalonnage initiaux d'un instrument" ]
+  ] [
+     fhir:code [ fhir:v "G" ] ;
+     fhir:display [ fhir:v "Ensemble d'échantillons de patients dans lequel les individus du groupe peuvent ou non être identifiés." ]
+  ] [
+     fhir:code [ fhir:v "L" ] ;
+     fhir:display [ fhir:v "Aliquot d'échantillons individuels combinés pour former un seul spécimen représentant tous les individus inclus." ]
+  ] [
+     fhir:code [ fhir:v "P" ] ;
+     fhir:display [ fhir:v "Spécimen prélevé sur un patient" ]
+  ] [
+     fhir:code [ fhir:v "ADOPTF" ] ;
+     fhir:display [ fhir:v "Père adoptif" ]
+  ] [
+     fhir:code [ fhir:v "ADOPTM" ] ;
+     fhir:display [ fhir:v "Mère adoptive" ]
+  ] [
+     fhir:code [ fhir:v "ADOPTP" ] ;
+     fhir:display [ fhir:v "Parent adoptif, au sens père ou mère" ]
+  ] [
+     fhir:code [ fhir:v "AUNT" ] ;
+     fhir:display [ fhir:v "Tante" ]
+  ] [
+     fhir:code [ fhir:v "BRO" ] ;
+     fhir:display [ fhir:v "Frère" ]
+  ] [
+     fhir:code [ fhir:v "BROINLAW" ] ;
+     fhir:display [ fhir:v "Beau-frère" ]
+  ] [
+     fhir:code [ fhir:v "CHILD" ] ;
+     fhir:display [ fhir:v "Enfant" ]
+  ] [
+     fhir:code [ fhir:v "CHLDADOPT" ] ;
+     fhir:display [ fhir:v "Enfant adopté" ]
+  ] [
+     fhir:code [ fhir:v "CHLDFOST" ] ;
+     fhir:display [ fhir:v "Enfant placé en famille d'accueil" ]
+  ] [
+     fhir:code [ fhir:v "CHLDINLAW" ] ;
+     fhir:display [ fhir:v "Gendre ou belle-fille" ]
+  ] [
+     fhir:code [ fhir:v "COUSN" ] ;
+     fhir:display [ fhir:v "Cousin(e)" ]
+  ] [
+     fhir:code [ fhir:v "DAU" ] ;
+     fhir:display [ fhir:v "Fille biologique" ]
+  ] [
+     fhir:code [ fhir:v "DAUADOPT" ] ;
+     fhir:display [ fhir:v "Fille adoptive" ]
+  ] [
+     fhir:code [ fhir:v "DAUC" ] ;
+     fhir:display [ fhir:v "Fille" ]
+  ] [
+     fhir:code [ fhir:v "DAUFOST" ] ;
+     fhir:display [ fhir:v "Fille placée en famille d'accueil" ]
+  ] [
+     fhir:code [ fhir:v "DAUINLAW" ] ;
+     fhir:display [ fhir:v "Belle-fille" ]
+  ] [
+     fhir:code [ fhir:v "DOMPART" ] ;
+     fhir:display [ fhir:v "Concubin(e) ou partenaire PACS" ]
+  ] [
+     fhir:code [ fhir:v "EXT" ] ;
+     fhir:display [ fhir:v "Autre membre de la famille sans lien génétique direct" ]
+  ] [
+     fhir:code [ fhir:v "FAMMEMB" ] ;
+     fhir:display [ fhir:v "Autre membre de la famille" ]
+  ] [
+     fhir:code [ fhir:v "FMRSPS" ] ;
+     fhir:display [ fhir:v "Ancien époux ou ancienne épouse" ]
+  ] [
+     fhir:code [ fhir:v "FRND" ] ;
+     fhir:display [ fhir:v "Autre proche" ]
+  ] [
+     fhir:code [ fhir:v "FTH" ] ;
+     fhir:display [ fhir:v "Père" ]
+  ] [
+     fhir:code [ fhir:v "FTHFOST" ] ;
+     fhir:display [ fhir:v "Assistant familial - Famille d'accueil" ]
+  ] [
+     fhir:code [ fhir:v "FTHINLAW" ] ;
+     fhir:display [ fhir:v "Beau-père" ]
+  ] [
+     fhir:code [ fhir:v "FTWIN" ] ;
+     fhir:display [ fhir:v "Jumeau ou jumelle dizygote" ]
+  ] [
+     fhir:code [ fhir:v "FTWINBRO" ] ;
+     fhir:display [ fhir:v "Jumeau dizygote" ]
+  ] [
+     fhir:code [ fhir:v "FTWINSIS" ] ;
+     fhir:display [ fhir:v "Jumelle dizygote" ]
+  ] [
+     fhir:code [ fhir:v "GESTM" ] ;
+     fhir:display [ fhir:v "Mère porteuse" ]
+  ] [
+     fhir:code [ fhir:v "GGRFTH" ] ;
+     fhir:display [ fhir:v "Arrière-grand-père" ]
+  ] [
+     fhir:code [ fhir:v "GGRMTH" ] ;
+     fhir:display [ fhir:v "Arrière-grand-mère" ]
+  ] [
+     fhir:code [ fhir:v "GGRPRN" ] ;
+     fhir:display [ fhir:v "Arrière-grand-parent" ]
+  ] [
+     fhir:code [ fhir:v "GRFTH" ] ;
+     fhir:display [ fhir:v "Grand-père" ]
+  ] [
+     fhir:code [ fhir:v "GRMTH" ] ;
+     fhir:display [ fhir:v "Grand-mère" ]
+  ] [
+     fhir:code [ fhir:v "GRPRN" ] ;
+     fhir:display [ fhir:v "Grand-parent" ]
+  ] [
+     fhir:code [ fhir:v "GRNDCHILD" ] ;
+     fhir:display [ fhir:v "Petit-enfant" ]
+  ] [
+     fhir:code [ fhir:v "GRNDDAU" ] ;
+     fhir:display [ fhir:v "Petite-fille" ]
+  ] [
+     fhir:code [ fhir:v "GRNDSON" ] ;
+     fhir:display [ fhir:v "Petit-fils" ]
+  ] [
+     fhir:code [ fhir:v "HBRO" ] ;
+     fhir:display [ fhir:v "Demi-frère" ]
+  ] [
+     fhir:code [ fhir:v "HSIB" ] ;
+     fhir:display [ fhir:v "Demi-frère ou demi-sœur" ]
+  ] [
+     fhir:code [ fhir:v "HSIS" ] ;
+     fhir:display [ fhir:v "Demi-sœur" ]
+  ] [
+     fhir:code [ fhir:v "HUSB" ] ;
+     fhir:display [ fhir:v "Epoux" ]
+  ] [
+     fhir:code [ fhir:v "ITWIN" ] ;
+     fhir:display [ fhir:v "Jumeau ou jumelle monozygote" ]
+  ] [
+     fhir:code [ fhir:v "ITWINBRO" ] ;
+     fhir:display [ fhir:v "Jumeau monozygote" ]
+  ] [
+     fhir:code [ fhir:v "ITWINSIS" ] ;
+     fhir:display [ fhir:v "Jumelle monozygote" ]
+  ] [
+     fhir:code [ fhir:v "MAUNT" ] ;
+     fhir:display [ fhir:v "Tante maternelle" ]
+  ] [
+     fhir:code [ fhir:v "MCOUSN" ] ;
+     fhir:display [ fhir:v "Cousin (maternel)" ]
+  ] [
+     fhir:code [ fhir:v "MGGRFTH" ] ;
+     fhir:display [ fhir:v "Arrière-grand-père maternel" ]
+  ] [
+     fhir:code [ fhir:v "MGGRMTH" ] ;
+     fhir:display [ fhir:v "Arrière-grand-mère maternelle" ]
+  ] [
+     fhir:code [ fhir:v "MGGRPRN" ] ;
+     fhir:display [ fhir:v "Arrière grand parent maternel" ]
+  ] [
+     fhir:code [ fhir:v "MGRFTH" ] ;
+     fhir:display [ fhir:v "Grand-père maternel" ]
+  ] [
+     fhir:code [ fhir:v "MGRMTH" ] ;
+     fhir:display [ fhir:v "Grand-mère maternelle" ]
+  ] [
+     fhir:code [ fhir:v "MGRPRN" ] ;
+     fhir:display [ fhir:v "Grand parent maternel" ]
+  ] [
+     fhir:code [ fhir:v "MTH" ] ;
+     fhir:display [ fhir:v "Mère" ]
+  ] [
+     fhir:code [ fhir:v "MTHFOST" ] ;
+     fhir:display [ fhir:v "Assistante familiale - Famille d'accueil" ]
+  ] [
+     fhir:code [ fhir:v "MTHINLAW" ] ;
+     fhir:display [ fhir:v "Belle-mère" ]
+  ] [
+     fhir:code [ fhir:v "MUNCLE" ] ;
+     fhir:display [ fhir:v "Oncle maternel" ]
+  ] [
+     fhir:code [ fhir:v "NBOR" ] ;
+     fhir:display [ fhir:v "Voisin(e)" ]
+  ] [
+     fhir:code [ fhir:v "NBRO" ] ;
+     fhir:display [ fhir:v "Frère biologique" ]
+  ] [
+     fhir:code [ fhir:v "NCHILD" ] ;
+     fhir:display [ fhir:v "Enfant biologique" ]
+  ] [
+     fhir:code [ fhir:v "NEPHEW" ] ;
+     fhir:display [ fhir:v "Neveu" ]
+  ] [
+     fhir:code [ fhir:v "NFTH" ] ;
+     fhir:display [ fhir:v "Père biologique" ]
+  ] [
+     fhir:code [ fhir:v "NFTHF" ] ;
+     fhir:display [ fhir:v "Père biologique du fœtus" ]
+  ] [
+     fhir:code [ fhir:v "NIECE" ] ;
+     fhir:display [ fhir:v "Nièce" ]
+  ] [
+     fhir:code [ fhir:v "NIENEPH" ] ;
+     fhir:display [ fhir:v "Neveu ou nièce" ]
+  ] [
+     fhir:code [ fhir:v "NMTH" ] ;
+     fhir:display [ fhir:v "Mère biologique" ]
+  ] [
+     fhir:code [ fhir:v "NMTHF" ] ;
+     fhir:display [ fhir:v "Mère biologique du fœtus" ]
+  ] [
+     fhir:code [ fhir:v "NPRN" ] ;
+     fhir:display [ fhir:v "Parent biologique, au sens père ou mère" ]
+  ] [
+     fhir:code [ fhir:v "NSIB" ] ;
+     fhir:display [ fhir:v "Frère ou soeur biologique" ]
+  ] [
+     fhir:code [ fhir:v "NSIS" ] ;
+     fhir:display [ fhir:v "Soeur biologique" ]
+  ] [
+     fhir:code [ fhir:v "PAUNT" ] ;
+     fhir:display [ fhir:v "Tante paternelle" ]
+  ] [
+     fhir:code [ fhir:v "PCOUSN" ] ;
+     fhir:display [ fhir:v "Cousin (paternel)" ]
+  ] [
+     fhir:code [ fhir:v "PGGRFTH" ] ;
+     fhir:display [ fhir:v "Arrière-grand-père paternel" ]
+  ] [
+     fhir:code [ fhir:v "PGGRMTH" ] ;
+     fhir:display [ fhir:v "Arrière-grand-mère paternelle" ]
+  ] [
+     fhir:code [ fhir:v "PGGRPRN" ] ;
+     fhir:display [ fhir:v "Arrière grand parent paternel" ]
+  ] [
+     fhir:code [ fhir:v "PGRFTH" ] ;
+     fhir:display [ fhir:v "Grand-père paternel" ]
+  ] [
+     fhir:code [ fhir:v "PGRMTH" ] ;
+     fhir:display [ fhir:v "Grand-mère paternelle" ]
+  ] [
+     fhir:code [ fhir:v "PGRPRN" ] ;
+     fhir:display [ fhir:v "Grand parent paternel" ]
+  ] [
+     fhir:code [ fhir:v "PRN" ] ;
+     fhir:display [ fhir:v "Parent, au sens père ou mère" ]
+  ] [
+     fhir:code [ fhir:v "PRNINLAW" ] ;
+     fhir:display [ fhir:v "Beau-père ou belle-mère" ]
+  ] [
+     fhir:code [ fhir:v "PRNFOST" ] ;
+     fhir:display [ fhir:v "Parent, au sens famille d'accueil" ]
+  ] [
+     fhir:code [ fhir:v "PUNCLE" ] ;
+     fhir:display [ fhir:v "Oncle paternel" ]
+  ] [
+     fhir:code [ fhir:v "RESPRSN" ] ;
+     fhir:display [ fhir:v "Responsable légal non membre de la famille" ]
+  ] [
+     fhir:code [ fhir:v "ROOM" ] ;
+     fhir:display [ fhir:v "Personne vivant sous le même toit" ]
+  ] [
+     fhir:code [ fhir:v "SIB" ] ;
+     fhir:display [ fhir:v "Frère ou sœur" ]
+  ] [
+     fhir:code [ fhir:v "SIBINLAW" ] ;
+     fhir:display [ fhir:v "Beau-frère ou belle-sœur" ]
+  ] [
+     fhir:code [ fhir:v "SIGOTHR" ] ;
+     fhir:display [ fhir:v "Conjoint" ]
+  ] [
+     fhir:code [ fhir:v "SIS" ] ;
+     fhir:display [ fhir:v "Sœur" ]
+  ] [
+     fhir:code [ fhir:v "SISINLAW" ] ;
+     fhir:display [ fhir:v "Belle-sœur" ]
+  ] [
+     fhir:code [ fhir:v "SON" ] ;
+     fhir:display [ fhir:v "Fils biologique" ]
+  ] [
+     fhir:code [ fhir:v "SONADOPT" ] ;
+     fhir:display [ fhir:v "Fils adoptif" ]
+  ] [
+     fhir:code [ fhir:v "SONC" ] ;
+     fhir:display [ fhir:v "Fils" ]
+  ] [
+     fhir:code [ fhir:v "SONFOST" ] ;
+     fhir:display [ fhir:v "Garçon placé en famille d'accueil" ]
+  ] [
+     fhir:code [ fhir:v "SONINLAW" ] ;
+     fhir:display [ fhir:v "Gendre" ]
+  ] [
+     fhir:code [ fhir:v "SPS" ] ;
+     fhir:display [ fhir:v "Epoux ou épouse" ]
+  ] [
+     fhir:code [ fhir:v "STPBRO" ] ;
+     fhir:display [ fhir:v "Fils du beau-père ou de la belle-mère" ]
+  ] [
+     fhir:code [ fhir:v "STPFTH" ] ;
+     fhir:display [ fhir:v "Beau-père - époux du père ou de la mère" ]
+  ] [
+     fhir:code [ fhir:v "STPMTH" ] ;
+     fhir:display [ fhir:v "Belle-mère - épouse du père ou de la mère" ]
+  ] [
+     fhir:code [ fhir:v "STPCHLD" ] ;
+     fhir:display [ fhir:v "Enfant du conjoint, issu d'un mariage précédent" ]
+  ] [
+     fhir:code [ fhir:v "STPDAU" ] ;
+     fhir:display [ fhir:v "Fille du conjoint, issue d'un mariage précédent" ]
+  ] [
+     fhir:code [ fhir:v "STPPRN" ] ;
+     fhir:display [ fhir:v "Beau-père ou belle-mère - époux(se) du père ou de la mère" ]
+  ] [
+     fhir:code [ fhir:v "STPSIB" ] ;
+     fhir:display [ fhir:v "Enfant du beau-père ou de la belle-mère" ]
+  ] [
+     fhir:code [ fhir:v "STPSIS" ] ;
+     fhir:display [ fhir:v "Fille du beau-père ou de la belle-mère" ]
+  ] [
+     fhir:code [ fhir:v "STPSON" ] ;
+     fhir:display [ fhir:v "Fils du conjoint, issu d'un mariage précédent" ]
+  ] [
+     fhir:code [ fhir:v "TWIN" ] ;
+     fhir:display [ fhir:v "Frère jumeau ou soeur jumelle" ]
+  ] [
+     fhir:code [ fhir:v "TWINBRO" ] ;
+     fhir:display [ fhir:v "Frère jumeau" ]
+  ] [
+     fhir:code [ fhir:v "TWINSIS" ] ;
+     fhir:display [ fhir:v "Soeur jumelle" ]
+  ] [
+     fhir:code [ fhir:v "UNCLE" ] ;
+     fhir:display [ fhir:v "Oncle" ]
+  ] [
+     fhir:code [ fhir:v "WIFE" ] ;
+     fhir:display [ fhir:v "Epouse" ]
+  ] [
+     fhir:code [ fhir:v "FAMDEP" ] ;
+     fhir:display [ fhir:v "Couverture familiale" ]
+  ] [
+     fhir:code [ fhir:v "STUD" ] ;
+     fhir:display [ fhir:v "Couverture étudiante" ]
+  ] [
+     fhir:code [ fhir:v "SELF" ] ;
+     fhir:display [ fhir:v "Couverture personnelle" ]
+  ] ) . # 
+
+# -------------------------------------------------------------------------------------
+

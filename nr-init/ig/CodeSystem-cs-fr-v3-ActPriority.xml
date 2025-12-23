@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CodeSystem xmlns="http://hl7.org/fhir">
+  <id value="cs-fr-v3-ActPriority"/>
+  <language value="fr"/>
+  <text>
+    <status value="generated"/><div xml:lang="fr" xmlns="http://www.w3.org/1999/xhtml" lang="fr"><p class="res-header-id"><b>Narratif généré : CodeSystem cs-fr-v3-ActPriority</b></p><a name="cs-fr-v3-ActPriority"> </a><a name="hccs-fr-v3-ActPriority"> </a><div style="display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%"><p style="margin-bottom: 0px">Langue : fr</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ActPriority</code> defines fonctionnalités on the following codes:</p><table class="codes"><tr><td style="white-space:nowrap"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActPriority.html#v3-ActPriority-A">A</a><a name="cs-fr-v3-ActPriority-A"> </a></td><td>Aussi vite que possible</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActPriority.html#v3-ActPriority-CR">CR</a><a name="cs-fr-v3-ActPriority-CR"> </a></td><td>A contacter dès que les résultats sont disponibles</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActPriority.html#v3-ActPriority-EL">EL</a><a name="cs-fr-v3-ActPriority-EL"> </a></td><td>Bénéfique pour le patient mais pas essentiel pour sa survie</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActPriority.html#v3-ActPriority-EM">EM</a><a name="cs-fr-v3-ActPriority-EM"> </a></td><td>Très urgent</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActPriority.html#v3-ActPriority-P">P</a><a name="cs-fr-v3-ActPriority-P"> </a></td><td>A réaliser avant l'intervention</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActPriority.html#v3-ActPriority-PRN">PRN</a><a name="cs-fr-v3-ActPriority-PRN"> </a></td><td>Si nécessaire</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActPriority.html#v3-ActPriority-R">R</a><a name="cs-fr-v3-ActPriority-R"> </a></td><td>A réaliser aux heures ouvrées</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActPriority.html#v3-ActPriority-RR">RR</a><a name="cs-fr-v3-ActPriority-RR"> </a></td><td>Compte-rendu urgent</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActPriority.html#v3-ActPriority-S">S</a><a name="cs-fr-v3-ActPriority-S"> </a></td><td>Immédiatement</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActPriority.html#v3-ActPriority-T">T</a><a name="cs-fr-v3-ActPriority-T"> </a></td><td>Plannification à respecter</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActPriority.html#v3-ActPriority-UD">UD</a><a name="cs-fr-v3-ActPriority-UD"> </a></td><td>Médicament à utiliser selon les directives du prescripteur</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActPriority.html#v3-ActPriority-UR">UR</a><a name="cs-fr-v3-ActPriority-UR"> </a></td><td>Urgent</td></tr></table></div>
+  </text>
+  <url value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ActPriority"/>
+  <version value="0.1.0"/>
+  <name value="ActPriority"/>
+  <title value="ActPriority"/>
+  <status value="active"/>
+  <date value="2025-12-23T08:21:42+00:00"/>
+  <publisher value="Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"/>
+  <description value="A set of codes (e.g., for routine, emergency), specifying the urgency under which the Act happened, can happen, is happening, is intended to happen, or is requested/demanded to happen."/>
+  <jurisdiction>
+    <coding>
+      <system value="urn:iso:std:iso:3166"/>
+      <code value="FR"/>
+      <display value="FRANCE"/>
+    </coding>
+  </jurisdiction>
+  <copyright value="This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html"/>
+  <caseSensitive value="false"/>
+  <content value="supplement"/>
+  <supplements value="http://terminology.hl7.org/CodeSystem/v3-ActPriority|3.0.0"/>
+  <concept>
+    <code value="A"/>
+    <display value="Aussi vite que possible"/>
+  </concept>
+  <concept>
+    <code value="CR"/>
+    <display value="A contacter dès que les résultats sont disponibles"/>
+  </concept>
+  <concept>
+    <code value="EL"/>
+    <display value="Bénéfique pour le patient mais pas essentiel pour sa survie"/>
+  </concept>
+  <concept>
+    <code value="EM"/>
+    <display value="Très urgent"/>
+  </concept>
+  <concept>
+    <code value="P"/>
+    <display value="A réaliser avant l'intervention"/>
+  </concept>
+  <concept>
+    <code value="PRN"/>
+    <display value="Si nécessaire"/>
+  </concept>
+  <concept>
+    <code value="R"/>
+    <display value="A réaliser aux heures ouvrées"/>
+  </concept>
+  <concept>
+    <code value="RR"/>
+    <display value="Compte-rendu urgent"/>
+  </concept>
+  <concept>
+    <code value="S"/>
+    <display value="Immédiatement"/>
+  </concept>
+  <concept>
+    <code value="T"/>
+    <display value="Plannification à respecter"/>
+  </concept>
+  <concept>
+    <code value="UD"/>
+    <display value="Médicament à utiliser selon les directives du prescripteur"/>
+  </concept>
+  <concept>
+    <code value="UR"/>
+    <display value="Urgent"/>
+  </concept>
+</CodeSystem>

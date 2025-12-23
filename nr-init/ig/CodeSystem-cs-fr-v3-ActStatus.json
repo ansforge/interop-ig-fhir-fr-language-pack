@@ -1,0 +1,56 @@
+{
+  "resourceType" : "CodeSystem",
+  "id" : "cs-fr-v3-ActStatus",
+  "language" : "fr",
+  "text" : {
+    "status" : "generated",
+    "div" : "<div xml:lang=\"fr\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-v3-ActStatus</b></p><a name=\"cs-fr-v3-ActStatus\"> </a><a name=\"hccs-fr-v3-ActStatus\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ActStatus</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-aborted\">aborted</a><a name=\"cs-fr-v3-ActStatus-aborted\"> </a></td><td>Arrêté (après son lancement)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-active\">active</a><a name=\"cs-fr-v3-ActStatus-active\"> </a></td><td>Actif (en cours ou à venir)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-cancelled\">cancelled</a><a name=\"cs-fr-v3-ActStatus-cancelled\"> </a></td><td>Annulé (avant son lancement)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-completed\">completed</a><a name=\"cs-fr-v3-ActStatus-completed\"> </a></td><td>Terminé</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-held\">held</a><a name=\"cs-fr-v3-ActStatus-held\"> </a></td><td>En attente (avant son lancement)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-new\">new</a><a name=\"cs-fr-v3-ActStatus-new\"> </a></td><td>En préparation</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-suspended\">suspended</a><a name=\"cs-fr-v3-ActStatus-suspended\"> </a></td><td>Suspendu (au cours de sa réalisation)</td></tr></table></div>"
+  },
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ActStatus",
+  "version" : "0.1.0",
+  "name" : "ActStatus",
+  "title" : "ActStatus",
+  "status" : "active",
+  "date" : "2025-12-23T08:21:42+00:00",
+  "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
+  "description" : "Codes representing the defined possible states of an Act, as defined by the Act class state machine.",
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "urn:iso:std:iso:3166",
+      "code" : "FR",
+      "display" : "FRANCE"
+    }]
+  }],
+  "copyright" : "This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html",
+  "caseSensitive" : false,
+  "content" : "supplement",
+  "supplements" : "http://terminology.hl7.org/CodeSystem/v3-ActStatus|3.0.0",
+  "concept" : [{
+    "code" : "aborted",
+    "display" : "Arrêté (après son lancement)"
+  },
+  {
+    "code" : "active",
+    "display" : "Actif (en cours ou à venir)"
+  },
+  {
+    "code" : "cancelled",
+    "display" : "Annulé (avant son lancement)"
+  },
+  {
+    "code" : "completed",
+    "display" : "Terminé"
+  },
+  {
+    "code" : "held",
+    "display" : "En attente (avant son lancement)"
+  },
+  {
+    "code" : "new",
+    "display" : "En préparation"
+  },
+  {
+    "code" : "suspended",
+    "display" : "Suspendu (au cours de sa réalisation)"
+  }]
+}
