@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Bundle xmlns="http://hl7.org/fhir">
-  <id value="1175373d-587e-4916-8ad0-531810c440c5"/>
+  <id value="521b5b94-9879-4e6c-b50e-cfa6d45c8b8a"/>
   <meta>
-    <lastUpdated value="2025-12-23T09:27:06.422+00:00"/>
+    <lastUpdated value="2025-12-23T09:29:21.140+00:00"/>
   </meta>
   <type value="collection"/>
   <entry>
@@ -30,9 +30,9 @@
                   </span>
                 </li>
                 <li>
-                  <a href="CodeSystem-cs-fr-FR-v3-AdministrativeGender.html">supplement AdministrativeGender v0.1.0 (CodeSystem)</a>
+                  <a href="CodeSystem-cs-fr-v3-AdministrativeGender.html">supplement AdministrativeGender v0.1.0 (CodeSystem)</a>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-AdministrativeGender|0.1.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
+                    <button data-clipboard-text="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender|0.1.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
                   </span>
                 </li>
               </ul>
@@ -163,8 +163,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:53132ba1-eaeb-4bfb-a644-84345fef35b3"/>
-          <timestamp value="2025-12-23T09:27:42+00:00"/>
+          <identifier value="urn:uuid:4982f0c3-b599-441c-bd66-bb934b4e8483"/>
+          <timestamp value="2025-12-23T09:29:59+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -193,7 +193,7 @@
           </parameter>
           <parameter>
             <name value="used-supplement"/>
-            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-AdministrativeGender|0.1.0"/>
+            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender|0.1.0"/>
           </parameter>
           <contains>
             <system value="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender"/>
@@ -238,9 +238,9 @@
                   </span>
                 </li>
                 <li>
-                  <a href="CodeSystem-cs-fr-FR-v3-AdministrativeGender.html">supplement AdministrativeGender v0.1.0 (CodeSystem)</a>
+                  <a href="CodeSystem-cs-fr-v3-AdministrativeGender.html">supplement AdministrativeGender v0.1.0 (CodeSystem)</a>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-AdministrativeGender|0.1.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
+                    <button data-clipboard-text="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender|0.1.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
                   </span>
                 </li>
               </ul>
@@ -371,8 +371,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:53132ba1-eaeb-4bfb-a644-84345fef35b3"/>
-          <timestamp value="2025-12-23T09:27:42+00:00"/>
+          <identifier value="urn:uuid:4982f0c3-b599-441c-bd66-bb934b4e8483"/>
+          <timestamp value="2025-12-23T09:29:59+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -401,7 +401,7 @@
           </parameter>
           <parameter>
             <name value="used-supplement"/>
-            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-AdministrativeGender|0.1.0"/>
+            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender|0.1.0"/>
           </parameter>
           <contains>
             <system value="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender"/>

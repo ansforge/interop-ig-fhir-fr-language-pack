@@ -1,7 +1,7 @@
 {
   "codeSystems" : [
     {
-      "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-AdministrativeGender",
+      "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender",
       "version" : "0.1.0",
       "status" : "active",
       "name" : "AdministrativeGender",
