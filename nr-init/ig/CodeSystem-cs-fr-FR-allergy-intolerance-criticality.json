@@ -1,0 +1,39 @@
+{
+  "resourceType" : "CodeSystem",
+  "id" : "cs-fr-FR-allergy-intolerance-criticality",
+  "language" : "fr-FR",
+  "text" : {
+    "status" : "generated",
+    "div" : "<div xml:lang=\"fr-FR\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr-FR\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-FR-allergy-intolerance-criticality</b></p><a name=\"cs-fr-FR-allergy-intolerance-criticality\"> </a><a name=\"hccs-fr-FR-allergy-intolerance-criticality\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-allergy-intolerance-criticality</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-allergy-intolerance-criticality.html#allergy-intolerance-criticality-low\">low</a><a name=\"cs-fr-FR-allergy-intolerance-criticality-low\"> </a></td><td>Bas</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-allergy-intolerance-criticality.html#allergy-intolerance-criticality-high\">high</a><a name=\"cs-fr-FR-allergy-intolerance-criticality-high\"> </a></td><td>Elevé</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://hl7.org/fhir/R4/codesystem-allergy-intolerance-criticality.html#allergy-intolerance-criticality-unable-to-assess\">unable-to-assess</a><a name=\"cs-fr-FR-allergy-intolerance-criticality-unable-to-assess\"> </a></td><td>Impossible à évaluer</td></tr></table></div>"
+  },
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-allergy-intolerance-criticality",
+  "version" : "0.1.0",
+  "name" : "AllergyIntoleranceCriticality",
+  "title" : "AllergyIntoleranceCriticality",
+  "status" : "draft",
+  "date" : "2025-12-23T08:56:57+00:00",
+  "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
+  "description" : "Estimate of the potential clinical harm, or seriousness, of a reaction to an identified substance.",
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "urn:iso:std:iso:3166",
+      "code" : "FR",
+      "display" : "FRANCE"
+    }]
+  }],
+  "caseSensitive" : false,
+  "content" : "supplement",
+  "supplements" : "http://hl7.org/fhir/allergy-intolerance-criticality|4.0.1",
+  "concept" : [{
+    "code" : "low",
+    "display" : "Bas"
+  },
+  {
+    "code" : "high",
+    "display" : "Elevé"
+  },
+  {
+    "code" : "unable-to-assess",
+    "display" : "Impossible à évaluer"
+  }]
+}

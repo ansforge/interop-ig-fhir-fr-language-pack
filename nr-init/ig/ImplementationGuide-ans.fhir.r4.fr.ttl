@@ -21,7 +21,7 @@
   fhir:name [ fhir:v "FHIRLangPackFrench"] ; # 
   fhir:title [ fhir:v "French language pack for FHIR R4"] ; # 
   fhir:status [ fhir:v "draft"] ; # 
-  fhir:date [ fhir:v "2025-12-23T08:21:42+00:00"^^xsd:dateTime] ; # 
+  fhir:date [ fhir:v "2025-12-23T08:56:57+00:00"^^xsd:dateTime] ; # 
   fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
   fhir:contact ( [
      fhir:name [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris" ] ;
@@ -195,7 +195,7 @@
          ] ;
          fhir:value [
            a fhir:String ;
-           fhir:v "fr"
+           fhir:v "fr-FR"
          ]
        ] ) ;
        fhir:url [
@@ -219,7 +219,7 @@
          ] ;
          fhir:value [
            a fhir:String ;
-           fhir:v "fr"
+           fhir:v "fr-FR"
          ]
        ] ) ;
        fhir:url [
@@ -258,7 +258,7 @@
          ] ;
          fhir:value [
            a fhir:String ;
-           fhir:v "translation-supplements"
+           fhir:v "translation-sources"
          ]
        ] [
          fhir:url [
@@ -958,7 +958,7 @@
          ] ;
          fhir:value [
            a fhir:String ;
-           fhir:v "fr"
+           fhir:v "fr-FR"
          ]
        ] ) ;
        fhir:url [
@@ -982,7 +982,7 @@
          ] ;
          fhir:value [
            a fhir:String ;
-           fhir:v "fr"
+           fhir:v "fr-FR"
          ]
        ] ) ;
        fhir:url [
@@ -1021,7 +1021,7 @@
          ] ;
          fhir:value [
            a fhir:Code ;
-           fhir:v "translation-supplements"
+           fhir:v "translation-sources"
          ]
        ] [
          fhir:url [
@@ -1623,8 +1623,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-mediaType> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-mediaType" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-mediaType> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-mediaType" ]
        ] ;
        fhir:name [ fhir:v "MediaType" ] ;
        fhir:description [ fhir:v "Internet Assigned Numbers Authority (IANA) Mime Media Types. Identifies the type of the encapsulated data and identifies a method to interpret or render the data. The IANA defined domain of media types is established by the Internet standard RFC 2045 \\[http://www.ietf.org/rfc/rfc2045.txt\\] and 2046 \\[http://www.ietf.org/rfc/rfc2046.txt\\]. RFC 2046 defines the media type to consist of two parts:\r\n\r\n1.  top level media type, and\r\n2.  media subtype\r\n\r\nHowever, this HL7 datatypes specification treats the entire media type as one atomic code symbol in the form defined by IANA, i.e., top level type followed by a slash \"/\" followed by media subtype. Currently defined media types are registered in a database \\[http://www.iana.org/assignments/media-types/index.html\\] maintained by IANA. Currently several hundred different MIME media types are defined, with the list growing rapidly. In general, all those types defined by the IANA MAY be used." ]
@@ -1640,8 +1640,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ActPriority> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-ActPriority" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActPriority> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-ActPriority" ]
        ] ;
        fhir:name [ fhir:v "ActPriority" ] ;
        fhir:description [ fhir:v "A set of codes (e.g., for routine, emergency), specifying the urgency under which the Act happened, can happen, is happening, is intended to happen, or is requested/demanded to happen." ]
@@ -1657,8 +1657,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v2-0487> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v2-0487" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v2-0487> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v2-0487" ]
        ] ;
        fhir:name [ fhir:v "SpecimenType" ] ;
        fhir:description [ fhir:v "HL7-defined code system of concepts that describe the precise nature of an entity that may be used as the source material for an observation.  This is one of two code systems that are used instead of table 0070 (code system 2.16.840.1.113883.18.28) which conflated specimen types and specimen collection methods.   Used in HL7 Version 2.x messaging in the SPM segment." ]
@@ -1674,8 +1674,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ActMood> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-ActMood" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActMood> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-ActMood" ]
        ] ;
        fhir:name [ fhir:v "ActMood" ] ;
        fhir:description [ fhir:v "OpenIssue: In Ballot 2009May, a strong Negative vote was lodged against several of the concept definitions in the vocabulary used for Act.moodCode. The vote was found \"Persuasive With Mod\", with the understanding that M and M would undertake a detailed review of these concept definitions for a future release of the RIM." ]
@@ -1691,8 +1691,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-TimingEvent> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-TimingEvent" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-TimingEvent> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-TimingEvent" ]
        ] ;
        fhir:name [ fhir:v "TimingEvent" ] ;
        fhir:description [ fhir:v "**** MISSING DESCRIPTION ****" ]
@@ -1708,8 +1708,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ParticipationFunction> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-ParticipationFunction" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ParticipationFunction> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-ParticipationFunction" ]
        ] ;
        fhir:name [ fhir:v "ParticipationFunction" ] ;
        fhir:description [ fhir:v "This code is used to specify the exact function an actor had in a service in all necessary detail. This domain may include local extensions (CWE)." ]
@@ -1725,8 +1725,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-RoleCode> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-RoleCode" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-RoleCode> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-RoleCode" ]
        ] ;
        fhir:name [ fhir:v "RoleCode" ] ;
        fhir:description [ fhir:v "A set of codes further specifying the kind of Role; specific classification codes for further qualifying RoleClass codes." ]
@@ -1742,8 +1742,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-Confidentiality> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-Confidentiality" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-Confidentiality> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-Confidentiality" ]
        ] ;
        fhir:name [ fhir:v "Confidentiality" ] ;
        fhir:description [ fhir:v "A set of codes specifying the security classification of acts and roles in accordance with the definition for concept domain \"Confidentiality\"." ]
@@ -1759,8 +1759,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-allergy-intolerance-criticality> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-allergy-intolerance-criticality" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-allergy-intolerance-criticality> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-allergy-intolerance-criticality" ]
        ] ;
        fhir:name [ fhir:v "AllergyIntoleranceCriticality" ] ;
        fhir:description [ fhir:v "Estimate of the potential clinical harm, or seriousness, of a reaction to an identified substance." ]
@@ -1776,8 +1776,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v2-0066> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v2-0066" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v2-0066> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v2-0066" ]
        ] ;
        fhir:name [ fhir:v "EmploymentStatus" ] ;
        fhir:description [ fhir:v "HL7-defined code system of concepts which specify an employment status of a person. Used in HL7 Version 2 messaging in the GT1 segment." ]
@@ -1793,8 +1793,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-allergyintolerance-clinical> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-allergyintolerance-clinical" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-allergyintolerance-clinical> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-allergyintolerance-clinical" ]
        ] ;
        fhir:name [ fhir:v "AllergyIntoleranceClinicalStatusCodes" ] ;
        fhir:description [ fhir:v "Preferred value set for AllergyIntolerance Clinical Status." ]
@@ -1810,8 +1810,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-AdministrativeGender" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-AdministrativeGender> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-AdministrativeGender" ]
        ] ;
        fhir:name [ fhir:v "AdministrativeGender" ] ;
        fhir:description [ fhir:v "The gender of a person used for adminstrative purposes (as opposed to clinical gender)" ]
@@ -1827,8 +1827,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ParticipationType> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-ParticipationType" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ParticipationType> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-ParticipationType" ]
        ] ;
        fhir:name [ fhir:v "ParticipationType" ] ;
        fhir:description [ fhir:v "A code specifying the meaning and purpose of every Participation instance. Each of its values implies specific constraints on the Roles undertaking the participation." ]
@@ -1844,8 +1844,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-orderableDrugForm> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-orderableDrugForm" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-orderableDrugForm> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-orderableDrugForm" ]
        ] ;
        fhir:name [ fhir:v "OrderableDrugForm" ] ;
        fhir:description [ fhir:v "*OpenIssue:* Missing description." ]
@@ -1861,8 +1861,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ObservationMethod> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-ObservationMethod" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationMethod> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-ObservationMethod" ]
        ] ;
        fhir:name [ fhir:v "ObservationMethod" ] ;
        fhir:description [ fhir:v "A code that provides additional detail about the means or technique used to ascertain the observation.\r\n\r\n*Examples:* Blood pressure measurement method: arterial puncture vs. sphygmomanometer (Riva-Rocci), sitting vs. supine position, etc.\r\n\r\n*OpenIssue:* Description copied from Concept Domain of same name. Must be verified. Note that the Domain has a full discussion about use of the attribute and constraining that is not appropriate for the code system description. Needs to be improved." ]
@@ -1878,8 +1878,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ActStatus> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-ActStatus" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActStatus> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-ActStatus" ]
        ] ;
        fhir:name [ fhir:v "ActStatus" ] ;
        fhir:description [ fhir:v "Codes representing the defined possible states of an Act, as defined by the Act class state machine." ]
@@ -1895,8 +1895,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ObservationValue> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-ObservationValue" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationValue> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-ObservationValue" ]
        ] ;
        fhir:name [ fhir:v "ObservationValue" ] ;
        fhir:description [ fhir:v "This code system covers all concepts of HL7-defined values for the Observation value element, when it has a coded datatype." ]
@@ -1912,8 +1912,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-RoleClass> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-RoleClass" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-RoleClass> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-RoleClass" ]
        ] ;
        fhir:name [ fhir:v "RoleClass" ] ;
        fhir:description [ fhir:v "Codes for the Role class hierarchy. The values in this hierarchy, represent a Role which is an association or relationship between two entities - the entity that plays the role and the entity that scopes the role. Roles names are derived from the name of the playing entity in that role.\r\n\r\nThe role hierarchy stems from three core concepts, or abstract domains:\r\n\r\n *  **RoleClassOntological** is an abstract domain that collects roles in which the playing entity is defined or specified by the scoping entity.\r\n *  **RoleClassPartitive** collects roles in which the playing entity is in some sense a \"part\" of the scoping entity.\r\n *  **RoleClassAssociative** collects all of the remaining forms of association between the playing entity and the scoping entity. This set of roles is further partitioned between:\r\n    \r\n     *  **RoleClassPassive** which are roles in which the playing entity is used, known, treated, handled, built, or destroyed, etc. under the auspices of the scoping entity. The playing entity is passive in these roles in that the role exists without an agreement from the playing entity.\r\n     *  **RoleClassMutualRelationship** which are relationships based on mutual behavior of the two entities. The basis of these relationship may be formal agreements or they may be *de facto* behavior. Thus, this sub-domain is further divided into:\r\n        \r\n         *  **RoleClassRelationshipFormal** in which the relationship is formally defined, frequently by a contract or agreement.\r\n         *  **Personal relationship** which inks two people in a personal relationship.\r\n\r\nThe hierarchy discussed above is represented In the current vocabulary tables as a set of abstract domains, with the exception of the \"Personal relationship\" which is a leaf concept.\r\n\r\n*OpenIssue:* Description copied from Concept Domain of same name. Must be verified." ]
@@ -1929,8 +1929,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-substanceAdminSubstitution> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-substanceAdminSubstitution" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-substanceAdminSubstitution> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-substanceAdminSubstitution" ]
        ] ;
        fhir:name [ fhir:v "SubstanceAdminSubstitution" ] ;
        fhir:description [ fhir:v "Identifies what sort of change is permitted or has occurred between the therapy that was ordered and the therapy that was/will be provided." ]
@@ -1946,8 +1946,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-condition-clinical> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-condition-clinical" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-condition-clinical> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-condition-clinical" ]
        ] ;
        fhir:name [ fhir:v "ConditionClinicalStatusCodes" ] ;
        fhir:description [ fhir:v "Preferred value set for Condition Clinical Status." ]
@@ -1963,8 +1963,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-condition-ver-status> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-condition-ver-status" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-condition-ver-status> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-condition-ver-status" ]
        ] ;
        fhir:name [ fhir:v "ConditionVerificationStatus" ] ;
        fhir:description [ fhir:v "The verification status to support or decline the clinical status of the condition or diagnosis." ]
@@ -1980,8 +1980,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ActCode> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-ActCode" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActCode> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-ActCode" ]
        ] ;
        fhir:name [ fhir:v "ActCode" ] ;
        fhir:description [ fhir:v "A code specifying the particular kind of Act that the Act-instance represents within its class.\r\n\r\n*Constraints:* The kind of Act (e.g. physical examination, serum potassium, inpatient encounter, charge financial transaction, etc.) is specified with a code from one of several, typically external, coding systems. The coding system will depend on the class of Act, such as LOINC for observations, etc.\r\n\r\nConceptually, the Act.code must be a specialization of the Act.classCode. This is why the structure of ActClass domain should be reflected in the superstructure of the ActCode domain and then individual codes or externally referenced vocabularies subordinated under these domains that reflect the ActClass structure.\r\n\r\nAct.classCode and Act.code are not modifiers of each other but the Act.code concept should really imply the Act.classCode concept. For a negative example, it is not appropriate to use an Act.code \"potassium\" together with and Act.classCode for \"laboratory observation\" to somehow mean \"potassium laboratory observation\" and then use the same Act.code for \"potassium\" together with Act.classCode for \"medication\" to mean \"substitution of potassium\". This mutually modifying use of Act.code and Act.classCode is not permitted." ]
@@ -1997,8 +1997,8 @@
          ]
        ] ) ;
        fhir:reference [
-         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ObservationInterpretation> ;
-         fhir:reference [ fhir:v "CodeSystem/cs-fr-v3-ObservationInterpretation" ]
+         fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationInterpretation> ;
+         fhir:reference [ fhir:v "CodeSystem/cs-fr-FR-v3-ObservationInterpretation" ]
        ] ;
        fhir:name [ fhir:v "ObservationInterpretation" ] ;
        fhir:description [ fhir:v "One or more codes providing a rough qualitative interpretation of the observation, such as \"normal\" / \"abnormal\", \"low\" / \"high\", \"better\" / \"worse\", \"resistant\" / \"susceptible\", \"expected\" / \"not expected\". The value set is intended to be for ANY use where coded representation of an interpretation is needed." ]

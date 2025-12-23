@@ -1,162 +1,162 @@
 [
   {
-    "id" : "cs-fr-allergy-intolerance-criticality",
+    "id" : "cs-fr-FR-allergy-intolerance-criticality",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-allergy-intolerance-criticality",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-allergy-intolerance-criticality",
     "version" : "0.1.0",
     "name" : "AllergyIntoleranceCriticality"
   },
   {
-    "id" : "cs-fr-allergyintolerance-clinical",
+    "id" : "cs-fr-FR-allergyintolerance-clinical",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-allergyintolerance-clinical",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-allergyintolerance-clinical",
     "version" : "0.1.0",
     "name" : "AllergyIntoleranceClinicalStatusCodes"
   },
   {
-    "id" : "cs-fr-condition-clinical",
+    "id" : "cs-fr-FR-condition-clinical",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-condition-clinical",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-condition-clinical",
     "version" : "0.1.0",
     "name" : "ConditionClinicalStatusCodes"
   },
   {
-    "id" : "cs-fr-condition-ver-status",
+    "id" : "cs-fr-FR-condition-ver-status",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-condition-ver-status",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-condition-ver-status",
     "version" : "0.1.0",
     "name" : "ConditionVerificationStatus"
   },
   {
-    "id" : "cs-fr-v2-0066",
+    "id" : "cs-fr-FR-v2-0066",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v2-0066",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v2-0066",
     "version" : "0.1.0",
     "name" : "EmploymentStatus"
   },
   {
-    "id" : "cs-fr-v2-0487",
+    "id" : "cs-fr-FR-v2-0487",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v2-0487",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v2-0487",
     "version" : "0.1.0",
     "name" : "SpecimenType"
   },
   {
-    "id" : "cs-fr-v3-ActCode",
+    "id" : "cs-fr-FR-v3-ActCode",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ActCode",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActCode",
     "version" : "0.1.0",
     "name" : "ActCode"
   },
   {
-    "id" : "cs-fr-v3-ActMood",
+    "id" : "cs-fr-FR-v3-ActMood",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ActMood",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActMood",
     "version" : "0.1.0",
     "name" : "ActMood"
   },
   {
-    "id" : "cs-fr-v3-ActPriority",
+    "id" : "cs-fr-FR-v3-ActPriority",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ActPriority",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActPriority",
     "version" : "0.1.0",
     "name" : "ActPriority"
   },
   {
-    "id" : "cs-fr-v3-ActStatus",
+    "id" : "cs-fr-FR-v3-ActStatus",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ActStatus",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActStatus",
     "version" : "0.1.0",
     "name" : "ActStatus"
   },
   {
-    "id" : "cs-fr-v3-AdministrativeGender",
+    "id" : "cs-fr-FR-v3-AdministrativeGender",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-AdministrativeGender",
     "version" : "0.1.0",
     "name" : "AdministrativeGender"
   },
   {
-    "id" : "cs-fr-v3-Confidentiality",
+    "id" : "cs-fr-FR-v3-Confidentiality",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-Confidentiality",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-Confidentiality",
     "version" : "0.1.0",
     "name" : "Confidentiality"
   },
   {
-    "id" : "cs-fr-v3-ObservationInterpretation",
+    "id" : "cs-fr-FR-v3-ObservationInterpretation",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ObservationInterpretation",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationInterpretation",
     "version" : "0.1.0",
     "name" : "ObservationInterpretation"
   },
   {
-    "id" : "cs-fr-v3-ObservationMethod",
+    "id" : "cs-fr-FR-v3-ObservationMethod",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ObservationMethod",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationMethod",
     "version" : "0.1.0",
     "name" : "ObservationMethod"
   },
   {
-    "id" : "cs-fr-v3-ObservationValue",
+    "id" : "cs-fr-FR-v3-ObservationValue",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ObservationValue",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationValue",
     "version" : "0.1.0",
     "name" : "ObservationValue"
   },
   {
-    "id" : "cs-fr-v3-ParticipationFunction",
+    "id" : "cs-fr-FR-v3-ParticipationFunction",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ParticipationFunction",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ParticipationFunction",
     "version" : "0.1.0",
     "name" : "ParticipationFunction"
   },
   {
-    "id" : "cs-fr-v3-ParticipationType",
+    "id" : "cs-fr-FR-v3-ParticipationType",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-ParticipationType",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ParticipationType",
     "version" : "0.1.0",
     "name" : "ParticipationType"
   },
   {
-    "id" : "cs-fr-v3-RoleClass",
+    "id" : "cs-fr-FR-v3-RoleClass",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-RoleClass",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-RoleClass",
     "version" : "0.1.0",
     "name" : "RoleClass"
   },
   {
-    "id" : "cs-fr-v3-RoleCode",
+    "id" : "cs-fr-FR-v3-RoleCode",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-RoleCode",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-RoleCode",
     "version" : "0.1.0",
     "name" : "RoleCode"
   },
   {
-    "id" : "cs-fr-v3-TimingEvent",
+    "id" : "cs-fr-FR-v3-TimingEvent",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-TimingEvent",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-TimingEvent",
     "version" : "0.1.0",
     "name" : "TimingEvent"
   },
   {
-    "id" : "cs-fr-v3-mediaType",
+    "id" : "cs-fr-FR-v3-mediaType",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-mediaType",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-mediaType",
     "version" : "0.1.0",
     "name" : "MediaType"
   },
   {
-    "id" : "cs-fr-v3-orderableDrugForm",
+    "id" : "cs-fr-FR-v3-orderableDrugForm",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-orderableDrugForm",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-orderableDrugForm",
     "version" : "0.1.0",
     "name" : "OrderableDrugForm"
   },
   {
-    "id" : "cs-fr-v3-substanceAdminSubstitution",
+    "id" : "cs-fr-FR-v3-substanceAdminSubstitution",
     "type" : "CodeSystem",
-    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-substanceAdminSubstitution",
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-substanceAdminSubstitution",
     "version" : "0.1.0",
     "name" : "SubstanceAdminSubstitution"
   },

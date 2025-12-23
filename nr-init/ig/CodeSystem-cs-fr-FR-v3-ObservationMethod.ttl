@@ -1,0 +1,69 @@
+@prefix fhir: <http://hl7.org/fhir/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# - resource -------------------------------------------------------------------
+
+<https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationMethod> a fhir:CodeSystem ;
+  fhir:nodeRole fhir:treeRoot ;
+  fhir:id [ fhir:v "cs-fr-FR-v3-ObservationMethod"] ; # 
+  fhir:language [ fhir:v "fr-FR"] ; # 
+  fhir:text [
+     fhir:status [ fhir:v "generated" ] ;
+     fhir:div [ fhir:v "<div xml:lang=\"fr-FR\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr-FR\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-FR-v3-ObservationMethod</b></p><a name=\"cs-fr-FR-v3-ObservationMethod\"> </a><a name=\"hccs-fr-FR-v3-ObservationMethod\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationMethod</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationMethod.html#v3-ObservationMethod-ALGM\">ALGM</a><a name=\"cs-fr-FR-v3-ObservationMethod-ALGM\"> </a></td><td>Algorythme</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationMethod.html#v3-ObservationMethod-BYCL\">BYCL</a><a name=\"cs-fr-FR-v3-ObservationMethod-BYCL\"> </a></td><td>Analyse stastistique Bayésienne</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationMethod.html#v3-ObservationMethod-PCR\">PCR</a><a name=\"cs-fr-FR-v3-ObservationMethod-PCR\"> </a></td><td>PCR</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationMethod.html#v3-ObservationMethod-VDOC\">VDOC</a><a name=\"cs-fr-FR-v3-ObservationMethod-VDOC\"> </a></td><td>Vérification à partir d'un document</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationMethod.html#v3-ObservationMethod-VREG\">VREG</a><a name=\"cs-fr-FR-v3-ObservationMethod-VREG\"> </a></td><td>Vérification par requête électronique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationMethod.html#v3-ObservationMethod-VTOKEN\">VTOKEN</a><a name=\"cs-fr-FR-v3-ObservationMethod-VTOKEN\"> </a></td><td>Vérification au moyen d'un jeton électronique</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ObservationMethod.html#v3-ObservationMethod-VVOICE\">VVOICE</a><a name=\"cs-fr-FR-v3-ObservationMethod-VVOICE\"> </a></td><td>Vérification par voie orale</td></tr></table></div>"^^rdf:XMLLiteral ]
+  ] ; # 
+  fhir:url [
+     fhir:v "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationMethod"^^xsd:anyURI ;
+     fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ObservationMethod>
+  ] ; # 
+  fhir:version [ fhir:v "0.1.0"] ; # 
+  fhir:name [ fhir:v "ObservationMethod"] ; # 
+  fhir:title [ fhir:v "ObservationMethod"] ; # 
+  fhir:status [ fhir:v "active"] ; # 
+  fhir:date [ fhir:v "2025-12-23T08:56:57+00:00"^^xsd:dateTime] ; # 
+  fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
+  fhir:description [ fhir:v "A code that provides additional detail about the means or technique used to ascertain the observation.\r\n\r\n*Examples:* Blood pressure measurement method: arterial puncture vs. sphygmomanometer (Riva-Rocci), sitting vs. supine position, etc.\r\n\r\n*OpenIssue:* Description copied from Concept Domain of same name. Must be verified. Note that the Domain has a full discussion about use of the attribute and constraining that is not appropriate for the code system description. Needs to be improved."] ; # 
+  fhir:jurisdiction ( [
+     fhir:coding ( [
+       fhir:system [
+         fhir:v "urn:iso:std:iso:3166"^^xsd:anyURI ;
+         fhir:l <urn:iso:std:iso:3166>
+       ] ;
+       fhir:code [ fhir:v "FR" ] ;
+       fhir:display [ fhir:v "FRANCE" ]
+     ] )
+  ] ) ; # 
+  fhir:copyright [ fhir:v "This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html"] ; # 
+  fhir:caseSensitive [ fhir:v false] ; # 
+  fhir:content [ fhir:v "supplement"] ; # 
+  fhir:supplements [
+     fhir:v "http://terminology.hl7.org/CodeSystem/v3-ObservationMethod|3.0.0"^^xsd:anyURI ;
+     fhir:l <http://terminology.hl7.org/CodeSystem/v3-ObservationMethod?version=3.0.0>
+  ] ; # 
+  fhir:concept ( [
+     fhir:code [ fhir:v "ALGM" ] ;
+     fhir:display [ fhir:v "Algorythme" ]
+  ] [
+     fhir:code [ fhir:v "BYCL" ] ;
+     fhir:display [ fhir:v "Analyse stastistique Bayésienne" ]
+  ] [
+     fhir:code [ fhir:v "PCR" ] ;
+     fhir:display [ fhir:v "PCR" ]
+  ] [
+     fhir:code [ fhir:v "VDOC" ] ;
+     fhir:display [ fhir:v "Vérification à partir d'un document" ]
+  ] [
+     fhir:code [ fhir:v "VREG" ] ;
+     fhir:display [ fhir:v "Vérification par requête électronique" ]
+  ] [
+     fhir:code [ fhir:v "VTOKEN" ] ;
+     fhir:display [ fhir:v "Vérification au moyen d'un jeton électronique" ]
+  ] [
+     fhir:code [ fhir:v "VVOICE" ] ;
+     fhir:display [ fhir:v "Vérification par voie orale" ]
+  ] ) . # 
+
+# -------------------------------------------------------------------------------------
+

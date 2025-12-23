@@ -1,0 +1,92 @@
+{
+  "resourceType" : "CodeSystem",
+  "id" : "cs-fr-FR-v3-ActMood",
+  "language" : "fr-FR",
+  "text" : {
+    "status" : "generated",
+    "div" : "<div xml:lang=\"fr-FR\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr-FR\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-FR-v3-ActMood</b></p><a name=\"cs-fr-FR-v3-ActMood\"> </a><a name=\"hccs-fr-FR-v3-ActMood\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActMood</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-DEF\">DEF</a><a name=\"cs-fr-FR-v3-ActMood-DEF\"> </a></td><td>Définition</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-PERM\">PERM</a><a name=\"cs-fr-FR-v3-ActMood-PERM\"> </a></td><td>Permission</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-SLOT\">SLOT</a><a name=\"cs-fr-FR-v3-ActMood-SLOT\"> </a></td><td>Possible sur la période spécifiée</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-EVN\">EVN</a><a name=\"cs-fr-FR-v3-ActMood-EVN\"> </a></td><td>Réalisé</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-INT\">INT</a><a name=\"cs-fr-FR-v3-ActMood-INT\"> </a></td><td>Prévu</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-ARQ\">ARQ</a><a name=\"cs-fr-FR-v3-ActMood-ARQ\"> </a></td><td>Prévu mais non confirmé</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-PERMRQ\">PERMRQ</a><a name=\"cs-fr-FR-v3-ActMood-PERMRQ\"> </a></td><td>Demande d'autorisation</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-RQO\">RQO</a><a name=\"cs-fr-FR-v3-ActMood-RQO\"> </a></td><td>Demande</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-PRP\">PRP</a><a name=\"cs-fr-FR-v3-ActMood-PRP\"> </a></td><td>Proposition</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-RMD\">RMD</a><a name=\"cs-fr-FR-v3-ActMood-RMD\"> </a></td><td>Recommandation</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-PRMS\">PRMS</a><a name=\"cs-fr-FR-v3-ActMood-PRMS\"> </a></td><td>Planifié et confirmé</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-APT\">APT</a><a name=\"cs-fr-FR-v3-ActMood-APT\"> </a></td><td>Date et lieu confirmé</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-EXPEC\">EXPEC</a><a name=\"cs-fr-FR-v3-ActMood-EXPEC\"> </a></td><td>Attendu</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-GOL\">GOL</a><a name=\"cs-fr-FR-v3-ActMood-GOL\"> </a></td><td>But</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-RSK\">RSK</a><a name=\"cs-fr-FR-v3-ActMood-RSK\"> </a></td><td>Risque</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActMood.html#v3-ActMood-OPT\">OPT</a><a name=\"cs-fr-FR-v3-ActMood-OPT\"> </a></td><td>Option</td></tr></table></div>"
+  },
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActMood",
+  "version" : "0.1.0",
+  "name" : "ActMood",
+  "title" : "ActMood",
+  "status" : "active",
+  "date" : "2025-12-23T08:56:57+00:00",
+  "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
+  "description" : "OpenIssue: In Ballot 2009May, a strong Negative vote was lodged against several of the concept definitions in the vocabulary used for Act.moodCode. The vote was found \"Persuasive With Mod\", with the understanding that M and M would undertake a detailed review of these concept definitions for a future release of the RIM.",
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "urn:iso:std:iso:3166",
+      "code" : "FR",
+      "display" : "FRANCE"
+    }]
+  }],
+  "copyright" : "This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html",
+  "caseSensitive" : false,
+  "content" : "supplement",
+  "supplements" : "http://terminology.hl7.org/CodeSystem/v3-ActMood|3.0.0",
+  "concept" : [{
+    "code" : "DEF",
+    "display" : "Définition"
+  },
+  {
+    "code" : "PERM",
+    "display" : "Permission"
+  },
+  {
+    "code" : "SLOT",
+    "display" : "Possible sur la période spécifiée"
+  },
+  {
+    "code" : "EVN",
+    "display" : "Réalisé"
+  },
+  {
+    "code" : "INT",
+    "display" : "Prévu"
+  },
+  {
+    "code" : "ARQ",
+    "display" : "Prévu mais non confirmé"
+  },
+  {
+    "code" : "PERMRQ",
+    "display" : "Demande d'autorisation"
+  },
+  {
+    "code" : "RQO",
+    "display" : "Demande"
+  },
+  {
+    "code" : "PRP",
+    "display" : "Proposition"
+  },
+  {
+    "code" : "RMD",
+    "display" : "Recommandation"
+  },
+  {
+    "code" : "PRMS",
+    "display" : "Planifié et confirmé"
+  },
+  {
+    "code" : "APT",
+    "display" : "Date et lieu confirmé"
+  },
+  {
+    "code" : "EXPEC",
+    "display" : "Attendu"
+  },
+  {
+    "code" : "GOL",
+    "display" : "But"
+  },
+  {
+    "code" : "RSK",
+    "display" : "Risque"
+  },
+  {
+    "code" : "OPT",
+    "display" : "Option"
+  }]
+}

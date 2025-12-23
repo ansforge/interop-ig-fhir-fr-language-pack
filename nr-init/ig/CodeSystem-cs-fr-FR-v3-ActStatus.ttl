@@ -1,0 +1,69 @@
+@prefix fhir: <http://hl7.org/fhir/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# - resource -------------------------------------------------------------------
+
+<https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActStatus> a fhir:CodeSystem ;
+  fhir:nodeRole fhir:treeRoot ;
+  fhir:id [ fhir:v "cs-fr-FR-v3-ActStatus"] ; # 
+  fhir:language [ fhir:v "fr-FR"] ; # 
+  fhir:text [
+     fhir:status [ fhir:v "generated" ] ;
+     fhir:div [ fhir:v "<div xml:lang=\"fr-FR\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"fr-FR\"><p class=\"res-header-id\"><b>Narratif généré : CodeSystem cs-fr-FR-v3-ActStatus</b></p><a name=\"cs-fr-FR-v3-ActStatus\"> </a><a name=\"hccs-fr-FR-v3-ActStatus\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActStatus</code> defines fonctionnalités on the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-aborted\">aborted</a><a name=\"cs-fr-FR-v3-ActStatus-aborted\"> </a></td><td>Arrêté (après son lancement)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-active\">active</a><a name=\"cs-fr-FR-v3-ActStatus-active\"> </a></td><td>Actif (en cours ou à venir)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-cancelled\">cancelled</a><a name=\"cs-fr-FR-v3-ActStatus-cancelled\"> </a></td><td>Annulé (avant son lancement)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-completed\">completed</a><a name=\"cs-fr-FR-v3-ActStatus-completed\"> </a></td><td>Terminé</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-held\">held</a><a name=\"cs-fr-FR-v3-ActStatus-held\"> </a></td><td>En attente (avant son lancement)</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-new\">new</a><a name=\"cs-fr-FR-v3-ActStatus-new\"> </a></td><td>En préparation</td></tr><tr><td><a style=\"white-space:nowrap\" href=\"http://terminology.hl7.org/7.0.1/CodeSystem-v3-ActStatus.html#v3-ActStatus-suspended\">suspended</a><a name=\"cs-fr-FR-v3-ActStatus-suspended\"> </a></td><td>Suspendu (au cours de sa réalisation)</td></tr></table></div>"^^rdf:XMLLiteral ]
+  ] ; # 
+  fhir:url [
+     fhir:v "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActStatus"^^xsd:anyURI ;
+     fhir:l <https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ActStatus>
+  ] ; # 
+  fhir:version [ fhir:v "0.1.0"] ; # 
+  fhir:name [ fhir:v "ActStatus"] ; # 
+  fhir:title [ fhir:v "ActStatus"] ; # 
+  fhir:status [ fhir:v "active"] ; # 
+  fhir:date [ fhir:v "2025-12-23T08:56:57+00:00"^^xsd:dateTime] ; # 
+  fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
+  fhir:description [ fhir:v "Codes representing the defined possible states of an Act, as defined by the Act class state machine."] ; # 
+  fhir:jurisdiction ( [
+     fhir:coding ( [
+       fhir:system [
+         fhir:v "urn:iso:std:iso:3166"^^xsd:anyURI ;
+         fhir:l <urn:iso:std:iso:3166>
+       ] ;
+       fhir:code [ fhir:v "FR" ] ;
+       fhir:display [ fhir:v "FRANCE" ]
+     ] )
+  ] ) ; # 
+  fhir:copyright [ fhir:v "This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html"] ; # 
+  fhir:caseSensitive [ fhir:v false] ; # 
+  fhir:content [ fhir:v "supplement"] ; # 
+  fhir:supplements [
+     fhir:v "http://terminology.hl7.org/CodeSystem/v3-ActStatus|3.0.0"^^xsd:anyURI ;
+     fhir:l <http://terminology.hl7.org/CodeSystem/v3-ActStatus?version=3.0.0>
+  ] ; # 
+  fhir:concept ( [
+     fhir:code [ fhir:v "aborted" ] ;
+     fhir:display [ fhir:v "Arrêté (après son lancement)" ]
+  ] [
+     fhir:code [ fhir:v "active" ] ;
+     fhir:display [ fhir:v "Actif (en cours ou à venir)" ]
+  ] [
+     fhir:code [ fhir:v "cancelled" ] ;
+     fhir:display [ fhir:v "Annulé (avant son lancement)" ]
+  ] [
+     fhir:code [ fhir:v "completed" ] ;
+     fhir:display [ fhir:v "Terminé" ]
+  ] [
+     fhir:code [ fhir:v "held" ] ;
+     fhir:display [ fhir:v "En attente (avant son lancement)" ]
+  ] [
+     fhir:code [ fhir:v "new" ] ;
+     fhir:display [ fhir:v "En préparation" ]
+  ] [
+     fhir:code [ fhir:v "suspended" ] ;
+     fhir:display [ fhir:v "Suspendu (au cours de sa réalisation)" ]
+  ] ) . # 
+
+# -------------------------------------------------------------------------------------
+

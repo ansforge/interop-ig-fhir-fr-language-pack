@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CodeSystem xmlns="http://hl7.org/fhir">
+  <id value="cs-fr-FR-v3-ParticipationFunction"/>
+  <language value="fr-FR"/>
+  <text>
+    <status value="generated"/><div xml:lang="fr-FR" xmlns="http://www.w3.org/1999/xhtml" lang="fr-FR"><p class="res-header-id"><b>Narratif généré : CodeSystem cs-fr-FR-v3-ParticipationFunction</b></p><a name="cs-fr-FR-v3-ParticipationFunction"> </a><a name="hccs-fr-FR-v3-ParticipationFunction"> </a><div style="display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%"><p style="margin-bottom: 0px">Langue : fr-FR</p></div><p>This code system supplement <code>https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ParticipationFunction</code> defines fonctionnalités on the following codes:</p><table class="codes"><tr><td style="white-space:nowrap"><b>Code</b></td><td><b>Affichage</b></td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ParticipationFunction.html#v3-ParticipationFunction-ADMPHYS">ADMPHYS</a><a name="cs-fr-FR-v3-ParticipationFunction-ADMPHYS"> </a></td><td>Responsable de l'admission</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ParticipationFunction.html#v3-ParticipationFunction-ATTPHYS">ATTPHYS</a><a name="cs-fr-FR-v3-ParticipationFunction-ATTPHYS"> </a></td><td>Référent - Responsable du patient dans la structure de soins</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ParticipationFunction.html#v3-ParticipationFunction-DISPHYS">DISPHYS</a><a name="cs-fr-FR-v3-ParticipationFunction-DISPHYS"> </a></td><td>Responsable de la sortie</td></tr><tr><td><a style="white-space:nowrap" href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-ParticipationFunction.html#v3-ParticipationFunction-PCP">PCP</a><a name="cs-fr-FR-v3-ParticipationFunction-PCP"> </a></td><td>Médecin traitant</td></tr></table></div>
+  </text>
+  <url value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-FR-v3-ParticipationFunction"/>
+  <version value="0.1.0"/>
+  <name value="ParticipationFunction"/>
+  <title value="ParticipationFunction"/>
+  <status value="active"/>
+  <date value="2025-12-23T08:56:57+00:00"/>
+  <publisher value="Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"/>
+  <description value="This code is used to specify the exact function an actor had in a service in all necessary detail. This domain may include local extensions (CWE)."/>
+  <jurisdiction>
+    <coding>
+      <system value="urn:iso:std:iso:3166"/>
+      <code value="FR"/>
+      <display value="FRANCE"/>
+    </coding>
+  </jurisdiction>
+  <copyright value="This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html"/>
+  <caseSensitive value="false"/>
+  <content value="supplement"/>
+  <supplements value="http://terminology.hl7.org/CodeSystem/v3-ParticipationFunction|3.0.0"/>
+  <concept>
+    <code value="ADMPHYS"/>
+    <display value="Responsable de l'admission"/>
+  </concept>
+  <concept>
+    <code value="ATTPHYS"/>
+    <display value="Référent - Responsable du patient dans la structure de soins"/>
+  </concept>
+  <concept>
+    <code value="DISPHYS"/>
+    <display value="Responsable de la sortie"/>
+  </concept>
+  <concept>
+    <code value="PCP"/>
+    <display value="Médecin traitant"/>
+  </concept>
+</CodeSystem>
