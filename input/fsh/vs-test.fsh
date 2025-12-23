@@ -4,7 +4,6 @@ ValueSet: AdministrativeGender
 Id: jdv-hl7-v3-AdministrativeGender-cisis
 Title: "AdministrativeGender"
 Description: "AdministrativeGender"
-* ^language = #fr-FR
 * ^meta.versionId = "6"
 * ^meta.lastUpdated = "2025-12-17T15:42:39.378+01:00"
 * ^meta.profile = "http://hl7.org/fhir/StructureDefinition/shareablevalueset|4.0.1"
