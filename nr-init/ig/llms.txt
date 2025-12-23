@@ -9,29 +9,7 @@
 
 ### CodeSystems
 
-* [AllergyIntoleranceCriticality](fr-FR/CodeSystem-cs-fr-FR-allergy-intolerance-criticality.md)
-* [AllergyIntolerance Clinical Status Codes](fr-FR/CodeSystem-cs-fr-FR-allergyintolerance-clinical.md)
-* [Condition Clinical Status Codes](fr-FR/CodeSystem-cs-fr-FR-condition-clinical.md)
-* [ConditionVerificationStatus](fr-FR/CodeSystem-cs-fr-FR-condition-ver-status.md)
-* [employmentStatus](fr-FR/CodeSystem-cs-fr-FR-v2-0066.md)
-* [specimenType](fr-FR/CodeSystem-cs-fr-FR-v2-0487.md)
-* [ActCode](fr-FR/CodeSystem-cs-fr-FR-v3-ActCode.md)
-* [ActMood](fr-FR/CodeSystem-cs-fr-FR-v3-ActMood.md)
-* [ActPriority](fr-FR/CodeSystem-cs-fr-FR-v3-ActPriority.md)
-* [ActStatus](fr-FR/CodeSystem-cs-fr-FR-v3-ActStatus.md)
 * [AdministrativeGender](fr-FR/CodeSystem-cs-fr-FR-v3-AdministrativeGender.md)
-* [Confidentiality](fr-FR/CodeSystem-cs-fr-FR-v3-Confidentiality.md)
-* [ObservationInterpretation](fr-FR/CodeSystem-cs-fr-FR-v3-ObservationInterpretation.md)
-* [ObservationMethod](fr-FR/CodeSystem-cs-fr-FR-v3-ObservationMethod.md)
-* [ObservationValue](fr-FR/CodeSystem-cs-fr-FR-v3-ObservationValue.md)
-* [ParticipationFunction](fr-FR/CodeSystem-cs-fr-FR-v3-ParticipationFunction.md)
-* [ParticipationType](fr-FR/CodeSystem-cs-fr-FR-v3-ParticipationType.md)
-* [RoleClass](fr-FR/CodeSystem-cs-fr-FR-v3-RoleClass.md)
-* [RoleCode](fr-FR/CodeSystem-cs-fr-FR-v3-RoleCode.md)
-* [TimingEvent](fr-FR/CodeSystem-cs-fr-FR-v3-TimingEvent.md)
-* [Media Type](fr-FR/CodeSystem-cs-fr-FR-v3-mediaType.md)
-* [Orderable Drug Form](fr-FR/CodeSystem-cs-fr-FR-v3-orderableDrugForm.md)
-* [Substance Admin Substitution](fr-FR/CodeSystem-cs-fr-FR-v3-substanceAdminSubstitution.md)
 
 ### ValueSets
 
