@@ -27,7 +27,7 @@
         <source>**Definition:** A definition of a kind of act that can occur .
 
 **OpenIssue:** The semantic constructs embodied in DEF and CRT moods seem indistinguishable, and their uses can readily be determined by the context in which these are used. Therefore, this OpenIssue has been created to declare that it is likely that ActMood.DEF will be &quot;retired&quot; in the future in favor of the more general ActMood.CRT.</source>
-        <target>!!</target>
+        <target>!!!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="PERM">
         <source>permission</source>
@@ -61,7 +61,7 @@
         <source>**Definition:** An intention or plan for an act.
 
 **&gt;UsageNotes:** The final outcome of the intent, the act that is intended to occur, is always an event. However the final outcome may be reached indirectly via steps through other intents, such as promise, permission request, or an appointment that may lead to an actual event to occur. Alternatively, the intended act may never occur.</source>
-        <target>!!</target>
+        <target>!!!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="_ActMoodDesire">
         <source>desire</source>
@@ -79,7 +79,7 @@
         <source>**Definition:** A request (or order) for an act that is part of a defined request/fulfillment cycle.
 
 **UsageNotes:** Use of an HL7 defined request/fulfillment framework is not required to use this mood code.</source>
-        <target></target>
+        <target>!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="ARQ">
         <source>appointment request</source>
@@ -111,7 +111,7 @@
 Thus, the concept embodies both notions, as there is no useful distinction to be made. If a mandate is to be associated with a request, this will be embodied in the &quot;local&quot; business rules applied to the transactions. Should HL7 desire to provide a distinction between these in the future, the individual concepts could be added as specializations of this concept.
 
 The critical distinction here, is the difference between this concept and an &quot;intent&quot;, of which it is a specialization. An intent involves decisions by a single party, the author. A request, however, involves decisions by two parties, the author and the fulfiller, with an obligation on the part of the fulfiller to respond to the request indicating that the fulfiller will indeed fulfill the request.</source>
-        <target>!!</target>
+        <target>!!!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="ORD">
         <source>request</source>
@@ -127,7 +127,7 @@ The critical distinction here, is the difference between this concept and an &qu
 Thus, the concept embodies both notions, as there is no useful distinction to be made. If a mandate is to be associated with a request, this will be embodied in the &quot;local&quot; business rules applied to the transactions. Should HL7 desire to provide a distinction between these in the future, the individual concepts could be added as specializations of this concept.
 
 The critical distinction here, is the difference between this concept and an &quot;intent&quot;, of which it is a specialization. An intent involves decisions by a single party, the author. A request, however, involves decisions by two parties, the author and the fulfiller, with an obligation on the part of the fulfiller to respond to the request indicating that the fulfiller will indeed fulfill the request.</source>
-        <target></target>
+        <target>!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="PRP">
         <source>proposal</source>
@@ -145,7 +145,7 @@ The critical distinction here, is the difference between this concept and an &qu
         <source>**Definition:** A suggestion that an act should be performed with an acceptance of some degree of professional responsibility for the resulting act. Not an explicit request. .
 
 **UsageNotes:** Where there is no clear definition or applicable concept of &quot;professional responsibility&quot;, RMD becomes indistinguishable from PRP. .</source>
-        <target>!!</target>
+        <target>!!!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="PRMS">
         <source>promise</source>
@@ -155,7 +155,7 @@ The critical distinction here, is the difference between this concept and an &qu
         <source>**Definition:** A commitment to perform an act (may be either solicited or unsolicited). The committer becomes responsible to the other party for executing the act, and, as a consequence, the other party may rely on the first party to perform or cause to perform the act.
 
 **UsageNotes:** Commitments may be retracted or cancelled.</source>
-        <target>!!</target>
+        <target>!!!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="APT">
         <source>appointment</source>
@@ -181,7 +181,7 @@ The critical distinction here, is the difference between this concept and an &qu
         <source>***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to &quot;true&quot; and use the desired mood for your criterion.
 
 **Definition:** A condition that must be true for the source act to be considered.</source>
-        <target></target>
+        <target>!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="EVN.CRT">
         <source>event criterion</source>
@@ -191,7 +191,7 @@ The critical distinction here, is the difference between this concept and an &qu
         <source>***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to &quot;true&quot; and use the desired mood for your criterion.
 
 **Definition:** A criterion (CRT) that has\_match = an event (EVN).</source>
-        <target></target>
+        <target>!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="GOL.CRT">
         <source>goal criterion</source>
@@ -243,7 +243,7 @@ The critical distinction here, is the difference between this concept and an &qu
 **Examples:**Prognosis of a condition, Expected date of discharge from hospital, patient will likely need an emergency decompression of the intracranial pressure by morning.
 
 **UsageNotes:**INT (intent) reflects a plan for the future, which is a declaration to do something. This contrasts with expectation, which is a prediction that something will happen in the future. GOL (goal) reflects a hope rather than a prediction. RSK (risk) reflects a potential negative event that may or may not be expected to happen.</source>
-        <target>!!</target>
+        <target>!!!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="GOL">
         <source>Goal</source>
@@ -255,7 +255,7 @@ The critical distinction here, is the difference between this concept and an &qu
 **Examples:**Target weight below 80Kg, Stop smoking, Regain ability to walk, goal is to administer thrombolytics to candidate patients presenting with acute myocardial infarction.
 
 **UsageNotes:** INT (intent) reflects a plan for the future, which is a declaration to do something. This contrasts with goal which doesn't represent an intention to act, merely a hope for an eventual result. A goal is distinct from the intended actions to reach that goal. &quot;I will reduce the dose of drug x to 20mg&quot; is an intent. &quot;I hope to be able to get the patient to the point where I can reduce the dose of drug x to 20mg&quot; is a goal. EXPEC (expectation) reflects a prediction rather than a hope. RSK (risk) reflects a potential negative event rather than a hope.</source>
-        <target>!!</target>
+        <target>!!!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="RSK">
         <source>risk</source>
@@ -267,7 +267,7 @@ The critical distinction here, is the difference between this concept and an &qu
 **Examples:**Increased risk of DVT, at risk for sub-acute bacterial endocarditis.
 
 **UsageNotes:**Note: An observation in RSK mood expresses the undesirable act, and not the underlying risk factor. A risk factor that is present (e.g. obesity, smoking, etc) should be expressed in event mood. INT (intent) reflects a plan for the future, which is a declaration to do something. This contrasts with RSK (risk), which is the potential that something negative will occur that may or may not ever happen. GOL (goal) reflects a hope to achieve something. EXPEC (expectation) is the prediction of a positive or negative event. This contrasts with RSK (risk), which is the potential that something negative will occur that may or may not ever happen, and may not be expected to happen.</source>
-        <target>!!</target>
+        <target>!!!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="OPT">
         <source>option</source>
@@ -279,38 +279,54 @@ The critical distinction here, is the difference between this concept and an &qu
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="!!DEF@definition">
         <source>**Definition:** A definition of a kind of act that can occur .</source>
-        <target></target>
+        <target>!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="!!INT@definition">
         <source>**Definition:** An intention or plan for an act.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActMood" resname="!!_ActMoodActRequest@definition">
+        <source>**Definition:** A request (or order) for an act that is part of a defined request/fulfillment cycle.</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="!!RQO@definition">
+        <source>**Definition:** A request act that is specialized for an event request/fulfillment cycle.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActMood" resname="!!ORD@definition">
         <source>**Definition:** A request act that is specialized for an event request/fulfillment cycle.</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="!!RMD@definition">
         <source>**Definition:** A suggestion that an act should be performed with an acceptance of some degree of professional responsibility for the resulting act. Not an explicit request. .</source>
-        <target></target>
+        <target>!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="!!PRMS@definition">
         <source>**Definition:** A commitment to perform an act (may be either solicited or unsolicited). The committer becomes responsible to the other party for executing the act, and, as a consequence, the other party may rely on the first party to perform or cause to perform the act.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActMood" resname="!!CRT@definition">
+        <source>***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to &quot;true&quot; and use the desired mood for your criterion.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActMood" resname="!!EVN.CRT@definition">
+        <source>***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to &quot;true&quot; and use the desired mood for your criterion.</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="!!EXPEC@definition">
-        <source>**Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\\_match = event).</source>
-        <target></target>
+        <source>**Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\_match = event).</source>
+        <target>!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="!!GOL@definition">
         <source>**Definition:** An expectation that is considered to be desirable to occur in the future</source>
-        <target></target>
+        <target>!!</target>
       </trans-unit>
       <trans-unit id="CodeSystem-v3-ActMood" resname="!!RSK@definition">
         <source>**Definition:**An act that may occur in the future and which is regarded as undesirable</source>
-        <target></target>
+        <target>!!</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v3-ActMood" resname="!!PRMS@definition">
-        <source>**Definition:** A commitment to perform an act (may be either solicited or unsolicited). The committer becomes responsible to the other party for executing the act, and, as a consequence, the other party may rely on the first party to perform or cause to perform the act.</source>
+      <trans-unit id="CodeSystem-v3-ActMood" resname="!!!!EXPEC@definition">
+        <source>**Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\\_match = event).</source>
         <target></target>
       </trans-unit>
     </body>

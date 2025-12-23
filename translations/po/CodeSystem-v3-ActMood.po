@@ -29,7 +29,7 @@ msgstr "Définition"
 msgid "**Definition:** A definition of a kind of act that can occur .
 
 **OpenIssue:** The semantic constructs embodied in DEF and CRT moods seem indistinguishable, and their uses can readily be determined by the context in which these are used. Therefore, this OpenIssue has been created to declare that it is likely that ActMood.DEF will be \"retired\" in the future in favor of the more general ActMood.CRT."
-msgstr "!!"
+msgstr "!!!!"
 
 # null
 #: PERM
@@ -71,7 +71,7 @@ msgstr "Prévu"
 msgid "**Definition:** An intention or plan for an act.
 
 **>UsageNotes:** The final outcome of the intent, the act that is intended to occur, is always an event. However the final outcome may be reached indirectly via steps through other intents, such as promise, permission request, or an appointment that may lead to an actual event to occur. Alternatively, the intended act may never occur."
-msgstr "!!"
+msgstr "!!!!"
 
 # null
 #: _ActMoodDesire
@@ -88,12 +88,12 @@ msgstr ""
 msgid "act request"
 msgstr ""
 
-# null
+# null (!!when last translated was: **Definition:** A request (or order) for an act that is part of a defined request/fulfillment cycle.)
 #: _ActMoodActRequest@definition
 msgid "**Definition:** A request (or order) for an act that is part of a defined request/fulfillment cycle.
 
 **UsageNotes:** Use of an HL7 defined request/fulfillment framework is not required to use this mood code."
-msgstr ""
+msgstr "!!"
 
 # null
 #: ARQ
@@ -131,14 +131,14 @@ msgid "**Definition:** A request act that is specialized for an event request/fu
 Thus, the concept embodies both notions, as there is no useful distinction to be made. If a mandate is to be associated with a request, this will be embodied in the \"local\" business rules applied to the transactions. Should HL7 desire to provide a distinction between these in the future, the individual concepts could be added as specializations of this concept.
 
 The critical distinction here, is the difference between this concept and an \"intent\", of which it is a specialization. An intent involves decisions by a single party, the author. A request, however, involves decisions by two parties, the author and the fulfiller, with an obligation on the part of the fulfiller to respond to the request indicating that the fulfiller will indeed fulfill the request."
-msgstr "!!"
+msgstr "!!!!"
 
 # null
 #: ORD
 msgid "request"
 msgstr ""
 
-# null
+# null (!!when last translated was: **Definition:** A request act that is specialized for an event request/fulfillment cycle.)
 #: ORD@definition
 msgid "**Definition:** A request act that is specialized for an event request/fulfillment cycle.
 
@@ -149,7 +149,7 @@ msgid "**Definition:** A request act that is specialized for an event request/fu
 Thus, the concept embodies both notions, as there is no useful distinction to be made. If a mandate is to be associated with a request, this will be embodied in the \"local\" business rules applied to the transactions. Should HL7 desire to provide a distinction between these in the future, the individual concepts could be added as specializations of this concept.
 
 The critical distinction here, is the difference between this concept and an \"intent\", of which it is a specialization. An intent involves decisions by a single party, the author. A request, however, involves decisions by two parties, the author and the fulfiller, with an obligation on the part of the fulfiller to respond to the request indicating that the fulfiller will indeed fulfill the request."
-msgstr ""
+msgstr "!!"
 
 # null
 #: PRP
@@ -171,7 +171,7 @@ msgstr "Recommandation"
 msgid "**Definition:** A suggestion that an act should be performed with an acceptance of some degree of professional responsibility for the resulting act. Not an explicit request. .
 
 **UsageNotes:** Where there is no clear definition or applicable concept of \"professional responsibility\", RMD becomes indistinguishable from PRP. ."
-msgstr "!!"
+msgstr "!!!!"
 
 # null
 #: PRMS
@@ -183,7 +183,7 @@ msgstr "Planifié et confirmé"
 msgid "**Definition:** A commitment to perform an act (may be either solicited or unsolicited). The committer becomes responsible to the other party for executing the act, and, as a consequence, the other party may rely on the first party to perform or cause to perform the act.
 
 **UsageNotes:** Commitments may be retracted or cancelled."
-msgstr "!!"
+msgstr "!!!!"
 
 # null
 #: APT
@@ -210,24 +210,24 @@ msgstr ""
 msgid "criterion"
 msgstr ""
 
-# null
+# null (!!when last translated was: ***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to "true" and use the desired mood for your criterion.)
 #: CRT@definition
 msgid "***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to \"true\" and use the desired mood for your criterion.
 
 **Definition:** A condition that must be true for the source act to be considered."
-msgstr ""
+msgstr "!!"
 
 # null
 #: EVN.CRT
 msgid "event criterion"
 msgstr ""
 
-# null
+# null (!!when last translated was: ***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to "true" and use the desired mood for your criterion.)
 #: EVN.CRT@definition
 msgid "***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to \"true\" and use the desired mood for your criterion.
 
 **Definition:** A criterion (CRT) that has\_match = an event (EVN)."
-msgstr ""
+msgstr "!!"
 
 # null
 #: GOL.CRT
@@ -284,14 +284,14 @@ msgstr ""
 msgid "expectation"
 msgstr "Attendu"
 
-# null (!!when last translated was: **Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\\_match = event).)
+# null (!!when last translated was: **Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\_match = event).)
 #: EXPEC@definition
 msgid "**Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\_match = event).
 
 **Examples:**Prognosis of a condition, Expected date of discharge from hospital, patient will likely need an emergency decompression of the intracranial pressure by morning.
 
 **UsageNotes:**INT (intent) reflects a plan for the future, which is a declaration to do something. This contrasts with expectation, which is a prediction that something will happen in the future. GOL (goal) reflects a hope rather than a prediction. RSK (risk) reflects a potential negative event that may or may not be expected to happen."
-msgstr "!!"
+msgstr "!!!!"
 
 # null
 #: GOL
@@ -305,7 +305,7 @@ msgid "**Definition:** An expectation that is considered to be desirable to occu
 **Examples:**Target weight below 80Kg, Stop smoking, Regain ability to walk, goal is to administer thrombolytics to candidate patients presenting with acute myocardial infarction.
 
 **UsageNotes:** INT (intent) reflects a plan for the future, which is a declaration to do something. This contrasts with goal which doesn't represent an intention to act, merely a hope for an eventual result. A goal is distinct from the intended actions to reach that goal. \"I will reduce the dose of drug x to 20mg\" is an intent. \"I hope to be able to get the patient to the point where I can reduce the dose of drug x to 20mg\" is a goal. EXPEC (expectation) reflects a prediction rather than a hope. RSK (risk) reflects a potential negative event rather than a hope."
-msgstr "!!"
+msgstr "!!!!"
 
 # null
 #: RSK
@@ -319,7 +319,7 @@ msgid "**Definition:**An act that may occur in the future and which is regarded 
 **Examples:**Increased risk of DVT, at risk for sub-acute bacterial endocarditis.
 
 **UsageNotes:**Note: An observation in RSK mood expresses the undesirable act, and not the underlying risk factor. A risk factor that is present (e.g. obesity, smoking, etc) should be expressed in event mood. INT (intent) reflects a plan for the future, which is a declaration to do something. This contrasts with RSK (risk), which is the potential that something negative will occur that may or may not ever happen. GOL (goal) reflects a hope to achieve something. EXPEC (expectation) is the prediction of a positive or negative event. This contrasts with RSK (risk), which is the potential that something negative will occur that may or may not ever happen, and may not be expected to happen."
-msgstr "!!"
+msgstr "!!!!"
 
 # null
 #: OPT
@@ -334,45 +334,65 @@ msgstr ""
 # null
 #: !!DEF@definition
 msgid "**Definition:** A definition of a kind of act that can occur ."
-msgstr ""
+msgstr "!!"
 
 # null
 #: !!INT@definition
 msgid "**Definition:** An intention or plan for an act."
+msgstr "!!"
+
+# null
+#: !!_ActMoodActRequest@definition
+msgid "**Definition:** A request (or order) for an act that is part of a defined request/fulfillment cycle."
 msgstr ""
 
 # null
 #: !!RQO@definition
+msgid "**Definition:** A request act that is specialized for an event request/fulfillment cycle."
+msgstr "!!"
+
+# null
+#: !!ORD@definition
 msgid "**Definition:** A request act that is specialized for an event request/fulfillment cycle."
 msgstr ""
 
 # null
 #: !!RMD@definition
 msgid "**Definition:** A suggestion that an act should be performed with an acceptance of some degree of professional responsibility for the resulting act. Not an explicit request. ."
-msgstr ""
+msgstr "!!"
 
 # null
 #: !!PRMS@definition
 msgid "**Definition:** A commitment to perform an act (may be either solicited or unsolicited). The committer becomes responsible to the other party for executing the act, and, as a consequence, the other party may rely on the first party to perform or cause to perform the act."
+msgstr "!!"
+
+# null
+#: !!CRT@definition
+msgid "***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to \"true\" and use the desired mood for your criterion."
+msgstr ""
+
+# null
+#: !!EVN.CRT@definition
+msgid "***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to \"true\" and use the desired mood for your criterion."
 msgstr ""
 
 # null
 #: !!EXPEC@definition
-msgid "**Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\\_match = event)."
-msgstr ""
+msgid "**Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\_match = event)."
+msgstr "!!"
 
 # null
 #: !!GOL@definition
 msgid "**Definition:** An expectation that is considered to be desirable to occur in the future"
-msgstr ""
+msgstr "!!"
 
 # null
 #: !!RSK@definition
 msgid "**Definition:**An act that may occur in the future and which is regarded as undesirable"
-msgstr ""
+msgstr "!!"
 
 # null
-#: !!PRMS@definition
-msgid "**Definition:** A commitment to perform an act (may be either solicited or unsolicited). The committer becomes responsible to the other party for executing the act, and, as a consequence, the other party may rely on the first party to perform or cause to perform the act."
+#: !!!!EXPEC@definition
+msgid "**Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\\_match = event)."
 msgstr ""
 

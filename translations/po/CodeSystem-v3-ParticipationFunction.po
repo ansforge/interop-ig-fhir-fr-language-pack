@@ -354,12 +354,12 @@ msgstr ""
 msgid "assembly software"
 msgstr ""
 
-# null
+# null (!!when last translated was: A device that operates independently of an author on custodian's algorithms for data extraction of existing information for purpose of generating a new artifact.)
 #: ASSEMBLER@definition
 msgid "A device that operates independently of an author on custodian's algorithms for data extraction of existing information for purpose of generating a new artifact.
 
 *UsageConstraint:* ASSEMBLER ParticipationFunction should be used with DEV (device) ParticipationType."
-msgstr ""
+msgstr "!!"
 
 # null
 #: ATTPHYS
@@ -376,14 +376,14 @@ msgstr ""
 msgid "composer software"
 msgstr ""
 
-# null
+# null (!!when last translated was: A device used by an author to record new information, which may also be used by the author to select existing information for aggregation with newly recorded information for the purpose of generating a new artifact.)
 #: COMPOSER@definition
 msgid "A device used by an author to record new information, which may also be used by the author to select existing information for aggregation with newly recorded information for the purpose of generating a new artifact.
 
 *UsageConstraint:* COMPOSER ParticipationFunction should be used with DEV (device) ParticipationType.
 
 *Usage Note:* This code will enable implementers to more specifically represent the manner in which a Device participated in and facilitated the generation of a CDA Clinical Document or a CDA Entry by the responsible Author, which is comprised of the Author's newly entered content, and may include the pre-existing content selected by the Author, for the purpose of establishing the provenance and accountability for these acts."
-msgstr ""
+msgstr "!!"
 
 # null
 #: DISPHYS
@@ -450,14 +450,14 @@ msgstr ""
 msgid "reviewer"
 msgstr ""
 
-# null
+# null (!!when last translated was: A verifier who is accountable for reviewing and asserting that the verification of an Act complies with jurisdictional or organizational policy.)
 #: REVIEWER@definition
 msgid "A verifier who is accountable for reviewing and asserting that the verification of an Act complies with jurisdictional or organizational policy.
 
 *UsageConstraint:* UsageConstraint: Specifies the exact function that an actor is authorized to have as a verifier of an Act. Connotes that a specialized verifier asserts compliance for veracity of the review per jurisdictional or organizational policy. E.g., The Provider who takes responsibility for authenticity of a record submitted to a payer.
 
 REVIEW ParticipationFunction should be used with VFR (verifier)"
-msgstr ""
+msgstr "!!"
 
 # null
 #: RNDPHYS
@@ -497,5 +497,20 @@ msgstr ""
 # null
 #: TASST@definition
 msgid "In a typical surgery setting there is rarely a third assistant (e.g., in some Hip operations the third assistant postures the affected leg)."
+msgstr ""
+
+# null
+#: !!ASSEMBLER@definition
+msgid "A device that operates independently of an author on custodian's algorithms for data extraction of existing information for purpose of generating a new artifact."
+msgstr ""
+
+# null
+#: !!COMPOSER@definition
+msgid "A device used by an author to record new information, which may also be used by the author to select existing information for aggregation with newly recorded information for the purpose of generating a new artifact."
+msgstr ""
+
+# null
+#: !!REVIEWER@definition
+msgid "A verifier who is accountable for reviewing and asserting that the verification of an Act complies with jurisdictional or organizational policy."
 msgstr ""
 

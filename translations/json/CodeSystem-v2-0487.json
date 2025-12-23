@@ -18,12 +18,12 @@
         {
           "id" : "...",
           "source" : "No suggested values",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "...@definition",
           "source" : "No suggested values",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "ACNE",
@@ -408,12 +408,12 @@
         {
           "id" : "BONE",
           "source" : "Bone",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "BONE@definition",
           "source" : "Bone",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "CARBU",
@@ -3156,152 +3156,152 @@
           "target" : ""
         },
         {
-          "id" : "!!BLDC",
+          "id" : "!!!!BLDC",
           "source" : "BLDC",
           "target" : "Sang capillaire"
         },
         {
-          "id" : "!!BRO",
+          "id" : "!!!!BRO",
           "source" : "BRO",
           "target" : "Prélèvement bronchique"
         },
         {
-          "id" : "!!CRN",
+          "id" : "!!!!CRN",
           "source" : "CRN",
           "target" : "Cornée"
         },
         {
-          "id" : "!!CVX",
+          "id" : "!!!!CVX",
           "source" : "CVX",
           "target" : "Col de l’utérus"
         },
         {
-          "id" : "!!DOSE",
+          "id" : "!!!!DOSE",
           "source" : "DOSE",
           "target" : "Posologie (médicament ou substance)"
         },
         {
-          "id" : "!!EAR",
+          "id" : "!!!!EAR",
           "source" : "EAR",
           "target" : "Oreille"
         },
         {
-          "id" : "!!ENDC",
+          "id" : "!!!!ENDC",
           "source" : "ENDC",
           "target" : "Endocarde"
         },
         {
-          "id" : "!!ENDM",
+          "id" : "!!!!ENDM",
           "source" : "ENDM",
           "target" : "Endomètre"
         },
         {
-          "id" : "!!EYE",
+          "id" : "!!!!EYE",
           "source" : "EYE",
           "target" : "Oeil"
         },
         {
-          "id" : "!!FOOD",
+          "id" : "!!!!FOOD",
           "source" : "FOOD",
           "target" : "Aliment"
         },
         {
-          "id" : "!!GEN",
+          "id" : "!!!!GEN",
           "source" : "GEN",
           "target" : "Prélèvement génitaux"
         },
         {
-          "id" : "!!GENC",
+          "id" : "!!!!GENC",
           "source" : "GENC",
           "target" : "Prélèvement cervico-vaginal"
         },
         {
-          "id" : "!!GENF",
+          "id" : "!!!!GENF",
           "source" : "GENF",
           "target" : "Sécrétions des organes génitaux"
         },
         {
-          "id" : "!!LAM",
+          "id" : "!!!!LAM",
           "source" : "LAM",
           "target" : "Lame"
         },
         {
-          "id" : "!!LN",
+          "id" : "!!!!LN",
           "source" : "LN",
           "target" : "Ponction"
         },
         {
-          "id" : "!!NOS",
+          "id" : "!!!!NOS",
           "source" : "NOS",
           "target" : "Prélèvement nasopharyngée"
         },
         {
-          "id" : "!!PAT",
+          "id" : "!!!!PAT",
           "source" : "PAT",
           "target" : "Patient"
         },
         {
-          "id" : "!!PRT",
+          "id" : "!!!!PRT",
           "source" : "PRT",
           "target" : "Liquide péritonéal"
         },
         {
-          "id" : "!!SKM",
+          "id" : "!!!!SKM",
           "source" : "SKM",
           "target" : "Muscle squelettique"
         },
         {
-          "id" : "!!SMPLS",
+          "id" : "!!!!SMPLS",
           "source" : "SMPLS",
           "target" : "Plasma séminal"
         },
         {
-          "id" : "!!THRT",
+          "id" : "!!!!THRT",
           "source" : "THRT",
           "target" : "Gorge"
         },
         {
-          "id" : "!!TISG",
+          "id" : "!!!!TISG",
           "source" : "TISG",
           "target" : "Vésicule biliaire"
         },
         {
-          "id" : "!!TISPL",
+          "id" : "!!!!TISPL",
           "source" : "TISPL",
           "target" : "Trophoblastes"
         },
         {
-          "id" : "!!TLGI",
+          "id" : "!!!!TLGI",
           "source" : "TLGI",
           "target" : "Gros intestin"
         },
         {
-          "id" : "!!TLNG",
+          "id" : "!!!!TLNG",
           "source" : "TLNG",
           "target" : "Tissu pulmonaire"
         },
         {
-          "id" : "!!TSMI",
+          "id" : "!!!!TSMI",
           "source" : "TSMI",
           "target" : "Intestin grêle"
         },
         {
-          "id" : "!!TUB",
+          "id" : "!!!!TUB",
           "source" : "TUB",
           "target" : "Tube"
         },
         {
-          "id" : "!!ULC",
+          "id" : "!!!!ULC",
           "source" : "ULC",
           "target" : "Ulcère"
         },
         {
-          "id" : "!!UMB",
+          "id" : "!!!!UMB",
           "source" : "UMB",
           "target" : "Sang de cordon ombilical"
         },
         {
-          "id" : "!!URTH",
+          "id" : "!!!!URTH",
           "source" : "URTH",
           "target" : "Urètre"
         }

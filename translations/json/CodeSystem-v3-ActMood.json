@@ -8,22 +8,22 @@
         {
           "id" : "_ActMoodCompletionTrack",
           "source" : "ActMoodCompletionTrack",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "_ActMoodCompletionTrack@definition",
           "source" : "These are moods describing activities as they progress in the business cycle, from defined, through planned and ordered to completed.",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "_ActMoodPotential",
           "source" : "potential",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "_ActMoodPotential@definition",
           "source" : "**Definition:** A possible act.",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "DEF",
@@ -34,7 +34,7 @@
           "id" : "DEF@definition",
           "original" : "**Definition:** A definition of a kind of act that can occur .",
           "source" : "**Definition:** A definition of a kind of act that can occur .\r\n\r\n**OpenIssue:** The semantic constructs embodied in DEF and CRT moods seem indistinguishable, and their uses can readily be determined by the context in which these are used. Therefore, this OpenIssue has been created to declare that it is likely that ActMood.DEF will be \"retired\" in the future in favor of the more general ActMood.CRT.",
-          "target" : "!!"
+          "target" : "!!!!"
         },
         {
           "id" : "PERM",
@@ -75,27 +75,28 @@
           "id" : "INT@definition",
           "original" : "**Definition:** An intention or plan for an act.",
           "source" : "**Definition:** An intention or plan for an act.\r\n\r\n**>UsageNotes:** The final outcome of the intent, the act that is intended to occur, is always an event. However the final outcome may be reached indirectly via steps through other intents, such as promise, permission request, or an appointment that may lead to an actual event to occur. Alternatively, the intended act may never occur.",
-          "target" : "!!"
+          "target" : "!!!!"
         },
         {
           "id" : "_ActMoodDesire",
           "source" : "desire",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "_ActMoodDesire@definition",
           "source" : "**Definition:** A desire to have an act occur.",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "_ActMoodActRequest",
           "source" : "act request",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "_ActMoodActRequest@definition",
+          "original" : "**Definition:** A request (or order) for an act that is part of a defined request/fulfillment cycle.",
           "source" : "**Definition:** A request (or order) for an act that is part of a defined request/fulfillment cycle.\r\n\r\n**UsageNotes:** Use of an HL7 defined request/fulfillment framework is not required to use this mood code.",
-          "target" : null
+          "target" : "!!"
         },
         {
           "id" : "ARQ",
@@ -126,17 +127,18 @@
           "id" : "RQO@definition",
           "original" : "**Definition:** A request act that is specialized for an event request/fulfillment cycle.",
           "source" : "**Definition:** A request act that is specialized for an event request/fulfillment cycle.\r\n\r\n**UsageNotes:** The fulfillment cycle may involve intermediary fulfilling acts in moods such as PRMS, APT, or even another RQO before being fulfilled by the final event.\r\n\r\n**UsageNotes:** The concepts of a \"request\" and an \"order\" are viewed as different, because there is an implication of a mandate associated with order. In practice, however, this distinction has no general functional value in the inter-operation of health care computing. \"Orders\" are commonly refused for a variety of clinical and business reasons, and the notion of a \"request\" obligates the recipient (the fulfiller) to respond to the sender (the author). Indeed, in many regions, including Australia and Europe, the common term used is \"request.\"\r\n\r\nThus, the concept embodies both notions, as there is no useful distinction to be made. If a mandate is to be associated with a request, this will be embodied in the \"local\" business rules applied to the transactions. Should HL7 desire to provide a distinction between these in the future, the individual concepts could be added as specializations of this concept.\r\n\r\nThe critical distinction here, is the difference between this concept and an \"intent\", of which it is a specialization. An intent involves decisions by a single party, the author. A request, however, involves decisions by two parties, the author and the fulfiller, with an obligation on the part of the fulfiller to respond to the request indicating that the fulfiller will indeed fulfill the request.",
-          "target" : "!!"
+          "target" : "!!!!"
         },
         {
           "id" : "ORD",
           "source" : "request",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "ORD@definition",
+          "original" : "**Definition:** A request act that is specialized for an event request/fulfillment cycle.",
           "source" : "**Definition:** A request act that is specialized for an event request/fulfillment cycle.\r\n\r\n**UsageNotes:** The fulfillment cycle may involve intermediary fulfilling acts in moods such as PRMS, APT, or even another RQO before being fulfilled by the final event.\r\n\r\n**UsageNotes:** The concepts of a \"request\" and an \"order\" are viewed as different, because there is an implication of a mandate associated with order. In practice, however, this distinction has no general functional value in the inter-operation of health care computing. \"Orders\" are commonly refused for a variety of clinical and business reasons, and the notion of a \"request\" obligates the recipient (the fulfiller) to respond to the sender (the author). Indeed, in many regions, including Australia and Europe, the common term used is \"request.\"\r\n\r\nThus, the concept embodies both notions, as there is no useful distinction to be made. If a mandate is to be associated with a request, this will be embodied in the \"local\" business rules applied to the transactions. Should HL7 desire to provide a distinction between these in the future, the individual concepts could be added as specializations of this concept.\r\n\r\nThe critical distinction here, is the difference between this concept and an \"intent\", of which it is a specialization. An intent involves decisions by a single party, the author. A request, however, involves decisions by two parties, the author and the fulfiller, with an obligation on the part of the fulfiller to respond to the request indicating that the fulfiller will indeed fulfill the request.",
-          "target" : null
+          "target" : "!!"
         },
         {
           "id" : "PRP",
@@ -157,7 +159,7 @@
           "id" : "RMD@definition",
           "original" : "**Definition:** A suggestion that an act should be performed with an acceptance of some degree of professional responsibility for the resulting act. Not an explicit request. .",
           "source" : "**Definition:** A suggestion that an act should be performed with an acceptance of some degree of professional responsibility for the resulting act. Not an explicit request. .\r\n\r\n**UsageNotes:** Where there is no clear definition or applicable concept of \"professional responsibility\", RMD becomes indistinguishable from PRP. .",
-          "target" : "!!"
+          "target" : "!!!!"
         },
         {
           "id" : "PRMS",
@@ -168,7 +170,7 @@
           "id" : "PRMS@definition",
           "original" : "**Definition:** A commitment to perform an act (may be either solicited or unsolicited). The committer becomes responsible to the other party for executing the act, and, as a consequence, the other party may rely on the first party to perform or cause to perform the act.",
           "source" : "**Definition:** A commitment to perform an act (may be either solicited or unsolicited). The committer becomes responsible to the other party for executing the act, and, as a consequence, the other party may rely on the first party to perform or cause to perform the act.\r\n\r\n**UsageNotes:** Commitments may be retracted or cancelled.",
-          "target" : "!!"
+          "target" : "!!!!"
         },
         {
           "id" : "APT",
@@ -183,82 +185,84 @@
         {
           "id" : "_ActMoodPredicate",
           "source" : "ActMoodPredicate",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "_ActMoodPredicate@definition",
           "source" : "**Definition:** An act that expresses condition statements for other acts.",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "CRT",
           "source" : "criterion",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "CRT@definition",
+          "original" : "***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to \"true\" and use the desired mood for your criterion.",
           "source" : "***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to \"true\" and use the desired mood for your criterion.\r\n\r\n**Definition:** A condition that must be true for the source act to be considered.",
-          "target" : null
+          "target" : "!!"
         },
         {
           "id" : "EVN.CRT",
           "source" : "event criterion",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "EVN.CRT@definition",
+          "original" : "***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to \"true\" and use the desired mood for your criterion.",
           "source" : "***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to \"true\" and use the desired mood for your criterion.\r\n\r\n**Definition:** A criterion (CRT) that has\\_match = an event (EVN).",
-          "target" : null
+          "target" : "!!"
         },
         {
           "id" : "GOL.CRT",
           "source" : "goal criterion",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "GOL.CRT@definition",
           "source" : "A criterion expressed over goals (ActMood.GOL).",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "INT.CRT",
           "source" : "intent criterion",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "INT.CRT@definition",
           "source" : "A criterion expressed over intents (ActMood.INT).",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "PRMS.CRT",
           "source" : "promise criterion",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "PRMS.CRT@definition",
           "source" : "A criterion expressed over promises (ActMood.PRMS).",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "RQO.CRT",
           "source" : "request criterion",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "RQO.CRT@definition",
           "source" : "A criterion expressed over requests or orders (ActMood.RQO).",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "RSK.CRT",
           "source" : "risk criterion",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "RSK.CRT@definition",
           "source" : "A criterion expressed over risks (ActMood.RSK).",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "EXPEC",
@@ -267,9 +271,9 @@
         },
         {
           "id" : "EXPEC@definition",
-          "original" : "**Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\\\\_match = event).",
+          "original" : "**Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\\_match = event).",
           "source" : "**Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\\_match = event).\r\n\r\n**Examples:**Prognosis of a condition, Expected date of discharge from hospital, patient will likely need an emergency decompression of the intracranial pressure by morning.\r\n\r\n**UsageNotes:**INT (intent) reflects a plan for the future, which is a declaration to do something. This contrasts with expectation, which is a prediction that something will happen in the future. GOL (goal) reflects a hope rather than a prediction. RSK (risk) reflects a potential negative event that may or may not be expected to happen.",
-          "target" : "!!"
+          "target" : "!!!!"
         },
         {
           "id" : "GOL",
@@ -280,7 +284,7 @@
           "id" : "GOL@definition",
           "original" : "**Definition:** An expectation that is considered to be desirable to occur in the future",
           "source" : "**Definition:** An expectation that is considered to be desirable to occur in the future\r\n\r\n**Examples:**Target weight below 80Kg, Stop smoking, Regain ability to walk, goal is to administer thrombolytics to candidate patients presenting with acute myocardial infarction.\r\n\r\n**UsageNotes:** INT (intent) reflects a plan for the future, which is a declaration to do something. This contrasts with goal which doesn't represent an intention to act, merely a hope for an eventual result. A goal is distinct from the intended actions to reach that goal. \"I will reduce the dose of drug x to 20mg\" is an intent. \"I hope to be able to get the patient to the point where I can reduce the dose of drug x to 20mg\" is a goal. EXPEC (expectation) reflects a prediction rather than a hope. RSK (risk) reflects a potential negative event rather than a hope.",
-          "target" : "!!"
+          "target" : "!!!!"
         },
         {
           "id" : "RSK",
@@ -291,7 +295,7 @@
           "id" : "RSK@definition",
           "original" : "**Definition:**An act that may occur in the future and which is regarded as undesirable",
           "source" : "**Definition:**An act that may occur in the future and which is regarded as undesirable\r\n\r\n**Examples:**Increased risk of DVT, at risk for sub-acute bacterial endocarditis.\r\n\r\n**UsageNotes:**Note: An observation in RSK mood expresses the undesirable act, and not the underlying risk factor. A risk factor that is present (e.g. obesity, smoking, etc) should be expressed in event mood. INT (intent) reflects a plan for the future, which is a declaration to do something. This contrasts with RSK (risk), which is the potential that something negative will occur that may or may not ever happen. GOL (goal) reflects a hope to achieve something. EXPEC (expectation) is the prediction of a positive or negative event. This contrasts with RSK (risk), which is the potential that something negative will occur that may or may not ever happen, and may not be expected to happen.",
-          "target" : "!!"
+          "target" : "!!!!"
         },
         {
           "id" : "OPT",
@@ -306,46 +310,66 @@
         {
           "id" : "!!DEF@definition",
           "source" : "**Definition:** A definition of a kind of act that can occur .",
-          "target" : ""
+          "target" : "!!"
         },
         {
           "id" : "!!INT@definition",
           "source" : "**Definition:** An intention or plan for an act.",
+          "target" : "!!"
+        },
+        {
+          "id" : "!!_ActMoodActRequest@definition",
+          "source" : "**Definition:** A request (or order) for an act that is part of a defined request/fulfillment cycle.",
           "target" : ""
         },
         {
           "id" : "!!RQO@definition",
+          "source" : "**Definition:** A request act that is specialized for an event request/fulfillment cycle.",
+          "target" : "!!"
+        },
+        {
+          "id" : "!!ORD@definition",
           "source" : "**Definition:** A request act that is specialized for an event request/fulfillment cycle.",
           "target" : ""
         },
         {
           "id" : "!!RMD@definition",
           "source" : "**Definition:** A suggestion that an act should be performed with an acceptance of some degree of professional responsibility for the resulting act. Not an explicit request. .",
-          "target" : ""
+          "target" : "!!"
         },
         {
           "id" : "!!PRMS@definition",
           "source" : "**Definition:** A commitment to perform an act (may be either solicited or unsolicited). The committer becomes responsible to the other party for executing the act, and, as a consequence, the other party may rely on the first party to perform or cause to perform the act.",
+          "target" : "!!"
+        },
+        {
+          "id" : "!!CRT@definition",
+          "source" : "***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to \"true\" and use the desired mood for your criterion.",
+          "target" : ""
+        },
+        {
+          "id" : "!!EVN.CRT@definition",
+          "source" : "***Deprecation Comment:*** This concept This codes should no longer be used. Instead, set attribute Act.isCriterionInd to \"true\" and use the desired mood for your criterion.",
           "target" : ""
         },
         {
           "id" : "!!EXPEC@definition",
-          "source" : "**Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\\\\_match = event).",
-          "target" : ""
+          "source" : "**Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\\_match = event).",
+          "target" : "!!"
         },
         {
           "id" : "!!GOL@definition",
           "source" : "**Definition:** An expectation that is considered to be desirable to occur in the future",
-          "target" : ""
+          "target" : "!!"
         },
         {
           "id" : "!!RSK@definition",
           "source" : "**Definition:**An act that may occur in the future and which is regarded as undesirable",
-          "target" : ""
+          "target" : "!!"
         },
         {
-          "id" : "!!PRMS@definition",
-          "source" : "**Definition:** A commitment to perform an act (may be either solicited or unsolicited). The committer becomes responsible to the other party for executing the act, and, as a consequence, the other party may rely on the first party to perform or cause to perform the act.",
+          "id" : "!!!!EXPEC@definition",
+          "source" : "**Definition:** An act that is considered to have some noteworthy likelihood of occurring in the future (has\\\\_match = event).",
           "target" : ""
         }
       ]

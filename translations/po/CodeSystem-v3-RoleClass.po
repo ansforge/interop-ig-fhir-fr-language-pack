@@ -44,12 +44,12 @@ msgstr ""
 msgid "affiliate"
 msgstr ""
 
-# null
+# null (!!when last translated was: Player of the Affiliate role has a business/professional relationship with scoper. Player and scoper may be persons or organization. The Affiliate relationship does not imply membership in a group, nor does it exist for resource scheduling purposes.)
 #: AFFL@definition
 msgid "Player of the Affiliate role has a business/professional relationship with scoper. Player and scoper may be persons or organization. The Affiliate relationship does not imply membership in a group, nor does it exist for resource scheduling purposes.
 
 *Example:* A healthcare provider is affiliated with another provider as a business associate."
-msgstr ""
+msgstr "!!"
 
 # null
 #: AGNT
@@ -146,21 +146,21 @@ msgstr ""
 msgid "covered party"
 msgstr ""
 
-# null
+# null (!!when last translated was: A role class played by a person who receives benefit coverage under the terms of a particular insurance policy. The underwriter of that policy is the scoping entity. The covered party receives coverage because of some contractual or other relationship with the holder of that policy.)
 #: COVPTY@definition
 msgid "A role class played by a person who receives benefit coverage under the terms of a particular insurance policy. The underwriter of that policy is the scoping entity. The covered party receives coverage because of some contractual or other relationship with the holder of that policy.
 
 *Discussion:*This reason for coverage is captured in 'Role.code' and a relationship link with type code of indirect authority should be included using the policy holder role as the source, and the covered party role as the target.
 
 Note that a particular policy may cover several individuals one of whom may be, but need not be, the policy holder. Thus the notion of covered party is a role that is distinct from that of the policy holder."
-msgstr ""
+msgstr "!!"
 
 # null
 #: CLAIM
 msgid "claimant"
 msgstr ""
 
-# null
+# null (!!when last translated was: **Description:** A role played by a party making a claim for coverage under a policy or program. A claimant must be either a person or organization, or a group of persons or organizations. A claimant is not a named insured or a program eligible.)
 #: CLAIM@definition
 msgid "**Description:** A role played by a party making a claim for coverage under a policy or program. A claimant must be either a person or organization, or a group of persons or organizations. A claimant is not a named insured or a program eligible.
 
@@ -171,14 +171,14 @@ msgid "**Description:** A role played by a party making a claim for coverage und
 In the case of a named insured making a claim, a role type code INSCLM (insured claimant) subtypes the class to indicate that either a named insured or an individual insured has filed a claim for a loss. In the case of a program eligible, a role type code INJWKR (injured worker) subtypes the class to indicate that the covered party in a workers compensation program is an injured worker, and as such, has filed a \"claim\" under the program for benefits. Likewise, a covered role type code UNEMP (unemployed worker) subtypes the program eligible class to indicate that the covered party in an unemployment insurance program has filed a claim for unemployment benefits.
 
 **Example:** A claimant under automobile policy that is not the named insured."
-msgstr ""
+msgstr "!!"
 
 # null
 #: NAMED
 msgid "named insured"
 msgstr ""
 
-# null
+# null (!!when last translated was: **Description:** A role played by a party to an insurance policy to which the insurer agrees to indemnify for losses, provides benefits for, or renders services. A named insured may be either a person, non-person living subject, or an organization, or a group of persons, non-person living subjects, or organizations.)
 #: NAMED@definition
 msgid "**Description:** A role played by a party to an insurance policy to which the insurer agrees to indemnify for losses, provides benefits for, or renders services. A named insured may be either a person, non-person living subject, or an organization, or a group of persons, non-person living subjects, or organizations.
 
@@ -187,42 +187,42 @@ msgid "**Description:** A role played by a party to an insurance policy to which
 **Note:** The party playing the role of a named insured is not a claimant in the sense conveyed by the RoleClassCoveredParty CLAIM (claimant). However, a named insured may make a claim under a policy, e.g., e.g., a party that is the named insured and policy holder under a comprehensive automobile insurance policy may become the claimant for coverage under that policy e.g., if injured in an automobile accident and there is no liable third party. In the case of a named insured making a claim, a role type code INSCLM (insured claimant) subtypes the class to indicate that a named insured has filed a claim for a loss.
 
 **Example:** The named insured under a comprehensive automobile, disability, or property and casualty policy that is the named insured and may or may not be the policy holder."
-msgstr ""
+msgstr "!!"
 
 # null
 #: DEPEN
 msgid "dependent"
 msgstr ""
 
-# null
+# null (!!when last translated was: **Description:** A role played by a person covered under a policy or program based on an association with a subscriber, which is recognized by the policy holder.)
 #: DEPEN@definition
 msgid "**Description:** A role played by a person covered under a policy or program based on an association with a subscriber, which is recognized by the policy holder.
 
 **Note:** The party playing the role of a dependent is not a claimant in the sense conveyed by the RoleClassCoveredParty CLAIM (claimant). However, a dependent may make a claim under a policy, e.g., a dependent under a health insurance policy may become the claimant for coverage under that policy for wellness examines or if injured and there is no liable third party. In the case of a dependent making a claim, a role type code INSCLM (insured claimant) subtypes the class to indicate that the dependent has filed a claim for services covered under the health insurance policy.
 
 **Example:** The dependent has an association with the subscriber such as a financial dependency or personal relationship such as that of a spouse, or a natural or adopted child. The policy holder may be required by law to recognize certain associations or may have discretion about the associations. For example, a policy holder may dictate the criteria for the dependent status of adult children who are students, such as requiring full time enrollment, or may recognize domestic partners as dependents. Under certain circumstances, the dependent may be under the indirect authority of a responsible party acting as a surrogate for the subscriber, for example, if the subscriber is differently abled or deceased, a guardian ad Lidem or estate executor may be appointed to assume the subscriberaTMs legal standing in the relationship with the dependent."
-msgstr ""
+msgstr "!!"
 
 # null
 #: INDIV
 msgid "individual"
 msgstr ""
 
-# null
+# null (!!when last translated was: **Description:** A role played by a party covered under a policy as the policy holder. An individual may be either a person or an organization.)
 #: INDIV@definition
 msgid "**Description:** A role played by a party covered under a policy as the policy holder. An individual may be either a person or an organization.
 
 **Note:** The party playing the role of an individual insured is not a claimant in the sense conveyed by the RoleClassCoveredParty CLAIM (claimant). However, a named insured may make a claim under a policy, e.g., a party that is the named insured and policy holder under a comprehensive automobile insurance policy may become the claimant for coverage under that policy if injured in an automobile accident and there is no liable third party. In the case of an individual insured making a claim, a role type code INSCLM (insured claimant) subtypes the class to indicate that an individual insured has filed a claim for a loss.
 
 **Example:** The individual insured under a comprehensive automobile, disability, or property and casualty policy that is the policy holder."
-msgstr ""
+msgstr "!!"
 
 # null
 #: SUBSCR
 msgid "subscriber"
 msgstr ""
 
-# null
+# null (!!when last translated was: **Description:** A role played by a person covered under a policy based on association with a sponsor who is the policy holder, and whose association may provide for the eligibility of dependents for coverage.)
 #: SUBSCR@definition
 msgid "**Description:** A role played by a person covered under a policy based on association with a sponsor who is the policy holder, and whose association may provide for the eligibility of dependents for coverage.
 
@@ -231,14 +231,14 @@ msgid "**Description:** A role played by a person covered under a policy based o
 **Note:** The party playing the role of a subscriber is not a claimant in the sense conveyed by the RoleClassCoveredParty CLAIM (claimant). However, a subscriber may make a claim under a policy, e.g., a subscriber under a health insurance policy may become the claimant for coverage under that policy for wellness examines or if injured and there is no liable third party. In the case of a subscriber making a claim, a role type code INSCLM (insured claimant) subtypes the class to indicate that the subscriber has filed a claim for services covered under the health insurance policy.
 
 **Example:** An employee or a member of an association."
-msgstr ""
+msgstr "!!"
 
 # null
 #: PROG
 msgid "program eligible"
 msgstr ""
 
-# null
+# null (!!when last translated was: **Description:** A role played by a party that meets the eligibility criteria for coverage under a program. A program eligible may be either a person, non-person living subject, or an organization, or a group of persons, non-person living subjects, or organizations.)
 #: PROG@definition
 msgid "**Description:** A role played by a party that meets the eligibility criteria for coverage under a program. A program eligible may be either a person, non-person living subject, or an organization, or a group of persons, non-person living subjects, or organizations.
 
@@ -249,7 +249,7 @@ msgid "**Description:** A role played by a party that meets the eligibility crit
 In the case of a program eligible, a role type code INJWKR (injured worker) subtypes the class to indicate that the covered party in a workers compensation program is an injured worker, and as such, has filed a \"claim\" under the program for benefits. Likewise, a covered role type code UNEMP (unemployed worker) subtypes the program eligible class to indicate that the covered party in an unemployment insurance program has filed a claim for unemployment benefits.
 
 **Example:** A party meeting eligibility criteria related to health or financial status, e.g., in the U.S., persons meeting health, demographic, or financial criteria established by state and federal law are eligible for Medicaid."
-msgstr ""
+msgstr "!!"
 
 # null
 #: CRINV
@@ -326,12 +326,12 @@ msgstr ""
 msgid "research subject"
 msgstr ""
 
-# null
+# null (!!when last translated was: **Definition:**Specifies the administrative functionality within a formal experimental design for which the ResearchSubject role was established.)
 #: RESBJ@definition
 msgid "**Definition:**Specifies the administrative functionality within a formal experimental design for which the ResearchSubject role was established.
 
 **Examples:** Screening - role is used for pre-enrollment evaluation portion of the design; enrolled - role is used for subjects admitted to the experimental portion of the design."
-msgstr ""
+msgstr "!!"
 
 # null
 #: LIC
@@ -363,12 +363,12 @@ msgstr ""
 msgid "patient"
 msgstr ""
 
-# null
+# null (!!when last translated was: A Role of a LivingSubject (player) as an actual or potential recipient of health care services from a healthcare provider organization (scoper).)
 #: PAT@definition
 msgid "A Role of a LivingSubject (player) as an actual or potential recipient of health care services from a healthcare provider organization (scoper).
 
 *Usage Note:* Communication about relationships between patients and specific healthcare practitioners (people) is not done via scoper. Instead this is generally done using the CareProvision act. This allows linkage between patient and a particular healthcare practitioner role and also allows description of the type of care involved in the relationship."
-msgstr ""
+msgstr "!!"
 
 # null
 #: PAYEE
@@ -395,14 +395,14 @@ msgstr ""
 msgid "policy holder"
 msgstr ""
 
-# null
+# null (!!when last translated was: A role played by a person or organization that holds an insurance policy. The underwriter of that policy is the scoping entity.)
 #: POLHOLD@definition
 msgid "A role played by a person or organization that holds an insurance policy. The underwriter of that policy is the scoping entity.
 
 *Discussion:*The identifier of the policy is captured in 'Role.id' when the Role is a policy holder.
 
 A particular policy may cover several individuals one of whom may be, but need not be, the policy holder. Thus the notion of covered party is a role that is distinct from that of the policy holder."
-msgstr ""
+msgstr "!!"
 
 # null
 #: QUAL
@@ -419,7 +419,7 @@ msgstr ""
 msgid "coverage sponsor"
 msgstr ""
 
-# null
+# null (!!when last translated was: A role played by an entity, usually an organization that is the sponsor of an insurance plan or a health program. A sponsor is the party that is ultimately accountable for the coverage by employment contract or by law. A sponsor can be an employer, union, government agency, or association. Fully insured sponsors establish the terms of the plan and contract with health insurance plans to assume the risk and to administer the plan. Self-insured sponsors delegate coverage administration, but not risk, to third-party administrators. Program sponsors designate services to be covered in accordance with statute. Program sponsors may administer the coverage themselves, delegate coverage administration, but not risk to third-party administrators, or contract with health insurance plans to assume the risk and administrator a program. Sponsors qualify individuals who may become)
 #: SPNSR@definition
 msgid "A role played by an entity, usually an organization that is the sponsor of an insurance plan or a health program. A sponsor is the party that is ultimately accountable for the coverage by employment contract or by law. A sponsor can be an employer, union, government agency, or association. Fully insured sponsors establish the terms of the plan and contract with health insurance plans to assume the risk and to administer the plan. Self-insured sponsors delegate coverage administration, but not risk, to third-party administrators. Program sponsors designate services to be covered in accordance with statute. Program sponsors may administer the coverage themselves, delegate coverage administration, but not risk to third-party administrators, or contract with health insurance plans to assume the risk and administrator a program. Sponsors qualify individuals who may become
 
@@ -430,7 +430,7 @@ msgid "A role played by an entity, usually an organization that is the sponsor o
 The sponsor role may be further qualified by the SponsorRole.code. Entities playing the sponsor role may also play the role of a Coverage Administrator.
 
 *Example:* An employer, union, government agency, or association."
-msgstr ""
+msgstr "!!"
 
 # null
 #: STD
@@ -447,7 +447,7 @@ msgstr ""
 msgid "underwriter"
 msgstr ""
 
-# null
+# null (!!when last translated was: A role played by a person or an organization. It is the party that)
 #: UNDWRT@definition
 msgid "A role played by a person or an organization. It is the party that
 
@@ -460,7 +460,7 @@ msgid "A role played by a person or an organization. It is the party that
 1.  A health insurer;
 2.  Medicaid Program;
 3.  Lloyd's of London"
-msgstr ""
+msgstr "!!"
 
 # null
 #: CAREGIVER
@@ -487,7 +487,7 @@ msgstr ""
 msgid "self"
 msgstr ""
 
-# null
+# null (!!when last translated was: The "same" roleclass asserts an identity between playing and scoping entities: that they are in fact instances of the same entity and, in the case of discrepancies (e.g different DOB, gender), that one or both are in error.)
 #: SELF@definition
 msgid "The \"same\" roleclass asserts an identity between playing and scoping entities: that they are in fact instances of the same entity and, in the case of discrepancies (e.g different DOB, gender), that one or both are in error.
 
@@ -498,7 +498,7 @@ playing and scoping entities must have same classcode, but need not have identic
 *Example:* 
 
 a provider registry maintains sets of conflicting demographic data for what is reported to be the same individual."
-msgstr ""
+msgstr "!!"
 
 # null
 #: _RoleClassPassive
@@ -525,56 +525,56 @@ msgstr ""
 msgid "adjacency"
 msgstr ""
 
-# null
+# null (!!when last translated was: A physical association whereby two Entities are in some (even lose) spatial relationship with each other such that they touch each other in some way.)
 #: ADJY@definition
 msgid "A physical association whereby two Entities are in some (even lose) spatial relationship with each other such that they touch each other in some way.
 
 *Examples:* the colon is connected (and therefore adjacent) to the jejunum; the colon is adjacent to the liver (even if not actually connected.)
 
 *UsageConstraints:* Adjacency is in principle a symmetrical connection, but scoper and player of the role should, where applicable, be assigned to have scoper be the larger, more central Entity and player the smaller, more distant, appendage."
-msgstr ""
+msgstr "!!"
 
 # null
 #: CONC
 msgid "connection"
 msgstr ""
 
-# null
+# null (!!when last translated was: An adjacency of two Entities held together by a bond which attaches to each of the two entities.)
 #: CONC@definition
 msgid "An adjacency of two Entities held together by a bond which attaches to each of the two entities.
 
 *Examples:* biceps brachii muscle connected to the radius bone, port 3 on a network switch connected to port 5 on a patch panel.
 
 *UsageConstraints:* See Adjacency for the assignment of scoper (larger, more central) and player (smaller, more distant)."
-msgstr ""
+msgstr "!!"
 
 # null
 #: BOND
 msgid "molecular bond"
 msgstr ""
 
-# null
+# null (!!when last translated was: A connection between two atoms of a molecule.)
 #: BOND@definition
 msgid "A connection between two atoms of a molecule.
 
 *Examples:* double bond between first and second C in ethane, peptide bond between two amino-acid, disulfide bridge between two proteins, chelate and ion associations, even the much weaker van-der-Waals bonds can be considered molecular bonds.
 
 *UsageConstraints:* See connection and adjacency for the assignment of player and scoper."
-msgstr ""
+msgstr "!!"
 
 # null
 #: CONY
 msgid "continuity"
 msgstr ""
 
-# null
+# null (!!when last translated was: A connection between two regional parts.)
 #: CONY@definition
 msgid "A connection between two regional parts.
 
 *Examples:*  the connection between ascending aorta and the aortic arc, connection between descending colon and sigmoid.
 
 *UsageConstraints:* See connection and adjacency for the assignment of player and scoper."
-msgstr ""
+msgstr "!!"
 
 # null
 #: ADMM
@@ -671,12 +671,12 @@ msgstr ""
 msgid "exposed entity"
 msgstr ""
 
-# null
+# null (!!when last translated was: A role played by an entity that has been exposed to a person or animal suffering a contagious disease, or with a location from which a toxin has been distributed. The player of the role is normally a person or animal, but it is possible that other entity types could become exposed. The role is scoped by the source of the exposure, and it is quite possible for a person playing the role of exposed party to also become the scoper a role played by another person. That is to say, once a person has become infected, it is possible, perhaps likely, for that person to infect others.)
 #: EXPR@definition
 msgid "A role played by an entity that has been exposed to a person or animal suffering a contagious disease, or with a location from which a toxin has been distributed. The player of the role is normally a person or animal, but it is possible that other entity types could become exposed. The role is scoped by the source of the exposure, and it is quite possible for a person playing the role of exposed party to also become the scoper a role played by another person. That is to say, once a person has become infected, it is possible, perhaps likely, for that person to infect others.
 
 Management of exposures and tracking exposed parties is a key function within public health, and within most public health contexts - exposed parties are known as \"contacts.\""
-msgstr ""
+msgstr "!!"
 
 # null
 #: HLD
@@ -753,12 +753,12 @@ msgstr ""
 msgid "regulated product"
 msgstr ""
 
-# null
+# null (!!when last translated was: A product regulated by some governmentatl orgnization. The role is played by Material and scoped by Organization.)
 #: RGPR@definition
 msgid "A product regulated by some governmentatl orgnization. The role is played by Material and scoped by Organization.
 
 Rationale: To support an entity clone used to identify the NDC number for a drug product."
-msgstr ""
+msgstr "!!"
 
 # null
 #: TERR
@@ -805,19 +805,19 @@ msgstr ""
 msgid "equivalent entity"
 msgstr ""
 
-# null
+# null (!!when last translated was: **Description:** Specifies the player Entity (the equivalent Entity) as an Entity that is considered to be equivalent to a reference Entity (scoper). The equivalence is in principle a symmetric relationship, however, it is expected that the scoper is a reference entity which serves as reference entity for multiple different equivalent entities.)
 #: EQUIV@definition
 msgid "**Description:** Specifies the player Entity (the equivalent Entity) as an Entity that is considered to be equivalent to a reference Entity (scoper). The equivalence is in principle a symmetric relationship, however, it is expected that the scoper is a reference entity which serves as reference entity for multiple different equivalent entities.
 
 **Examples:** An innovator's medicine formulation is the reference for \"generics\", i.e., formulations manufactured differently but having been proven to be biologically equivalent to the reference medicine. Another example is a reference ingredient that serves as basis for quantity specifications (basis of strength, e.g., metoprolol succinate specified in terms of metoprolol tartrate.)"
-msgstr ""
+msgstr "!!"
 
 # null
 #: SAME
 msgid "same"
 msgstr ""
 
-# null
+# null (!!when last translated was: The "same" role asserts an identity between playing and scoping entities, i.e., that they are in fact two records of the same entity instance, and, in the case of discrepancies (e.g different DOB, gender), that one or both are in error.)
 #: SAME@definition
 msgid "The \"same\" role asserts an identity between playing and scoping entities, i.e., that they are in fact two records of the same entity instance, and, in the case of discrepancies (e.g different DOB, gender), that one or both are in error.
 
@@ -828,21 +828,21 @@ playing and scoping entities must have same classCode, but need not have identic
 *Example:* 
 
 a provider registry maintains sets of conflicting demographic data for what is reported to be the same individual."
-msgstr ""
+msgstr "!!"
 
 # null
 #: SUBY
 msgid "subsumed by"
 msgstr ""
 
-# null
+# null (!!when last translated was: Relates a prevailing record of an Entity (scoper) with another record (player) that it subsumes.)
 #: SUBY@definition
 msgid "Relates a prevailing record of an Entity (scoper) with another record (player) that it subsumes.
 
 *Examples:* Show a correct new Person object (scoper) that subsumes one or more duplicate Person objects that had accidentally been created for the same physical person.
 
 *Constraints:* Both the player and scoper must have the same classCode."
-msgstr ""
+msgstr "!!"
 
 # null
 #: GEN
@@ -879,12 +879,12 @@ msgstr ""
 msgid "subsumer"
 msgstr ""
 
-# null
+# null (!!when last translated was: An entity that subsumes the identity of another. Used in the context of merging documented entity instances. Both the player and scoper must have the same classCode.)
 #: SUBS@definition
 msgid "An entity that subsumes the identity of another. Used in the context of merging documented entity instances. Both the player and scoper must have the same classCode.
 
 The use of this code is **deprecated** in favor of the term SUBY which is its inverse and is more ontologically correct."
-msgstr ""
+msgstr "!!"
 
 # null
 #: _RoleClassPartitive
@@ -961,36 +961,36 @@ msgstr ""
 msgid "active ingredient - basis of strength"
 msgstr ""
 
-# null
+# null (!!when last translated was: **Description:**  Active ingredient, where the ingredient substance (player) is itself the "basis of strength", i.e., where the Role.quantity specifies exactly the quantity of the player substance in the medicine formulation.)
 #: ACTIB@definition
 msgid "**Description:**  Active ingredient, where the ingredient substance (player) is itself the \"basis of strength\", i.e., where the Role.quantity specifies exactly the quantity of the player substance in the medicine formulation.
 
 **Examples:** Lopressor 50 mg actually contains 50 mg of metoprolol succinate, even though the active moiety is metoprolol, but also: Tenormin 50 mg contain 50 mg of atenolol, as free base, i.e., where the active ingredient atenolol is also the active moiety."
-msgstr ""
+msgstr "!!"
 
 # null
 #: ACTIM
 msgid "active ingredient - moiety is basis of strength"
 msgstr ""
 
-# null
+# null (!!when last translated was: **Description:** Active ingredient, where not the ingredient substance (player), but itaTMs active moiety is the "basis of strength", i.e., where the Role.quantity specifies the quantity of the player substance's active moiety in the medicine formulation.)
 #: ACTIM@definition
 msgid "**Description:** Active ingredient, where not the ingredient substance (player), but itaTMs active moiety is the \"basis of strength\", i.e., where the Role.quantity specifies the quantity of the player substance's active moiety in the medicine formulation.
 
 **Examples:** 1 mL of Betopic 5mg/mL eye drops contains 5.6 mg betaxolol hydrochloride equivalent to betaxolol base 5 mg."
-msgstr ""
+msgstr "!!"
 
 # null
 #: ACTIR
 msgid "active ingredient - reference substance is basis of strength"
 msgstr ""
 
-# null
+# null (!!when last translated was: **Description:** Active ingredient, where not the ingredient substance (player) but another reference substance with the same active moiety, is the "basis of strength", i.e., where the Role.quantity specifies the quantity of a reference substance, similar but different from the player substance's in the medicine formulation.)
 #: ACTIR@definition
 msgid "**Description:** Active ingredient, where not the ingredient substance (player) but another reference substance with the same active moiety, is the \"basis of strength\", i.e., where the Role.quantity specifies the quantity of a reference substance, similar but different from the player substance's in the medicine formulation.
 
 **Examples:** Toprol-XL 50 mg contains 47.5 mg of metoprolol succinate equivalent to 50 mg of metoprolol tartrate."
-msgstr ""
+msgstr "!!"
 
 # null
 #: ADJV
@@ -1092,7 +1092,7 @@ msgstr "Ingrédient mécanique"
 msgid "An ingredient (player) of a medication (scoper) that is inseparable from the active ingredients, but has no intended chemical or pharmaceutical effect itself, but which may have some systemic effect on the patient.
 
 An example is a collagen matrix used as a base for transplanting skin cells. The collagen matrix can be left permanently in the graft site. Because it is of bovine origin, the patient may exhibit allergies or may have cultural objections to its use."
-msgstr "!!"
+msgstr "!!!!"
 
 # null
 #: LOCE
@@ -1119,36 +1119,36 @@ msgstr ""
 msgid "member"
 msgstr ""
 
-# null
+# null (!!when last translated was: A role played by an entity that is a member of a group. The group provides the scope for this role.)
 #: MBR@definition
 msgid "A role played by an entity that is a member of a group. The group provides the scope for this role.
 
 Among other uses, groups as used in insurance (groups of covered individuals) and in scheduling where resources may be grouped for scheduling and logistical purposes."
-msgstr ""
+msgstr "!!"
 
 # null
 #: PART
 msgid "part"
 msgstr ""
 
-# null
+# null (!!when last translated was: **Definition:**  an association between two Entities where the playing Entity (the part) is a component of the whole (scoper) in the sense of an integral structural component, that is distinct from other parts in the same whole, has a distinct function in the whole, and, as an effect, the full integrity of the whole depends (to some degree) on the presence of this part, even though the part may often be separable from the whole.)
 #: PART@definition
 msgid "**Definition:**  an association between two Entities where the playing Entity (the part) is a component of the whole (scoper) in the sense of an integral structural component, that is distinct from other parts in the same whole, has a distinct function in the whole, and, as an effect, the full integrity of the whole depends (to some degree) on the presence of this part, even though the part may often be separable from the whole.
 
 **Discussion:** Part is defined in opposition to (a) ingredient (not separable), (b) content (not a functional component), and (c) member (not functionally distinct from other members)."
-msgstr ""
+msgstr "!!"
 
 # null
 #: ACTM
 msgid "active moiety"
 msgstr ""
 
-# null
+# null (!!when last translated was: The molecule or ion that is responsible for the intended pharmacological action of the drug substance, excluding those appended or associated parts of the molecule that make the molecule an ester, salt (including a salt with hydrogen or coordination bonds), or other noncovalent derivative (such as a complex, chelate, or clathrate).)
 #: ACTM@definition
 msgid "The molecule or ion that is responsible for the intended pharmacological action of the drug substance, excluding those appended or associated parts of the molecule that make the molecule an ester, salt (including a salt with hydrogen or coordination bonds), or other noncovalent derivative (such as a complex, chelate, or clathrate).
 
 Examples: heparin-sodium and heparin-potassium have the same active moiety, heparin; the active moiety of morphine-hydrochloride is morphine."
-msgstr ""
+msgstr "!!"
 
 # null
 #: SPEC
@@ -1221,7 +1221,157 @@ msgid "physician"
 msgstr ""
 
 # null
+#: !!AFFL@definition
+msgid "Player of the Affiliate role has a business/professional relationship with scoper. Player and scoper may be persons or organization. The Affiliate relationship does not imply membership in a group, nor does it exist for resource scheduling purposes."
+msgstr ""
+
+# null
+#: !!COVPTY@definition
+msgid "A role class played by a person who receives benefit coverage under the terms of a particular insurance policy. The underwriter of that policy is the scoping entity. The covered party receives coverage because of some contractual or other relationship with the holder of that policy."
+msgstr ""
+
+# null
+#: !!CLAIM@definition
+msgid "**Description:** A role played by a party making a claim for coverage under a policy or program. A claimant must be either a person or organization, or a group of persons or organizations. A claimant is not a named insured or a program eligible."
+msgstr ""
+
+# null
+#: !!NAMED@definition
+msgid "**Description:** A role played by a party to an insurance policy to which the insurer agrees to indemnify for losses, provides benefits for, or renders services. A named insured may be either a person, non-person living subject, or an organization, or a group of persons, non-person living subjects, or organizations."
+msgstr ""
+
+# null
+#: !!DEPEN@definition
+msgid "**Description:** A role played by a person covered under a policy or program based on an association with a subscriber, which is recognized by the policy holder."
+msgstr ""
+
+# null
+#: !!INDIV@definition
+msgid "**Description:** A role played by a party covered under a policy as the policy holder. An individual may be either a person or an organization."
+msgstr ""
+
+# null
+#: !!SUBSCR@definition
+msgid "**Description:** A role played by a person covered under a policy based on association with a sponsor who is the policy holder, and whose association may provide for the eligibility of dependents for coverage."
+msgstr ""
+
+# null
+#: !!PROG@definition
+msgid "**Description:** A role played by a party that meets the eligibility criteria for coverage under a program. A program eligible may be either a person, non-person living subject, or an organization, or a group of persons, non-person living subjects, or organizations."
+msgstr ""
+
+# null
+#: !!RESBJ@definition
+msgid "**Definition:**Specifies the administrative functionality within a formal experimental design for which the ResearchSubject role was established."
+msgstr ""
+
+# null
+#: !!PAT@definition
+msgid "A Role of a LivingSubject (player) as an actual or potential recipient of health care services from a healthcare provider organization (scoper)."
+msgstr ""
+
+# null
+#: !!POLHOLD@definition
+msgid "A role played by a person or organization that holds an insurance policy. The underwriter of that policy is the scoping entity."
+msgstr ""
+
+# null
+#: !!SPNSR@definition
+msgid "A role played by an entity, usually an organization that is the sponsor of an insurance plan or a health program. A sponsor is the party that is ultimately accountable for the coverage by employment contract or by law. A sponsor can be an employer, union, government agency, or association. Fully insured sponsors establish the terms of the plan and contract with health insurance plans to assume the risk and to administer the plan. Self-insured sponsors delegate coverage administration, but not risk, to third-party administrators. Program sponsors designate services to be covered in accordance with statute. Program sponsors may administer the coverage themselves, delegate coverage administration, but not risk to third-party administrators, or contract with health insurance plans to assume the risk and administrator a program. Sponsors qualify individuals who may become"
+msgstr ""
+
+# null
+#: !!UNDWRT@definition
+msgid "A role played by a person or an organization. It is the party that"
+msgstr ""
+
+# null
+#: !!SELF@definition
+msgid "The \"same\" roleclass asserts an identity between playing and scoping entities: that they are in fact instances of the same entity and, in the case of discrepancies (e.g different DOB, gender), that one or both are in error."
+msgstr ""
+
+# null
+#: !!ADJY@definition
+msgid "A physical association whereby two Entities are in some (even lose) spatial relationship with each other such that they touch each other in some way."
+msgstr ""
+
+# null
+#: !!CONC@definition
+msgid "An adjacency of two Entities held together by a bond which attaches to each of the two entities."
+msgstr ""
+
+# null
+#: !!BOND@definition
+msgid "A connection between two atoms of a molecule."
+msgstr ""
+
+# null
+#: !!CONY@definition
+msgid "A connection between two regional parts."
+msgstr ""
+
+# null
+#: !!EXPR@definition
+msgid "A role played by an entity that has been exposed to a person or animal suffering a contagious disease, or with a location from which a toxin has been distributed. The player of the role is normally a person or animal, but it is possible that other entity types could become exposed. The role is scoped by the source of the exposure, and it is quite possible for a person playing the role of exposed party to also become the scoper a role played by another person. That is to say, once a person has become infected, it is possible, perhaps likely, for that person to infect others."
+msgstr ""
+
+# null
+#: !!RGPR@definition
+msgid "A product regulated by some governmentatl orgnization. The role is played by Material and scoped by Organization."
+msgstr ""
+
+# null
+#: !!EQUIV@definition
+msgid "**Description:** Specifies the player Entity (the equivalent Entity) as an Entity that is considered to be equivalent to a reference Entity (scoper). The equivalence is in principle a symmetric relationship, however, it is expected that the scoper is a reference entity which serves as reference entity for multiple different equivalent entities."
+msgstr ""
+
+# null
+#: !!SAME@definition
+msgid "The \"same\" role asserts an identity between playing and scoping entities, i.e., that they are in fact two records of the same entity instance, and, in the case of discrepancies (e.g different DOB, gender), that one or both are in error."
+msgstr ""
+
+# null
+#: !!SUBY@definition
+msgid "Relates a prevailing record of an Entity (scoper) with another record (player) that it subsumes."
+msgstr ""
+
+# null
+#: !!SUBS@definition
+msgid "An entity that subsumes the identity of another. Used in the context of merging documented entity instances. Both the player and scoper must have the same classCode."
+msgstr ""
+
+# null
+#: !!ACTIB@definition
+msgid "**Description:**  Active ingredient, where the ingredient substance (player) is itself the \"basis of strength\", i.e., where the Role.quantity specifies exactly the quantity of the player substance in the medicine formulation."
+msgstr ""
+
+# null
+#: !!ACTIM@definition
+msgid "**Description:** Active ingredient, where not the ingredient substance (player), but itaTMs active moiety is the \"basis of strength\", i.e., where the Role.quantity specifies the quantity of the player substance's active moiety in the medicine formulation."
+msgstr ""
+
+# null
+#: !!ACTIR@definition
+msgid "**Description:** Active ingredient, where not the ingredient substance (player) but another reference substance with the same active moiety, is the \"basis of strength\", i.e., where the Role.quantity specifies the quantity of a reference substance, similar but different from the player substance's in the medicine formulation."
+msgstr ""
+
+# null
 #: !!MECH@definition
 msgid "An ingredient (player) of a medication (scoper) that is inseparable from the active ingredients, but has no intended chemical or pharmaceutical effect itself, but which may have some systemic effect on the patient."
+msgstr "!!"
+
+# null
+#: !!MBR@definition
+msgid "A role played by an entity that is a member of a group. The group provides the scope for this role."
+msgstr ""
+
+# null
+#: !!PART@definition
+msgid "**Definition:**  an association between two Entities where the playing Entity (the part) is a component of the whole (scoper) in the sense of an integral structural component, that is distinct from other parts in the same whole, has a distinct function in the whole, and, as an effect, the full integrity of the whole depends (to some degree) on the presence of this part, even though the part may often be separable from the whole."
+msgstr ""
+
+# null
+#: !!ACTM@definition
+msgid "The molecule or ion that is responsible for the intended pharmacological action of the drug substance, excluding those appended or associated parts of the molecule that make the molecule an ester, salt (including a salt with hydrogen or coordination bonds), or other noncovalent derivative (such as a complex, chelate, or clathrate)."
 msgstr ""
 

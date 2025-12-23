@@ -68,12 +68,12 @@
         {
           "id" : "unknown",
           "source" : "Unknown",
-          "target" : null
+          "target" : ""
         },
         {
           "id" : "unknown@definition",
           "source" : "The authoring/source system does not know which of the status values currently applies for this condition. Note: This concept is not to be used for \"other\" - one of the listed statuses is presumed to apply, but the authoring/source system does not know which.",
-          "target" : null
+          "target" : ""
         }
       ]
     }

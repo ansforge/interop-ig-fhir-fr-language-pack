@@ -3150,152 +3150,152 @@ msgid "Environmental, Water  (Tap)"
 msgstr ""
 
 # null
-#: !!BLDC
+#: !!!!BLDC
 msgid "BLDC"
 msgstr "Sang capillaire"
 
 # null
-#: !!BRO
+#: !!!!BRO
 msgid "BRO"
 msgstr "Prélèvement bronchique"
 
 # null
-#: !!CRN
+#: !!!!CRN
 msgid "CRN"
 msgstr "Cornée"
 
 # null
-#: !!CVX
+#: !!!!CVX
 msgid "CVX"
 msgstr "Col de l’utérus"
 
 # null
-#: !!DOSE
+#: !!!!DOSE
 msgid "DOSE"
 msgstr "Posologie (médicament ou substance)"
 
 # null
-#: !!EAR
+#: !!!!EAR
 msgid "EAR"
 msgstr "Oreille"
 
 # null
-#: !!ENDC
+#: !!!!ENDC
 msgid "ENDC"
 msgstr "Endocarde"
 
 # null
-#: !!ENDM
+#: !!!!ENDM
 msgid "ENDM"
 msgstr "Endomètre"
 
 # null
-#: !!EYE
+#: !!!!EYE
 msgid "EYE"
 msgstr "Oeil"
 
 # null
-#: !!FOOD
+#: !!!!FOOD
 msgid "FOOD"
 msgstr "Aliment"
 
 # null
-#: !!GEN
+#: !!!!GEN
 msgid "GEN"
 msgstr "Prélèvement génitaux"
 
 # null
-#: !!GENC
+#: !!!!GENC
 msgid "GENC"
 msgstr "Prélèvement cervico-vaginal"
 
 # null
-#: !!GENF
+#: !!!!GENF
 msgid "GENF"
 msgstr "Sécrétions des organes génitaux"
 
 # null
-#: !!LAM
+#: !!!!LAM
 msgid "LAM"
 msgstr "Lame"
 
 # null
-#: !!LN
+#: !!!!LN
 msgid "LN"
 msgstr "Ponction"
 
 # null
-#: !!NOS
+#: !!!!NOS
 msgid "NOS"
 msgstr "Prélèvement nasopharyngée"
 
 # null
-#: !!PAT
+#: !!!!PAT
 msgid "PAT"
 msgstr "Patient"
 
 # null
-#: !!PRT
+#: !!!!PRT
 msgid "PRT"
 msgstr "Liquide péritonéal"
 
 # null
-#: !!SKM
+#: !!!!SKM
 msgid "SKM"
 msgstr "Muscle squelettique"
 
 # null
-#: !!SMPLS
+#: !!!!SMPLS
 msgid "SMPLS"
 msgstr "Plasma séminal"
 
 # null
-#: !!THRT
+#: !!!!THRT
 msgid "THRT"
 msgstr "Gorge"
 
 # null
-#: !!TISG
+#: !!!!TISG
 msgid "TISG"
 msgstr "Vésicule biliaire"
 
 # null
-#: !!TISPL
+#: !!!!TISPL
 msgid "TISPL"
 msgstr "Trophoblastes"
 
 # null
-#: !!TLGI
+#: !!!!TLGI
 msgid "TLGI"
 msgstr "Gros intestin"
 
 # null
-#: !!TLNG
+#: !!!!TLNG
 msgid "TLNG"
 msgstr "Tissu pulmonaire"
 
 # null
-#: !!TSMI
+#: !!!!TSMI
 msgid "TSMI"
 msgstr "Intestin grêle"
 
 # null
-#: !!TUB
+#: !!!!TUB
 msgid "TUB"
 msgstr "Tube"
 
 # null
-#: !!ULC
+#: !!!!ULC
 msgid "ULC"
 msgstr "Ulcère"
 
 # null
-#: !!UMB
+#: !!!!UMB
 msgid "UMB"
 msgstr "Sang de cordon ombilical"
 
 # null
-#: !!URTH
+#: !!!!URTH
 msgid "URTH"
 msgstr "Urètre"
 

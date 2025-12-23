@@ -2523,123 +2523,123 @@
         <source>Environmental, Water  (Tap)</source>
         <target></target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!BLDC">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!BLDC">
         <source>BLDC</source>
         <target>Sang capillaire</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!BRO">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!BRO">
         <source>BRO</source>
         <target>Prélèvement bronchique</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!CRN">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!CRN">
         <source>CRN</source>
         <target>Cornée</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!CVX">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!CVX">
         <source>CVX</source>
         <target>Col de l’utérus</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!DOSE">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!DOSE">
         <source>DOSE</source>
         <target>Posologie (médicament ou substance)</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!EAR">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!EAR">
         <source>EAR</source>
         <target>Oreille</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!ENDC">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!ENDC">
         <source>ENDC</source>
         <target>Endocarde</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!ENDM">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!ENDM">
         <source>ENDM</source>
         <target>Endomètre</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!EYE">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!EYE">
         <source>EYE</source>
         <target>Oeil</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!FOOD">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!FOOD">
         <source>FOOD</source>
         <target>Aliment</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!GEN">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!GEN">
         <source>GEN</source>
         <target>Prélèvement génitaux</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!GENC">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!GENC">
         <source>GENC</source>
         <target>Prélèvement cervico-vaginal</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!GENF">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!GENF">
         <source>GENF</source>
         <target>Sécrétions des organes génitaux</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!LAM">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!LAM">
         <source>LAM</source>
         <target>Lame</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!LN">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!LN">
         <source>LN</source>
         <target>Ponction</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!NOS">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!NOS">
         <source>NOS</source>
         <target>Prélèvement nasopharyngée</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!PAT">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!PAT">
         <source>PAT</source>
         <target>Patient</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!PRT">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!PRT">
         <source>PRT</source>
         <target>Liquide péritonéal</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!SKM">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!SKM">
         <source>SKM</source>
         <target>Muscle squelettique</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!SMPLS">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!SMPLS">
         <source>SMPLS</source>
         <target>Plasma séminal</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!THRT">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!THRT">
         <source>THRT</source>
         <target>Gorge</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!TISG">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!TISG">
         <source>TISG</source>
         <target>Vésicule biliaire</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!TISPL">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!TISPL">
         <source>TISPL</source>
         <target>Trophoblastes</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!TLGI">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!TLGI">
         <source>TLGI</source>
         <target>Gros intestin</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!TLNG">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!TLNG">
         <source>TLNG</source>
         <target>Tissu pulmonaire</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!TSMI">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!TSMI">
         <source>TSMI</source>
         <target>Intestin grêle</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!TUB">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!TUB">
         <source>TUB</source>
         <target>Tube</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!ULC">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!ULC">
         <source>ULC</source>
         <target>Ulcère</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!UMB">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!UMB">
         <source>UMB</source>
         <target>Sang de cordon ombilical</target>
       </trans-unit>
-      <trans-unit id="CodeSystem-v2-0487" resname="!!URTH">
+      <trans-unit id="CodeSystem-v2-0487" resname="!!!!URTH">
         <source>URTH</source>
         <target>Urètre</target>
       </trans-unit>

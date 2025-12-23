@@ -19,9 +19,8 @@ parameters: #Parameters list - https://build.fhir.org/ig/FHIR/fhir-tools-ig/Code
   shownav: 'true'
   path-expansion-params: '../../expansion-params.json' # for using French SNOMED CT Extension
   i18n-default-lang: fr-FR # Default language
-  i18n-lang: fr-FR
   pin-canonicals: pin-all
-  translation-sources: input/translations
+  translation-sources: input/translations/fr
 
 pages:
   index.md:
