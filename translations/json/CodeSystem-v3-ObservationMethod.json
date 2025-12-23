@@ -1,0 +1,5630 @@
+{
+  "id" : "CodeSystem-v3-ObservationMethod",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "fr-FR",
+      "entries" : [
+        {
+          "id" : "_DecisionObservationMethod",
+          "source" : "DecisionObservationMethod",
+          "target" : null
+        },
+        {
+          "id" : "_DecisionObservationMethod@definition",
+          "source" : "Provides codes for decision methods, initially for assessing the causality of events.",
+          "target" : null
+        },
+        {
+          "id" : "ALGM",
+          "source" : "algorithm",
+          "target" : "Algorythme"
+        },
+        {
+          "id" : "ALGM@definition",
+          "source" : "Reaching a decision through the application of an algorithm designed to weigh the different factors involved.",
+          "target" : ""
+        },
+        {
+          "id" : "BYCL",
+          "source" : "bayesian calculation",
+          "target" : "Analyse stastistique Bayésienne"
+        },
+        {
+          "id" : "BYCL@definition",
+          "source" : "Reaching a decision through the use of Bayesian statistical analysis.",
+          "target" : ""
+        },
+        {
+          "id" : "GINT",
+          "source" : "global introspection",
+          "target" : null
+        },
+        {
+          "id" : "GINT@definition",
+          "source" : "Reaching a decision by consideration of the totality of factors involved in order to reach a judgement.",
+          "target" : null
+        },
+        {
+          "id" : "_GeneticObservationMethod",
+          "source" : "GeneticObservationMethod",
+          "target" : null
+        },
+        {
+          "id" : "_GeneticObservationMethod@definition",
+          "source" : "A code that provides additional detail about the means or technique used to ascertain the genetic analysis. Example, PCR, Micro Array",
+          "target" : null
+        },
+        {
+          "id" : "PCR",
+          "source" : "PCR",
+          "target" : "PCR"
+        },
+        {
+          "id" : "PCR@definition",
+          "source" : "**Description:** Polymerase Chain Reaction",
+          "target" : ""
+        },
+        {
+          "id" : "_ObservationMethodAggregate",
+          "source" : "observation method aggregate",
+          "target" : null
+        },
+        {
+          "id" : "_ObservationMethodAggregate@definition",
+          "source" : "Provides additional detail about the aggregation methods used to compute the aggregated values for an observation. This is an abstract code.",
+          "target" : null
+        },
+        {
+          "id" : "AVERAGE",
+          "source" : "average",
+          "target" : null
+        },
+        {
+          "id" : "AVERAGE@definition",
+          "source" : "Average of non-null values in the referenced set of values",
+          "target" : null
+        },
+        {
+          "id" : "COUNT",
+          "source" : "count",
+          "target" : null
+        },
+        {
+          "id" : "COUNT@definition",
+          "source" : "Count of non-null values in the referenced set of values",
+          "target" : null
+        },
+        {
+          "id" : "MAX",
+          "source" : "maxima",
+          "target" : null
+        },
+        {
+          "id" : "MAX@definition",
+          "source" : "Largest of all non-null values in the referenced set of values.",
+          "target" : null
+        },
+        {
+          "id" : "MEDIAN",
+          "source" : "median",
+          "target" : null
+        },
+        {
+          "id" : "MEDIAN@definition",
+          "source" : "The median of all non-null values in the referenced set of values.",
+          "target" : null
+        },
+        {
+          "id" : "MIN",
+          "source" : "minima",
+          "target" : null
+        },
+        {
+          "id" : "MIN@definition",
+          "source" : "Smallest of all non-null values in the referenced set of values.",
+          "target" : null
+        },
+        {
+          "id" : "MODE",
+          "source" : "mode",
+          "target" : null
+        },
+        {
+          "id" : "MODE@definition",
+          "source" : "The most common value of all non-null values in the referenced set of values.",
+          "target" : null
+        },
+        {
+          "id" : "STDEV.P",
+          "source" : "population standard deviation",
+          "target" : null
+        },
+        {
+          "id" : "STDEV.P@definition",
+          "source" : "Standard Deviation of the values in the referenced set of values, computed over the population.",
+          "target" : null
+        },
+        {
+          "id" : "STDEV.S",
+          "source" : "sample standard deviation",
+          "target" : null
+        },
+        {
+          "id" : "STDEV.S@definition",
+          "source" : "Standard Deviation of the values in the referenced set of values, computed over a sample of the population.",
+          "target" : null
+        },
+        {
+          "id" : "SUM",
+          "source" : "sum",
+          "target" : null
+        },
+        {
+          "id" : "SUM@definition",
+          "source" : "Sum of non-null values in the referenced set of values",
+          "target" : null
+        },
+        {
+          "id" : "VARIANCE.P",
+          "source" : "population variance",
+          "target" : null
+        },
+        {
+          "id" : "VARIANCE.P@definition",
+          "source" : "Variance of the values in the referenced set of values, computed over the population.",
+          "target" : null
+        },
+        {
+          "id" : "VARIANCE.S",
+          "source" : "sample variance",
+          "target" : null
+        },
+        {
+          "id" : "VARIANCE.S@definition",
+          "source" : "Variance of the values in the referenced set of values, computed over a sample of the population.",
+          "target" : null
+        },
+        {
+          "id" : "_VerificationMethod",
+          "source" : "VerificationMethod",
+          "target" : null
+        },
+        {
+          "id" : "VDOC",
+          "source" : "document verification",
+          "target" : "Vérification à partir d'un document"
+        },
+        {
+          "id" : "VDOC@definition",
+          "original" : "Verification by means of document.",
+          "source" : "Verification by means of document.\r\n\r\n*Example:* Fax, letter, attachment to e-mail.",
+          "target" : "!!"
+        },
+        {
+          "id" : "VREG",
+          "source" : "registry verification",
+          "target" : "Vérification par requête électronique"
+        },
+        {
+          "id" : "VREG@definition",
+          "original" : "verification by means of a response to an electronic query",
+          "source" : "verification by means of a response to an electronic query\r\n\r\n*Example:* query message to a Covered Party registry application or Coverage Administrator.",
+          "target" : "!!"
+        },
+        {
+          "id" : "VTOKEN",
+          "source" : "electronic token verification",
+          "target" : "Vérification au moyen d'un jeton électronique"
+        },
+        {
+          "id" : "VTOKEN@definition",
+          "original" : "Verification by means of electronic token.",
+          "source" : "Verification by means of electronic token.\r\n\r\n*Example:* smartcard, magnetic swipe card, RFID device.",
+          "target" : "!!"
+        },
+        {
+          "id" : "VVOICE",
+          "source" : "voice-based verification",
+          "target" : "Vérification par voie orale"
+        },
+        {
+          "id" : "VVOICE@definition",
+          "original" : "Verification by means of voice.",
+          "source" : "Verification by means of voice.\r\n\r\n*Example:* By speaking with or calling the Coverage Administrator or Covered Party",
+          "target" : "!!"
+        },
+        {
+          "id" : "0001",
+          "source" : "Complement fixation",
+          "target" : null
+        },
+        {
+          "id" : "0001@definition",
+          "source" : "Complement fixation",
+          "target" : null
+        },
+        {
+          "id" : "0002",
+          "source" : "Computed axial tomography",
+          "target" : null
+        },
+        {
+          "id" : "0002@definition",
+          "source" : "Computed axial tomography",
+          "target" : null
+        },
+        {
+          "id" : "0003",
+          "source" : "HLAR agar test",
+          "target" : null
+        },
+        {
+          "id" : "0003@definition",
+          "source" : "Susceptibility, High Level Aminoglycoside Resistance agar test",
+          "target" : null
+        },
+        {
+          "id" : "0004",
+          "source" : "Macroscopic observation",
+          "target" : null
+        },
+        {
+          "id" : "0004@definition",
+          "source" : "Visual, Macroscopic observation",
+          "target" : null
+        },
+        {
+          "id" : "0005",
+          "source" : "Magnetic resonance",
+          "target" : null
+        },
+        {
+          "id" : "0005@definition",
+          "source" : "Computed, Magnetic resonance",
+          "target" : null
+        },
+        {
+          "id" : "0006",
+          "source" : "Morphometry",
+          "target" : null
+        },
+        {
+          "id" : "0006@definition",
+          "source" : "Computed, Morphometry",
+          "target" : null
+        },
+        {
+          "id" : "0007",
+          "source" : "Positron emission tomography",
+          "target" : null
+        },
+        {
+          "id" : "0007@definition",
+          "source" : "Computed, Positron emission tomography",
+          "target" : null
+        },
+        {
+          "id" : "0008",
+          "source" : "SAMHSA confirmation",
+          "target" : null
+        },
+        {
+          "id" : "0008@definition",
+          "source" : "SAMHSA drug assay confirmation",
+          "target" : null
+        },
+        {
+          "id" : "0009",
+          "source" : "SAMHSA screening",
+          "target" : null
+        },
+        {
+          "id" : "0009@definition",
+          "source" : "SAMHSA drug assay screening",
+          "target" : null
+        },
+        {
+          "id" : "0010",
+          "source" : "Serum Neutralization",
+          "target" : null
+        },
+        {
+          "id" : "0010@definition",
+          "source" : "Serum Neutralization",
+          "target" : null
+        },
+        {
+          "id" : "0011",
+          "source" : "Titration",
+          "target" : null
+        },
+        {
+          "id" : "0011@definition",
+          "source" : "Titration",
+          "target" : null
+        },
+        {
+          "id" : "0012",
+          "source" : "Ultrasound",
+          "target" : null
+        },
+        {
+          "id" : "0012@definition",
+          "source" : "Ultrasound",
+          "target" : null
+        },
+        {
+          "id" : "0013",
+          "source" : "X-ray crystallography",
+          "target" : null
+        },
+        {
+          "id" : "0013@definition",
+          "source" : "X-ray crystallography",
+          "target" : null
+        },
+        {
+          "id" : "0014",
+          "source" : "Agglutination",
+          "target" : null
+        },
+        {
+          "id" : "0014@definition",
+          "source" : "Agglutination",
+          "target" : null
+        },
+        {
+          "id" : "0015",
+          "source" : "Buffered acidified plate agglutination",
+          "target" : null
+        },
+        {
+          "id" : "0015@definition",
+          "source" : "Agglutination, Buffered acidified plate",
+          "target" : null
+        },
+        {
+          "id" : "0016",
+          "source" : "Card agglutination",
+          "target" : null
+        },
+        {
+          "id" : "0016@definition",
+          "source" : "Agglutination, Card",
+          "target" : null
+        },
+        {
+          "id" : "0017",
+          "source" : "Hemagglutination",
+          "target" : null
+        },
+        {
+          "id" : "0017@definition",
+          "source" : "Agglutination, Hemagglutination",
+          "target" : null
+        },
+        {
+          "id" : "0018",
+          "source" : "Hemagglutination inhibition",
+          "target" : null
+        },
+        {
+          "id" : "0018@definition",
+          "source" : "Agglutination, Hemagglutination inhibition",
+          "target" : null
+        },
+        {
+          "id" : "0019",
+          "source" : "Latex agglutination",
+          "target" : null
+        },
+        {
+          "id" : "0019@definition",
+          "source" : "Agglutination, Latex",
+          "target" : null
+        },
+        {
+          "id" : "0020",
+          "source" : "Plate agglutination",
+          "target" : null
+        },
+        {
+          "id" : "0020@definition",
+          "source" : "Agglutination, Plate",
+          "target" : null
+        },
+        {
+          "id" : "0021",
+          "source" : "Rapid agglutination",
+          "target" : null
+        },
+        {
+          "id" : "0021@definition",
+          "source" : "Agglutination, Rapid Plate",
+          "target" : null
+        },
+        {
+          "id" : "0022",
+          "source" : "RBC agglutination",
+          "target" : null
+        },
+        {
+          "id" : "0022@definition",
+          "source" : "Agglutination, RBC",
+          "target" : null
+        },
+        {
+          "id" : "0023",
+          "source" : "Rivanol agglutination",
+          "target" : null
+        },
+        {
+          "id" : "0023@definition",
+          "source" : "Agglutination, Rivanol",
+          "target" : null
+        },
+        {
+          "id" : "0024",
+          "source" : "Tube agglutination",
+          "target" : null
+        },
+        {
+          "id" : "0024@definition",
+          "source" : "Agglutination, Tube",
+          "target" : null
+        },
+        {
+          "id" : "0025",
+          "source" : "Bioassay",
+          "target" : null
+        },
+        {
+          "id" : "0025@definition",
+          "source" : "Bioassay",
+          "target" : null
+        },
+        {
+          "id" : "0026",
+          "source" : "Animal Inoculation",
+          "target" : null
+        },
+        {
+          "id" : "0026@definition",
+          "source" : "Bioassay, Animal Inoculation",
+          "target" : null
+        },
+        {
+          "id" : "0027",
+          "source" : "Cytotoxicity",
+          "target" : null
+        },
+        {
+          "id" : "0027@definition",
+          "source" : "Bioassay, Cytotoxicity",
+          "target" : null
+        },
+        {
+          "id" : "0028",
+          "source" : "Embryo infective dose 50",
+          "target" : null
+        },
+        {
+          "id" : "0028@definition",
+          "source" : "Bioassay, Embryo Infective Dose 50",
+          "target" : null
+        },
+        {
+          "id" : "0029",
+          "source" : "Embryo lethal dose 50",
+          "target" : null
+        },
+        {
+          "id" : "0029@definition",
+          "source" : "Bioassay, Embryo Lethal Dose 50",
+          "target" : null
+        },
+        {
+          "id" : "0030",
+          "source" : "Mouse intercerebral inoculation",
+          "target" : null
+        },
+        {
+          "id" : "0030@definition",
+          "source" : "Bioassay, Mouse intercerebral inoculation",
+          "target" : null
+        },
+        {
+          "id" : "0031",
+          "source" : "Bioassay, qualitative",
+          "target" : null
+        },
+        {
+          "id" : "0031@definition",
+          "source" : "Bioassay, qualitative",
+          "target" : null
+        },
+        {
+          "id" : "0032",
+          "source" : "Bioassay, quantitative",
+          "target" : null
+        },
+        {
+          "id" : "0032@definition",
+          "source" : "Bioassay, quantitative",
+          "target" : null
+        },
+        {
+          "id" : "0033",
+          "source" : "Chemical method",
+          "target" : null
+        },
+        {
+          "id" : "0033@definition",
+          "source" : "Chemical",
+          "target" : null
+        },
+        {
+          "id" : "0034",
+          "source" : "Differential light absorption chemical test",
+          "target" : null
+        },
+        {
+          "id" : "0034@definition",
+          "source" : "Chemical, Differential light absorption",
+          "target" : null
+        },
+        {
+          "id" : "0035",
+          "source" : "Dipstick",
+          "target" : null
+        },
+        {
+          "id" : "0035@definition",
+          "source" : "Chemical, Dipstick",
+          "target" : null
+        },
+        {
+          "id" : "0036",
+          "source" : "Dipstick colorimetric laboratory test",
+          "target" : null
+        },
+        {
+          "id" : "0036@definition",
+          "source" : "Chemical, Dipstick colorimetric laboratory test",
+          "target" : null
+        },
+        {
+          "id" : "0037",
+          "source" : "Test strip",
+          "target" : null
+        },
+        {
+          "id" : "0037@definition",
+          "source" : "Chemical, Test strip",
+          "target" : null
+        },
+        {
+          "id" : "0038",
+          "source" : "Chromatography",
+          "target" : null
+        },
+        {
+          "id" : "0038@definition",
+          "source" : "Chromatography",
+          "target" : null
+        },
+        {
+          "id" : "0039",
+          "source" : "Affinity chromatography",
+          "target" : null
+        },
+        {
+          "id" : "0039@definition",
+          "source" : "Chromatography, Affinity",
+          "target" : null
+        },
+        {
+          "id" : "0040",
+          "source" : "Gas liquid chromatography",
+          "target" : null
+        },
+        {
+          "id" : "0040@definition",
+          "source" : "Chromatography, Gas liquid",
+          "target" : null
+        },
+        {
+          "id" : "0041",
+          "source" : "High performance liquid chromatography",
+          "target" : null
+        },
+        {
+          "id" : "0041@definition",
+          "source" : "Chromatography, High performance liquid",
+          "target" : null
+        },
+        {
+          "id" : "0042",
+          "source" : "Liquid Chromatography",
+          "target" : null
+        },
+        {
+          "id" : "0042@definition",
+          "source" : "Chromatography, Liquid",
+          "target" : null
+        },
+        {
+          "id" : "0043",
+          "source" : "Protein A affinity chromatography",
+          "target" : null
+        },
+        {
+          "id" : "0043@definition",
+          "source" : "Chromatography, Protein A affinity",
+          "target" : null
+        },
+        {
+          "id" : "0044",
+          "source" : "Coagulation",
+          "target" : null
+        },
+        {
+          "id" : "0044@definition",
+          "source" : "Coagulation",
+          "target" : null
+        },
+        {
+          "id" : "0045",
+          "source" : "Tilt tube coagulation time",
+          "target" : null
+        },
+        {
+          "id" : "0045@definition",
+          "source" : "Coagulation, Tilt tube",
+          "target" : null
+        },
+        {
+          "id" : "0046",
+          "source" : "Tilt tube reptilase induced coagulation",
+          "target" : null
+        },
+        {
+          "id" : "0046@definition",
+          "source" : "Coagulation, Tilt tube reptilase induced",
+          "target" : null
+        },
+        {
+          "id" : "0047",
+          "source" : "Automated count",
+          "target" : null
+        },
+        {
+          "id" : "0047@definition",
+          "source" : "Count, Automated",
+          "target" : null
+        },
+        {
+          "id" : "0048",
+          "source" : "Manual cell count",
+          "target" : null
+        },
+        {
+          "id" : "0048@definition",
+          "source" : "Count, Manual",
+          "target" : null
+        },
+        {
+          "id" : "0049",
+          "source" : "Platelet count, Rees-Ecker",
+          "target" : null
+        },
+        {
+          "id" : "0049@definition",
+          "source" : "Count, Platelet, Rees-Ecker",
+          "target" : null
+        },
+        {
+          "id" : "0050",
+          "source" : "Aerobic Culture",
+          "target" : null
+        },
+        {
+          "id" : "0050@definition",
+          "source" : "Culture, Aerobic",
+          "target" : null
+        },
+        {
+          "id" : "0051",
+          "source" : "Anaerobic Culture",
+          "target" : null
+        },
+        {
+          "id" : "0051@definition",
+          "source" : "Culture, Anaerobic",
+          "target" : null
+        },
+        {
+          "id" : "0052",
+          "source" : "Chicken embryo culture",
+          "target" : null
+        },
+        {
+          "id" : "0052@definition",
+          "source" : "Culture, Chicken Embryo",
+          "target" : null
+        },
+        {
+          "id" : "0053",
+          "source" : "Delayed secondary enrichment",
+          "target" : null
+        },
+        {
+          "id" : "0053@definition",
+          "source" : "Culture, Delayed secondary enrichment",
+          "target" : null
+        },
+        {
+          "id" : "0054",
+          "source" : "Microaerophilic Culture",
+          "target" : null
+        },
+        {
+          "id" : "0054@definition",
+          "source" : "Culture, Microaerophilic",
+          "target" : null
+        },
+        {
+          "id" : "0055",
+          "source" : "Quantitative microbial culture, cup",
+          "target" : null
+        },
+        {
+          "id" : "0055@definition",
+          "source" : "Culture, Quantitative microbial, cup",
+          "target" : null
+        },
+        {
+          "id" : "0056",
+          "source" : "Quantitative microbial culture, droplet",
+          "target" : null
+        },
+        {
+          "id" : "0056@definition",
+          "source" : "Culture, Quantitative microbial, droplet",
+          "target" : null
+        },
+        {
+          "id" : "0057",
+          "source" : "Quantitative microbial culture, filter paper",
+          "target" : null
+        },
+        {
+          "id" : "0057@definition",
+          "source" : "Culture, Quantitative microbial, filter paper",
+          "target" : null
+        },
+        {
+          "id" : "0058",
+          "source" : "Quantitative microbial culture, pad culture",
+          "target" : null
+        },
+        {
+          "id" : "0058@definition",
+          "source" : "Culture, Quantitative microbial, pad",
+          "target" : null
+        },
+        {
+          "id" : "0059",
+          "source" : "Quantitative microbial culture, pour plate",
+          "target" : null
+        },
+        {
+          "id" : "0059@definition",
+          "source" : "Culture, Quantitative microbial, pour plate",
+          "target" : null
+        },
+        {
+          "id" : "0060",
+          "source" : "Quantitative microbial culture, surface streak",
+          "target" : null
+        },
+        {
+          "id" : "0060@definition",
+          "source" : "Culture, Quantitative microbial, surface streak",
+          "target" : null
+        },
+        {
+          "id" : "0061",
+          "source" : "Somatic Cell culture",
+          "target" : null
+        },
+        {
+          "id" : "0061@definition",
+          "source" : "Culture, Somatic Cell",
+          "target" : null
+        },
+        {
+          "id" : "0062",
+          "source" : "Agar diffusion",
+          "target" : null
+        },
+        {
+          "id" : "0062@definition",
+          "source" : "Diffusion, Agar",
+          "target" : null
+        },
+        {
+          "id" : "0063",
+          "source" : "Agar Gel Immunodiffusion",
+          "target" : null
+        },
+        {
+          "id" : "0063@definition",
+          "source" : "Diffusion, Agar Gel Immunodiffusion",
+          "target" : null
+        },
+        {
+          "id" : "0064",
+          "source" : "Electrophoresis",
+          "target" : null
+        },
+        {
+          "id" : "0064@definition",
+          "source" : "Electrophoresis",
+          "target" : null
+        },
+        {
+          "id" : "0065",
+          "source" : "Agaorse gel electrophoresis",
+          "target" : null
+        },
+        {
+          "id" : "0065@definition",
+          "source" : "Electrophoresis, Agaorse gel",
+          "target" : null
+        },
+        {
+          "id" : "0066",
+          "source" : "Electrophoresis, citrate agar",
+          "target" : null
+        },
+        {
+          "id" : "0066@definition",
+          "source" : "Electrophoresis, citrate agar",
+          "target" : null
+        },
+        {
+          "id" : "0067",
+          "source" : "Immunoelectrophoresis",
+          "target" : null
+        },
+        {
+          "id" : "0067@definition",
+          "source" : "Electrophoresis, Immuno",
+          "target" : null
+        },
+        {
+          "id" : "0068",
+          "source" : "Polyacrylamide gel electrophoresis",
+          "target" : null
+        },
+        {
+          "id" : "0068@definition",
+          "source" : "Electrophoresis, Polyacrylamide gel",
+          "target" : null
+        },
+        {
+          "id" : "0069",
+          "source" : "Starch gel electrophoresis",
+          "target" : null
+        },
+        {
+          "id" : "0069@definition",
+          "source" : "Electrophoresis, Starch gel",
+          "target" : null
+        },
+        {
+          "id" : "0070",
+          "source" : "ELISA",
+          "target" : null
+        },
+        {
+          "id" : "0070@definition",
+          "source" : "ELISA",
+          "target" : null
+        },
+        {
+          "id" : "0071",
+          "source" : "ELISA, antigen capture",
+          "target" : null
+        },
+        {
+          "id" : "0071@definition",
+          "source" : "ELISA, antigen capture",
+          "target" : null
+        },
+        {
+          "id" : "0072",
+          "source" : "ELISA, avidin biotin peroxidase complex",
+          "target" : null
+        },
+        {
+          "id" : "0072@definition",
+          "source" : "ELISA, avidin biotin peroxidase complex",
+          "target" : null
+        },
+        {
+          "id" : "0073",
+          "source" : "Kinetic ELISA",
+          "target" : null
+        },
+        {
+          "id" : "0073@definition",
+          "source" : "ELISA, Kinetic",
+          "target" : null
+        },
+        {
+          "id" : "0074",
+          "source" : "ELISA, peroxidase-antiperoxidase",
+          "target" : null
+        },
+        {
+          "id" : "0074@definition",
+          "source" : "ELISA, peroxidase-antiperoxidase",
+          "target" : null
+        },
+        {
+          "id" : "0075",
+          "source" : "API 20 Strep",
+          "target" : null
+        },
+        {
+          "id" : "0075@definition",
+          "source" : "Identification, API 20 Strep",
+          "target" : null
+        },
+        {
+          "id" : "0076",
+          "source" : "API 20A",
+          "target" : null
+        },
+        {
+          "id" : "0076@definition",
+          "source" : "Identification, API 20A",
+          "target" : null
+        },
+        {
+          "id" : "0077",
+          "source" : "API 20C AUX",
+          "target" : null
+        },
+        {
+          "id" : "0077@definition",
+          "source" : "Identification, API 20C AUX",
+          "target" : null
+        },
+        {
+          "id" : "0078",
+          "source" : "API 20E",
+          "target" : null
+        },
+        {
+          "id" : "0078@definition",
+          "source" : "Identification, API 20E",
+          "target" : null
+        },
+        {
+          "id" : "0079",
+          "source" : "API 20NE",
+          "target" : null
+        },
+        {
+          "id" : "0079@definition",
+          "source" : "Identification, API 20NE",
+          "target" : null
+        },
+        {
+          "id" : "0080",
+          "source" : "API 50 CH",
+          "target" : null
+        },
+        {
+          "id" : "0080@definition",
+          "source" : "Identification, API 50 CH",
+          "target" : null
+        },
+        {
+          "id" : "0081",
+          "source" : "API An-IDENT",
+          "target" : null
+        },
+        {
+          "id" : "0081@definition",
+          "source" : "Identification, API An-IDENT",
+          "target" : null
+        },
+        {
+          "id" : "0082",
+          "source" : "API Coryne",
+          "target" : null
+        },
+        {
+          "id" : "0082@definition",
+          "source" : "Identification, API Coryne",
+          "target" : null
+        },
+        {
+          "id" : "0083",
+          "source" : "API Rapid 20E",
+          "target" : null
+        },
+        {
+          "id" : "0083@definition",
+          "source" : "Identification, API Rapid 20E",
+          "target" : null
+        },
+        {
+          "id" : "0084",
+          "source" : "API Staph",
+          "target" : null
+        },
+        {
+          "id" : "0084@definition",
+          "source" : "Identification, API Staph",
+          "target" : null
+        },
+        {
+          "id" : "0085",
+          "source" : "API ZYM",
+          "target" : null
+        },
+        {
+          "id" : "0085@definition",
+          "source" : "Identification, API ZYM",
+          "target" : null
+        },
+        {
+          "id" : "0086",
+          "source" : "Bacterial identification",
+          "target" : null
+        },
+        {
+          "id" : "0086@definition",
+          "source" : "Identification, Bacterial",
+          "target" : null
+        },
+        {
+          "id" : "0087",
+          "source" : "mini VIDAS",
+          "target" : null
+        },
+        {
+          "id" : "0087@definition",
+          "source" : "Identification, mini VIDAS",
+          "target" : null
+        },
+        {
+          "id" : "0088",
+          "source" : "Phage susceptibility typing",
+          "target" : null
+        },
+        {
+          "id" : "0088@definition",
+          "source" : "Identification, Phage susceptibility typing",
+          "target" : null
+        },
+        {
+          "id" : "0089",
+          "source" : "Quad-FERM+",
+          "target" : null
+        },
+        {
+          "id" : "0089@definition",
+          "source" : "Identification, Quad-FERM+",
+          "target" : null
+        },
+        {
+          "id" : "0090",
+          "source" : "RAPIDEC Staph",
+          "target" : null
+        },
+        {
+          "id" : "0090@definition",
+          "source" : "Identification, RAPIDEC Staph",
+          "target" : null
+        },
+        {
+          "id" : "0091",
+          "source" : "Staphaurex",
+          "target" : null
+        },
+        {
+          "id" : "0091@definition",
+          "source" : "Identification, Staphaurex",
+          "target" : null
+        },
+        {
+          "id" : "0092",
+          "source" : "VIDAS",
+          "target" : null
+        },
+        {
+          "id" : "0092@definition",
+          "source" : "Identification, VIDAS",
+          "target" : null
+        },
+        {
+          "id" : "0093",
+          "source" : "Vitek",
+          "target" : null
+        },
+        {
+          "id" : "0093@definition",
+          "source" : "Identification, Vitek",
+          "target" : null
+        },
+        {
+          "id" : "0094",
+          "source" : "VITEK 2",
+          "target" : null
+        },
+        {
+          "id" : "0094@definition",
+          "source" : "Identification, VITEK 2",
+          "target" : null
+        },
+        {
+          "id" : "0095",
+          "source" : "Immune stain",
+          "target" : null
+        },
+        {
+          "id" : "0095@definition",
+          "source" : "Immune stain",
+          "target" : null
+        },
+        {
+          "id" : "0096",
+          "source" : "Immunofluorescent antibody, direct",
+          "target" : null
+        },
+        {
+          "id" : "0096@definition",
+          "source" : "Immune stain, Immunofluorescent antibody, direct",
+          "target" : null
+        },
+        {
+          "id" : "0097",
+          "source" : "Immunofluorescent antibody, indirect",
+          "target" : null
+        },
+        {
+          "id" : "0097@definition",
+          "source" : "Immune stain, Immunofluorescent antibody, indirect",
+          "target" : null
+        },
+        {
+          "id" : "0098",
+          "source" : "Immunoperoxidase, Avidin-Biotin Complex",
+          "target" : null
+        },
+        {
+          "id" : "0098@definition",
+          "source" : "Immune stain, Immunoperoxidase, Avidin-Biotin Complex",
+          "target" : null
+        },
+        {
+          "id" : "0099",
+          "source" : "Immunoperoxidase, Peroxidase anti-peroxidase complex",
+          "target" : null
+        },
+        {
+          "id" : "0099@definition",
+          "source" : "Immune stain, Immunoperoxidase, Peroxidase anti-peroxidase complex",
+          "target" : null
+        },
+        {
+          "id" : "0100",
+          "source" : "Immunoperoxidase, Protein A-peroxidase complex",
+          "target" : null
+        },
+        {
+          "id" : "0100@definition",
+          "source" : "Immune stain, Immunoperoxidase, Protein A-peroxidase complex",
+          "target" : null
+        },
+        {
+          "id" : "0101",
+          "source" : "Immunoassay",
+          "target" : null
+        },
+        {
+          "id" : "0101@definition",
+          "source" : "Immunoassay",
+          "target" : null
+        },
+        {
+          "id" : "0102",
+          "source" : "Immunoassay, qualitative, multiple step",
+          "target" : null
+        },
+        {
+          "id" : "0102@definition",
+          "source" : "Immunoassay, qualitative, multiple step",
+          "target" : null
+        },
+        {
+          "id" : "0103",
+          "source" : "Immunoassay, qualitative, single step",
+          "target" : null
+        },
+        {
+          "id" : "0103@definition",
+          "source" : "Immunoassay, qualitative, single step",
+          "target" : null
+        },
+        {
+          "id" : "0104",
+          "source" : "Radioimmunoassay",
+          "target" : null
+        },
+        {
+          "id" : "0104@definition",
+          "source" : "Immunoassay, Radioimmunoassay",
+          "target" : null
+        },
+        {
+          "id" : "0105",
+          "source" : "Immunoassay, semi-quantitative, multiple step",
+          "target" : null
+        },
+        {
+          "id" : "0105@definition",
+          "source" : "Immunoassay, semi-quantitative, multiple step",
+          "target" : null
+        },
+        {
+          "id" : "0106",
+          "source" : "Immunoassay, semi-quantitative, single step",
+          "target" : null
+        },
+        {
+          "id" : "0106@definition",
+          "source" : "Immunoassay, semi-quantitative, single step",
+          "target" : null
+        },
+        {
+          "id" : "0107",
+          "source" : "Microscopy",
+          "target" : null
+        },
+        {
+          "id" : "0107@definition",
+          "source" : "Microscopy",
+          "target" : null
+        },
+        {
+          "id" : "0108",
+          "source" : "Darkfield microscopy",
+          "target" : null
+        },
+        {
+          "id" : "0108@definition",
+          "source" : "Microscopy, Darkfield",
+          "target" : null
+        },
+        {
+          "id" : "0109",
+          "source" : "Electron microscopy",
+          "target" : null
+        },
+        {
+          "id" : "0109@definition",
+          "source" : "Microscopy, Electron",
+          "target" : null
+        },
+        {
+          "id" : "0110",
+          "source" : "Electron microscopy tomography",
+          "target" : null
+        },
+        {
+          "id" : "0110@definition",
+          "source" : "Microscopy, Electron microscopy tomography",
+          "target" : null
+        },
+        {
+          "id" : "0111",
+          "source" : "Electron microscopy, negative stain",
+          "target" : null
+        },
+        {
+          "id" : "0111@definition",
+          "source" : "Microscopy, Electron, negative stain",
+          "target" : null
+        },
+        {
+          "id" : "0112",
+          "source" : "Electron microscopy, thick section",
+          "target" : null
+        },
+        {
+          "id" : "0112@definition",
+          "source" : "Microscopy, Electron, thick section transmission",
+          "target" : null
+        },
+        {
+          "id" : "0113",
+          "source" : "Electron microscopy, thin section",
+          "target" : null
+        },
+        {
+          "id" : "0113@definition",
+          "source" : "Microscopy, Electron, thin section transmission",
+          "target" : null
+        },
+        {
+          "id" : "0114",
+          "source" : "Microscopy, Light",
+          "target" : null
+        },
+        {
+          "id" : "0114@definition",
+          "source" : "Microscopy, Light",
+          "target" : null
+        },
+        {
+          "id" : "0115",
+          "source" : "Polarizing light microscopy",
+          "target" : null
+        },
+        {
+          "id" : "0115@definition",
+          "source" : "Microscopy, Polarized light",
+          "target" : null
+        },
+        {
+          "id" : "0116",
+          "source" : "Scanning electron microscopy",
+          "target" : null
+        },
+        {
+          "id" : "0116@definition",
+          "source" : "Microscopy, Scanning electron",
+          "target" : null
+        },
+        {
+          "id" : "0117",
+          "source" : "Transmission electron microscopy",
+          "target" : null
+        },
+        {
+          "id" : "0117@definition",
+          "source" : "Microscopy, Transmission electron",
+          "target" : null
+        },
+        {
+          "id" : "0118",
+          "source" : "Transparent tape direct examination",
+          "target" : null
+        },
+        {
+          "id" : "0118@definition",
+          "source" : "Microscopy, Transparent tape direct examination",
+          "target" : null
+        },
+        {
+          "id" : "0119",
+          "source" : "3 Self-Sustaining Sequence Replication",
+          "target" : null
+        },
+        {
+          "id" : "0119@definition",
+          "source" : "Molecular, 3 Self-Sustaining Sequence Replication",
+          "target" : null
+        },
+        {
+          "id" : "0120",
+          "source" : "Branched Chain DNA",
+          "target" : null
+        },
+        {
+          "id" : "0120@definition",
+          "source" : "Molecular, Branched Chain DNA",
+          "target" : null
+        },
+        {
+          "id" : "0121",
+          "source" : "Hybridization Protection Assay",
+          "target" : null
+        },
+        {
+          "id" : "0121@definition",
+          "source" : "Molecular, Hybridization Protection Assay",
+          "target" : null
+        },
+        {
+          "id" : "0122",
+          "source" : "Immune blot",
+          "target" : null
+        },
+        {
+          "id" : "0122@definition",
+          "source" : "Molecular, Immune blot",
+          "target" : null
+        },
+        {
+          "id" : "0123",
+          "source" : "In-situ hybridization",
+          "target" : null
+        },
+        {
+          "id" : "0123@definition",
+          "source" : "Molecular, In-situ hybridization",
+          "target" : null
+        },
+        {
+          "id" : "0124",
+          "source" : "Ligase Chain Reaction",
+          "target" : null
+        },
+        {
+          "id" : "0124@definition",
+          "source" : "Molecular, Ligase Chain Reaction",
+          "target" : null
+        },
+        {
+          "id" : "0125",
+          "source" : "Ligation Activated Transcription",
+          "target" : null
+        },
+        {
+          "id" : "0125@definition",
+          "source" : "Molecular, Ligation Activated Transcription",
+          "target" : null
+        },
+        {
+          "id" : "0126",
+          "source" : "Nucleic Acid Probe",
+          "target" : null
+        },
+        {
+          "id" : "0126@definition",
+          "source" : "Molecular, Nucleic Acid Probe",
+          "target" : null
+        },
+        {
+          "id" : "0128",
+          "source" : "Nucleic acid probe with amplification",
+          "target" : null
+        },
+        {
+          "id" : "0128@definition",
+          "source" : "Molecular, Nucleic acid probe with amplification\r\n\r\n*Rationale:* Duplicate of code 0126. Use code 0126 instead.",
+          "target" : null
+        },
+        {
+          "id" : "0129",
+          "source" : "Nucleic acid probe with target amplification",
+          "target" : null
+        },
+        {
+          "id" : "0129@definition",
+          "source" : "Molecular, Nucleic acid probe with target amplification",
+          "target" : null
+        },
+        {
+          "id" : "0130",
+          "source" : "Nucleic acid reverse transcription",
+          "target" : null
+        },
+        {
+          "id" : "0130@definition",
+          "source" : "Molecular, Nucleic acid reverse transcription",
+          "target" : null
+        },
+        {
+          "id" : "0131",
+          "source" : "Nucleic Acid Sequence Based Analysis",
+          "target" : null
+        },
+        {
+          "id" : "0131@definition",
+          "source" : "Molecular, Nucleic Acid Sequence Based Analysis",
+          "target" : null
+        },
+        {
+          "id" : "0132",
+          "source" : "Polymerase chain reaction",
+          "target" : null
+        },
+        {
+          "id" : "0132@definition",
+          "source" : "Molecular, Polymerase chain reaction",
+          "target" : null
+        },
+        {
+          "id" : "0133",
+          "source" : "Q-Beta Replicase or probe amplification category method",
+          "target" : null
+        },
+        {
+          "id" : "0133@definition",
+          "source" : "Molecular, Q-Beta Replicase or probe amplification category method",
+          "target" : null
+        },
+        {
+          "id" : "0134",
+          "source" : "Restriction Fragment Length Polymorphism",
+          "target" : null
+        },
+        {
+          "id" : "0134@definition",
+          "source" : "Molecular, Restriction Fragment Length Polymorphism",
+          "target" : null
+        },
+        {
+          "id" : "0135",
+          "source" : "Southern Blot",
+          "target" : null
+        },
+        {
+          "id" : "0135@definition",
+          "source" : "Molecular, Southern Blot",
+          "target" : null
+        },
+        {
+          "id" : "0136",
+          "source" : "Strand Displacement Amplification",
+          "target" : null
+        },
+        {
+          "id" : "0136@definition",
+          "source" : "Molecular, Strand Displacement Amplification",
+          "target" : null
+        },
+        {
+          "id" : "0137",
+          "source" : "Transcription Mediated Amplification",
+          "target" : null
+        },
+        {
+          "id" : "0137@definition",
+          "source" : "Molecular, Transcription Mediated Amplification",
+          "target" : null
+        },
+        {
+          "id" : "0138",
+          "source" : "Western Blot",
+          "target" : null
+        },
+        {
+          "id" : "0138@definition",
+          "source" : "Molecular, Western Blot",
+          "target" : null
+        },
+        {
+          "id" : "0139",
+          "source" : "Flocculation",
+          "target" : null
+        },
+        {
+          "id" : "0139@definition",
+          "source" : "Precipitation, Flocculation",
+          "target" : null
+        },
+        {
+          "id" : "0140",
+          "source" : "Immune precipitation",
+          "target" : null
+        },
+        {
+          "id" : "0140@definition",
+          "source" : "Precipitation, Immune precipitation",
+          "target" : null
+        },
+        {
+          "id" : "0141",
+          "source" : "Milk ring test",
+          "target" : null
+        },
+        {
+          "id" : "0141@definition",
+          "source" : "Precipitation, Milk ring test",
+          "target" : null
+        },
+        {
+          "id" : "0142",
+          "source" : "Precipitin",
+          "target" : null
+        },
+        {
+          "id" : "0142@definition",
+          "source" : "Precipitation, Precipitin",
+          "target" : null
+        },
+        {
+          "id" : "0143",
+          "source" : "Acid fast stain",
+          "target" : null
+        },
+        {
+          "id" : "0143@definition",
+          "source" : "Stain, Acid fast",
+          "target" : null
+        },
+        {
+          "id" : "0144",
+          "source" : "Acid fast stain, fluorochrome",
+          "target" : null
+        },
+        {
+          "id" : "0144@definition",
+          "source" : "Stain, Acid fast, fluorochrome",
+          "target" : null
+        },
+        {
+          "id" : "0145",
+          "source" : "Acid fast stain, Kinyoun's cold carbolfuchsin",
+          "target" : null
+        },
+        {
+          "id" : "0145@definition",
+          "source" : "Stain, Acid fast, Kinyoun's cold carbolfuchsin",
+          "target" : null
+        },
+        {
+          "id" : "0146",
+          "source" : "Acid fast stain, Ziehl-Neelsen",
+          "target" : null
+        },
+        {
+          "id" : "0146@definition",
+          "source" : "Stain, Acid fast, Ziehl-Neelsen",
+          "target" : null
+        },
+        {
+          "id" : "0147",
+          "source" : "Acid phosphatase stain",
+          "target" : null
+        },
+        {
+          "id" : "0147@definition",
+          "source" : "Stain, Acid phosphatase",
+          "target" : null
+        },
+        {
+          "id" : "0148",
+          "source" : "Acridine orange stain",
+          "target" : null
+        },
+        {
+          "id" : "0148@definition",
+          "source" : "Stain, Acridine orange",
+          "target" : null
+        },
+        {
+          "id" : "0149",
+          "source" : "Active brilliant orange KH stain",
+          "target" : null
+        },
+        {
+          "id" : "0149@definition",
+          "source" : "Stain, Active brilliant orange KH",
+          "target" : null
+        },
+        {
+          "id" : "0150",
+          "source" : "Alazarin red S stain",
+          "target" : null
+        },
+        {
+          "id" : "0150@definition",
+          "source" : "Stain, Alazarin red S",
+          "target" : null
+        },
+        {
+          "id" : "0151",
+          "source" : "Alcian blue stain",
+          "target" : null
+        },
+        {
+          "id" : "0151@definition",
+          "source" : "Stain, Alcian blue",
+          "target" : null
+        },
+        {
+          "id" : "0152",
+          "source" : "Alcian blue with Periodic acid Schiff stain",
+          "target" : null
+        },
+        {
+          "id" : "0152@definition",
+          "source" : "Stain, Alcian blue with Periodic acid Schiff",
+          "target" : null
+        },
+        {
+          "id" : "0153",
+          "source" : "Argentaffin stain",
+          "target" : null
+        },
+        {
+          "id" : "0153@definition",
+          "source" : "Stain, Argentaffin",
+          "target" : null
+        },
+        {
+          "id" : "0154",
+          "source" : "Argentaffin silver stain",
+          "target" : null
+        },
+        {
+          "id" : "0154@definition",
+          "source" : "Stain, Argentaffin silver",
+          "target" : null
+        },
+        {
+          "id" : "0155",
+          "source" : "Azure-eosin stain",
+          "target" : null
+        },
+        {
+          "id" : "0155@definition",
+          "source" : "Stain, Azure-eosin",
+          "target" : null
+        },
+        {
+          "id" : "0156",
+          "source" : "Basic Fuschin stain",
+          "target" : null
+        },
+        {
+          "id" : "0156@definition",
+          "source" : "Stain, Basic Fuschin",
+          "target" : null
+        },
+        {
+          "id" : "0157",
+          "source" : "Bennhold stain",
+          "target" : null
+        },
+        {
+          "id" : "0157@definition",
+          "source" : "Stain, Bennhold",
+          "target" : null
+        },
+        {
+          "id" : "0158",
+          "source" : "Bennhold's Congo red stain",
+          "target" : null
+        },
+        {
+          "id" : "0158@definition",
+          "source" : "Stain, Bennhold's Congo red",
+          "target" : null
+        },
+        {
+          "id" : "0159",
+          "source" : "Bielschowsky stain",
+          "target" : null
+        },
+        {
+          "id" : "0159@definition",
+          "source" : "Stain, Bielschowsky",
+          "target" : null
+        },
+        {
+          "id" : "0160",
+          "source" : "Bielschowsky's silver stain",
+          "target" : null
+        },
+        {
+          "id" : "0160@definition",
+          "source" : "Stain, Bielschowsky's silver",
+          "target" : null
+        },
+        {
+          "id" : "0161",
+          "source" : "Bleach stain",
+          "target" : null
+        },
+        {
+          "id" : "0161@definition",
+          "source" : "Stain, Bleach",
+          "target" : null
+        },
+        {
+          "id" : "0162",
+          "source" : "Bodian stain",
+          "target" : null
+        },
+        {
+          "id" : "0162@definition",
+          "source" : "Stain, Bodian",
+          "target" : null
+        },
+        {
+          "id" : "0163",
+          "source" : "Brown-Brenn stain",
+          "target" : null
+        },
+        {
+          "id" : "0163@definition",
+          "source" : "Stain, Brown-Brenn",
+          "target" : null
+        },
+        {
+          "id" : "0164",
+          "source" : "Butyrate-esterase stain",
+          "target" : null
+        },
+        {
+          "id" : "0164@definition",
+          "source" : "Stain, Butyrate-esterase",
+          "target" : null
+        },
+        {
+          "id" : "0165",
+          "source" : "Calcofluor white fluorescent stain",
+          "target" : null
+        },
+        {
+          "id" : "0165@definition",
+          "source" : "Stain, Calcofluor white fluorescent",
+          "target" : null
+        },
+        {
+          "id" : "0166",
+          "source" : "Carbol-fuchsin stain",
+          "target" : null
+        },
+        {
+          "id" : "0166@definition",
+          "source" : "Stain, Carbol-fuchsin",
+          "target" : null
+        },
+        {
+          "id" : "0167",
+          "source" : "Carmine stain",
+          "target" : null
+        },
+        {
+          "id" : "0167@definition",
+          "source" : "Stain, Carmine",
+          "target" : null
+        },
+        {
+          "id" : "0168",
+          "source" : "Churukian-Schenk stain",
+          "target" : null
+        },
+        {
+          "id" : "0168@definition",
+          "source" : "Stain, Churukian-Schenk",
+          "target" : null
+        },
+        {
+          "id" : "0169",
+          "source" : "Congo red stain",
+          "target" : null
+        },
+        {
+          "id" : "0169@definition",
+          "source" : "Stain, Congo red",
+          "target" : null
+        },
+        {
+          "id" : "0170",
+          "source" : "Cresyl echt violet stain",
+          "target" : null
+        },
+        {
+          "id" : "0170@definition",
+          "source" : "Stain, Cresyl echt violet",
+          "target" : null
+        },
+        {
+          "id" : "0171",
+          "source" : "Crystal violet stain",
+          "target" : null
+        },
+        {
+          "id" : "0171@definition",
+          "source" : "Stain, Crystal violet",
+          "target" : null
+        },
+        {
+          "id" : "0172",
+          "source" : "De Galantha stain",
+          "target" : null
+        },
+        {
+          "id" : "0172@definition",
+          "source" : "Stain, De Galantha",
+          "target" : null
+        },
+        {
+          "id" : "0173",
+          "source" : "Dieterle silver impregnation stain",
+          "target" : null
+        },
+        {
+          "id" : "0173@definition",
+          "source" : "Stain, Dieterle silver impregnation",
+          "target" : null
+        },
+        {
+          "id" : "0174",
+          "source" : "Fite-Farco stain",
+          "target" : null
+        },
+        {
+          "id" : "0174@definition",
+          "source" : "Stain, Fite-Farco",
+          "target" : null
+        },
+        {
+          "id" : "0175",
+          "source" : "Fontana-Masson silver stain",
+          "target" : null
+        },
+        {
+          "id" : "0175@definition",
+          "source" : "Stain, Fontana-Masson silver",
+          "target" : null
+        },
+        {
+          "id" : "0176",
+          "source" : "Fouchet stain",
+          "target" : null
+        },
+        {
+          "id" : "0176@definition",
+          "source" : "Stain, Fouchet",
+          "target" : null
+        },
+        {
+          "id" : "0177",
+          "source" : "Gomori stain",
+          "target" : null
+        },
+        {
+          "id" : "0177@definition",
+          "source" : "Stain, Gomori",
+          "target" : null
+        },
+        {
+          "id" : "0178",
+          "source" : "Gomori methenamine silver stain",
+          "target" : null
+        },
+        {
+          "id" : "0178@definition",
+          "source" : "Stain, Gomori methenamine silver",
+          "target" : null
+        },
+        {
+          "id" : "0179",
+          "source" : "Gomori-Wheatly trichrome stain",
+          "target" : null
+        },
+        {
+          "id" : "0179@definition",
+          "source" : "Stain, Gomori-Wheatly trichrome",
+          "target" : null
+        },
+        {
+          "id" : "0180",
+          "source" : "Gridley stain",
+          "target" : null
+        },
+        {
+          "id" : "0180@definition",
+          "source" : "Stain, Gridley",
+          "target" : null
+        },
+        {
+          "id" : "0181",
+          "source" : "Grimelius silver stain",
+          "target" : null
+        },
+        {
+          "id" : "0181@definition",
+          "source" : "Stain, Grimelius silver",
+          "target" : null
+        },
+        {
+          "id" : "0182",
+          "source" : "Grocott stain",
+          "target" : null
+        },
+        {
+          "id" : "0182@definition",
+          "source" : "Stain, Grocott",
+          "target" : null
+        },
+        {
+          "id" : "0183",
+          "source" : "Grocott methenamine silver stain",
+          "target" : null
+        },
+        {
+          "id" : "0183@definition",
+          "source" : "Stain, Grocott methenamine silver",
+          "target" : null
+        },
+        {
+          "id" : "0184",
+          "source" : "Hale's colloidal ferric oxide stain",
+          "target" : null
+        },
+        {
+          "id" : "0184@definition",
+          "source" : "Stain, Hale's colloidal ferric oxide",
+          "target" : null
+        },
+        {
+          "id" : "0185",
+          "source" : "Hale's colloidal iron stain",
+          "target" : null
+        },
+        {
+          "id" : "0185@definition",
+          "source" : "Stain, Hale's colloidal iron",
+          "target" : null
+        },
+        {
+          "id" : "0186",
+          "source" : "Hansel stain",
+          "target" : null
+        },
+        {
+          "id" : "0186@definition",
+          "source" : "Stain, Hansel",
+          "target" : null
+        },
+        {
+          "id" : "0187",
+          "source" : "Harris regressive hematoxylin and eosin stain",
+          "target" : null
+        },
+        {
+          "id" : "0187@definition",
+          "source" : "Stain, Harris regressive hematoxylin and eosin",
+          "target" : null
+        },
+        {
+          "id" : "0188",
+          "source" : "Hematoxylin and eosin stain",
+          "target" : null
+        },
+        {
+          "id" : "0188@definition",
+          "source" : "Stain, Hematoxylin and eosin",
+          "target" : null
+        },
+        {
+          "id" : "0189",
+          "source" : "Highman stain",
+          "target" : null
+        },
+        {
+          "id" : "0189@definition",
+          "source" : "Stain, Highman",
+          "target" : null
+        },
+        {
+          "id" : "0190",
+          "source" : "Holzer stain",
+          "target" : null
+        },
+        {
+          "id" : "0190@definition",
+          "source" : "Stain, Holzer",
+          "target" : null
+        },
+        {
+          "id" : "0191",
+          "source" : "Iron hematoxylin stain",
+          "target" : null
+        },
+        {
+          "id" : "0191@definition",
+          "source" : "Stain, Iron hematoxylin",
+          "target" : null
+        },
+        {
+          "id" : "0192",
+          "source" : "Jones stain",
+          "target" : null
+        },
+        {
+          "id" : "0192@definition",
+          "source" : "Stain, Jones",
+          "target" : null
+        },
+        {
+          "id" : "0193",
+          "source" : "Jones methenamine silver stain",
+          "target" : null
+        },
+        {
+          "id" : "0193@definition",
+          "source" : "Stain, Jones methenamine silver",
+          "target" : null
+        },
+        {
+          "id" : "0194",
+          "source" : "Kossa stain",
+          "target" : null
+        },
+        {
+          "id" : "0194@definition",
+          "source" : "Stain, Kossa",
+          "target" : null
+        },
+        {
+          "id" : "0195",
+          "source" : "Lawson-Van Gieson stain",
+          "target" : null
+        },
+        {
+          "id" : "0195@definition",
+          "source" : "Stain, Lawson-Van Gieson",
+          "target" : null
+        },
+        {
+          "id" : "0196",
+          "source" : "Loeffler methylene blue stain",
+          "target" : null
+        },
+        {
+          "id" : "0196@definition",
+          "source" : "Stain, Loeffler methylene blue",
+          "target" : null
+        },
+        {
+          "id" : "0197",
+          "source" : "Luxol fast blue with cresyl violet stain",
+          "target" : null
+        },
+        {
+          "id" : "0197@definition",
+          "source" : "Stain, Luxol fast blue with cresyl violet",
+          "target" : null
+        },
+        {
+          "id" : "0198",
+          "source" : "Luxol fast blue with Periodic acid-Schiff stain",
+          "target" : null
+        },
+        {
+          "id" : "0198@definition",
+          "source" : "Stain, Luxol fast blue with Periodic acid-Schiff",
+          "target" : null
+        },
+        {
+          "id" : "0199",
+          "source" : "MacNeal's tetrachrome blood stain",
+          "target" : null
+        },
+        {
+          "id" : "0199@definition",
+          "source" : "Stain, MacNeal's tetrachrome blood",
+          "target" : null
+        },
+        {
+          "id" : "0200",
+          "source" : "Mallory-Heidenhain stain",
+          "target" : null
+        },
+        {
+          "id" : "0200@definition",
+          "source" : "Stain, Mallory-Heidenhain",
+          "target" : null
+        },
+        {
+          "id" : "0201",
+          "source" : "Masson trichrome stain",
+          "target" : null
+        },
+        {
+          "id" : "0201@definition",
+          "source" : "Stain, Masson trichrome",
+          "target" : null
+        },
+        {
+          "id" : "0202",
+          "source" : "Mayer mucicarmine stain",
+          "target" : null
+        },
+        {
+          "id" : "0202@definition",
+          "source" : "Stain, Mayer mucicarmine",
+          "target" : null
+        },
+        {
+          "id" : "0203",
+          "source" : "Mayers progressive hematoxylin and eosin stain",
+          "target" : null
+        },
+        {
+          "id" : "0203@definition",
+          "source" : "Stain, Mayers progressive hematoxylin and eosin",
+          "target" : null
+        },
+        {
+          "id" : "0204",
+          "source" : "May-Grunwald Giemsa stain",
+          "target" : null
+        },
+        {
+          "id" : "0204@definition",
+          "source" : "Stain, May-Grunwald Giemsa",
+          "target" : null
+        },
+        {
+          "id" : "0205",
+          "source" : "Methyl green stain",
+          "target" : null
+        },
+        {
+          "id" : "0205@definition",
+          "source" : "Stain, Methyl green",
+          "target" : null
+        },
+        {
+          "id" : "0206",
+          "source" : "Methyl green pyronin stain",
+          "target" : null
+        },
+        {
+          "id" : "0206@definition",
+          "source" : "Stain, Methyl green pyronin",
+          "target" : null
+        },
+        {
+          "id" : "0207",
+          "source" : "Modified Gomori-Wheatly trichrome stain",
+          "target" : null
+        },
+        {
+          "id" : "0207@definition",
+          "source" : "Stain, Modified Gomori-Wheatly trichrome",
+          "target" : null
+        },
+        {
+          "id" : "0208",
+          "source" : "Modified Masson trichrome stain",
+          "target" : null
+        },
+        {
+          "id" : "0208@definition",
+          "source" : "Stain, Modified Masson trichrome",
+          "target" : null
+        },
+        {
+          "id" : "0209",
+          "source" : "Modified trichrome stain",
+          "target" : null
+        },
+        {
+          "id" : "0209@definition",
+          "source" : "Stain, Modified trichrome",
+          "target" : null
+        },
+        {
+          "id" : "0210",
+          "source" : "Movat pentachrome stain",
+          "target" : null
+        },
+        {
+          "id" : "0210@definition",
+          "source" : "Stain, Movat pentachrome",
+          "target" : null
+        },
+        {
+          "id" : "0211",
+          "source" : "Mucicarmine stain",
+          "target" : null
+        },
+        {
+          "id" : "0211@definition",
+          "source" : "Stain, Mucicarmine",
+          "target" : null
+        },
+        {
+          "id" : "0212",
+          "source" : "Neutral red stain",
+          "target" : null
+        },
+        {
+          "id" : "0212@definition",
+          "source" : "Stain, Neutral red",
+          "target" : null
+        },
+        {
+          "id" : "0213",
+          "source" : "Night blue stain",
+          "target" : null
+        },
+        {
+          "id" : "0213@definition",
+          "source" : "Stain, Night blue",
+          "target" : null
+        },
+        {
+          "id" : "0214",
+          "source" : "Non-specific esterase stain",
+          "target" : null
+        },
+        {
+          "id" : "0214@definition",
+          "source" : "Stain, Non-specific esterase",
+          "target" : null
+        },
+        {
+          "id" : "0215",
+          "source" : "Oil red-O stain",
+          "target" : null
+        },
+        {
+          "id" : "0215@definition",
+          "source" : "Stain, Oil red-O",
+          "target" : null
+        },
+        {
+          "id" : "0216",
+          "source" : "Orcein stain",
+          "target" : null
+        },
+        {
+          "id" : "0216@definition",
+          "source" : "Stain, Orcein",
+          "target" : null
+        },
+        {
+          "id" : "0217",
+          "source" : "Perls' stain",
+          "target" : null
+        },
+        {
+          "id" : "0217@definition",
+          "source" : "Stain, Perls'",
+          "target" : null
+        },
+        {
+          "id" : "0218",
+          "source" : "Phosphotungstic acid-hematoxylin stain",
+          "target" : null
+        },
+        {
+          "id" : "0218@definition",
+          "source" : "Stain, Phosphotungstic acid-hematoxylin",
+          "target" : null
+        },
+        {
+          "id" : "0219",
+          "source" : "Potassium ferrocyanide stain",
+          "target" : null
+        },
+        {
+          "id" : "0219@definition",
+          "source" : "Stain, Potassium ferrocyanide",
+          "target" : null
+        },
+        {
+          "id" : "0220",
+          "source" : "Prussian blue stain",
+          "target" : null
+        },
+        {
+          "id" : "0220@definition",
+          "source" : "Stain, Prussian blue",
+          "target" : null
+        },
+        {
+          "id" : "0221",
+          "source" : "Putchler modified Bennhold stain",
+          "target" : null
+        },
+        {
+          "id" : "0221@definition",
+          "source" : "Stain, Putchler modified Bennhold",
+          "target" : null
+        },
+        {
+          "id" : "0222",
+          "source" : "Quinacrine fluorescent stain",
+          "target" : null
+        },
+        {
+          "id" : "0222@definition",
+          "source" : "Stain, Quinacrine fluorescent",
+          "target" : null
+        },
+        {
+          "id" : "0223",
+          "source" : "Reticulin stain",
+          "target" : null
+        },
+        {
+          "id" : "0223@definition",
+          "source" : "Stain, Reticulin",
+          "target" : null
+        },
+        {
+          "id" : "0224",
+          "source" : "Rhodamine stain",
+          "target" : null
+        },
+        {
+          "id" : "0224@definition",
+          "source" : "Stain, Rhodamine",
+          "target" : null
+        },
+        {
+          "id" : "0225",
+          "source" : "Safranin stain",
+          "target" : null
+        },
+        {
+          "id" : "0225@definition",
+          "source" : "Stain, Safranin",
+          "target" : null
+        },
+        {
+          "id" : "0226",
+          "source" : "Schmorl stain",
+          "target" : null
+        },
+        {
+          "id" : "0226@definition",
+          "source" : "Stain, Schmorl",
+          "target" : null
+        },
+        {
+          "id" : "0227",
+          "source" : "Seiver-Munger stain",
+          "target" : null
+        },
+        {
+          "id" : "0227@definition",
+          "source" : "Stain, Seiver-Munger",
+          "target" : null
+        },
+        {
+          "id" : "0228",
+          "source" : "Silver stain",
+          "target" : null
+        },
+        {
+          "id" : "0228@definition",
+          "source" : "Stain, Silver",
+          "target" : null
+        },
+        {
+          "id" : "0229",
+          "source" : "Specific esterase stain",
+          "target" : null
+        },
+        {
+          "id" : "0229@definition",
+          "source" : "Stain, Specific esterase",
+          "target" : null
+        },
+        {
+          "id" : "0230",
+          "source" : "Steiner silver stain",
+          "target" : null
+        },
+        {
+          "id" : "0230@definition",
+          "source" : "Stain, Steiner silver",
+          "target" : null
+        },
+        {
+          "id" : "0231",
+          "source" : "Sudan III stain",
+          "target" : null
+        },
+        {
+          "id" : "0231@definition",
+          "source" : "Stain, Sudan III",
+          "target" : null
+        },
+        {
+          "id" : "0232",
+          "source" : "Sudan IVI stain",
+          "target" : null
+        },
+        {
+          "id" : "0232@definition",
+          "source" : "Stain, Sudan IVI",
+          "target" : null
+        },
+        {
+          "id" : "0233",
+          "source" : "Sulfated alcian blue stain",
+          "target" : null
+        },
+        {
+          "id" : "0233@definition",
+          "source" : "Stain, Sulfated alcian blue",
+          "target" : null
+        },
+        {
+          "id" : "0234",
+          "source" : "Supravital stain",
+          "target" : null
+        },
+        {
+          "id" : "0234@definition",
+          "source" : "Stain, Supravital",
+          "target" : null
+        },
+        {
+          "id" : "0235",
+          "source" : "Thioflavine-S stain",
+          "target" : null
+        },
+        {
+          "id" : "0235@definition",
+          "source" : "Stain, Thioflavine-S",
+          "target" : null
+        },
+        {
+          "id" : "0236",
+          "source" : "Three micron Giemsa stain",
+          "target" : null
+        },
+        {
+          "id" : "0236@definition",
+          "source" : "Stain, Three micron Giemsa",
+          "target" : null
+        },
+        {
+          "id" : "0237",
+          "source" : "Vassar-Culling stain",
+          "target" : null
+        },
+        {
+          "id" : "0237@definition",
+          "source" : "Stain, Vassar-Culling",
+          "target" : null
+        },
+        {
+          "id" : "0238",
+          "source" : "Vital Stain",
+          "target" : null
+        },
+        {
+          "id" : "0238@definition",
+          "source" : "Stain, Vital",
+          "target" : null
+        },
+        {
+          "id" : "0239",
+          "source" : "von Kossa stain",
+          "target" : null
+        },
+        {
+          "id" : "0239@definition",
+          "source" : "Stain, von Kossa",
+          "target" : null
+        },
+        {
+          "id" : "0243",
+          "source" : "Minimum bactericidal concentration test, macrodilution",
+          "target" : null
+        },
+        {
+          "id" : "0243@definition",
+          "source" : "Susceptibility, Minimum bactericidal concentration, macrodilution",
+          "target" : null
+        },
+        {
+          "id" : "0244",
+          "source" : "Minimum bactericidal concentration test, microdilution",
+          "target" : null
+        },
+        {
+          "id" : "0244@definition",
+          "source" : "Susceptibility, Minimum bactericidal concentration, microdilution",
+          "target" : null
+        },
+        {
+          "id" : "0247",
+          "source" : "Turbidometric",
+          "target" : null
+        },
+        {
+          "id" : "0247@definition",
+          "source" : "Turbidometric",
+          "target" : null
+        },
+        {
+          "id" : "0248",
+          "source" : "Refractometric",
+          "target" : null
+        },
+        {
+          "id" : "0248@definition",
+          "source" : "Turbidometric, Refractometric",
+          "target" : null
+        },
+        {
+          "id" : "0249",
+          "source" : "Thin layer chromatography (TLC)",
+          "target" : null
+        },
+        {
+          "id" : "0249@definition",
+          "source" : "Chromatography, Thin Layer",
+          "target" : null
+        },
+        {
+          "id" : "0250",
+          "source" : "EMIT",
+          "target" : null
+        },
+        {
+          "id" : "0250@definition",
+          "source" : "Immunoassay, enzyme-multiplied technique (EMIT)",
+          "target" : null
+        },
+        {
+          "id" : "0251",
+          "source" : "Flow cytometry (FC)",
+          "target" : null
+        },
+        {
+          "id" : "0251@definition",
+          "source" : "Flow Cytometry",
+          "target" : null
+        },
+        {
+          "id" : "0252",
+          "source" : "Radial immunodiffusion (RID)",
+          "target" : null
+        },
+        {
+          "id" : "0252@definition",
+          "source" : "Radial Immunodiffusion",
+          "target" : null
+        },
+        {
+          "id" : "0253",
+          "source" : "Fluorescence polarization immunoassay (FPIA)",
+          "target" : null
+        },
+        {
+          "id" : "0253@definition",
+          "source" : "Immunoassay, Fluorescence Polarization",
+          "target" : null
+        },
+        {
+          "id" : "0254",
+          "source" : "Immunofixation electrophoresis (IFE)",
+          "target" : null
+        },
+        {
+          "id" : "0254@definition",
+          "source" : "Electrophoresis, Immunofixation",
+          "target" : null
+        },
+        {
+          "id" : "0255",
+          "source" : "Equilibrium dialysis",
+          "target" : null
+        },
+        {
+          "id" : "0255@definition",
+          "source" : "Dialysis, Direct Equilibrium",
+          "target" : null
+        },
+        {
+          "id" : "0256",
+          "source" : "Kleihauer-Betke acid elution",
+          "target" : null
+        },
+        {
+          "id" : "0256@definition",
+          "source" : "Acid Elution, Kleihauer-Betke Method",
+          "target" : null
+        },
+        {
+          "id" : "0257",
+          "source" : "Anti-complement immunofluorescence (ACIF)",
+          "target" : null
+        },
+        {
+          "id" : "0257@definition",
+          "source" : "Immunofluorescence, Anti-Complement",
+          "target" : null
+        },
+        {
+          "id" : "0258",
+          "source" : "GC/MS",
+          "target" : null
+        },
+        {
+          "id" : "0258@definition",
+          "source" : "Gas Chromatography/Mass Spectroscopy",
+          "target" : null
+        },
+        {
+          "id" : "0259",
+          "source" : "Nephelometry",
+          "target" : null
+        },
+        {
+          "id" : "0259@definition",
+          "source" : "Light Scatter, Nephelometry",
+          "target" : null
+        },
+        {
+          "id" : "0260",
+          "source" : "IgE immunoassay antibody",
+          "target" : null
+        },
+        {
+          "id" : "0260@definition",
+          "source" : "Immunoassay, IgE Antibody Test",
+          "target" : null
+        },
+        {
+          "id" : "0261",
+          "source" : "Lymphocyte Microcytotoxicity Assay",
+          "target" : null
+        },
+        {
+          "id" : "0261@definition",
+          "source" : "Lymphocyte Microcytotoxicity Assay",
+          "target" : null
+        },
+        {
+          "id" : "0262",
+          "source" : "Spectrophotometry",
+          "target" : null
+        },
+        {
+          "id" : "0262@definition",
+          "source" : "Spectrophotometry",
+          "target" : null
+        },
+        {
+          "id" : "0263",
+          "source" : "Atomic absorption spectrophotometry (AAS)",
+          "target" : null
+        },
+        {
+          "id" : "0263@definition",
+          "source" : "Spectrophotometry, Atomic Absorption",
+          "target" : null
+        },
+        {
+          "id" : "0264",
+          "source" : "Ion selective electrode (ISE)",
+          "target" : null
+        },
+        {
+          "id" : "0264@definition",
+          "source" : "Electrochemical, Ion Selective Electrode",
+          "target" : null
+        },
+        {
+          "id" : "0265",
+          "source" : "Gas chromatography (GC)",
+          "target" : null
+        },
+        {
+          "id" : "0265@definition",
+          "source" : "Chromatography, Gas",
+          "target" : null
+        },
+        {
+          "id" : "0266",
+          "source" : "Isoelectric focusing (IEF)",
+          "target" : null
+        },
+        {
+          "id" : "0266@definition",
+          "source" : "Isoelectric Focusing",
+          "target" : null
+        },
+        {
+          "id" : "0267",
+          "source" : "Immunochemiluminescence",
+          "target" : null
+        },
+        {
+          "id" : "0267@definition",
+          "source" : "Immunoassay, Chemiluminescent",
+          "target" : null
+        },
+        {
+          "id" : "0268",
+          "source" : "Microparticle enzyme immunoassay (MEIA)",
+          "target" : null
+        },
+        {
+          "id" : "0268@definition",
+          "source" : "Immunoassay, Microparticle Enzyme",
+          "target" : null
+        },
+        {
+          "id" : "0269",
+          "source" : "ICP/MS",
+          "target" : null
+        },
+        {
+          "id" : "0269@definition",
+          "source" : "Inductively-Coupled Plasma/Mass Spectrometry",
+          "target" : null
+        },
+        {
+          "id" : "0270",
+          "source" : "Immunoradiometric assay (IRMA)",
+          "target" : null
+        },
+        {
+          "id" : "0270@definition",
+          "source" : "Immunoassay, Immunoradiometric Assay",
+          "target" : null
+        },
+        {
+          "id" : "0271",
+          "source" : "Photo optical clot detection",
+          "target" : null
+        },
+        {
+          "id" : "0271@definition",
+          "source" : "Coagulation, Photo Optical Clot Detection",
+          "target" : null
+        },
+        {
+          "id" : "0280",
+          "source" : "Susceptibility Testing",
+          "target" : null
+        },
+        {
+          "id" : "0280@definition",
+          "source" : "Test methods designed to determine a microorganismaTMs susceptibility to being killed by an antibiotic.",
+          "target" : null
+        },
+        {
+          "id" : "0240",
+          "source" : "Antibiotic sensitivity, disk",
+          "target" : null
+        },
+        {
+          "id" : "0240@definition",
+          "source" : "Susceptibility, Antibiotic sensitivity, disk",
+          "target" : null
+        },
+        {
+          "id" : "0241",
+          "source" : "BACTEC susceptibility test",
+          "target" : null
+        },
+        {
+          "id" : "0241@definition",
+          "source" : "Susceptibility, BACTEC susceptibility test",
+          "target" : null
+        },
+        {
+          "id" : "0242",
+          "source" : "Disk dilution",
+          "target" : null
+        },
+        {
+          "id" : "0242@definition",
+          "source" : "Susceptibility, Disk dilution",
+          "target" : null
+        },
+        {
+          "id" : "0272",
+          "source" : "Minimum Inhibitory Concentration",
+          "target" : null
+        },
+        {
+          "id" : "0272@definition",
+          "source" : "Testing to measure the minimum concentration of the antibacterial agent in a given culture medium below which bacterial growth is not inhibited.",
+          "target" : null
+        },
+        {
+          "id" : "0245",
+          "source" : "Minimum Inhibitory Concentration, macrodilution",
+          "target" : null
+        },
+        {
+          "id" : "0245@definition",
+          "source" : "Susceptibility, Minimum Inhibitory concentration, macrodilution",
+          "target" : null
+        },
+        {
+          "id" : "0246",
+          "source" : "Minimum Inhibitory Concentration, microdilution",
+          "target" : null
+        },
+        {
+          "id" : "0246@definition",
+          "source" : "Susceptibility, Minimum Inhibitory concentration, microdilution",
+          "target" : null
+        },
+        {
+          "id" : "0273",
+          "source" : "Viral Genotype Susceptibility",
+          "target" : null
+        },
+        {
+          "id" : "0274",
+          "source" : "Viral Phenotype Susceptibility",
+          "target" : null
+        },
+        {
+          "id" : "0275",
+          "source" : "Gradient Strip",
+          "target" : null
+        },
+        {
+          "id" : "0275a",
+          "source" : "Minimum Lethal Concentration (MLC)",
+          "target" : null
+        },
+        {
+          "id" : "0276",
+          "source" : "Slow Mycobacteria Susceptibility",
+          "target" : null
+        },
+        {
+          "id" : "0276@definition",
+          "source" : "Testing to measure the minimum concentration of the antibacterial agent in a given culture medium below which bacterial growth is not inhibited.",
+          "target" : null
+        },
+        {
+          "id" : "0277",
+          "source" : "Serum bactericidal titer",
+          "target" : null
+        },
+        {
+          "id" : "0278",
+          "source" : "Agar screen",
+          "target" : null
+        },
+        {
+          "id" : "0279",
+          "source" : "Disk induction",
+          "target" : null
+        },
+        {
+          "id" : "_AllergyTestObservationMethod",
+          "source" : "allergy test observation",
+          "target" : null
+        },
+        {
+          "id" : "_AllergyTestObservationMethod@definition",
+          "source" : "**Description:**Provides additional methodology information not present in the associated AllergyTestCode term.",
+          "target" : null
+        },
+        {
+          "id" : "_CommonClinicalObservationMethod",
+          "source" : "common clinical observation",
+          "target" : null
+        },
+        {
+          "id" : "_CommonClinicalObservationMethod@definition",
+          "source" : "**Description:**Used in a patient care message to value simple clinical (non-lab) observation methods, such as found in SOAP (subjective, objective, assessment, plan) progress notes: subjective section (used for history from patient and other informants); objective section (used for physical exam, lab, and other common results), and assessment section (used for the clinicians assessment of the implications of subjective and objective sections).",
+          "target" : null
+        },
+        {
+          "id" : "0127",
+          "source" : "Nucleic acid probe",
+          "target" : null
+        },
+        {
+          "id" : "0127@definition",
+          "source" : "Molecular, Nucleic acid probe",
+          "target" : null
+        },
+        {
+          "id" : "!!1",
+          "source" : "Complement fixation",
+          "target" : "Fixation complément"
+        },
+        {
+          "id" : "!!1@definition",
+          "source" : "Complement fixation",
+          "target" : ""
+        },
+        {
+          "id" : "!!2",
+          "source" : "Computed axial tomography",
+          "target" : "Tomographie axiale"
+        },
+        {
+          "id" : "!!2@definition",
+          "source" : "Computed axial tomography",
+          "target" : ""
+        },
+        {
+          "id" : "!!3",
+          "source" : "HLAR agar test",
+          "target" : "Test de haut niveau de résistance aux aminosides sur gélose"
+        },
+        {
+          "id" : "!!3@definition",
+          "source" : "Susceptibility, High Level Aminoglycoside Resistance agar test",
+          "target" : ""
+        },
+        {
+          "id" : "!!4",
+          "source" : "Macroscopic observation",
+          "target" : "Examen macroscopique"
+        },
+        {
+          "id" : "!!4@definition",
+          "source" : "Visual, Macroscopic observation",
+          "target" : ""
+        },
+        {
+          "id" : "!!5",
+          "source" : "Magnetic resonance",
+          "target" : "Résonnance magnétique"
+        },
+        {
+          "id" : "!!5@definition",
+          "source" : "Computed, Magnetic resonance",
+          "target" : ""
+        },
+        {
+          "id" : "!!6",
+          "source" : "Morphometry",
+          "target" : "Morphométrie"
+        },
+        {
+          "id" : "!!6@definition",
+          "source" : "Computed, Morphometry",
+          "target" : ""
+        },
+        {
+          "id" : "!!7",
+          "source" : "Positron emission tomography",
+          "target" : "Tomographie par émission de positrons"
+        },
+        {
+          "id" : "!!7@definition",
+          "source" : "Computed, Positron emission tomography",
+          "target" : ""
+        },
+        {
+          "id" : "!!8",
+          "source" : "SAMHSA confirmation",
+          "target" : "SAMHSA confirmation"
+        },
+        {
+          "id" : "!!8@definition",
+          "source" : "SAMHSA drug assay confirmation",
+          "target" : ""
+        },
+        {
+          "id" : "!!9",
+          "source" : "SAMHSA screening",
+          "target" : "SAMHSA dépistage"
+        },
+        {
+          "id" : "!!9@definition",
+          "source" : "SAMHSA drug assay screening",
+          "target" : ""
+        },
+        {
+          "id" : "!!10",
+          "source" : "Serum Neutralization",
+          "target" : "Neutralisation sérum"
+        },
+        {
+          "id" : "!!10@definition",
+          "source" : "Serum Neutralization",
+          "target" : ""
+        },
+        {
+          "id" : "!!11",
+          "source" : "Titration",
+          "target" : "Titrimétrie"
+        },
+        {
+          "id" : "!!11@definition",
+          "source" : "Titration",
+          "target" : ""
+        },
+        {
+          "id" : "!!12",
+          "source" : "Ultrasound",
+          "target" : "Ultrasonographie"
+        },
+        {
+          "id" : "!!12@definition",
+          "source" : "Ultrasound",
+          "target" : ""
+        },
+        {
+          "id" : "!!13",
+          "source" : "X-ray crystallography",
+          "target" : "Cristallographie Rayon X"
+        },
+        {
+          "id" : "!!13@definition",
+          "source" : "X-ray crystallography",
+          "target" : ""
+        },
+        {
+          "id" : "!!14",
+          "source" : "Agglutination",
+          "target" : "Agglutination"
+        },
+        {
+          "id" : "!!14@definition",
+          "source" : "Agglutination",
+          "target" : ""
+        },
+        {
+          "id" : "!!15",
+          "source" : "Buffered acidified plate agglutination",
+          "target" : "Agglutination sur plaque tampon acidifié"
+        },
+        {
+          "id" : "!!15@definition",
+          "source" : "Agglutination, Buffered acidified plate",
+          "target" : ""
+        },
+        {
+          "id" : "!!16",
+          "source" : "Card agglutination",
+          "target" : "Agglutination sur carte"
+        },
+        {
+          "id" : "!!16@definition",
+          "source" : "Agglutination, Card",
+          "target" : ""
+        },
+        {
+          "id" : "!!17",
+          "source" : "Hemagglutination",
+          "target" : "Hémagglutination"
+        },
+        {
+          "id" : "!!17@definition",
+          "source" : "Agglutination, Hemagglutination",
+          "target" : ""
+        },
+        {
+          "id" : "!!18",
+          "source" : "Hemagglutination inhibition",
+          "target" : "Inhibition hémagglutination"
+        },
+        {
+          "id" : "!!18@definition",
+          "source" : "Agglutination, Hemagglutination inhibition",
+          "target" : ""
+        },
+        {
+          "id" : "!!19",
+          "source" : "Latex agglutination",
+          "target" : "Agglutination latex"
+        },
+        {
+          "id" : "!!19@definition",
+          "source" : "Agglutination, Latex",
+          "target" : ""
+        },
+        {
+          "id" : "!!20",
+          "source" : "Plate agglutination",
+          "target" : "Agglutination plaque"
+        },
+        {
+          "id" : "!!20@definition",
+          "source" : "Agglutination, Plate",
+          "target" : ""
+        },
+        {
+          "id" : "!!21",
+          "source" : "Rapid agglutination",
+          "target" : "Agglutination rapide"
+        },
+        {
+          "id" : "!!21@definition",
+          "source" : "Agglutination, Rapid Plate",
+          "target" : ""
+        },
+        {
+          "id" : "!!22",
+          "source" : "RBC agglutination",
+          "target" : "Agglutination érythrocytes"
+        },
+        {
+          "id" : "!!22@definition",
+          "source" : "Agglutination, RBC",
+          "target" : ""
+        },
+        {
+          "id" : "!!23",
+          "source" : "Rivanol agglutination",
+          "target" : "Agglutination,rivanol"
+        },
+        {
+          "id" : "!!23@definition",
+          "source" : "Agglutination, Rivanol",
+          "target" : ""
+        },
+        {
+          "id" : "!!24",
+          "source" : "Tube agglutination",
+          "target" : "Agglutination en tube"
+        },
+        {
+          "id" : "!!24@definition",
+          "source" : "Agglutination, Tube",
+          "target" : ""
+        },
+        {
+          "id" : "!!25",
+          "source" : "Bioassay",
+          "target" : "Bioanalyse"
+        },
+        {
+          "id" : "!!25@definition",
+          "source" : "Bioassay",
+          "target" : ""
+        },
+        {
+          "id" : "!!26",
+          "source" : "Animal Inoculation",
+          "target" : "Inoculation animal"
+        },
+        {
+          "id" : "!!26@definition",
+          "source" : "Bioassay, Animal Inoculation",
+          "target" : ""
+        },
+        {
+          "id" : "!!27",
+          "source" : "Cytotoxicity",
+          "target" : "Cytotoxicité"
+        },
+        {
+          "id" : "!!27@definition",
+          "source" : "Bioassay, Cytotoxicity",
+          "target" : ""
+        },
+        {
+          "id" : "!!30",
+          "source" : "Mouse intercerebral inoculation",
+          "target" : "Inoculation intracérébrale à la souris"
+        },
+        {
+          "id" : "!!30@definition",
+          "source" : "Bioassay, Mouse intercerebral inoculation",
+          "target" : ""
+        },
+        {
+          "id" : "!!31",
+          "source" : "Bioassay, qualitative",
+          "target" : "Analyse qualitative"
+        },
+        {
+          "id" : "!!31@definition",
+          "source" : "Bioassay, qualitative",
+          "target" : ""
+        },
+        {
+          "id" : "!!32",
+          "source" : "Bioassay, quantitative",
+          "target" : "Analyse quantitative"
+        },
+        {
+          "id" : "!!32@definition",
+          "source" : "Bioassay, quantitative",
+          "target" : ""
+        },
+        {
+          "id" : "!!33",
+          "source" : "Chemical method",
+          "target" : "Méthode chimique"
+        },
+        {
+          "id" : "!!33@definition",
+          "source" : "Chemical",
+          "target" : ""
+        },
+        {
+          "id" : "!!34",
+          "source" : "Differential light absorption chemical test",
+          "target" : "Test chimique d'absorption de lumière différentielle"
+        },
+        {
+          "id" : "!!34@definition",
+          "source" : "Chemical, Differential light absorption",
+          "target" : ""
+        },
+        {
+          "id" : "!!37",
+          "source" : "Test strip",
+          "target" : "Test sur bandelette"
+        },
+        {
+          "id" : "!!37@definition",
+          "source" : "Chemical, Test strip",
+          "target" : ""
+        },
+        {
+          "id" : "!!38",
+          "source" : "Chromatography",
+          "target" : "Chromatographie"
+        },
+        {
+          "id" : "!!38@definition",
+          "source" : "Chromatography",
+          "target" : ""
+        },
+        {
+          "id" : "!!39",
+          "source" : "Affinity chromatography",
+          "target" : "Chromatographie d'affinité"
+        },
+        {
+          "id" : "!!39@definition",
+          "source" : "Chromatography, Affinity",
+          "target" : ""
+        },
+        {
+          "id" : "!!40",
+          "source" : "Gas liquid chromatography",
+          "target" : "Chromatographie phase gazeuse liquide"
+        },
+        {
+          "id" : "!!40@definition",
+          "source" : "Chromatography, Gas liquid",
+          "target" : ""
+        },
+        {
+          "id" : "!!41",
+          "source" : "High performance liquid chromatography",
+          "target" : "Chromatographie liquide haute pression"
+        },
+        {
+          "id" : "!!41@definition",
+          "source" : "Chromatography, High performance liquid",
+          "target" : ""
+        },
+        {
+          "id" : "!!42",
+          "source" : "Liquid Chromatography",
+          "target" : "Chromatographie liquide"
+        },
+        {
+          "id" : "!!42@definition",
+          "source" : "Chromatography, Liquid",
+          "target" : ""
+        },
+        {
+          "id" : "!!43",
+          "source" : "Protein A affinity chromatography",
+          "target" : "Chromatographie d'affinité à la protéine A"
+        },
+        {
+          "id" : "!!43@definition",
+          "source" : "Chromatography, Protein A affinity",
+          "target" : ""
+        },
+        {
+          "id" : "!!44",
+          "source" : "Coagulation",
+          "target" : "Coagulation"
+        },
+        {
+          "id" : "!!44@definition",
+          "source" : "Coagulation",
+          "target" : ""
+        },
+        {
+          "id" : "!!45",
+          "source" : "Tilt tube coagulation time",
+          "target" : "Temps de coagulation en tube"
+        },
+        {
+          "id" : "!!45@definition",
+          "source" : "Coagulation, Tilt tube",
+          "target" : ""
+        },
+        {
+          "id" : "!!46",
+          "source" : "Tilt tube reptilase induced coagulation",
+          "target" : "Coagulation induite par reptilase en tube"
+        },
+        {
+          "id" : "!!46@definition",
+          "source" : "Coagulation, Tilt tube reptilase induced",
+          "target" : ""
+        },
+        {
+          "id" : "!!47",
+          "source" : "Automated count",
+          "target" : "Comptage automatisé"
+        },
+        {
+          "id" : "!!47@definition",
+          "source" : "Count, Automated",
+          "target" : ""
+        },
+        {
+          "id" : "!!48",
+          "source" : "Manual cell count",
+          "target" : "Comptage manuel"
+        },
+        {
+          "id" : "!!48@definition",
+          "source" : "Count, Manual",
+          "target" : ""
+        },
+        {
+          "id" : "!!49",
+          "source" : "Platelet count, Rees-Ecker",
+          "target" : "Comptage plaquettaire de Rees-Ecker"
+        },
+        {
+          "id" : "!!49@definition",
+          "source" : "Count, Platelet, Rees-Ecker",
+          "target" : ""
+        },
+        {
+          "id" : "!!50",
+          "source" : "Aerobic Culture",
+          "target" : "Culture aérobie"
+        },
+        {
+          "id" : "!!50@definition",
+          "source" : "Culture, Aerobic",
+          "target" : ""
+        },
+        {
+          "id" : "!!51",
+          "source" : "Anaerobic Culture",
+          "target" : "Culture anaérobie"
+        },
+        {
+          "id" : "!!51@definition",
+          "source" : "Culture, Anaerobic",
+          "target" : ""
+        },
+        {
+          "id" : "!!52",
+          "source" : "Chicken embryo culture",
+          "target" : "Culture sur embryon de poulet"
+        },
+        {
+          "id" : "!!52@definition",
+          "source" : "Culture, Chicken Embryo",
+          "target" : ""
+        },
+        {
+          "id" : "!!53",
+          "source" : "Delayed secondary enrichment",
+          "target" : "Enrichissement secondaire retardé"
+        },
+        {
+          "id" : "!!53@definition",
+          "source" : "Culture, Delayed secondary enrichment",
+          "target" : ""
+        },
+        {
+          "id" : "!!54",
+          "source" : "Microaerophilic Culture",
+          "target" : "Culture microaérophile"
+        },
+        {
+          "id" : "!!54@definition",
+          "source" : "Culture, Microaerophilic",
+          "target" : ""
+        },
+        {
+          "id" : "!!61",
+          "source" : "Somatic Cell culture",
+          "target" : "Culture cellulaire somatique"
+        },
+        {
+          "id" : "!!61@definition",
+          "source" : "Culture, Somatic Cell",
+          "target" : ""
+        },
+        {
+          "id" : "!!62",
+          "source" : "Agar diffusion",
+          "target" : "Diffusion gel Agar"
+        },
+        {
+          "id" : "!!62@definition",
+          "source" : "Diffusion, Agar",
+          "target" : ""
+        },
+        {
+          "id" : "!!63",
+          "source" : "Agar Gel Immunodiffusion",
+          "target" : "Immunodiffusion"
+        },
+        {
+          "id" : "!!63@definition",
+          "source" : "Diffusion, Agar Gel Immunodiffusion",
+          "target" : ""
+        },
+        {
+          "id" : "!!64",
+          "source" : "Electrophoresis",
+          "target" : "Électrophorèse"
+        },
+        {
+          "id" : "!!64@definition",
+          "source" : "Electrophoresis",
+          "target" : ""
+        },
+        {
+          "id" : "!!65",
+          "source" : "Agaorse gel electrophoresis",
+          "target" : "Électrophorèse gel agarose"
+        },
+        {
+          "id" : "!!65@definition",
+          "source" : "Electrophoresis, Agaorse gel",
+          "target" : ""
+        },
+        {
+          "id" : "!!66",
+          "source" : "Electrophoresis, citrate agar",
+          "target" : "Électrophorèse citrate agar"
+        },
+        {
+          "id" : "!!66@definition",
+          "source" : "Electrophoresis, citrate agar",
+          "target" : ""
+        },
+        {
+          "id" : "!!67",
+          "source" : "Immunoelectrophoresis",
+          "target" : "Immunoélectrophorèse"
+        },
+        {
+          "id" : "!!67@definition",
+          "source" : "Electrophoresis, Immuno",
+          "target" : ""
+        },
+        {
+          "id" : "!!68",
+          "source" : "Polyacrylamide gel electrophoresis",
+          "target" : "Électrophorèse sur gel de polyacrylamide"
+        },
+        {
+          "id" : "!!68@definition",
+          "source" : "Electrophoresis, Polyacrylamide gel",
+          "target" : ""
+        },
+        {
+          "id" : "!!69",
+          "source" : "Starch gel electrophoresis",
+          "target" : "Électrophorèse sur gel d'amidon"
+        },
+        {
+          "id" : "!!69@definition",
+          "source" : "Electrophoresis, Starch gel",
+          "target" : ""
+        },
+        {
+          "id" : "!!70",
+          "source" : "ELISA",
+          "target" : "ELISA"
+        },
+        {
+          "id" : "!!70@definition",
+          "source" : "ELISA",
+          "target" : ""
+        },
+        {
+          "id" : "!!71",
+          "source" : "ELISA, antigen capture",
+          "target" : "ELISA avec captude d'antigène"
+        },
+        {
+          "id" : "!!71@definition",
+          "source" : "ELISA, antigen capture",
+          "target" : ""
+        },
+        {
+          "id" : "!!72",
+          "source" : "ELISA, avidin biotin peroxidase complex",
+          "target" : "ELISA avec complexe avidine biotine péroxydase"
+        },
+        {
+          "id" : "!!72@definition",
+          "source" : "ELISA, avidin biotin peroxidase complex",
+          "target" : ""
+        },
+        {
+          "id" : "!!73",
+          "source" : "Kinetic ELISA",
+          "target" : "ELISA avec cinétique"
+        },
+        {
+          "id" : "!!73@definition",
+          "source" : "ELISA, Kinetic",
+          "target" : ""
+        },
+        {
+          "id" : "!!74",
+          "source" : "ELISA, peroxidase-antiperoxidase",
+          "target" : "ELISA avec péroxydase-anti-péroxydase"
+        },
+        {
+          "id" : "!!74@definition",
+          "source" : "ELISA, peroxidase-antiperoxidase",
+          "target" : ""
+        },
+        {
+          "id" : "!!75",
+          "source" : "API 20 Strep",
+          "target" : "Identification par galerie API 20 Strep"
+        },
+        {
+          "id" : "!!75@definition",
+          "source" : "Identification, API 20 Strep",
+          "target" : ""
+        },
+        {
+          "id" : "!!76",
+          "source" : "API 20A",
+          "target" : "Identification par galerie API 20A"
+        },
+        {
+          "id" : "!!76@definition",
+          "source" : "Identification, API 20A",
+          "target" : ""
+        },
+        {
+          "id" : "!!77",
+          "source" : "API 20C AUX",
+          "target" : "Identification par galerie API 20C AUX"
+        },
+        {
+          "id" : "!!77@definition",
+          "source" : "Identification, API 20C AUX",
+          "target" : ""
+        },
+        {
+          "id" : "!!78",
+          "source" : "API 20E",
+          "target" : "Identification par galerie API 20E"
+        },
+        {
+          "id" : "!!78@definition",
+          "source" : "Identification, API 20E",
+          "target" : ""
+        },
+        {
+          "id" : "!!79",
+          "source" : "API 20NE",
+          "target" : "Identification par galerie API 20NE"
+        },
+        {
+          "id" : "!!79@definition",
+          "source" : "Identification, API 20NE",
+          "target" : ""
+        },
+        {
+          "id" : "!!80",
+          "source" : "API 50 CH",
+          "target" : "Identification par galerie API 50 CH"
+        },
+        {
+          "id" : "!!80@definition",
+          "source" : "Identification, API 50 CH",
+          "target" : ""
+        },
+        {
+          "id" : "!!81",
+          "source" : "API An-IDENT",
+          "target" : "Identification par galerie API An-IDENT"
+        },
+        {
+          "id" : "!!81@definition",
+          "source" : "Identification, API An-IDENT",
+          "target" : ""
+        },
+        {
+          "id" : "!!82",
+          "source" : "API Coryne",
+          "target" : "Identification par galerie API Coryne"
+        },
+        {
+          "id" : "!!82@definition",
+          "source" : "Identification, API Coryne",
+          "target" : ""
+        },
+        {
+          "id" : "!!83",
+          "source" : "API Rapid 20E",
+          "target" : "Identification par galerie API Rapid 20E"
+        },
+        {
+          "id" : "!!83@definition",
+          "source" : "Identification, API Rapid 20E",
+          "target" : ""
+        },
+        {
+          "id" : "!!84",
+          "source" : "API Staph",
+          "target" : "Identification par galerie API Staph"
+        },
+        {
+          "id" : "!!84@definition",
+          "source" : "Identification, API Staph",
+          "target" : ""
+        },
+        {
+          "id" : "!!85",
+          "source" : "API ZYM",
+          "target" : "Identification par galerie API 20 Strep"
+        },
+        {
+          "id" : "!!85@definition",
+          "source" : "Identification, API ZYM",
+          "target" : ""
+        },
+        {
+          "id" : "!!86",
+          "source" : "Bacterial identification",
+          "target" : "Identification bactérienne"
+        },
+        {
+          "id" : "!!86@definition",
+          "source" : "Identification, Bacterial",
+          "target" : ""
+        },
+        {
+          "id" : "!!87",
+          "source" : "mini VIDAS",
+          "target" : "Identification par mini VIDAS"
+        },
+        {
+          "id" : "!!87@definition",
+          "source" : "Identification, mini VIDAS",
+          "target" : ""
+        },
+        {
+          "id" : "!!88",
+          "source" : "Phage susceptibility typing",
+          "target" : "Identification par lysotypie"
+        },
+        {
+          "id" : "!!88@definition",
+          "source" : "Identification, Phage susceptibility typing",
+          "target" : ""
+        },
+        {
+          "id" : "!!89",
+          "source" : "Quad-FERM+",
+          "target" : "Identification par galerie QuadFERM+"
+        },
+        {
+          "id" : "!!89@definition",
+          "source" : "Identification, Quad-FERM+",
+          "target" : ""
+        },
+        {
+          "id" : "!!90",
+          "source" : "RAPIDEC Staph",
+          "target" : "Identification par galerie RAPIDEC Staph"
+        },
+        {
+          "id" : "!!90@definition",
+          "source" : "Identification, RAPIDEC Staph",
+          "target" : ""
+        },
+        {
+          "id" : "!!91",
+          "source" : "Staphaurex",
+          "target" : "Identification par agglutination latex Staphaurex"
+        },
+        {
+          "id" : "!!91@definition",
+          "source" : "Identification, Staphaurex",
+          "target" : ""
+        },
+        {
+          "id" : "!!92",
+          "source" : "VIDAS",
+          "target" : "Identification par VIDAS"
+        },
+        {
+          "id" : "!!92@definition",
+          "source" : "Identification, VIDAS",
+          "target" : ""
+        },
+        {
+          "id" : "!!93",
+          "source" : "Vitek",
+          "target" : "Identification par VITEK"
+        },
+        {
+          "id" : "!!93@definition",
+          "source" : "Identification, Vitek",
+          "target" : ""
+        },
+        {
+          "id" : "!!94",
+          "source" : "VITEK 2",
+          "target" : "Identification par VITEK 2"
+        },
+        {
+          "id" : "!!94@definition",
+          "source" : "Identification, VITEK 2",
+          "target" : ""
+        },
+        {
+          "id" : "!!95",
+          "source" : "Immune stain",
+          "target" : "Coloration immune"
+        },
+        {
+          "id" : "!!95@definition",
+          "source" : "Immune stain",
+          "target" : ""
+        },
+        {
+          "id" : "!!96",
+          "source" : "Immunofluorescent antibody, direct",
+          "target" : "Immunofluorescence directe"
+        },
+        {
+          "id" : "!!96@definition",
+          "source" : "Immune stain, Immunofluorescent antibody, direct",
+          "target" : ""
+        },
+        {
+          "id" : "!!97",
+          "source" : "Immunofluorescent antibody, indirect",
+          "target" : "Immunofluorescence indirecte"
+        },
+        {
+          "id" : "!!97@definition",
+          "source" : "Immune stain, Immunofluorescent antibody, indirect",
+          "target" : ""
+        },
+        {
+          "id" : "!!98",
+          "source" : "Immunoperoxidase, Avidin-Biotin Complex",
+          "target" : "Immunopéroxydase (complexe avidine-Biotine)"
+        },
+        {
+          "id" : "!!98@definition",
+          "source" : "Immune stain, Immunoperoxidase, Avidin-Biotin Complex",
+          "target" : ""
+        },
+        {
+          "id" : "!!99",
+          "source" : "Immunoperoxidase, Peroxidase anti-peroxidase complex",
+          "target" : "Immunopéroxydase (complexe péroxydase-antipéroxydase)"
+        },
+        {
+          "id" : "!!99@definition",
+          "source" : "Immune stain, Immunoperoxidase, Peroxidase anti-peroxidase complex",
+          "target" : ""
+        },
+        {
+          "id" : "!!100",
+          "source" : "Immunoperoxidase, Protein A-peroxidase complex",
+          "target" : "Immunopéroxydase (complexe Protéine A-péroxydase)"
+        },
+        {
+          "id" : "!!100@definition",
+          "source" : "Immune stain, Immunoperoxidase, Protein A-peroxidase complex",
+          "target" : ""
+        },
+        {
+          "id" : "!!101",
+          "source" : "Immunoassay",
+          "target" : "Immunoanalyse"
+        },
+        {
+          "id" : "!!101@definition",
+          "source" : "Immunoassay",
+          "target" : ""
+        },
+        {
+          "id" : "!!102",
+          "source" : "Immunoassay, qualitative, multiple step",
+          "target" : "Immunoanalyse qualitative à plusieurs étapes"
+        },
+        {
+          "id" : "!!102@definition",
+          "source" : "Immunoassay, qualitative, multiple step",
+          "target" : ""
+        },
+        {
+          "id" : "!!103",
+          "source" : "Immunoassay, qualitative, single step",
+          "target" : "Immunoanalyse qualitative à une étape"
+        },
+        {
+          "id" : "!!103@definition",
+          "source" : "Immunoassay, qualitative, single step",
+          "target" : ""
+        },
+        {
+          "id" : "!!104",
+          "source" : "Radioimmunoassay",
+          "target" : "Radioimmunologie"
+        },
+        {
+          "id" : "!!104@definition",
+          "source" : "Immunoassay, Radioimmunoassay",
+          "target" : ""
+        },
+        {
+          "id" : "!!105",
+          "source" : "Immunoassay, semi-quantitative, multiple step",
+          "target" : "Immunoanalyse semi-quantitative à plusieurs étapes"
+        },
+        {
+          "id" : "!!105@definition",
+          "source" : "Immunoassay, semi-quantitative, multiple step",
+          "target" : ""
+        },
+        {
+          "id" : "!!106",
+          "source" : "Immunoassay, semi-quantitative, single step",
+          "target" : "Immunoanalyse semi-quantitative à une étape"
+        },
+        {
+          "id" : "!!106@definition",
+          "source" : "Immunoassay, semi-quantitative, single step",
+          "target" : ""
+        },
+        {
+          "id" : "!!107",
+          "source" : "Microscopy",
+          "target" : "Microscopie"
+        },
+        {
+          "id" : "!!107@definition",
+          "source" : "Microscopy",
+          "target" : ""
+        },
+        {
+          "id" : "!!108",
+          "source" : "Darkfield microscopy",
+          "target" : "Microscopie fond noir"
+        },
+        {
+          "id" : "!!108@definition",
+          "source" : "Microscopy, Darkfield",
+          "target" : ""
+        },
+        {
+          "id" : "!!109",
+          "source" : "Electron microscopy",
+          "target" : "Microscopie électronique"
+        },
+        {
+          "id" : "!!109@definition",
+          "source" : "Microscopy, Electron",
+          "target" : ""
+        },
+        {
+          "id" : "!!110",
+          "source" : "Electron microscopy tomography",
+          "target" : "Microscopie électronique, Tomographie numérique"
+        },
+        {
+          "id" : "!!110@definition",
+          "source" : "Microscopy, Electron microscopy tomography",
+          "target" : ""
+        },
+        {
+          "id" : "!!111",
+          "source" : "Electron microscopy, negative stain",
+          "target" : "Microscopie électronique en contraste de phase"
+        },
+        {
+          "id" : "!!111@definition",
+          "source" : "Microscopy, Electron, negative stain",
+          "target" : ""
+        },
+        {
+          "id" : "!!112",
+          "source" : "Electron microscopy, thick section",
+          "target" : "Microscopie électronique sur section épaisse"
+        },
+        {
+          "id" : "!!112@definition",
+          "source" : "Microscopy, Electron, thick section transmission",
+          "target" : ""
+        },
+        {
+          "id" : "!!113",
+          "source" : "Electron microscopy, thin section",
+          "target" : "Microscopie électronique sur section fine"
+        },
+        {
+          "id" : "!!113@definition",
+          "source" : "Microscopy, Electron, thin section transmission",
+          "target" : ""
+        },
+        {
+          "id" : "!!114",
+          "source" : "Microscopy, Light",
+          "target" : "Microscvopie en lumière directe"
+        },
+        {
+          "id" : "!!114@definition",
+          "source" : "Microscopy, Light",
+          "target" : ""
+        },
+        {
+          "id" : "!!115",
+          "source" : "Polarizing light microscopy",
+          "target" : "Microscopie à polarisation"
+        },
+        {
+          "id" : "!!115@definition",
+          "source" : "Microscopy, Polarized light",
+          "target" : ""
+        },
+        {
+          "id" : "!!116",
+          "source" : "Scanning electron microscopy",
+          "target" : "Microscopie électronique à balayage"
+        },
+        {
+          "id" : "!!116@definition",
+          "source" : "Microscopy, Scanning electron",
+          "target" : ""
+        },
+        {
+          "id" : "!!117",
+          "source" : "Transmission electron microscopy",
+          "target" : "Microscopie électronique à transmission"
+        },
+        {
+          "id" : "!!117@definition",
+          "source" : "Microscopy, Transmission electron",
+          "target" : ""
+        },
+        {
+          "id" : "!!120",
+          "source" : "Branched Chain DNA",
+          "target" : "ADN branché"
+        },
+        {
+          "id" : "!!120@definition",
+          "source" : "Molecular, Branched Chain DNA",
+          "target" : ""
+        },
+        {
+          "id" : "!!122",
+          "source" : "Immune blot",
+          "target" : "Immunoblot"
+        },
+        {
+          "id" : "!!122@definition",
+          "source" : "Molecular, Immune blot",
+          "target" : ""
+        },
+        {
+          "id" : "!!123",
+          "source" : "In-situ hybridization",
+          "target" : "Hybridation moléculaire in situ"
+        },
+        {
+          "id" : "!!123@definition",
+          "source" : "Molecular, In-situ hybridization",
+          "target" : ""
+        },
+        {
+          "id" : "!!127",
+          "source" : "Nucleic acid probe",
+          "target" : "Sonde acide nucléique"
+        },
+        {
+          "id" : "!!127@definition",
+          "source" : "Molecular, Nucleic acid probe",
+          "target" : ""
+        },
+        {
+          "id" : "!!128",
+          "source" : "Nucleic acid probe with amplification",
+          "target" : "Sonde acide nucléique avec amplification"
+        },
+        {
+          "id" : "!!128@definition",
+          "source" : "Molecular, Nucleic acid probe with amplification",
+          "target" : ""
+        },
+        {
+          "id" : "!!129",
+          "source" : "Nucleic acid probe with target amplification",
+          "target" : "Sonde acide nucléique avec amplification ciblée"
+        },
+        {
+          "id" : "!!129@definition",
+          "source" : "Molecular, Nucleic acid probe with target amplification",
+          "target" : ""
+        },
+        {
+          "id" : "!!130",
+          "source" : "Nucleic acid reverse transcription",
+          "target" : "Transcription inverse"
+        },
+        {
+          "id" : "!!130@definition",
+          "source" : "Molecular, Nucleic acid reverse transcription",
+          "target" : ""
+        },
+        {
+          "id" : "!!131",
+          "source" : "Nucleic Acid Sequence Based Analysis",
+          "target" : "Séquençage d'acides nucléiques"
+        },
+        {
+          "id" : "!!131@definition",
+          "source" : "Molecular, Nucleic Acid Sequence Based Analysis",
+          "target" : ""
+        },
+        {
+          "id" : "!!132",
+          "source" : "Polymerase chain reaction",
+          "target" : "PCR"
+        },
+        {
+          "id" : "!!132@definition",
+          "source" : "Molecular, Polymerase chain reaction",
+          "target" : ""
+        },
+        {
+          "id" : "!!134",
+          "source" : "Restriction Fragment Length Polymorphism",
+          "target" : "RFLP"
+        },
+        {
+          "id" : "!!134@definition",
+          "source" : "Molecular, Restriction Fragment Length Polymorphism",
+          "target" : ""
+        },
+        {
+          "id" : "!!135",
+          "source" : "Southern Blot",
+          "target" : "Southern-blot"
+        },
+        {
+          "id" : "!!135@definition",
+          "source" : "Molecular, Southern Blot",
+          "target" : ""
+        },
+        {
+          "id" : "!!138",
+          "source" : "Western Blot",
+          "target" : "Western-Blot"
+        },
+        {
+          "id" : "!!138@definition",
+          "source" : "Molecular, Western Blot",
+          "target" : ""
+        },
+        {
+          "id" : "!!139",
+          "source" : "Flocculation",
+          "target" : "Floculation"
+        },
+        {
+          "id" : "!!139@definition",
+          "source" : "Precipitation, Flocculation",
+          "target" : ""
+        },
+        {
+          "id" : "!!140",
+          "source" : "Immune precipitation",
+          "target" : "Immunoprécipitation"
+        },
+        {
+          "id" : "!!140@definition",
+          "source" : "Precipitation, Immune precipitation",
+          "target" : ""
+        },
+        {
+          "id" : "!!141",
+          "source" : "Milk ring test",
+          "target" : "Test à l'anneau de lait"
+        },
+        {
+          "id" : "!!141@definition",
+          "source" : "Precipitation, Milk ring test",
+          "target" : ""
+        },
+        {
+          "id" : "!!142",
+          "source" : "Precipitin",
+          "target" : "Précipitine"
+        },
+        {
+          "id" : "!!142@definition",
+          "source" : "Precipitation, Precipitin",
+          "target" : ""
+        },
+        {
+          "id" : "!!143",
+          "source" : "Acid fast stain",
+          "target" : "Coloration acide rapide"
+        },
+        {
+          "id" : "!!143@definition",
+          "source" : "Stain, Acid fast",
+          "target" : ""
+        },
+        {
+          "id" : "!!144",
+          "source" : "Acid fast stain, fluorochrome",
+          "target" : "Coloration acide rapide/fluorochrome"
+        },
+        {
+          "id" : "!!144@definition",
+          "source" : "Stain, Acid fast, fluorochrome",
+          "target" : ""
+        },
+        {
+          "id" : "!!145",
+          "source" : "Acid fast stain, Kinyoun's cold carbolfuchsin",
+          "target" : "Coloration acide rapide Kinyoun"
+        },
+        {
+          "id" : "!!145@definition",
+          "source" : "Stain, Acid fast, Kinyoun's cold carbolfuchsin",
+          "target" : ""
+        },
+        {
+          "id" : "!!146",
+          "source" : "Acid fast stain, Ziehl-Neelsen",
+          "target" : "Coloration acide Ziehl-Neelsen"
+        },
+        {
+          "id" : "!!146@definition",
+          "source" : "Stain, Acid fast, Ziehl-Neelsen",
+          "target" : ""
+        },
+        {
+          "id" : "!!147",
+          "source" : "Acid phosphatase stain",
+          "target" : "Coloration phosphatase acide"
+        },
+        {
+          "id" : "!!147@definition",
+          "source" : "Stain, Acid phosphatase",
+          "target" : ""
+        },
+        {
+          "id" : "!!148",
+          "source" : "Acridine orange stain",
+          "target" : "Coloration acridine orange"
+        },
+        {
+          "id" : "!!148@definition",
+          "source" : "Stain, Acridine orange",
+          "target" : ""
+        },
+        {
+          "id" : "!!149",
+          "source" : "Active brilliant orange KH stain",
+          "target" : "Coloration orange brillant KH"
+        },
+        {
+          "id" : "!!149@definition",
+          "source" : "Stain, Active brilliant orange KH",
+          "target" : ""
+        },
+        {
+          "id" : "!!150",
+          "source" : "Alazarin red S stain",
+          "target" : "Coloration rouge alizarine"
+        },
+        {
+          "id" : "!!150@definition",
+          "source" : "Stain, Alazarin red S",
+          "target" : ""
+        },
+        {
+          "id" : "!!151",
+          "source" : "Alcian blue stain",
+          "target" : "Coloration bleu alcian"
+        },
+        {
+          "id" : "!!151@definition",
+          "source" : "Stain, Alcian blue",
+          "target" : ""
+        },
+        {
+          "id" : "!!152",
+          "source" : "Alcian blue with Periodic acid Schiff stain",
+          "target" : "Coloration bleu alcian+acide périodique-Schiff"
+        },
+        {
+          "id" : "!!152@definition",
+          "source" : "Stain, Alcian blue with Periodic acid Schiff",
+          "target" : ""
+        },
+        {
+          "id" : "!!153",
+          "source" : "Argentaffin stain",
+          "target" : "Coloration argentaffine"
+        },
+        {
+          "id" : "!!153@definition",
+          "source" : "Stain, Argentaffin",
+          "target" : ""
+        },
+        {
+          "id" : "!!154",
+          "source" : "Argentaffin silver stain",
+          "target" : "Coloration argent argentaffine"
+        },
+        {
+          "id" : "!!154@definition",
+          "source" : "Stain, Argentaffin silver",
+          "target" : ""
+        },
+        {
+          "id" : "!!155",
+          "source" : "Azure-eosin stain",
+          "target" : "Coloration azur-éosine"
+        },
+        {
+          "id" : "!!155@definition",
+          "source" : "Stain, Azure-eosin",
+          "target" : ""
+        },
+        {
+          "id" : "!!156",
+          "source" : "Basic Fuschin stain",
+          "target" : "Coloration fuchsine basique"
+        },
+        {
+          "id" : "!!156@definition",
+          "source" : "Stain, Basic Fuschin",
+          "target" : ""
+        },
+        {
+          "id" : "!!157",
+          "source" : "Bennhold stain",
+          "target" : "Coloration Bennhold"
+        },
+        {
+          "id" : "!!157@definition",
+          "source" : "Stain, Bennhold",
+          "target" : ""
+        },
+        {
+          "id" : "!!158",
+          "source" : "Bennhold's Congo red stain",
+          "target" : "Coloration rouge Congo/Bennhold"
+        },
+        {
+          "id" : "!!158@definition",
+          "source" : "Stain, Bennhold's Congo red",
+          "target" : ""
+        },
+        {
+          "id" : "!!159",
+          "source" : "Bielschowsky stain",
+          "target" : "Coloration Bielschowsky"
+        },
+        {
+          "id" : "!!159@definition",
+          "source" : "Stain, Bielschowsky",
+          "target" : ""
+        },
+        {
+          "id" : "!!160",
+          "source" : "Bielschowsky's silver stain",
+          "target" : "Coloration Argent/Bielschowsky"
+        },
+        {
+          "id" : "!!160@definition",
+          "source" : "Stain, Bielschowsky's silver",
+          "target" : ""
+        },
+        {
+          "id" : "!!161",
+          "source" : "Bleach stain",
+          "target" : "Décoloration"
+        },
+        {
+          "id" : "!!161@definition",
+          "source" : "Stain, Bleach",
+          "target" : ""
+        },
+        {
+          "id" : "!!162",
+          "source" : "Bodian stain",
+          "target" : "Coloration Bodian"
+        },
+        {
+          "id" : "!!162@definition",
+          "source" : "Stain, Bodian",
+          "target" : ""
+        },
+        {
+          "id" : "!!163",
+          "source" : "Brown-Brenn stain",
+          "target" : "Coloration Brown et Brenn"
+        },
+        {
+          "id" : "!!163@definition",
+          "source" : "Stain, Brown-Brenn",
+          "target" : ""
+        },
+        {
+          "id" : "!!164",
+          "source" : "Butyrate-esterase stain",
+          "target" : "Coloration butyrate estérase"
+        },
+        {
+          "id" : "!!164@definition",
+          "source" : "Stain, Butyrate-esterase",
+          "target" : ""
+        },
+        {
+          "id" : "!!165",
+          "source" : "Calcofluor white fluorescent stain",
+          "target" : "Préparation calcofluor blanc"
+        },
+        {
+          "id" : "!!165@definition",
+          "source" : "Stain, Calcofluor white fluorescent",
+          "target" : ""
+        },
+        {
+          "id" : "!!166",
+          "source" : "Carbol-fuchsin stain",
+          "target" : "Coloration carbol fuchsine"
+        },
+        {
+          "id" : "!!166@definition",
+          "source" : "Stain, Carbol-fuchsin",
+          "target" : ""
+        },
+        {
+          "id" : "!!167",
+          "source" : "Carmine stain",
+          "target" : "Coloration carmin"
+        },
+        {
+          "id" : "!!167@definition",
+          "source" : "Stain, Carmine",
+          "target" : ""
+        },
+        {
+          "id" : "!!168",
+          "source" : "Churukian-Schenk stain",
+          "target" : "Coloration Churukian-Schenk"
+        },
+        {
+          "id" : "!!168@definition",
+          "source" : "Stain, Churukian-Schenk",
+          "target" : ""
+        },
+        {
+          "id" : "!!169",
+          "source" : "Congo red stain",
+          "target" : "Coloration rouge Congo"
+        },
+        {
+          "id" : "!!169@definition",
+          "source" : "Stain, Congo red",
+          "target" : ""
+        },
+        {
+          "id" : "!!170",
+          "source" : "Cresyl echt violet stain",
+          "target" : "Coloration violet de crésyl acétate"
+        },
+        {
+          "id" : "!!170@definition",
+          "source" : "Stain, Cresyl echt violet",
+          "target" : ""
+        },
+        {
+          "id" : "!!171",
+          "source" : "Crystal violet stain",
+          "target" : "Coloration crystal violet"
+        },
+        {
+          "id" : "!!171@definition",
+          "source" : "Stain, Crystal violet",
+          "target" : ""
+        },
+        {
+          "id" : "!!172",
+          "source" : "De Galantha stain",
+          "target" : "Coloration de Galantha"
+        },
+        {
+          "id" : "!!172@definition",
+          "source" : "Stain, De Galantha",
+          "target" : ""
+        },
+        {
+          "id" : "!!173",
+          "source" : "Dieterle silver impregnation stain",
+          "target" : "Coloration de Dieterle par imprégnation argentique"
+        },
+        {
+          "id" : "!!173@definition",
+          "source" : "Stain, Dieterle silver impregnation",
+          "target" : ""
+        },
+        {
+          "id" : "!!174",
+          "source" : "Fite-Farco stain",
+          "target" : "Coloration Fite-Faraco"
+        },
+        {
+          "id" : "!!174@definition",
+          "source" : "Stain, Fite-Farco",
+          "target" : ""
+        },
+        {
+          "id" : "!!175",
+          "source" : "Fontana-Masson silver stain",
+          "target" : "Coloration Fontana-Masson"
+        },
+        {
+          "id" : "!!175@definition",
+          "source" : "Stain, Fontana-Masson silver",
+          "target" : ""
+        },
+        {
+          "id" : "!!176",
+          "source" : "Fouchet stain",
+          "target" : "Coloration Fouchet"
+        },
+        {
+          "id" : "!!176@definition",
+          "source" : "Stain, Fouchet",
+          "target" : ""
+        },
+        {
+          "id" : "!!177",
+          "source" : "Gomori stain",
+          "target" : "Coloration Gomori"
+        },
+        {
+          "id" : "!!177@definition",
+          "source" : "Stain, Gomori",
+          "target" : ""
+        },
+        {
+          "id" : "!!178",
+          "source" : "Gomori methenamine silver stain",
+          "target" : "Coloration méthénamine argent Gomori"
+        },
+        {
+          "id" : "!!178@definition",
+          "source" : "Stain, Gomori methenamine silver",
+          "target" : ""
+        },
+        {
+          "id" : "!!179",
+          "source" : "Gomori-Wheatly trichrome stain",
+          "target" : "Coloration trichrome Gomori-Wheatly"
+        },
+        {
+          "id" : "!!179@definition",
+          "source" : "Stain, Gomori-Wheatly trichrome",
+          "target" : ""
+        },
+        {
+          "id" : "!!180",
+          "source" : "Gridley stain",
+          "target" : "Coloration Gridley"
+        },
+        {
+          "id" : "!!180@definition",
+          "source" : "Stain, Gridley",
+          "target" : ""
+        },
+        {
+          "id" : "!!181",
+          "source" : "Grimelius silver stain",
+          "target" : "Coloration argent Grimelius"
+        },
+        {
+          "id" : "!!181@definition",
+          "source" : "Stain, Grimelius silver",
+          "target" : ""
+        },
+        {
+          "id" : "!!182",
+          "source" : "Grocott stain",
+          "target" : "Coloration de Grocott"
+        },
+        {
+          "id" : "!!182@definition",
+          "source" : "Stain, Grocott",
+          "target" : ""
+        },
+        {
+          "id" : "!!183",
+          "source" : "Grocott methenamine silver stain",
+          "target" : "Coloration méthénamine argent Grocott"
+        },
+        {
+          "id" : "!!183@definition",
+          "source" : "Stain, Grocott methenamine silver",
+          "target" : ""
+        },
+        {
+          "id" : "!!184",
+          "source" : "Hale's colloidal ferric oxide stain",
+          "target" : "Coloration à l'oxyde ferrique colloïdale de Hale"
+        },
+        {
+          "id" : "!!184@definition",
+          "source" : "Stain, Hale's colloidal ferric oxide",
+          "target" : ""
+        },
+        {
+          "id" : "!!185",
+          "source" : "Hale's colloidal iron stain",
+          "target" : "Coloration au fer colloïdale de Hale"
+        },
+        {
+          "id" : "!!185@definition",
+          "source" : "Stain, Hale's colloidal iron",
+          "target" : ""
+        },
+        {
+          "id" : "!!186",
+          "source" : "Hansel stain",
+          "target" : "Coloration Hansel"
+        },
+        {
+          "id" : "!!186@definition",
+          "source" : "Stain, Hansel",
+          "target" : ""
+        },
+        {
+          "id" : "!!187",
+          "source" : "Harris regressive hematoxylin and eosin stain",
+          "target" : "Coloration hématoxylline Harris+éosine"
+        },
+        {
+          "id" : "!!187@definition",
+          "source" : "Stain, Harris regressive hematoxylin and eosin",
+          "target" : ""
+        },
+        {
+          "id" : "!!188",
+          "source" : "Hematoxylin and eosin stain",
+          "target" : "Coloration hématoxylline+éosine"
+        },
+        {
+          "id" : "!!188@definition",
+          "source" : "Stain, Hematoxylin and eosin",
+          "target" : ""
+        },
+        {
+          "id" : "!!189",
+          "source" : "Highman stain",
+          "target" : "Coloration Highman"
+        },
+        {
+          "id" : "!!189@definition",
+          "source" : "Stain, Highman",
+          "target" : ""
+        },
+        {
+          "id" : "!!190",
+          "source" : "Holzer stain",
+          "target" : "Coloration Holzer"
+        },
+        {
+          "id" : "!!190@definition",
+          "source" : "Stain, Holzer",
+          "target" : ""
+        },
+        {
+          "id" : "!!191",
+          "source" : "Iron hematoxylin stain",
+          "target" : "Coloration fer hématoxylline"
+        },
+        {
+          "id" : "!!191@definition",
+          "source" : "Stain, Iron hematoxylin",
+          "target" : ""
+        },
+        {
+          "id" : "!!192",
+          "source" : "Jones stain",
+          "target" : "Coloration Jones"
+        },
+        {
+          "id" : "!!192@definition",
+          "source" : "Stain, Jones",
+          "target" : ""
+        },
+        {
+          "id" : "!!193",
+          "source" : "Jones methenamine silver stain",
+          "target" : "Coloration méthénamine argent Jones"
+        },
+        {
+          "id" : "!!193@definition",
+          "source" : "Stain, Jones methenamine silver",
+          "target" : ""
+        },
+        {
+          "id" : "!!194",
+          "source" : "Kossa stain",
+          "target" : "Coloration Kossa"
+        },
+        {
+          "id" : "!!194@definition",
+          "source" : "Stain, Kossa",
+          "target" : ""
+        },
+        {
+          "id" : "!!195",
+          "source" : "Lawson-Van Gieson stain",
+          "target" : "Coloration Lawson-Van Gieson"
+        },
+        {
+          "id" : "!!195@definition",
+          "source" : "Stain, Lawson-Van Gieson",
+          "target" : ""
+        },
+        {
+          "id" : "!!196",
+          "source" : "Loeffler methylene blue stain",
+          "target" : "Coloration bleu de méthylène Loeffler"
+        },
+        {
+          "id" : "!!196@definition",
+          "source" : "Stain, Loeffler methylene blue",
+          "target" : ""
+        },
+        {
+          "id" : "!!197",
+          "source" : "Luxol fast blue with cresyl violet stain",
+          "target" : "Coloration Luxol bleu au violet crésyl"
+        },
+        {
+          "id" : "!!197@definition",
+          "source" : "Stain, Luxol fast blue with cresyl violet",
+          "target" : ""
+        },
+        {
+          "id" : "!!198",
+          "source" : "Luxol fast blue with Periodic acid-Schiff stain",
+          "target" : "Coloration Luxol bleu à l'acide périodique-Schiff"
+        },
+        {
+          "id" : "!!198@definition",
+          "source" : "Stain, Luxol fast blue with Periodic acid-Schiff",
+          "target" : ""
+        },
+        {
+          "id" : "!!199",
+          "source" : "MacNeal's tetrachrome blood stain",
+          "target" : "Coloration tétrachrome MacNeal"
+        },
+        {
+          "id" : "!!199@definition",
+          "source" : "Stain, MacNeal's tetrachrome blood",
+          "target" : ""
+        },
+        {
+          "id" : "!!200",
+          "source" : "Mallory-Heidenhain stain",
+          "target" : "Coloration Mallory-Heidenhain"
+        },
+        {
+          "id" : "!!200@definition",
+          "source" : "Stain, Mallory-Heidenhain",
+          "target" : ""
+        },
+        {
+          "id" : "!!201",
+          "source" : "Masson trichrome stain",
+          "target" : "Coloration trichrome Masson"
+        },
+        {
+          "id" : "!!201@definition",
+          "source" : "Stain, Masson trichrome",
+          "target" : ""
+        },
+        {
+          "id" : "!!202",
+          "source" : "Mayer mucicarmine stain",
+          "target" : "Coloration Mayer mucicarmine"
+        },
+        {
+          "id" : "!!202@definition",
+          "source" : "Stain, Mayer mucicarmine",
+          "target" : ""
+        },
+        {
+          "id" : "!!203",
+          "source" : "Mayers progressive hematoxylin and eosin stain",
+          "target" : "Coloration Mayer hématoxyline éosine"
+        },
+        {
+          "id" : "!!203@definition",
+          "source" : "Stain, Mayers progressive hematoxylin and eosin",
+          "target" : ""
+        },
+        {
+          "id" : "!!204",
+          "source" : "May-Grunwald Giemsa stain",
+          "target" : "Coloration May-Grunwald Giemsa"
+        },
+        {
+          "id" : "!!204@definition",
+          "source" : "Stain, May-Grunwald Giemsa",
+          "target" : ""
+        },
+        {
+          "id" : "!!205",
+          "source" : "Methyl green stain",
+          "target" : "Coloration au vert de méthyl"
+        },
+        {
+          "id" : "!!205@definition",
+          "source" : "Stain, Methyl green",
+          "target" : ""
+        },
+        {
+          "id" : "!!206",
+          "source" : "Methyl green pyronin stain",
+          "target" : "Coloration au vert de méthyl pyronine"
+        },
+        {
+          "id" : "!!206@definition",
+          "source" : "Stain, Methyl green pyronin",
+          "target" : ""
+        },
+        {
+          "id" : "!!207",
+          "source" : "Modified Gomori-Wheatly trichrome stain",
+          "target" : "Coloration trichrome Gomori-Wheatley"
+        },
+        {
+          "id" : "!!207@definition",
+          "source" : "Stain, Modified Gomori-Wheatly trichrome",
+          "target" : ""
+        },
+        {
+          "id" : "!!208",
+          "source" : "Modified Masson trichrome stain",
+          "target" : "Coloration trichrome Masson modifié"
+        },
+        {
+          "id" : "!!208@definition",
+          "source" : "Stain, Modified Masson trichrome",
+          "target" : ""
+        },
+        {
+          "id" : "!!209",
+          "source" : "Modified trichrome stain",
+          "target" : "Coloration trichrome modifié"
+        },
+        {
+          "id" : "!!209@definition",
+          "source" : "Stain, Modified trichrome",
+          "target" : ""
+        },
+        {
+          "id" : "!!210",
+          "source" : "Movat pentachrome stain",
+          "target" : "Coloration pentachrome Movat"
+        },
+        {
+          "id" : "!!210@definition",
+          "source" : "Stain, Movat pentachrome",
+          "target" : ""
+        },
+        {
+          "id" : "!!211",
+          "source" : "Mucicarmine stain",
+          "target" : "Coloration mucicarmine"
+        },
+        {
+          "id" : "!!211@definition",
+          "source" : "Stain, Mucicarmine",
+          "target" : ""
+        },
+        {
+          "id" : "!!212",
+          "source" : "Neutral red stain",
+          "target" : "Coloration rouge neutre"
+        },
+        {
+          "id" : "!!212@definition",
+          "source" : "Stain, Neutral red",
+          "target" : ""
+        },
+        {
+          "id" : "!!213",
+          "source" : "Night blue stain",
+          "target" : "Coloration bleu nuit"
+        },
+        {
+          "id" : "!!213@definition",
+          "source" : "Stain, Night blue",
+          "target" : ""
+        },
+        {
+          "id" : "!!214",
+          "source" : "Non-specific esterase stain",
+          "target" : "Coloration estérase non spécifique"
+        },
+        {
+          "id" : "!!214@definition",
+          "source" : "Stain, Non-specific esterase",
+          "target" : ""
+        },
+        {
+          "id" : "!!215",
+          "source" : "Oil red-O stain",
+          "target" : "Coloration huile rouge O"
+        },
+        {
+          "id" : "!!215@definition",
+          "source" : "Stain, Oil red-O",
+          "target" : ""
+        },
+        {
+          "id" : "!!216",
+          "source" : "Orcein stain",
+          "target" : "Coloration orcéine"
+        },
+        {
+          "id" : "!!216@definition",
+          "source" : "Stain, Orcein",
+          "target" : ""
+        },
+        {
+          "id" : "!!217",
+          "source" : "Perls' stain",
+          "target" : "Coloration de Perls"
+        },
+        {
+          "id" : "!!217@definition",
+          "source" : "Stain, Perls'",
+          "target" : ""
+        },
+        {
+          "id" : "!!218",
+          "source" : "Phosphotungstic acid-hematoxylin stain",
+          "target" : "Coloration hématoxyline phosphotungstique"
+        },
+        {
+          "id" : "!!218@definition",
+          "source" : "Stain, Phosphotungstic acid-hematoxylin",
+          "target" : ""
+        },
+        {
+          "id" : "!!219",
+          "source" : "Potassium ferrocyanide stain",
+          "target" : "Coloration ferrocyanure de potassium"
+        },
+        {
+          "id" : "!!219@definition",
+          "source" : "Stain, Potassium ferrocyanide",
+          "target" : ""
+        },
+        {
+          "id" : "!!220",
+          "source" : "Prussian blue stain",
+          "target" : "Coloration bleu de Prusse"
+        },
+        {
+          "id" : "!!220@definition",
+          "source" : "Stain, Prussian blue",
+          "target" : ""
+        },
+        {
+          "id" : "!!221",
+          "source" : "Putchler modified Bennhold stain",
+          "target" : "Coloration Bennhold modifiée"
+        },
+        {
+          "id" : "!!221@definition",
+          "source" : "Stain, Putchler modified Bennhold",
+          "target" : ""
+        },
+        {
+          "id" : "!!222",
+          "source" : "Quinacrine fluorescent stain",
+          "target" : "Coloration quinacrine fluorescente"
+        },
+        {
+          "id" : "!!222@definition",
+          "source" : "Stain, Quinacrine fluorescent",
+          "target" : ""
+        },
+        {
+          "id" : "!!223",
+          "source" : "Reticulin stain",
+          "target" : "Coloration réticuline"
+        },
+        {
+          "id" : "!!223@definition",
+          "source" : "Stain, Reticulin",
+          "target" : ""
+        },
+        {
+          "id" : "!!224",
+          "source" : "Rhodamine stain",
+          "target" : "Coloration rhodamine"
+        },
+        {
+          "id" : "!!224@definition",
+          "source" : "Stain, Rhodamine",
+          "target" : ""
+        },
+        {
+          "id" : "!!225",
+          "source" : "Safranin stain",
+          "target" : "Coloration safranée"
+        },
+        {
+          "id" : "!!225@definition",
+          "source" : "Stain, Safranin",
+          "target" : ""
+        },
+        {
+          "id" : "!!226",
+          "source" : "Schmorl stain",
+          "target" : "Coloration Schmorl"
+        },
+        {
+          "id" : "!!226@definition",
+          "source" : "Stain, Schmorl",
+          "target" : ""
+        },
+        {
+          "id" : "!!227",
+          "source" : "Seiver-Munger stain",
+          "target" : "Coloration Sevier-Munger"
+        },
+        {
+          "id" : "!!227@definition",
+          "source" : "Stain, Seiver-Munger",
+          "target" : ""
+        },
+        {
+          "id" : "!!228",
+          "source" : "Silver stain",
+          "target" : "Coloration argentique"
+        },
+        {
+          "id" : "!!228@definition",
+          "source" : "Stain, Silver",
+          "target" : ""
+        },
+        {
+          "id" : "!!229",
+          "source" : "Specific esterase stain",
+          "target" : "Coloration estérase spécifique (Butyrate estérase)"
+        },
+        {
+          "id" : "!!229@definition",
+          "source" : "Stain, Specific esterase",
+          "target" : ""
+        },
+        {
+          "id" : "!!230",
+          "source" : "Steiner silver stain",
+          "target" : "Coloration Steiner"
+        },
+        {
+          "id" : "!!230@definition",
+          "source" : "Stain, Steiner silver",
+          "target" : ""
+        },
+        {
+          "id" : "!!231",
+          "source" : "Sudan III stain",
+          "target" : "Coloration Soudan III"
+        },
+        {
+          "id" : "!!231@definition",
+          "source" : "Stain, Sudan III",
+          "target" : ""
+        },
+        {
+          "id" : "!!232",
+          "source" : "Sudan IVI stain",
+          "target" : "Coloration Soudan IV"
+        },
+        {
+          "id" : "!!232@definition",
+          "source" : "Stain, Sudan IVI",
+          "target" : ""
+        },
+        {
+          "id" : "!!233",
+          "source" : "Sulfated alcian blue stain",
+          "target" : "Coloration bleu alcian sulfaté"
+        },
+        {
+          "id" : "!!233@definition",
+          "source" : "Stain, Sulfated alcian blue",
+          "target" : ""
+        },
+        {
+          "id" : "!!234",
+          "source" : "Supravital stain",
+          "target" : "Coloration supravitale"
+        },
+        {
+          "id" : "!!234@definition",
+          "source" : "Stain, Supravital",
+          "target" : ""
+        },
+        {
+          "id" : "!!235",
+          "source" : "Thioflavine-S stain",
+          "target" : "Coloration thioflavine-S"
+        },
+        {
+          "id" : "!!235@definition",
+          "source" : "Stain, Thioflavine-S",
+          "target" : ""
+        },
+        {
+          "id" : "!!236",
+          "source" : "Three micron Giemsa stain",
+          "target" : "Coloration Giemsa 3µ"
+        },
+        {
+          "id" : "!!236@definition",
+          "source" : "Stain, Three micron Giemsa",
+          "target" : ""
+        },
+        {
+          "id" : "!!237",
+          "source" : "Vassar-Culling stain",
+          "target" : "Coloration Vassar-Culling"
+        },
+        {
+          "id" : "!!237@definition",
+          "source" : "Stain, Vassar-Culling",
+          "target" : ""
+        },
+        {
+          "id" : "!!238",
+          "source" : "Vital Stain",
+          "target" : "Coloration vitale"
+        },
+        {
+          "id" : "!!238@definition",
+          "source" : "Stain, Vital",
+          "target" : ""
+        },
+        {
+          "id" : "!!239",
+          "source" : "von Kossa stain",
+          "target" : "Coloration Von Kossa"
+        },
+        {
+          "id" : "!!239@definition",
+          "source" : "Stain, von Kossa",
+          "target" : ""
+        },
+        {
+          "id" : "!!240",
+          "source" : "Antibiotic sensitivity, disk",
+          "target" : "Antibiogramme méthode par diffusion"
+        },
+        {
+          "id" : "!!240@definition",
+          "source" : "Susceptibility, Antibiotic sensitivity, disk",
+          "target" : ""
+        },
+        {
+          "id" : "!!241",
+          "source" : "BACTEC susceptibility test",
+          "target" : "Antibiogramme méthode par automate BACTEC"
+        },
+        {
+          "id" : "!!241@definition",
+          "source" : "Susceptibility, BACTEC susceptibility test",
+          "target" : ""
+        },
+        {
+          "id" : "!!242",
+          "source" : "Disk dilution",
+          "target" : "Antibiogramme méthode par dilution"
+        },
+        {
+          "id" : "!!242@definition",
+          "source" : "Susceptibility, Disk dilution",
+          "target" : ""
+        },
+        {
+          "id" : "!!243",
+          "source" : "Minimum bactericidal concentration test, macrodilution",
+          "target" : "Concentration minimale bactéricide (CMB) par macrodilution (tube)"
+        },
+        {
+          "id" : "!!243@definition",
+          "source" : "Susceptibility, Minimum bactericidal concentration, macrodilution",
+          "target" : ""
+        },
+        {
+          "id" : "!!244",
+          "source" : "Minimum bactericidal concentration test, microdilution",
+          "target" : "Concentration minimale bactéricide (CMB) par microdilution (plaque)"
+        },
+        {
+          "id" : "!!244@definition",
+          "source" : "Susceptibility, Minimum bactericidal concentration, microdilution",
+          "target" : ""
+        },
+        {
+          "id" : "!!245",
+          "source" : "Minimum Inhibitory Concentration, macrodilution",
+          "target" : "Concentration minimale inhibitrice (CMI) par macrodilution (tube)"
+        },
+        {
+          "id" : "!!245@definition",
+          "source" : "Susceptibility, Minimum Inhibitory concentration, macrodilution",
+          "target" : ""
+        },
+        {
+          "id" : "!!246",
+          "source" : "Minimum Inhibitory Concentration, microdilution",
+          "target" : "Concentration minimale inhibitrice (CMI) par microdilution (plaque)"
+        },
+        {
+          "id" : "!!246@definition",
+          "source" : "Susceptibility, Minimum Inhibitory concentration, microdilution",
+          "target" : ""
+        },
+        {
+          "id" : "!!247",
+          "source" : "Turbidometric",
+          "target" : "Turbidimétrie"
+        },
+        {
+          "id" : "!!247@definition",
+          "source" : "Turbidometric",
+          "target" : ""
+        },
+        {
+          "id" : "!!248",
+          "source" : "Refractometric",
+          "target" : "Réfractométrie"
+        },
+        {
+          "id" : "!!248@definition",
+          "source" : "Turbidometric, Refractometric",
+          "target" : ""
+        },
+        {
+          "id" : "!!249",
+          "source" : "Thin layer chromatography (TLC)",
+          "target" : "Chromatographie couche mince"
+        },
+        {
+          "id" : "!!249@definition",
+          "source" : "Chromatography, Thin Layer",
+          "target" : ""
+        },
+        {
+          "id" : "!!250",
+          "source" : "EMIT",
+          "target" : "EMIT"
+        },
+        {
+          "id" : "!!250@definition",
+          "source" : "Immunoassay, enzyme-multiplied technique (EMIT)",
+          "target" : ""
+        },
+        {
+          "id" : "!!251",
+          "source" : "Flow cytometry (FC)",
+          "target" : "Cytométrie de flux"
+        },
+        {
+          "id" : "!!251@definition",
+          "source" : "Flow Cytometry",
+          "target" : ""
+        },
+        {
+          "id" : "!!252",
+          "source" : "Radial immunodiffusion (RID)",
+          "target" : "Immunodiffusion radiale (RID)"
+        },
+        {
+          "id" : "!!252@definition",
+          "source" : "Radial Immunodiffusion",
+          "target" : ""
+        },
+        {
+          "id" : "!!253",
+          "source" : "Fluorescence polarization immunoassay (FPIA)",
+          "target" : "PFIA"
+        },
+        {
+          "id" : "!!253@definition",
+          "source" : "Immunoassay, Fluorescence Polarization",
+          "target" : ""
+        },
+        {
+          "id" : "!!254",
+          "source" : "Immunofixation electrophoresis (IFE)",
+          "target" : "Immunofixation"
+        },
+        {
+          "id" : "!!254@definition",
+          "source" : "Electrophoresis, Immunofixation",
+          "target" : ""
+        },
+        {
+          "id" : "!!255",
+          "source" : "Equilibrium dialysis",
+          "target" : "Dialyse à l'équilibre"
+        },
+        {
+          "id" : "!!255@definition",
+          "source" : "Dialysis, Direct Equilibrium",
+          "target" : ""
+        },
+        {
+          "id" : "!!256",
+          "source" : "Kleihauer-Betke acid elution",
+          "target" : "Elution acide de Kleihauer-Betke"
+        },
+        {
+          "id" : "!!256@definition",
+          "source" : "Acid Elution, Kleihauer-Betke Method",
+          "target" : ""
+        },
+        {
+          "id" : "!!257",
+          "source" : "Anti-complement immunofluorescence (ACIF)",
+          "target" : "Immunofluorescence anti-complément (ACIF)"
+        },
+        {
+          "id" : "!!257@definition",
+          "source" : "Immunofluorescence, Anti-Complement",
+          "target" : ""
+        },
+        {
+          "id" : "!!258",
+          "source" : "GC/MS",
+          "target" : "Chromatographie phase gazeuse/Spectroscopie de masse (GC/MS)"
+        },
+        {
+          "id" : "!!258@definition",
+          "source" : "Gas Chromatography/Mass Spectroscopy",
+          "target" : ""
+        },
+        {
+          "id" : "!!259",
+          "source" : "Nephelometry",
+          "target" : "Néphélométrie"
+        },
+        {
+          "id" : "!!259@definition",
+          "source" : "Light Scatter, Nephelometry",
+          "target" : ""
+        },
+        {
+          "id" : "!!261",
+          "source" : "Lymphocyte Microcytotoxicity Assay",
+          "target" : "Test de micro-lymphocytotoxicité"
+        },
+        {
+          "id" : "!!261@definition",
+          "source" : "Lymphocyte Microcytotoxicity Assay",
+          "target" : ""
+        },
+        {
+          "id" : "!!262",
+          "source" : "Spectrophotometry",
+          "target" : "Spectrophotométrie"
+        },
+        {
+          "id" : "!!262@definition",
+          "source" : "Spectrophotometry",
+          "target" : ""
+        },
+        {
+          "id" : "!!263",
+          "source" : "Atomic absorption spectrophotometry (AAS)",
+          "target" : "Spectrophotométrie d'absorption atomique (SAA)"
+        },
+        {
+          "id" : "!!263@definition",
+          "source" : "Spectrophotometry, Atomic Absorption",
+          "target" : ""
+        },
+        {
+          "id" : "!!264",
+          "source" : "Ion selective electrode (ISE)",
+          "target" : "Electrode ionique sélective"
+        },
+        {
+          "id" : "!!264@definition",
+          "source" : "Electrochemical, Ion Selective Electrode",
+          "target" : ""
+        },
+        {
+          "id" : "!!265",
+          "source" : "Gas chromatography (GC)",
+          "target" : "Chromatographie phase gazeuse (CG)"
+        },
+        {
+          "id" : "!!265@definition",
+          "source" : "Chromatography, Gas",
+          "target" : ""
+        },
+        {
+          "id" : "!!266",
+          "source" : "Isoelectric focusing (IEF)",
+          "target" : "Isoélectrofocalisation (IEF)"
+        },
+        {
+          "id" : "!!266@definition",
+          "source" : "Isoelectric Focusing",
+          "target" : ""
+        },
+        {
+          "id" : "!!267",
+          "source" : "Immunochemiluminescence",
+          "target" : "Chimioluminescence"
+        },
+        {
+          "id" : "!!267@definition",
+          "source" : "Immunoassay, Chemiluminescent",
+          "target" : ""
+        },
+        {
+          "id" : "!!268",
+          "source" : "Microparticle enzyme immunoassay (MEIA)",
+          "target" : "MEIA"
+        },
+        {
+          "id" : "!!268@definition",
+          "source" : "Immunoassay, Microparticle Enzyme",
+          "target" : ""
+        },
+        {
+          "id" : "!!269",
+          "source" : "ICP/MS",
+          "target" : "Spectrométrie de masse à plasma à couplage inductif (ICP/MS)"
+        },
+        {
+          "id" : "!!269@definition",
+          "source" : "Inductively-Coupled Plasma/Mass Spectrometry",
+          "target" : ""
+        },
+        {
+          "id" : "!!270",
+          "source" : "Immunoradiometric assay (IRMA)",
+          "target" : "IRMA"
+        },
+        {
+          "id" : "!!270@definition",
+          "source" : "Immunoassay, Immunoradiometric Assay",
+          "target" : ""
+        },
+        {
+          "id" : "!!271",
+          "source" : "Photo optical clot detection",
+          "target" : "Coagulation par détection optique du caillot"
+        },
+        {
+          "id" : "!!271@definition",
+          "source" : "Coagulation, Photo Optical Clot Detection",
+          "target" : ""
+        },
+        {
+          "id" : "!!272",
+          "source" : "Minimum Inhibitory Concentration",
+          "target" : "Concentration minimale inhibitrice (CMI)"
+        },
+        {
+          "id" : "!!272@definition",
+          "source" : "Testing to measure the minimum concentration of the antibacterial agent in a given culture medium below which bacterial growth is not inhibited.",
+          "target" : ""
+        },
+        {
+          "id" : "!!273",
+          "source" : "Viral Genotype Susceptibility",
+          "target" : "Susceptibilité génotypique virale"
+        },
+        {
+          "id" : "!!274",
+          "source" : "Viral Phenotype Susceptibility",
+          "target" : "Susceptibilité phénotypique virale"
+        },
+        {
+          "id" : "!!275",
+          "source" : "Gradient Strip",
+          "target" : "Bandelette à gradient"
+        },
+        {
+          "id" : "!!275a",
+          "source" : "275a",
+          "target" : "Concentration minimale létale (CML)"
+        },
+        {
+          "id" : "!!276",
+          "source" : "Slow Mycobacteria Susceptibility",
+          "target" : "Susceptibilité des mycobactéries à croissance lente"
+        },
+        {
+          "id" : "!!276@definition",
+          "source" : "Testing to measure the minimum concentration of the antibacterial agent in a given culture medium below which bacterial growth is not inhibited.",
+          "target" : ""
+        },
+        {
+          "id" : "!!277",
+          "source" : "Serum bactericidal titer",
+          "target" : "Titre bactéricide sérique (TBS)"
+        },
+        {
+          "id" : "!!278",
+          "source" : "Agar screen",
+          "target" : "Dépistage sur gélose"
+        },
+        {
+          "id" : "!!279",
+          "source" : "Disk induction",
+          "target" : "Test d'induction par disque"
+        },
+        {
+          "id" : "!!280",
+          "source" : "Susceptibility Testing",
+          "target" : "Test de sensibilité"
+        },
+        {
+          "id" : "!!280@definition",
+          "source" : "Test methods designed to determine a microorganismaTMs susceptibility to being killed by an antibiotic.",
+          "target" : ""
+        },
+        {
+          "id" : "!!VDOC@definition",
+          "source" : "Verification by means of document.",
+          "target" : ""
+        },
+        {
+          "id" : "!!VREG@definition",
+          "source" : "verification by means of a response to an electronic query",
+          "target" : ""
+        },
+        {
+          "id" : "!!VTOKEN@definition",
+          "source" : "Verification by means of electronic token.",
+          "target" : ""
+        },
+        {
+          "id" : "!!VVOICE@definition",
+          "source" : "Verification by means of voice.",
+          "target" : ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="fr-FR" id="CodeSystem-condition-clinical" original="Resource CodeSystem-condition-clinical" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-condition-clinical" resname="active">
+        <source>Active</source>
+        <target>Actif</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-condition-clinical" resname="active@definition">
+        <source>The subject is currently experiencing the condition or situation, there is evidence of the condition or situation, or considered to be a significant risk.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-condition-clinical" resname="recurrence">
+        <source>Recurrence</source>
+        <target>Récurrent</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-condition-clinical" resname="recurrence@definition">
+        <source>The subject is experiencing a reoccurence or repeating of a previously resolved condition or situation, e.g. urinary tract infection, food insecurity.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-condition-clinical" resname="relapse">
+        <source>Relapse</source>
+        <target>Rechute</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-condition-clinical" resname="relapse@definition">
+        <source>The subject is experiencing a return of a condition or situation after a period of improvement or remission, e.g. relapse of cancer, alcoholism.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-condition-clinical" resname="inactive">
+        <source>Inactive</source>
+        <target>Inactif</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-condition-clinical" resname="inactive@definition">
+        <source>The subject is no longer experiencing the condition or situation and there is no longer evidence or appreciable risk of the condition or situation.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-condition-clinical" resname="remission">
+        <source>Remission</source>
+        <target>En rémission</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-condition-clinical" resname="remission@definition">
+        <source>The subject is not presently experiencing the condition or situation, but there is a risk of the condition or situation returning.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-condition-clinical" resname="resolved">
+        <source>Resolved</source>
+        <target>Résolu</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-condition-clinical" resname="resolved@definition">
+        <source>The subject is not presently experiencing the condition or situation and there is a negligible perceived risk of the condition or situation returning.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-condition-clinical" resname="unknown">
+        <source>Unknown</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-condition-clinical" resname="unknown@definition">
+        <source>The authoring/source system does not know which of the status values currently applies for this condition. Note: This concept is not to be used for &quot;other&quot; - one of the listed statuses is presumed to apply, but the authoring/source system does not know which.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

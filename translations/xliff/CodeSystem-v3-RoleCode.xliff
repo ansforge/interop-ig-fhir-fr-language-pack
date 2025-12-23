@@ -1,0 +1,3030 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="fr-FR" id="CodeSystem-v3-RoleCode" original="Resource CodeSystem-v3-RoleCode" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_AffiliationRoleType">
+        <source>AffiliationRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_AffiliationRoleType@definition">
+        <source>Concepts characterizing the type of association formed by player and scoper when there is a recognized Affiliate role by which the two parties are related.
+
+*Examples:* Business Partner, Business Associate, Colleague</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_AssignedRoleType">
+        <source>AssignedRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_CertifiedEntityType">
+        <source>CertifiedEntityType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_CertifiedEntityType@definition">
+        <source>Defines types of certifications for all entities</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_CitizenRoleType">
+        <source>CitizenRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_CitizenRoleType@definition">
+        <source>A role type used to qualify a person's legal status within a country or nation.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ContactRoleType">
+        <source>ContactRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ContactRoleType@definition">
+        <source>Types of contact for Role code &quot;CON&quot;</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_IdentifiedEntityType">
+        <source>IdentifiedEntityType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_IdentifiedEntityType@definition">
+        <source>**Definition:** A code representing the type of identifier that has been assigned to the identified entity (IDENT).
+
+**Examples:** Example values include Social Insurance Number, Product Catalog ID, Product Model Number.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_LivingSubjectProductionClass">
+        <source>LivingSubjectProductionClass</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_LivingSubjectProductionClass@definition">
+        <source>Code indicating the primary use for which a living subject is bred or grown</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_MedicationGeneralizationRoleType">
+        <source>MedicationGeneralizationRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_MedicationGeneralizationRoleType@definition">
+        <source>Identifies the specific hierarchical relationship between the playing and scoping medications.
+
+*Examples:* Generic, Generic Formulation, Therapeutic Class, etc.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_MemberRoleType">
+        <source>MemberRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_MemberRoleType@definition">
+        <source>Types of membership for Role code &quot;MBR&quot;</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_PersonalRelationshipRoleType">
+        <source>PersonalRelationshipRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_PolicyOrProgramCoverageRoleType">
+        <source>PolicyOrProgramCoverageRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_PolicyOrProgramCoverageRoleType@definition">
+        <source>**Description:** A role recognized through the eligibility of an identified party for benefits covered under an insurance policy or a program based on meeting eligibility criteria.
+
+Eligibility as a covered party may be conditioned on the party meeting criteria to qualify for coverage under a policy or program, which may be mandated by law. These criteria may be:
+
+1.  The sole basis for coverage, e.g., being differently abled may qualify a person for disability coverage
+2.  May more fully qualify a covered party role e.g, being differently abled may qualify an adult child as a dependent
+3.  May impact the level of coverage for a covered party under a policy or program, e.g., being differently abled may qualify a program eligible for additional benefits.
+
+**Discussion:** The Abstract Value Set &quot;CoverageRoleType&quot;, which was developed for use in the Canadian realm &quot;pre-coordinate&quot; coverage roles with other roles that a covered party must play in order to be eligible for coverage, e.g., &quot;handicapped dependent&quot;. These role.codes may only be used with COVPTY to avoid overlapping concepts that would result from using them to specify the specializations of COVPTY, e.g., the role.class DEPEN should not be used with the role.code family dependent because that relationship has overlapping concepts due to the role.code precoodination and is conveyed in FICO with the personal relationship role that has a PART role link to the covered party role. For the same reasons, the role.class DEPEN should not be used with the role.code HANDIC (handicapped dependent); the role.code DIFFABLE (differently abled) should be used instead.
+
+In summary, the coded concepts in the Abstract Value Set &quot;CoveredPartyRoleType&quot; can be &quot;post-coordinated&quot; with the &quot;RoleClassCoveredParty&quot; Abstract Value Set. Decoupling these concepts is intended to support an expansive range of covered party concepts and their semantic comparability.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ResearchSubjectRoleBasis">
+        <source>ResearchSubjectRoleBasis</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ResearchSubjectRoleBasis@definition">
+        <source>Specifies the administrative functionality within a formal experimental design for which the ResearchSubject role was established. Examples: screening - role is used for pre-enrollment evaluation portion of the design; enrolled - role is used for subjects admitted to the active treatment portion of the design.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ServiceDeliveryLocationRoleType">
+        <source>ServiceDeliveryLocationRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ServiceDeliveryLocationRoleType@definition">
+        <source>A role of a place that further classifies the setting (e.g., accident site, road side, work site, community location) in which services are delivered.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_SpecimenRoleType">
+        <source>SpecimenRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CLAIM">
+        <source>claimant</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CLAIM@definition">
+        <source>A party that makes a claim for coverage under a policy.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="communityLaboratory">
+        <source>Community Laboratory</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GT">
+        <source>Guarantor</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GT@definition">
+        <source>An individual or organization that makes or gives a promise, assurance, pledge to pay or has paid the healthcare service provider.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="homeHealth">
+        <source>Home Health</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="laboratory">
+        <source>Laboratory</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="pathologist">
+        <source>Pathologist</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PH">
+        <source>Policy Holder</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PH@definition">
+        <source>Policy holder for the insurance policy.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="phlebotomist">
+        <source>Phlebotomist</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PROG">
+        <source>program eligible</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PROG@definition">
+        <source>A party that meets the eligibility criteria for coverage under a program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PT">
+        <source>Patient</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PT@definition">
+        <source>The recipient for the service(s) and/or product(s) when they are not the covered party.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="subject">
+        <source>Self</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="thirdParty">
+        <source>Third Party</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_AdministrativeLocationRoleType">
+        <source>AdministrativeLocationRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ClinicalOrganizationRoleType">
+        <source>ClinicalOrganizationRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ClinicalOrganizationRoleType@definition">
+        <source>A role of an organization that further classifies the clincial responsibility for the healthcare care delivered during an encounter. E.g. cardiology service, pediatric service, nursing services.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_CommissioningPartyRoleType">
+        <source>CommissioningPartyRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_DeviceOperatorType">
+        <source>DeviceOperatorType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_DeviceOperatorType@definition">
+        <source>Indicates the type of person that is responsible for operating the device related to the incident reported in ICSR.
+
+Examples include: Physician, Nurse, Medical Technician, Respiratory Technician.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_EmployeeRoleType">
+        <source>EmployeeRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_HealthcareProviderRoleType">
+        <source>HealthcareProviderRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_LicensedRoleType">
+        <source>LicensedRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_NDCRelatedDrugEntityType">
+        <source>NDCRelatedDrugEntityType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_NDCRelatedDrugEntityType@definition">
+        <source>NDC Regulated Drug Entity Type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_OrganizationPartRoleType">
+        <source>OrganizationPartRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ProductProcessingOrganizationRoleType">
+        <source>ProductProcessingOrganizationRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ProductProcessingOrganizationRoleType@definition">
+        <source>**Description:** Indicates the role that an organization takes in the process by which a product goes from an original manufacturer to the eventual consumer.
+
+**Examples:**Manufacturer, re-processor
+
+**Note:**These two values are currently used in adverse event and product problem reporting.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ProductSafetyReportPartyRoleType">
+        <source>ProductSafetyReportPartyRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ProductSafetyReportPartyRoleType@definition">
+        <source>**Description:**Captures the different roles that are recorded to characterize the qualifications or stations in life of persons or organizations who participate as senders or as receivers of adverse event or product problem reports.
+
+**Example:**Example values may include: physician, healthcare facility, attorney, family member, regulatory agency. Initial effort to find defined concepts for this value set will focus on the HIPAA provider taxonomy.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_QualifiedRoleType">
+        <source>QualifiedRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DEP">
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DEPEN">
+        <source>dependent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DEPEN@definition">
+        <source>A party covered under a policy based on association with a subscriber.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FM">
+        <source>Family Member</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FM@definition">
+        <source>A member of the covered party's family. This could be the spouse, a parent, a grand parent, a sibling, etc.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INDIV">
+        <source>individual</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INDIV@definition">
+        <source>A party covered under a policy as the policyholder.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NAMED">
+        <source>named insured</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NAMED@definition">
+        <source>A party to an insurance policy to whom the insurer agrees to indemnify for losses, provides benefits for, or renders services.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PSYCHCF">
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SUBSCR">
+        <source>subscriber</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SUBSCR@definition">
+        <source>A party covered under a policy based on association with a sponsor who is the policy holder, and whose association may provide for the eligibility of dependents for coverage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BILL">
+        <source>Billing Contact</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BILL@definition">
+        <source>A contact role used to identify a person within a Provider organization that can be contacted for billing purposes (e.g. about the content of the Invoice).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ORG">
+        <source>organizational contact</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ORG@definition">
+        <source>A contact for an organization for administrative purposes. Contact role specifies a person acting as a liason for the organization.
+
+Example: HR Department representative.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PAYOR">
+        <source>Payor Contact</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PAYOR@definition">
+        <source>A contact role used to identify a person within a Payor organization to whom this communication is addressed.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_AgentRoleType">
+        <source>AgentRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_AgentRoleType@definition">
+        <source>Parties that may or should contribute or have contributed to an Act.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_CoverageSponsorRoleType">
+        <source>CoverageSponsorRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_CoverageSponsorRoleType@definition">
+        <source>**Description:**Codes that indicate a specific type of sponsor. Used when the sponsor's role is only either as a fully insured sponsor or only as a self-insured sponsor. NOTE: Where a sponsor may be either, use the SponsorParticipationFunction.code (fully insured or self insured) to indicate the type of responsibility. (CO6-0057)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_PayorRoleType">
+        <source>PayorRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_PayorRoleType@definition">
+        <source>**Description:**PayorRoleType for a particular type of policy or program benefit package or plan where more detail about the coverage administration role of the Payor is required. The functions performed by a Payor qualified by a PayorRoleType may be specified by the PayorParticpationFunction value set.
+
+**Examples:**A Payor that is a TPA may administer a managed care plan without underwriting the risk.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RESPRSN">
+        <source>responsible party</source>
+        <target>Responsable légal non membre de la famille</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RESPRSN@definition">
+        <source>The role played by a party who has legal responsibility for another party.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="AMENDER">
+        <source>amender</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="AMENDER@definition">
+        <source>An entity which corrected, edited, or amended pre-existing information.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CLASSIFIER">
+        <source>classifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CLASSIFIER@definition">
+        <source>An individual authorized to assign an original classification to information, including compilations of unclassified information, based on a determination that the information requires protection against unauthorized disclosure. The individual marks the information with immutable, computable, and human readable security labels in accordance with applicable security labeling policies. The labeling policies provide instructions on whether and if so how the security labels may be later reclassified \[i.e., upgraded, downgraded, used in derivative classification, or declassified\] in a manner that preserves the overridden original classification binding and provenance.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CONSENTER">
+        <source>consenter</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CONSENTER@definition">
+        <source>An entity or an entity's delegatee who is the grantee in an agreement such as a consent for services, advanced directive, or a privacy consent directive in accordance with jurisdictional, organizational, or patient policy.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CONSWIT">
+        <source>consent witness</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CONSWIT@definition">
+        <source>An entity which has witnessed and attests to observing another entity being counseled about an agreement such as a consent for services, advanced directive, or a privacy consent directive.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="COPART">
+        <source>co-participant</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="COPART@definition">
+        <source>An entity which participates in the generation of and attest to veracity of content, but is not an author or coauthor. For example a surgeon who is required by institutional, regulatory, or legal rules to sign an operative report, but who was not involved in the authorship of that report.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DECLASSIFIER">
+        <source>declassifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DECLASSIFIER@definition">
+        <source>An individual which is authorized to declassify information based on a determination that the information no longer requires protection against unauthorized disclosure. The individual marks the information being declassified using computable and human readable security labels indicating that this is copy of previously classified information is unclassified in accordance with applicable security labeling policies. The labeling policies provide instructions on whether and if so how the security labels may be later reclassified \[i.e., upgraded or used in derivative classification\] in a manner that preserves the overridden original classification binding and provenance.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DELEGATEE">
+        <source>delegatee</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DELEGATEE@definition">
+        <source>A party to whom some right or authority is granted by a delegator.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DELEGATOR">
+        <source>delegator</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DELEGATOR@definition">
+        <source>A party that grants all or some portion its right or authority to another party.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DOWNGRDER">
+        <source>downgrader</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DOWNGRDER@definition">
+        <source>An individual authorized to lower the classification level of labeled content and provide rationale for doing so as directed by a classification guide.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DRIVCLASSIFIER">
+        <source>derivative classifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DRIVCLASSIFIER@definition">
+        <source>An individual who is only authorized to classify reproduced, extracted, or summarized classified information, or compile classified and unclassified information by applying classification markings derived from source material or as directed by a classification guide.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRANTEE">
+        <source>grantee</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRANTEE@definition">
+        <source>An entity which accepts certain rights or authority from a grantor.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRANTOR">
+        <source>grantor</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRANTOR@definition">
+        <source>An entity which agrees to confer certain rights or authority to a grantee.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INTPRTER">
+        <source>interpreter</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INTPRTER@definition">
+        <source>An entity which converts spoken or written language into the language of key participants in an event such as when a provider is obtaining a patient's consent to treatment or permission to disclose information.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="REVIEWER">
+        <source>reviewer</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="REVIEWER@definition">
+        <source>An entity authorized to filter information according to approved criteria.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="UPGRDER">
+        <source>upgrader</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="UPGRDER@definition">
+        <source>An individual authorized to raise the classification level of labeled content and provide rationale for doing so as directed by a classification guide.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="VALIDATOR">
+        <source>validator</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="VALIDATOR@definition">
+        <source>An entity authorized to validate information for inclusion in a record.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ASSIST">
+        <source>Assistive non-person living subject</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ASSIST@definition">
+        <source>**Description:**Dogs trained to assist the ill or physically challenged.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BIOTH">
+        <source>Biotherapeutic non-person living subject</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BIOTH@definition">
+        <source>**Description:**Animals, including fish and insects, and microorganisms which may participate as assigned entities in biotherapies.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CCO">
+        <source>Clinical Companion</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CCO@definition">
+        <source>**Description:**Companion animals, such as dogs, cats, and rabbits, which may be provided to patients to improve general mood, decrease depression and loneliness, and distract from stress-inducing concerns to improve quality of life.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SEE">
+        <source>Seeing</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SEE@definition">
+        <source>**Description:**Dogs trained to assist persons who are seeing impaired or blind.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SNIFF">
+        <source>Sniffing</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SNIFF@definition">
+        <source>**Description:**Dogs trained or having the ability to detect imminent seizures or cancers in humans, probably as a result of volatile chemical (odors) given off by the malignancy of the host.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_AssignedNonPersonLivingSubjectRoleType">
+        <source>AssignedNonPersonLivingSubjectRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_AssignedNonPersonLivingSubjectRoleType@definition">
+        <source>**Description:**A role type that is used to further qualify a non-person subject playing a role where the role class attribute is set to RoleClass AssignedEntity</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_PractitionerCertifiedEntityType">
+        <source>PractitionerCertifiedEntityType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_PractitionerCertifiedEntityType@definition">
+        <source>Defines types of certifications for practitioners</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CAS">
+        <source>asylum seeker</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CAS@definition">
+        <source>A person who has fled his or her home country to find a safe place elsewhere.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CN">
+        <source>national</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CN@definition">
+        <source>A person who is legally recognized as a member of a nation or country, with associated rights and obligations.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CNRP">
+        <source>non-country member without residence permit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CNRP@definition">
+        <source>A foreigner who is present in a country (which is foreign to him/her) unlawfully or without the country's authorization (may be called an illegal alien).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CPCA">
+        <source>permit card applicant</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CPCA@definition">
+        <source>A non-country member admitted to the territory of a nation or country as a non-resident for an explicit purpose.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CRP">
+        <source>non-country member with residence permit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CRP@definition">
+        <source>A foreigner who is a resident of the country but does not have citizenship.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CRIMEVIC">
+        <source>crime victim</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CRIMEVIC@definition">
+        <source>**Description:** A person playing the role of program eligible under a program based on allegations of being the victim of a crime.
+
+**Discussion:** This CoveredPartyRoleType.code is typically used when the CoveredPartyRole class code is &quot;program eligible&quot; and the person's status as a crime victim meets jurisdictional or program criteria.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INJWKR">
+        <source>injured worker</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INJWKR@definition">
+        <source>**Description:** A person playing the role of program eligible under a workers compensation program based on the filing of work-related injury claim.
+
+**Discussion:** This CoveredPartyRoleType.code is used when the CoveredPartyRole class code is either &quot;program eligible&quot;, a &quot;named insured&quot;, and &quot;individual insured&quot;, or &quot;dependent&quot;, and the person's status as differently abled or &quot;handicapped&quot; meets jurisdictional, policy, or program criteria.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_AdministrativeContactRoleType">
+        <source>AdministrativeContactRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_AdministrativeContactRoleType@definition">
+        <source>A contact role used for business and/or administrative purposes.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ECON">
+        <source>emergency contact</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ECON@definition">
+        <source>A contact designated for contact in emergent situations.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NOK">
+        <source>next of kin</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NOK@definition">
+        <source>Played by an individual who is designated as the next of kin for another individual which scopes the role.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FAMDEP">
+        <source>family dependent</source>
+        <target>Couverture familiale</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FAMDEP@definition">
+        <source>The player of the role is dependent of the scoping entity.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HANDIC">
+        <source>handicapped dependent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HANDIC@definition">
+        <source>Covered party is a dependent of the policy holder with a physical or mental disability causing a disadvantage that makes independent achievement unusually difficult.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INJ">
+        <source>injured plaintiff</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INJ@definition">
+        <source>Covered party is an injured party with a legal claim for compensation against a policy holder under an insurance policy.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SELF">
+        <source>self</source>
+        <target>Couverture personnelle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SELF@definition">
+        <source>Covered party is the policy holder. Also known as the subscriber.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SPON">
+        <source>sponsored dependent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SPON@definition">
+        <source>Covered party is an individual that the policy holder has assumed responsibility for, such as foster child or legal ward.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STUD">
+        <source>student</source>
+        <target>Couverture étudiante</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STUD@definition">
+        <source>Covered party to an insurance policy has coverage through full-time or part-time attendance at a recognized educational institution as defined by a particular insurance policy.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ADOPT">
+        <source>adopted child</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ADOPT@definition">
+        <source>A child taken into one's family through legal means and raised as one's own child.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GCHILD">
+        <source>grandchild</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GCHILD@definition">
+        <source>A child of one's son or daughter.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GPARNT">
+        <source>grandparent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GPARNT@definition">
+        <source>parent of a parent of the subject.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NAT">
+        <source>natural child</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NAT@definition">
+        <source>A child as determined by birth.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NIENE">
+        <source>niece/nephew</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NIENE@definition">
+        <source>A child of one's brother or sister or of the brother or sister of one's spouse.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PARNT">
+        <source>parent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PARNT@definition">
+        <source>One that begets or brings forth offspring or a person who brings up and cares for for another (Webster's Collegiate Dictionary)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SPSE">
+        <source>spouse</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SPSE@definition">
+        <source>A marriage partner; a husband or wife.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STEP">
+        <source>step child</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STEP@definition">
+        <source>A child receiving parental care and nurture from a person who is related to them through marriage to their parent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FULLINS">
+        <source>Fully insured coverage sponsor</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FULLINS@definition">
+        <source>**Description:**An employer or organization that contracts with an underwriter to assumes the financial risk and administrative responsibility for coverage of health services for covered parties.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SELFINS">
+        <source>Self insured coverage sponsor</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SELFINS@definition">
+        <source>**Description:**An employer or organization that assumes the financial risk and administrative responsibility for coverage of health services for covered parties.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ClaimantCoveredPartyRoleType">
+        <source>ClaimantCoveredPartyRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ClaimantCoveredPartyRoleType@definition">
+        <source>**Description**A role recognized through the eligibility of a party play a claimant for benefits covered or provided under an insurance policy.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_DependentCoveredPartyRoleType">
+        <source>DependentCoveredPartyRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_DependentCoveredPartyRoleType@definition">
+        <source>**Description:** A role recognized through the eligibility of a party to play a dependent for benefits covered or provided under a health insurance policy because of an association with the subscriber that is recognized by the policy underwriter.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_IndividualInsuredPartyRoleType">
+        <source>IndividualInsuredPartyRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_IndividualInsuredPartyRoleType@definition">
+        <source>A role recognized through the eligibility of a party to play an individual insured for benefits covered or provided under an insurance policy where the party is also the policy holder.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ProgramEligiblePartyRoleType">
+        <source>ProgramEligiblePartyRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_ProgramEligiblePartyRoleType@definition">
+        <source>**Description:**A role recognized through the eligibility of a party to play a program eligible for benefits covered or provided under a program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_SubscriberCoveredPartyRoleType">
+        <source>SubscriberCoveredPartyRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_SubscriberCoveredPartyRoleType@definition">
+        <source>**Description:** A role recognized through the eligibility of a party to play a subscriber for benefits covered or provided under a health insurance policy.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DX">
+        <source>Diagnostics or therapeutics unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DX@definition">
+        <source>A practice setting where diagnostic procedures or therapeutic interventions are performed</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HOSP">
+        <source>Hospital</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HOSP@definition">
+        <source>An acute care institution that provides medical, surgical, or psychiatric care and treatment for the sick or the injured.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HU">
+        <source>Hospital unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NCCF">
+        <source>Nursing or custodial care facility</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="OF">
+        <source>Outpatient facility</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RTF">
+        <source>Residential treatment facility</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DADDR">
+        <source>Delivery Address</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DADDR@definition">
+        <source>Location address where medical supplies were transported to for use.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MOBL">
+        <source>Mobile Unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MOBL@definition">
+        <source>Location (mobile) where healthcare service was delivered.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PHARM">
+        <source>Pharmacy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PHARM@definition">
+        <source>Location where healthcare service was delivered, identified as a pharmacy.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_DedicatedClinicalLocationRoleType">
+        <source>DedicatedClinicalLocationRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_DedicatedClinicalLocationRoleType@definition">
+        <source>A role of a place that further classifies the clinical setting (e.g., cardiology clinic, primary care clinic, rehabilitation hospital, skilled nursing facility) in which care is delivered during an encounter.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_DedicatedNonClinicalLocationRoleType">
+        <source>DedicatedNonClinicalLocationRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_DedicatedNonClinicalLocationRoleType@definition">
+        <source>A role of a place that further classifies a setting that is intended to house the provision of non-clinical services.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="COCBEN">
+        <source>continuity of coverage beneficiary</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="COCBEN@definition">
+        <source>**Description:** A person playing the role of an individual insured with continuity of coverage under a policy which is being terminated based on loss of original status that was the basis for coverage. Criteria for qualifying for continuity of coverage may be set by law.
+
+**Discussion:** This CoveredPartyRoleType.code is typically used when the CoveredPartyRole class code is either &quot;program eligible&quot; or &quot;subscriber&quot; and the person's status as a continuity of coverage beneficiary meets jurisdictional or policy criteria.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DIFFABL">
+        <source>differently abled</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DIFFABL@definition">
+        <source>**Description:** A person playing the role of program eligible under a program based on meeting criteria for health or functional limitation set by law or by the program.
+
+**Discussion:** This CoveredPartyRoleType.code is typically used when the CoveredPartyRole class code is either &quot;program eligible&quot;, &quot;named insured&quot;, &quot;individual insured&quot;, or &quot;dependent&quot;, and the person's status as differently abled meets jurisdictional, policy, or program criteria.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="WARD">
+        <source>ward</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="WARD@definition">
+        <source>**Description:** A person, who is a minor or is deemed incompetent, who plays the role of a program eligible where eligibility for coverage is based on meeting program eligibility criteria for status as a ward of a court or jurisdiction.
+
+**Discussion:** This CoveredPartyRoleType.code is typically used when the CoveredPartyRole class code is a &quot;claimant&quot;, &quot;program eligible&quot;, a &quot;named insured&quot;, an &quot;individual Insured&quot; or a &quot;dependent&quot;, and the person's status as a ward meets program or policy criteria. In the case of a ward covered under a program providing financial or health benefits, a governmental agency may take temporary custody of a minor or incompetent for his/her protection and care, e.g., if the ward is suffering from neglect or abuse, or has been in trouble with the law.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_LocationIdentifiedEntityRoleCode">
+        <source>LocationIdentifiedEntityRoleCode</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_LocationIdentifiedEntityRoleCode@definition">
+        <source>**Description:**Describes types of identifiers other than the primary location registry identifier for a service delivery location. Identifiers may be assigned by a local service delivery organization, a formal body capable of accrediting the location for the capability to provide specific services or the identifier may be assigned at a jurisdictional level.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ACC">
+        <source>accident site</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ACC@definition">
+        <source>Location of an accident where healthcare service was delivered, such as a roadside.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="COMM">
+        <source>Community Location</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="COMM@definition">
+        <source>Community location where healthcare is delivered.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PTRES">
+        <source>Patient's Residence</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PTRES@definition">
+        <source>location where healthcare was delivered which is the residence of the Patient.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SCHOOL">
+        <source>school</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SCHOOL@definition">
+        <source>Location where healthcare service was delivered, identified as a school or educational facility.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="UPC">
+        <source>underage protection center</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="UPC@definition">
+        <source>**Description:** A location that plays the role of delivering services which may include: social emergency services required for a young person as required under any jurisdictional youth laws, child placement, and family mediation in the defined geographical area the SDL is responsible for. It may provide expertise in a judiciary setting on child custody, adoption and biological history research.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="WORK">
+        <source>work site</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="WORK@definition">
+        <source>Location where healthcare service was delivered, identified as a work place.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RETIREE">
+        <source>retiree</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RETIREE@definition">
+        <source>**Description:** A person playing the role of an individual insured under a policy based on meeting criteria for the employment status of retired set by law or the policy.
+
+**Discussion:** This CoveredPartyRoleType.code is typically used when the CoveredPartyRole class code is either &quot;program eligible&quot; or &quot;subscriber&quot; and the person's status as a retiree meets jurisdictional or policy criteria.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BF">
+        <source>Beef</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BF@definition">
+        <source>Cattle used for meat production</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BL">
+        <source>Broiler</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BL@definition">
+        <source>Chickens raised for meat</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BR">
+        <source>Breeder</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BR@definition">
+        <source>Breeding/genetic stock</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CO">
+        <source>Companion</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CO@definition">
+        <source>Companion animals</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DA">
+        <source>Dairy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DA@definition">
+        <source>Milk production</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DR">
+        <source>Draft</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DR@definition">
+        <source>Draft animals</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DU">
+        <source>Dual</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DU@definition">
+        <source>Dual purpose. Defined purposes based on species and breed</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FI">
+        <source>Fiber</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FI@definition">
+        <source>Animals raised for their fur, hair or skins</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="LY">
+        <source>Layer</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="LY@definition">
+        <source>Chickens raised for egg production</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MT">
+        <source>Meat</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MT@definition">
+        <source>Animals raised for meat production</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MU">
+        <source>Multiplier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MU@definition">
+        <source>Poultry flocks used for chick/poult production</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PL">
+        <source>Pleasure</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PL@definition">
+        <source>Animals rasied for recreation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RC">
+        <source>Racing</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RC@definition">
+        <source>Animals raised for racing perfomance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SH">
+        <source>Show</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SH@definition">
+        <source>Animals raised for shows</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="VL">
+        <source>Veal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="VL@definition">
+        <source>Cattle raised for veal meat production. Implicit is the husbandry method.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="WL">
+        <source>Wool</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="WL@definition">
+        <source>Sheep, goats and other mammals raised for their fiber</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="WO">
+        <source>Working</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="WO@definition">
+        <source>Animals used to perform work</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ACHFID">
+        <source>accreditation location identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ACHFID@definition">
+        <source>**Description:**Identifier assigned to a location by the organization responsible for accrediting the location.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="JURID">
+        <source>jurisdiction location identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="JURID@definition">
+        <source>**Description:**Identifier assigned to a location by a jurisdiction.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="LOCHFID">
+        <source>local location identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="LOCHFID@definition">
+        <source>**Description:**Identifier assigned to a location by a local party (which could be the facility itself or organization overseeing a group of facilities).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DC">
+        <source>therapeutic class</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DC@definition">
+        <source>**Description:**A categorization of medicinal products by their therapeutic properties and/or main therapeutic use.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GD">
+        <source>generic drug</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GD@definition">
+        <source>Relates a manufactured drug product to the non-proprietary (generic) representation of its ingredients independent of strength, and form.
+
+The scoping entity identifies a unique combination of medicine ingredients; sometimes referred to as &quot;ingredient set&quot;.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGDSF">
+        <source>manufactured drug strength form</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGDSF@definition">
+        <source>Relates a manufactured drug product to the non-proprietary (generic) representation of its ingredients with their strength in a specific dose form. The scoping entity identifies a unique combination of medicine ingredients with their strength in a single dose form.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="TRB">
+        <source>Tribal Member</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="TRB@definition">
+        <source>A person who is a member of a tribe.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ENROLBKR">
+        <source>Enrollment Broker</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ENROLBKR@definition">
+        <source>**Description:**A payor that is responsible for functions related to the enrollment of covered parties.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="TPA">
+        <source>Third party administrator</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="TPA@definition">
+        <source>**Description:**Third party administrator (TPA) is a payor organization that processes health care claims without carrying insurance risk. Third party administrators are prominent players in the managed care industry and have the expertise and capability to administer all or a portion of the claims process. They are normally contracted by a health insurer or self-insuring companies to administer services, including claims administration, premium collection, enrollment and other administrative activities.
+
+Self-insured employers often contract with third party administrator to handle their insurance functions. Insurance companies oftentimes outsource the claims, utilization review or membership functions to a TPA. Sometimes TPAs only manage provider networks, only claims or only utilization review.
+
+While some third-party administrators may operate as units of insurance companies, they are often independent. However, hospitals or provider organizations desiring to set up their own health plans will often outsource certain responsibilities to TPAs. TPAs may perform one or several payor functions, specified by the PayorParticipationFunction value set, such as provider management, enrollment, utilization management, and fee for service claims adjudication management.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="UMO">
+        <source>Utilization management organization</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="UMO@definition">
+        <source>**Description:**A payor that is responsible for review and case management of health services covered under a policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FAMMEMB">
+        <source>family member</source>
+        <target>Autre membre de la famille</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FAMMEMB@definition">
+        <source>A relationship between two people characterizing their &quot;familial&quot; relationship</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FRND">
+        <source>unrelated friend</source>
+        <target>Autre proche</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FRND@definition">
+        <source>The player of the role is a person who is known, liked, and trusted by the scoping person.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NBOR">
+        <source>neighbor</source>
+        <target>Voisin(e)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NBOR@definition">
+        <source>The player of the role lives near or next to the scoping person.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ONESELF">
+        <source>self</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ONESELF@definition">
+        <source>The relationship that a person has with his or her self.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ROOM">
+        <source>Roommate</source>
+        <target>Personne vivant sous le même toit</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ROOM@definition">
+        <source>One who shares living quarters with the subject.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_CoverageRoleType">
+        <source>CoverageRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_CoverageRoleType@definition">
+        <source>Role recognized through the issuance of insurance coverage to an identified covered party who has this relationship with the policy holder such as the policy holder themselves (self), spouse, child, etc</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_CoveredPartyRoleType">
+        <source>covered party role type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_CoveredPartyRoleType@definition">
+        <source>A role recognized through the eligibility of an identified living subject for benefits covered under an insurance policy or a program. Eligibility as a covered party may be conditioned on a relationship with (1) the policy holder such as the policy holder who is covered as an individual under a poliy or as a party sponsored for coverage by the policy holder.
+
+**Example:**An employee as a subscriber; or (2) on being scoped another covered party such as the subscriber, as in the case of a dependent.
+
+**Discussion:** The Abstract Value Set &quot;CoverageRoleType&quot;, which was developed for use in the Canadian realm &quot;pre-coordinate&quot; coverage roles with other roles that a covered party must play in order to be eligible for coverage, e.g., &quot;handicapped dependent&quot;. Other codes in the Abstract Value Set CoveredPartyRoleType domain can be &quot;post-coordinated&quot; with the EligiblePartyRoleType codes to denote comparable concepts. Decoupling the concepts is intended to support a wider range of concepts and semantic comparability of coded concepts.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INDIG">
+        <source>member of an indigenous people</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INDIG@definition">
+        <source>**Description:** A person playing the role of program eligible under a program based on aboriginal ancestry or as a member of an aboriginal community.
+
+**Discussion:** This CoveredPartyRoleType.code is typically used when the CoveredPartyRole class code is &quot;program eligible&quot; and the person's status as a member of an indigenous people meets jurisdictional or program criteria.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MIL">
+        <source>military</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MIL@definition">
+        <source>**Definition:** A person playing the role of program eligible under a program based on military status.
+
+**Discussion:** This CoveredPartyRoleType.code is typically used when the CoveredPartyRole class code is either &quot;program eligible&quot; or &quot;subscriber&quot; and the person's status as a member of the military meets jurisdictional or program criteria</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ERL">
+        <source>enrollment</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ERL@definition">
+        <source>**Definition:**The specific role being played by a research subject participating in the active treatment or primary data collection portion of a research study.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SCN">
+        <source>screening</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SCN@definition">
+        <source>**Definition:**The specific role being played by a research subject participating in the pre-enrollment evaluation portion of a research study.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_DedicatedServiceDeliveryLocationRoleType">
+        <source>DedicatedServiceDeliveryLocationRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_DedicatedServiceDeliveryLocationRoleType@definition">
+        <source>A role of a place that further classifies a setting that is intended to house the provision of services.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="_IncidentalServiceDeliveryLocationRoleType">
+        <source>IncidentalServiceDeliveryLocationRoleType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="C">
+        <source>Calibrator</source>
+        <target>Spécimen utilisé pour les paramètres d'étalonnage initiaux d'un instrument</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="C@definition">
+        <source>A specimen used for initial calibration settings of an instrument</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="G">
+        <source>Group</source>
+        <target>Ensemble d'échantillons de patients dans lequel les individus du groupe peuvent ou non être identifiés.</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="G@definition">
+        <source>A set of patient samples in which the individuals of the group may or may not be identified.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="L">
+        <source>Pool</source>
+        <target>Aliquot d'échantillons individuels combinés pour former un seul spécimen représentant tous les individus inclus.</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="L@definition">
+        <source>Aliquots of individual specimens combined to form a single specimen representing all of the included individuals.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="P">
+        <source>Patient</source>
+        <target>Spécimen prélevé sur un patient</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="P@definition">
+        <source>A specimen that has been collected from a patient.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="Q">
+        <source>Quality Control</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="Q@definition">
+        <source>A specimen specifically used to verify the sensitivity, specificity, accuracy or other perfomance parameter of a diagnostic test.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="R">
+        <source>Replicate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="R@definition">
+        <source>A portion of an original patent sample that is tested at the same time as the original sample</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ADOPTF">
+        <source>adoptive father</source>
+        <target>Père adoptif</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ADOPTF@definition">
+        <source>The player of the role (father) is a male who has taken the scoper (child) into their family through legal means and raises them as his own child.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ADOPTM">
+        <source>adoptive mother</source>
+        <target>Mère adoptive</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ADOPTM@definition">
+        <source>The player of the role (father) is a female who has taken the scoper (child) into their family through legal means and raises them as her own child.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MAUNT">
+        <source>maternal aunt</source>
+        <target>Tante maternelle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MAUNT@definition">
+        <source>**Description:**The player of the role is a biological sister of the scoping person's biological mother.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PAUNT">
+        <source>paternal aunt</source>
+        <target>Tante paternelle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PAUNT@definition">
+        <source>**Description:**The player of the role is a biological sister of the scoping person's biological father.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ANTIBIOT">
+        <source>Antibiotic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ANTIBIOT@definition">
+        <source>**Description:**Non-person living subject used as antibiotic.
+
+**Examples:**Bacteriophage, is a virus that infects bacteria.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DEBR">
+        <source>Debridement</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DEBR@definition">
+        <source>**Description:**Maggots raised for biodebridement.
+
+**Discussion:** Maggot Debridement Therapy is the medical use of live maggots for cleaning non-healing wounds.
+
+**Examples:**Removal of burnt skin.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HBRO">
+        <source>half-brother</source>
+        <target>Demi-frère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HBRO@definition">
+        <source>The player of the role is a male related to the scoping entity by sharing only one biological parent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NBRO">
+        <source>natural brother</source>
+        <target>Frère biologique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NBRO@definition">
+        <source>The player of the role is a male having the same biological parents as the scoping entity.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPBRO">
+        <source>stepbrother</source>
+        <target>Fils du beau-père ou de la belle-mère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPBRO@definition">
+        <source>The player of the role is a son of the scoping person's stepparent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PEDCARD">
+        <source>Pediatric cardiology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CASM">
+        <source>single minor asylum seeker</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CASM@definition">
+        <source>A person who is someone of below legal age who has fled his or her home country, *without his or her parents*, to find a safe place elsewhere at time of categorization.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CHLDADOPT">
+        <source>adopted child</source>
+        <target>Enfant adopté</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CHLDADOPT@definition">
+        <source>The player of the role is a child taken into a family through legal means and raised by the scoping person (parent) as his or her own child.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CHLDFOST">
+        <source>foster child</source>
+        <target>Enfant placé en famille d'accueil</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CHLDFOST@definition">
+        <source>The player of the role is a child receiving parental care and nurture from the scoping person (parent) but not related to him or her through legal or blood ties.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DAUC">
+        <source>daughter</source>
+        <target>Fille</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DAUC@definition">
+        <source>**Description:** The player of the role is a female child (of any type) of scoping entity (parent)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NCHILD">
+        <source>natural child</source>
+        <target>Enfant biologique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NCHILD@definition">
+        <source>The player of the role is an offspring of the scoping entity as determined by birth.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SONC">
+        <source>son</source>
+        <target>Fils</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SONC@definition">
+        <source>**Description:** The player of the role is a male child (of any type) of scoping entity (parent)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPCHLD">
+        <source>step child</source>
+        <target>Enfant du conjoint, issu d'un mariage précédent</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPCHLD@definition">
+        <source>The player of the role is a child of the scoping person's spouse by a previous union.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DAUADOPT">
+        <source>adopted daughter</source>
+        <target>Fille adoptive</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DAUADOPT@definition">
+        <source>The player of the role is a female child taken into a family through legal means and raised by the scoping person (parent) as his or her own child.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SONADOPT">
+        <source>adopted son</source>
+        <target>Fils adoptif</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SONADOPT@definition">
+        <source>The player of the role is a male child taken into a family through legal means and raised by the scoping person (parent) as his or her own child.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DAUFOST">
+        <source>foster daughter</source>
+        <target>Fille placée en famille d'accueil</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DAUFOST@definition">
+        <source>The player of the role is a female child receiving parental care and nurture from the scoping person (parent) but not related to him or her through legal or blood ties.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SONFOST">
+        <source>foster son</source>
+        <target>Garçon placé en famille d'accueil</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SONFOST@definition">
+        <source>The player of the role is a male child receiving parental care and nurture from the scoping person (parent) but not related to him or her through legal or blood ties.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DAUINLAW">
+        <source>daughter in-law</source>
+        <target>Belle-fille</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DAUINLAW@definition">
+        <source>The player of the role is the wife of scoping person's son.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SONINLAW">
+        <source>son in-law</source>
+        <target>Gendre</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SONINLAW@definition">
+        <source>The player of the role is the husband of scoping person's daughter.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CNRPM">
+        <source>non-country member minor without residence permit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CNRPM@definition">
+        <source>A person who is below legal age present in a country, *without his or her parents*, (which is foreign to him/her) unlawfully or without the country's authorization.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CSC">
+        <source>community service center</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CSC@definition">
+        <source>**Description:** A location that plays the role of delivering services which may include providing front-line services to the population of a defined geographic area such as: healthcare services and social services, preventive or curative, rehabilitation or reintegration.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MCOUSN">
+        <source>maternal cousin</source>
+        <target>Cousin (maternel)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MCOUSN@definition">
+        <source>**Description:**The player of the role is a biological relative of the scoping person descended from a common ancestor on the player's mother's side, such as a grandparent, by two or more steps in a diverging line.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PCOUSN">
+        <source>paternal cousin</source>
+        <target>Cousin (paternel)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PCOUSN@definition">
+        <source>**Description:**The player of the role is a biological relative of the scoping person descended from a common ancestor on the player's father's side, such as a grandparent, by two or more steps in a diverging line.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CRPM">
+        <source>non-country member minor with residence permit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CRPM@definition">
+        <source>A person who is a resident below legal age of the country *without his or her parents* and does not have citizenship.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CATH">
+        <source>Cardiac catheterization lab</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ECHO">
+        <source>Echocardiography lab</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DAU">
+        <source>natural daughter</source>
+        <target>Fille biologique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DAU@definition">
+        <source>The player of the role is a female offspring of the scoping entity (parent).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPDAU">
+        <source>stepdaughter</source>
+        <target>Fille du conjoint, issue d'un mariage précédent</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPDAU@definition">
+        <source>The player of the role is a daughter of the scoping person's spouse by a previous union.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CVDX">
+        <source>Cardiovascular diagnostics or therapeutics unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CVDX@definition">
+        <source>A practice setting where cardiovascular diagnostic procedures or therapeutic interventions are performed (e.g., cardiac catheterization lab, echocardiography suite)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GIDX">
+        <source>Gastroenterology diagnostics or therapeutics lab</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GIDX@definition">
+        <source>A practice setting where GI procedures (such as endoscopies) are performed</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RADDX">
+        <source>Radiology diagnostics or therapeutics unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RADDX@definition">
+        <source>A practice setting where radiology services (diagnostic or therapeutic) are provided (X12N 261QR0200N)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PEDE">
+        <source>Pediatric endocrinology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ETU">
+        <source>Emergency trauma unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="AUNT">
+        <source>aunt</source>
+        <target>Tante</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="AUNT@definition">
+        <source>The player of the role is a sister of the scoping person's mother or father.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="COUSN">
+        <source>cousin</source>
+        <target>Cousin(e)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="COUSN@definition">
+        <source>The player of the role is a relative of the scoping person descended from a common ancestor, such as a grandparent, by two or more steps in a diverging line.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GGRPRN">
+        <source>great grandparent</source>
+        <target>Arrière-grand-parent</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GGRPRN@definition">
+        <source>The player of the role is a parent of the scoping person's grandparent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRNDCHILD">
+        <source>grandchild</source>
+        <target>Petit-enfant</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRNDCHILD@definition">
+        <source>The player of the role is a child of the scoping person's son or daughter.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRPRN">
+        <source>grandparent</source>
+        <target>Grand-parent</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRPRN@definition">
+        <source>The player of the role is a parent of the scoping person's mother or father.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INLAW">
+        <source>inlaw</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INLAW@definition">
+        <source>A relationship between an individual and a member of their spousal partner's immediate family.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NIENEPH">
+        <source>niece/nephew</source>
+        <target>Neveu ou nièce</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NIENEPH@definition">
+        <source>The player of the role is a child of scoping person's brother or sister or of the brother or sister of the scoping person's spouse.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="UNCLE">
+        <source>uncle</source>
+        <target>Oncle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="UNCLE@definition">
+        <source>The player of the role is a brother of the scoping person's mother or father.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CHILD">
+        <source>child</source>
+        <target>Enfant</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CHILD@definition">
+        <source>The player of the role is a child of the scoping entity.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="EXT">
+        <source>extended family member</source>
+        <target>Autre membre de la famille sans lien génétique direct</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="EXT@definition">
+        <source>**Description:** A family member not having an immediate genetic or legal relationship e.g. Aunt, cousin, great grandparent, grandchild, grandparent, niece, nephew or uncle.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PRN">
+        <source>parent</source>
+        <target>Parent, au sens père ou mère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PRN@definition">
+        <source>The player of the role is one who begets, gives birth to, or nurtures and raises the scoping entity (child).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SIB">
+        <source>sibling</source>
+        <target>Frère ou sœur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SIB@definition">
+        <source>The player of the role shares one or both parents in common with the scoping entity.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SIGOTHR">
+        <source>significant other</source>
+        <target>Conjoint</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SIGOTHR@definition">
+        <source>A person who is important to one's well being; especially a spouse or one in a similar relationship. (The player is the one who is important)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FTHFOST">
+        <source>foster father</source>
+        <target>Assistant familial - Famille d'accueil</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FTHFOST@definition">
+        <source>The player of the role (parent) who is a male state-certified caregiver responsible for the scoper (child) who has been placed in the parent's care. The placement of the child is usually arranged through the government or a social-service agency, and temporary.
+
+The state, via a jurisdiction recognized child protection agency, stands as in loco parentis to the child, making all legal decisions while the foster parent is responsible for the day-to-day care of the specified child.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NFTH">
+        <source>natural father</source>
+        <target>Père biologique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NFTH@definition">
+        <source>The player of the role is a male who begets the scoping entity (child).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPFTH">
+        <source>stepfather</source>
+        <target>Beau-père - époux du père ou de la mère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPFTH@definition">
+        <source>The player of the role is the husband of scoping person's mother and not the scoping person's natural father.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FTWINBRO">
+        <source>fraternal twin brother</source>
+        <target>Jumeau dizygote</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FTWINBRO@definition">
+        <source>The scoper was carried in the same womb as the male player and shares common biological parents but is the product of a distinct egg/sperm pair.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FTWINSIS">
+        <source>fraternal twin sister</source>
+        <target>Jumelle dizygote</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FTWINSIS@definition">
+        <source>The scoper was carried in the same womb as the female player and shares common biological parents but is the product of a distinct egg/sperm pair.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GDF">
+        <source>generic drug form</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GDF@definition">
+        <source>Relates a manufactured drug product to the non-proprietary (generic) representation of its ingredients and dose form, independent of strength of the ingredients. The scoping entity identifies a unique combination of medicine ingredients in a specific dose form.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GDS">
+        <source>generic drug strength</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GDS@definition">
+        <source>Relates a manufactured drug product to the non-proprietary (generic) representation of is ingredients with their strength. The scoping entity identifies a unique combination of medicine ingredients with their strength.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GDSF">
+        <source>generic drug strength form</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GDSF@definition">
+        <source>Relates a manufactured drug product to the non-proprietary (generic) representation of its ingredients with their strength in a specific dose form. The scoping entity identifies a unique combination of medicine ingredients with their strength in a single dose form.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGGRFTH">
+        <source>maternal great-grandfather</source>
+        <target>Arrière-grand-père maternel</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGGRFTH@definition">
+        <source>**Description:**The player of the role is the biological father of the scoping person's biological mother's parent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PGGRFTH">
+        <source>paternal great-grandfather</source>
+        <target>Arrière-grand-père paternel</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PGGRFTH@definition">
+        <source>**Description:**The player of the role is the biological father of the scoping person's biological father's parent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGGRMTH">
+        <source>maternal great-grandmother</source>
+        <target>Arrière-grand-mère maternelle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGGRMTH@definition">
+        <source>**Description:**The player of the role is the biological mother of the scoping person's biological mother's parent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PGGRMTH">
+        <source>paternal great-grandmother</source>
+        <target>Arrière-grand-mère paternelle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PGGRMTH@definition">
+        <source>**Description:**The player of the role is the biological mother of the scoping person's biological father's parent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GGRFTH">
+        <source>great grandfather</source>
+        <target>Arrière-grand-père</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GGRFTH@definition">
+        <source>The player of the role is the father of the scoping person's grandparent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GGRMTH">
+        <source>great grandmother</source>
+        <target>Arrière-grand-mère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GGRMTH@definition">
+        <source>The player of the role is the mother of the scoping person's grandparent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGGRPRN">
+        <source>maternal great-grandparent</source>
+        <target>Arrière grand parent maternel</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGGRPRN@definition">
+        <source>**Description:**The player of the role is a biological parent of the scoping person's biological mother's parent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PGGRPRN">
+        <source>paternal great-grandparent</source>
+        <target>Arrière grand parent paternel</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PGGRPRN@definition">
+        <source>**Description:**The player of the role is a biological parent of the scoping person's biological father's parent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PEDGI">
+        <source>Pediatric gastroenterology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ENDOS">
+        <source>Endoscopy lab</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ENDOS@definition">
+        <source>(X12N 261QD0000N)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGRFTH">
+        <source>maternal grandfather</source>
+        <target>Grand-père maternel</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGRFTH@definition">
+        <source>**Description:**The player of the role is the biological father of the scoping person's biological mother.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PGRFTH">
+        <source>paternal grandfather</source>
+        <target>Grand-père paternel</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PGRFTH@definition">
+        <source>**Description:**The player of the role is the biological father of the scoping person's biological father.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGRMTH">
+        <source>maternal grandmother</source>
+        <target>Grand-mère maternelle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGRMTH@definition">
+        <source>**Description:**The player of the role is the biological mother of the scoping person's biological mother.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PGRMTH">
+        <source>paternal grandmother</source>
+        <target>Grand-mère paternelle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PGRMTH@definition">
+        <source>**Description:**The player of the role is the biological mother of the scoping person's biological father.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRNDDAU">
+        <source>granddaughter</source>
+        <target>Petite-fille</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRNDDAU@definition">
+        <source>The player of the role is a daughter of the scoping person's son or daughter.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRNDSON">
+        <source>grandson</source>
+        <target>Petit-fils</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRNDSON@definition">
+        <source>The player of the role is a son of the scoping person's son or daughter.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRFTH">
+        <source>grandfather</source>
+        <target>Grand-père</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRFTH@definition">
+        <source>The player of the role is the father of the scoping person's mother or father.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRMTH">
+        <source>grandmother</source>
+        <target>Grand-mère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GRMTH@definition">
+        <source>The player of the role is the mother of the scoping person's mother or father.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGRPRN">
+        <source>maternal grandparent</source>
+        <target>Grand parent maternel</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGRPRN@definition">
+        <source>**Description:**The player of the role is the biological parent of the scoping person's biological mother.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PGRPRN">
+        <source>paternal grandparent</source>
+        <target>Grand parent paternel</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PGRPRN@definition">
+        <source>**Description:**The player of the role is the biological parent of the scoping person's biological father.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PEDHEM">
+        <source>Pediatric hematology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INLAB">
+        <source>inpatient laboratory</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INLAB@definition">
+        <source>**Description:** A location that plays the role of delivering services which may include tests are done on clinical specimens to get health information about a patient pertaining to the diagnosis, treatment, and prevention of disease for a hospital visit longer than one day.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="OUTLAB">
+        <source>outpatient laboratory</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="OUTLAB@definition">
+        <source>**Description:** A location that plays the role of delivering services which may include tests are done on clinical specimens to get health information about a patient pertaining to the diagnosis, treatment, and prevention of disease for same day visits.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CHR">
+        <source>Chronic Care Facility</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CHR@definition">
+        <source>(1) A hospital including a physical plant and personnel that provides multidisciplinary diagnosis and treatment for diseases that have one or more of the following characteristics: is permanent; leaves residual disability; is caused by nonreversible pathological alteration; requires special training of the patient for rehabilitation; and/or may be expected to require a long period of supervision or care. In addition, patients require the safety, security, and shelter of these specialized inpatient or partial hospitalization settings. (2) A hospital that provides medical and skilled nursing services to patients with long-term illnesses who are not in an acute phase but who require an intensity of services not available in nursing homes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GACH">
+        <source>Hospitals; General Acute Care Hospital</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GACH@definition">
+        <source>(X12N 282N00000N)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MHSP">
+        <source>Military Hospital</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MHSP@definition">
+        <source>A health care facility operated by the Department of Defense or other military operation.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PSYCHF">
+        <source>Psychatric Care Facility</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PSYCHF@definition">
+        <source>Healthcare facility that cares for patients with psychiatric illness(s).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RH">
+        <source>Rehabilitation hospital</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RH@definition">
+        <source>(X12N 283X00000N)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HSIS">
+        <source>half-sister</source>
+        <target>Demi-sœur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HSIS@definition">
+        <source>The player of the role is a female related to the scoping entity by sharing only one biological parent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BMTU">
+        <source>Bone marrow transplant unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CCU">
+        <source>Coronary care unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CHEST">
+        <source>Chest unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CHEST@definition">
+        <source>A specialty unit in hospital that focuses on chronic respirator patients and pulmonary failure</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="EPIL">
+        <source>Epilepsy unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ER">
+        <source>Emergency room</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ER@definition">
+        <source>The section of a health care facility for providing rapid treatment to victims of sudden illness or trauma.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HD">
+        <source>Hemodialysis unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HLAB">
+        <source>hospital laboratory</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HLAB@definition">
+        <source>**Description:** A location that plays the role of delivering services which may include tests done based on clinical specimens to get health information about a patient as pertaining to the diagnosis, treatment and prevention of disease. Hospital laboratories may be further divided into specialized units such as Anatomic Pathology, Microbiology, and Biochemistry.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HRAD">
+        <source>radiology unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HRAD@definition">
+        <source>**Description:** A location that plays the role of delivering services which may include the branch of medicine that uses ionizing and non-ionizing radiation to diagnose and treat diseases. The radiology unit may be further divided into subspecialties such as Imaging, Cardiovascular, Thoracic, and Ultrasound.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HUSCS">
+        <source>specimen collection site</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HUSCS@definition">
+        <source>**Description:** A location that plays the role of delivering services which may include collecting specimens and/or samples from patients for laboratory testing purposes, but does not perform any tests or analysis functions.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ICU">
+        <source>Intensive care unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INPHARM">
+        <source>inpatient pharmacy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INPHARM@definition">
+        <source>**Description:** A location that plays the role of delivering services which may include providing judicious, safe, efficacious, appropriate and cost effective use of medicines for treatment of patients for visits longer than one day. The distinction between inpatient pharmacies and retail (or outpatient) pharmacies is that they are part of a patient's continuity of care while staying in the hospital.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MBL">
+        <source>medical laboratory</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MBL@definition">
+        <source>**Description:** A location that plays the role of delivering services which include biochemistry, hematology, microbiology, immunochemistry, and toxicology.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NCCS">
+        <source>Neurology critical care and stroke unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NS">
+        <source>Neurosurgery unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="OUTPHARM">
+        <source>outpatient pharmacy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="OUTPHARM@definition">
+        <source>**Description:** A location that plays the role of delivering services which may include providing judicious, safe, efficacious, appropriate and cost effective use of medicines for treatment of patients for outpatient visits and may also be used for discharge prescriptions.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PEDU">
+        <source>Pediatric unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PHU">
+        <source>Psychiatric hospital unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PHU@definition">
+        <source>(X12N 273R00000N)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHU">
+        <source>Rehabilitation hospital unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SLEEP">
+        <source>Sleep disorders unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SLEEP@definition">
+        <source>(X12N 261QA1200N)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PEDICU">
+        <source>Pediatric intensive care unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PEDID">
+        <source>Pediatric infectious disease clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CHLDINLAW">
+        <source>child-in-law</source>
+        <target>Gendre ou belle-fille</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CHLDINLAW@definition">
+        <source>The player of the role is the spouse of scoping person's child.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PRNINLAW">
+        <source>parent in-law</source>
+        <target>Beau-père ou belle-mère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PRNINLAW@definition">
+        <source>The player of the role is the parent of scoping person's husband or wife.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SIBINLAW">
+        <source>sibling in-law</source>
+        <target>Beau-frère ou belle-sœur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SIBINLAW@definition">
+        <source>The player of the role is: (1) a sibling of the scoping person's spouse, or (2) the spouse of the scoping person's sibling, or (3) the spouse of a sibling of the scoping person's spouse.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ITWINBRO">
+        <source>identical twin brother</source>
+        <target>Jumeau monozygote</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ITWINBRO@definition">
+        <source>The male scoper is an offspring of the same egg-sperm pair as the male player.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ITWINSIS">
+        <source>identical twin sister</source>
+        <target>Jumelle monozygote</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ITWINSIS@definition">
+        <source>The female scoper is an offspring of the same egg-sperm pair as the female player.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ACTMIL">
+        <source>active duty military</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ACTMIL@definition">
+        <source>**Description:** A person playing the role of program eligible under a program based on active military status.
+
+**Discussion:** This CoveredPartyRoleType.code is typically used when the CoveredPartyRole class code is either &quot;program eligible&quot; or &quot;subscriber&quot; and the persons status as active duty military meets jurisdictional or program criteria.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RETMIL">
+        <source>retired military</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RETMIL@definition">
+        <source>**Description:** A person playing the role of program eligible under a program based on retired military status.
+
+**Discussion:** This CoveredPartyRoleType.code is typically used when the CoveredPartyRole class code is either &quot;program eligible&quot; or &quot;subscriber&quot; and the persons status as retired military meets jurisdictional or program criteria.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="VET">
+        <source>veteran</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="VET@definition">
+        <source>**Description:** A person playing the role of program eligible under a program based on status as a military veteran.
+
+**Discussion:** This CoveredPartyRoleType.code is typically used when the CoveredPartyRole class code is either &quot;program eligible&quot; or &quot;subscriber&quot; and the persons status as a veteran meets jurisdictional or program criteria.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="AMB">
+        <source>Ambulance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="AMB@definition">
+        <source>Location (mobile) where healthcare service was delivered, identified specifically as an ambulance.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GESTM">
+        <source>gestational mother</source>
+        <target>Mère porteuse</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GESTM@definition">
+        <source>The player is a female whose womb carries the fetus of the scoper. Generally used when the gestational mother and natural mother are not the same.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MTHFOST">
+        <source>foster mother</source>
+        <target>Assistante familiale - Famille d'accueil</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MTHFOST@definition">
+        <source>The player of the role (parent) who is a female state-certified caregiver responsible for the scoper (child) who has been placed in the parent's care. The placement of the child is usually arranged through the government or a social-service agency, and temporary.
+
+The state, via a jurisdiction recognized child protection agency, stands as in loco parentis to the child, making all legal decisions while the foster parent is responsible for the day-to-day care of the specified child.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NMTH">
+        <source>natural mother</source>
+        <target>Mère biologique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NMTH@definition">
+        <source>The player of the role is a female who conceives or gives birth to the scoping entity (child).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPMTH">
+        <source>stepmother</source>
+        <target>Belle-mère - épouse du père ou de la mère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPMTH@definition">
+        <source>The player of the role is the wife of scoping person's father and not the scoping person's natural mother.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="TWINBRO">
+        <source>twin brother</source>
+        <target>Frère jumeau</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="TWINBRO@definition">
+        <source>The scoper was carried in the same womb as the male player and shares common biological parents.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SNF">
+        <source>Skilled nursing facility</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SNF@definition">
+        <source>(X12N 314000000N)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SON">
+        <source>natural son</source>
+        <target>Fils biologique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SON@definition">
+        <source>The player of the role is a male offspring of the scoping entity (parent).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PEDNEPH">
+        <source>Pediatric nephrology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NFTHF">
+        <source>natural father of fetus</source>
+        <target>Père biologique du fœtus</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NFTHF@definition">
+        <source>Indicates the biologic male parent of a fetus.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NEPHEW">
+        <source>nephew</source>
+        <target>Neveu</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NEPHEW@definition">
+        <source>The player of the role is a son of the scoping person's brother or sister or of the brother or sister of the scoping person's spouse.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NIECE">
+        <source>niece</source>
+        <target>Nièce</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NIECE@definition">
+        <source>The player of the role is a daughter of the scoping person's brother or sister or of the brother or sister of the scoping person's spouse.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NMTHF">
+        <source>natural mother of fetus</source>
+        <target>Mère biologique du fœtus</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NMTHF@definition">
+        <source>The player is the biologic female parent of the scoping fetus.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NSIS">
+        <source>natural sister</source>
+        <target>Soeur biologique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NSIS@definition">
+        <source>The player of the role is a female having the same biological parents as the scoping entity.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="TWIN">
+        <source>twin</source>
+        <target>Frère jumeau ou soeur jumelle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="TWIN@definition">
+        <source>The scoper and player were carried in the same womb and shared common biological parents.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="TWINSIS">
+        <source>twin sister</source>
+        <target>Soeur jumelle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="TWINSIS@definition">
+        <source>The scoper was carried in the same womb as the female player and shares common biological parents.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ALL">
+        <source>Allergy clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="AMPUT">
+        <source>Amputee clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BMTC">
+        <source>Bone marrow transplant clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BREAST">
+        <source>Breast clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CANC">
+        <source>Child and adolescent neurology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CAPC">
+        <source>Child and adolescent psychiatry clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CARD">
+        <source>Ambulatory Health Care Facilities; Clinic/Center; Rehabilitation: Cardiac Facilities</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="COAG">
+        <source>Coagulation clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="CRS">
+        <source>Colon and rectal surgery clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DERM">
+        <source>Dermatology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ENDO">
+        <source>Endocrinology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ENT">
+        <source>Otorhinolaryngology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FMC">
+        <source>Family medicine clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GI">
+        <source>Gastroenterology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GIM">
+        <source>General internal medicine clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GYN">
+        <source>Gynecology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HEM">
+        <source>Hematology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HTN">
+        <source>Hypertension clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="IEC">
+        <source>Impairment evaluation center</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="IEC@definition">
+        <source>Focuses on assessing disability</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INFD">
+        <source>Infectious disease clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="INV">
+        <source>Infertility clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="LYMPH">
+        <source>Lympedema clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MGEN">
+        <source>Medical genetics clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NEPH">
+        <source>Nephrology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NEUR">
+        <source>Neurology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="OB">
+        <source>Obstetrics clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="OMS">
+        <source>Oral and maxillofacial surgery clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ONCL">
+        <source>Medical oncology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="OPH">
+        <source>Opthalmology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="OPTC">
+        <source>optometry clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="OPTC@definition">
+        <source>**Description:** A location that plays the role of delivering services which may include examination, diagnosis, treatment, management, and prevention of diseases and disorders of the eye as well as prescribing and fitting appropriate corrective lenses (glasses or contact lenses) as needed. Optometry clinics may also provide tests for visual field screening, measuring intra-ocular pressure and ophthalmoscopy, as and when required.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ORTHO">
+        <source>Orthopedics clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PAINCL">
+        <source>Pain clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PAINCL@definition">
+        <source>(X12N 261QP3300N)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PC">
+        <source>Primary care clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PC@definition">
+        <source>(X12N 261QP2300N)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PEDC">
+        <source>Pediatrics clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="POD">
+        <source>Podiatry clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="POD@definition">
+        <source>(X12N 261QP1100N)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PREV">
+        <source>Preventive medicine clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PROCTO">
+        <source>Proctology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PROFF">
+        <source>Provider's Office</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PROFF@definition">
+        <source>Location where healthcare service was delivered, identified as the healthcare provider's practice office.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PROS">
+        <source>Prosthodontics clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PSI">
+        <source>Psychology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PSY">
+        <source>Psychiatry clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHEUM">
+        <source>Rheumatology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SPMED">
+        <source>Sports medicine clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SU">
+        <source>Surgery clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="TR">
+        <source>Transplant clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="TRAVEL">
+        <source>Travel and geographic medicine clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="WND">
+        <source>Wound clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PEDHO">
+        <source>Pediatric oncology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HAND">
+        <source>Hand clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PEDRHEUM">
+        <source>Pediatric rheumatology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PEDNICU">
+        <source>Pediatric neonatal intensive care unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DPOWATT">
+        <source>durable power of attorney</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DPOWATT@definition">
+        <source>A relationship between two people in which one person authorizes another, usually a family member or relative, to act for him or her in a manner which is a legally binding upon the person giving such authority as if he or she personally were to do the acts that is often limited in the kinds of powers that can be assigned. Unlike ordinary powers of attorney, durable powers can survive for long periods of time, and again, unlike standard powers of attorney, durable powers can continue after incompetency.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HPOWATT">
+        <source>healthcare power of attorney</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HPOWATT@definition">
+        <source>A relationship between two people in which one person authorizes another to act for him or her in a manner which is a legally binding upon the person giving such authority as if he or she personally were to do the acts that continues (by its terms) to be effective even though the grantor has become mentally incompetent after signing the document.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SPOWATT">
+        <source>special power of attorney</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SPOWATT@definition">
+        <source>A relationship between two people in which one person authorizes another to act for him or her in a manner which is a legally binding upon the person giving such authority as if he or she personally were to do the acts that is often limited in the kinds of powers that can be assigned.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ADOPTP">
+        <source>adoptive parent</source>
+        <target>Parent adoptif, au sens père ou mère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ADOPTP@definition">
+        <source>The player of the role (parent) has taken the scoper (child) into their family through legal means and raises them as his or her own child.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FTH">
+        <source>father</source>
+        <target>Père</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FTH@definition">
+        <source>The player of the role is a male who begets or raises or nurtures the scoping entity (child).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MTH">
+        <source>mother</source>
+        <target>Mère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MTH@definition">
+        <source>The player of the role is a female who conceives, gives birth to, or raises and nurtures the scoping entity (child).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NPRN">
+        <source>natural parent</source>
+        <target>Parent biologique, au sens père ou mère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PRNFOST">
+        <source>foster parent</source>
+        <target>Parent, au sens famille d'accueil</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PRNFOST@definition">
+        <source>The player of the role (parent) who is a state-certified caregiver responsible for the scoper (child) who has been placed in the parent's care. The placement of the child is usually arranged through the government or a social-service agency, and temporary.
+
+The state, via a jurisdiction recognized child protection agency, stands as in loco parentis to the child, making all legal decisions while the foster parent is responsible for the day-to-day care of the specified child.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPPRN">
+        <source>step parent</source>
+        <target>Beau-père ou belle-mère - époux(se) du père ou de la mère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPPRN@definition">
+        <source>The player of the role is the spouse of the scoping person's parent and not the scoping person's natural parent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FTHINLAW">
+        <source>father-in-law</source>
+        <target>Beau-père</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FTHINLAW@definition">
+        <source>The player of the role is the father of the scoping person's husband or wife.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MTHINLAW">
+        <source>mother-in-law</source>
+        <target>Belle-mère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MTHINLAW@definition">
+        <source>The player of the role is the mother of the scoping person's husband or wife.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MTHINLOAW">
+        <source>mother-in-law</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MTHINLOAW@definition">
+        <source>The player of the role is the mother of the scoping person's husband or wife.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="B">
+        <source>Blind</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="B@definition">
+        <source>Quality Control specimen submitted to the lab whose identity and composition is not known to the lab.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="E">
+        <source>Electronic QC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="E@definition">
+        <source>An electronically simulated QC specimen</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="F">
+        <source>Filler Proficiency</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="F@definition">
+        <source>Specimen used for testing proficiency of an organization performing testing (how does this differ from O?)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="O">
+        <source>Operator Proficiency</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="O@definition">
+        <source>A specimen used for evaluation of operator proficiency (operator in what context?)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="V">
+        <source>Verifying</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="V@definition">
+        <source>A specimen used for periodic calibration checks of instruments</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RADO">
+        <source>Radiation oncology unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RADO@definition">
+        <source>(X12N 261QX0203N)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RNEU">
+        <source>Neuroradiology unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="EXCEST">
+        <source>executor of estate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="EXCEST@definition">
+        <source>The role played by a person acting as the estate executor for a deceased subscriber or policyholder who was the responsible party</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GUADLTM">
+        <source>guardian ad lidem</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GUADLTM@definition">
+        <source>The role played by a person appointed by the court to look out for the best interests of a minor child during the course of legal proceedings.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GUARD">
+        <source>guardian</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="GUARD@definition">
+        <source>The role played by a person or institution legally empowered with responsibility for the care of a ward.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="POWATT">
+        <source>power of attorney</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="POWATT@definition">
+        <source>A relationship between two people in which one person authorizes another to act for him in a manner which is a legally binding upon the person giving such authority as if he or she personally were to do the acts.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHAT">
+        <source>addiction treatment center</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHAT@definition">
+        <source>**Description:** A location that plays the role of delivering services which may include life training and/or social support to people with addictions.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHII">
+        <source>intellectual impairment center</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHII@definition">
+        <source>**Description:** A location that plays the role of delivering services which may include adaptation, rehabilitation and social integration services for people with intellectual and/or pervasive development disorders such as autism or severe behaviour disorder.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHMAD">
+        <source>parents with adjustment difficulties center</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHMAD@definition">
+        <source>**Description:** A location that plays the role of delivering services which may social support services for adolescents who are pregnant or have child and are experiencing adaptation issues/difficulties in their current or eventual parenting role.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHPI">
+        <source>physical impairment center</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHPI@definition">
+        <source>**Description:** A location that plays the role of delivering services which may include adaptation, rehabilitation and social integration services for people with physical impairments.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHYAD">
+        <source>youths with adjustment difficulties center</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHYAD@definition">
+        <source>**Description:** A location that plays the role of delivering services which may include life training and/or social support services for the adaption, rehabilitation and social integration of youths with adjustment difficulties.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHPIH">
+        <source>physical impairment - hearing center</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHPIH@definition">
+        <source>**Description:** A location that plays the role of delivering services for people with hearing impairments.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHPIMS">
+        <source>physical impairment - motor skills center</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHPIMS@definition">
+        <source>**Description:** A location that plays the role of delivering services for people with motor skill impairments.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHPIVS">
+        <source>physical impairment - visual skills center</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="RHPIVS@definition">
+        <source>**Description:** A location that plays the role of delivering services for people with visual skill impairments.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PRC">
+        <source>Pain rehabilitation center</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SURF">
+        <source>Substance use rehabilitation facility</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SURF@definition">
+        <source>(X12N 324500000N)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BRO">
+        <source>brother</source>
+        <target>Frère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BRO@definition">
+        <source>The player of the role is a male sharing one or both parents in common with the scoping entity.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HSIB">
+        <source>half-sibling</source>
+        <target>Demi-frère ou demi-sœur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HSIB@definition">
+        <source>The player of the role is related to the scoping entity by sharing only one biological parent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NSIB">
+        <source>natural sibling</source>
+        <target>Frère ou soeur biologique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="NSIB@definition">
+        <source>The player of the role has both biological parents in common with the scoping entity.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SIS">
+        <source>sister</source>
+        <target>Sœur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SIS@definition">
+        <source>The player of the role is a female sharing one or both parents in common with the scoping entity.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPSIB">
+        <source>step sibling</source>
+        <target>Enfant du beau-père ou de la belle-mère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPSIB@definition">
+        <source>The player of the role is a child of the scoping person's stepparent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BROINLAW">
+        <source>brother-in-law</source>
+        <target>Beau-frère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="BROINLAW@definition">
+        <source>The player of the role is: (1) a brother of the scoping person's spouse, or (2) the husband of the scoping person's sister, or (3) the husband of a sister of the scoping person's spouse.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SISINLAW">
+        <source>sister-in-law</source>
+        <target>Belle-sœur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SISINLAW@definition">
+        <source>The player of the role is: (1) a sister of the scoping person's spouse, or (2) the wife of the scoping person's brother, or (3) the wife of a brother of the scoping person's spouse.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SISLINLAW">
+        <source>sister-in-law</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SISLINLAW@definition">
+        <source>The player of the role is: (1) a sister of the scoping person's spouse, or (2) the wife of the scoping person's brother, or (3) the wife of a brother of the scoping person's spouse.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DOMPART">
+        <source>domestic partner</source>
+        <target>Concubin(e) ou partenaire PACS</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="DOMPART@definition">
+        <source>The player of the role cohabits with the scoping person but is not the scoping person's spouse.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FMRSPS">
+        <source>former spouse</source>
+        <target>Ancien époux ou ancienne épouse</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FMRSPS@definition">
+        <source>Player of the role was previously joined to the scoping person in marriage and this marriage is now dissolved and inactive.
+
+*Usage Note:* This is significant to indicate as some jurisdictions have different legal requirements for former spouse to access the patient's record, from a general friend.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SPS">
+        <source>spouse</source>
+        <target>Epoux ou épouse</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="SPS@definition">
+        <source>The player of the role is a marriage partner of the scoping person.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPSIS">
+        <source>stepsister</source>
+        <target>Fille du beau-père ou de la belle-mère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPSIS@definition">
+        <source>The player of the role is a daughter of the scoping person's stepparent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPSON">
+        <source>stepson</source>
+        <target>Fils du conjoint, issu d'un mariage précédent</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="STPSON@definition">
+        <source>The player of the role is a son of the scoping person's spouse by a previous union.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HUSB">
+        <source>husband</source>
+        <target>Epoux</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="HUSB@definition">
+        <source>The player of the role is a man joined to a woman (scoping person) in marriage.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="WIFE">
+        <source>wife</source>
+        <target>Epouse</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="WIFE@definition">
+        <source>The player of the role is a woman joined to a man (scoping person) in marriage.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FSTUD">
+        <source>full-time student</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FSTUD@definition">
+        <source>Covered party to an insurance policy has coverage through full-time attendance at a recognized educational institution as defined by a particular insurance policy.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PSTUD">
+        <source>part-time student</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PSTUD@definition">
+        <source>Covered party to an insurance policy has coverage through part-time attendance at a recognized educational institution as defined by a particular insurance policy.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PLS">
+        <source>Plastic surgery clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="URO">
+        <source>Urology clinic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FTWIN">
+        <source>fraternal twin</source>
+        <target>Jumeau ou jumelle dizygote</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="FTWIN@definition">
+        <source>The scoper and player were carried in the same womb and share common biological parents but are the product of distinct egg/sperm pairs.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ITWIN">
+        <source>identical twin</source>
+        <target>Jumeau ou jumelle monozygote</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="ITWIN@definition">
+        <source>The scoper and player are offspring of the same egg-sperm pair.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MUNCLE">
+        <source>maternal uncle</source>
+        <target>Oncle maternel</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="MUNCLE@definition">
+        <source>**Description:**The player of the role is a biological brother of the scoping person's biological mother.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PUNCLE">
+        <source>paternal uncle</source>
+        <target>Oncle paternel</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="PUNCLE@definition">
+        <source>**Description:**The player of the role is a biological brother of the scoping person's biological father.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="!!FMRSPS@definition">
+        <source>Player of the role was previously joined to the scoping person in marriage and this marriage is now dissolved and inactive.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="!!FTHFOST@definition">
+        <source>The player of the role (parent) who is a male state-certified caregiver responsible for the scoper (child) who has been placed in the parent's care. The placement of the child is usually arranged through the government or a social-service agency, and temporary.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="!!MTHFOST@definition">
+        <source>The player of the role (parent) who is a female state-certified caregiver responsible for the scoper (child) who has been placed in the parent's care. The placement of the child is usually arranged through the government or a social-service agency, and temporary.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-RoleCode" resname="!!PRNFOST@definition">
+        <source>The player of the role (parent) who is a state-certified caregiver responsible for the scoper (child) who has been placed in the parent's care. The placement of the child is usually arranged through the government or a social-service agency, and temporary.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

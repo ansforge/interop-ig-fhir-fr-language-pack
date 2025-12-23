@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="fr-FR" id="CodeSystem-v3-ActStatus" original="Resource CodeSystem-v3-ActStatus" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="normal">
+        <source>normal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="normal@definition">
+        <source>Encompasses the expected states of an Act, but excludes &quot;nullified&quot; and &quot;obsolete&quot; which represent unusual terminal states for the life-cycle.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="aborted">
+        <source>aborted</source>
+        <target>Arrêté (après son lancement)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="aborted@definition">
+        <source>The Act has been terminated prior to the originally intended completion.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="active">
+        <source>active</source>
+        <target>Actif (en cours ou à venir)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="active@definition">
+        <source>The Act can be performed or is being performed</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="cancelled">
+        <source>cancelled</source>
+        <target>Annulé (avant son lancement)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="cancelled@definition">
+        <source>The Act has been abandoned before activation.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="completed">
+        <source>completed</source>
+        <target>Terminé</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="completed@definition">
+        <source>An Act that has terminated normally after all of its constituents have been performed.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="held">
+        <source>held</source>
+        <target>En attente (avant son lancement)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="held@definition">
+        <source>An Act that is still in the preparatory stages has been put aside. No action can occur until the Act is released.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="new">
+        <source>new</source>
+        <target>En préparation</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="new@definition">
+        <source>An Act that is in the preparatory stages and may not yet be acted upon</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="suspended">
+        <source>suspended</source>
+        <target>Suspendu (au cours de sa réalisation)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="suspended@definition">
+        <source>An Act that has been activated (actions could or have been performed against it), but has been temporarily disabled. No further action should be taken against it until it is released</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="nullified">
+        <source>nullified</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="nullified@definition">
+        <source>This Act instance was created in error and has been 'removed' and is treated as though it never existed. A record is retained for audit purposes only.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="obsolete">
+        <source>obsolete</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ActStatus" resname="obsolete@definition">
+        <source>This Act instance has been replaced by a new instance.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

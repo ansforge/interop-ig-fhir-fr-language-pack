@@ -1,0 +1,501 @@
+
+# null
+#: _AuthorizedParticipationFunction
+msgid "AuthorizedParticipationFunction"
+msgstr ""
+
+# null
+#: _AuthorizedParticipationFunction@definition
+msgid "This code is used to specify the exact function an actor is authorized to have in a service in all necessary detail."
+msgstr ""
+
+# null
+#: _AuthorizedReceiverParticipationFunction
+msgid "AuthorizedReceiverParticipationFunction"
+msgstr ""
+
+# null
+#: _AuthorizedReceiverParticipationFunction@definition
+msgid "This code is used to specify the exact function an actor is authorized to have as a receiver of information that is the subject of a consent directive or consent override."
+msgstr ""
+
+# null
+#: AUCG
+msgid "caregiver information receiver"
+msgstr ""
+
+# null
+#: AUCG@definition
+msgid "**Description:**Caregiver authorized to receive patient health information."
+msgstr ""
+
+# null
+#: AULR
+msgid "legitimate relationship information receiver"
+msgstr ""
+
+# null
+#: AULR@definition
+msgid "**Description:**Provider with legitimate relationship authorized to receive patient health information."
+msgstr ""
+
+# null
+#: AUTM
+msgid "care team information receiver"
+msgstr ""
+
+# null
+#: AUTM@definition
+msgid "**Description:**Member of care team authorized to receive patient health information."
+msgstr ""
+
+# null
+#: AUWA
+msgid "work area information receiver"
+msgstr ""
+
+# null
+#: AUWA@definition
+msgid "**Description:**Entities within specified work area authorized to receive patient health information."
+msgstr ""
+
+# null
+#: _ConsenterParticipationFunction
+msgid "ConsenterParticipationFunction"
+msgstr ""
+
+# null
+#: _ConsenterParticipationFunction@definition
+msgid "This code is used to specify the exact function an actor is authorized to have in authoring a consent directive."
+msgstr ""
+
+# null
+#: GRDCON
+msgid "legal guardian consent author"
+msgstr ""
+
+# null
+#: GRDCON@definition
+msgid "**Description:**Legal guardian of the subject of consent authorized to author a consent directive for the subject of consent."
+msgstr ""
+
+# null
+#: POACON
+msgid "healthcare power of attorney consent author"
+msgstr ""
+
+# null
+#: POACON@definition
+msgid "**Description:**Person authorized with healthcare power of attorney to author a consent directive for the subject of consent."
+msgstr ""
+
+# null
+#: PRCON
+msgid "personal representative consent author"
+msgstr ""
+
+# null
+#: PRCON@definition
+msgid "**Description:**Personal representative of the subject of consent authorized to author a consent directive for the subject of consent."
+msgstr ""
+
+# null
+#: PROMSK
+msgid "authorized provider masking author"
+msgstr ""
+
+# null
+#: PROMSK@definition
+msgid "**Definition:**Provider authorized to mask information to protect the patient, a third party, or to ensure that the provider has consulted with the patient prior to release of this information."
+msgstr ""
+
+# null
+#: SUBCON
+msgid "subject of consent author"
+msgstr ""
+
+# null
+#: SUBCON@definition
+msgid "**Description:**Subject of consent authorized to author a consent directive."
+msgstr ""
+
+# null
+#: _OverriderParticipationFunction
+msgid "OverriderParticipationFunction"
+msgstr ""
+
+# null
+#: _OverriderParticipationFunction@definition
+msgid "This code is used to specify the exact function an actor is authorized to have in authoring a consent override."
+msgstr ""
+
+# null
+#: AUCOV
+msgid "consent overrider"
+msgstr ""
+
+# null
+#: AUCOV@definition
+msgid "**Description:**Entity authorized to override a consent directive."
+msgstr ""
+
+# null
+#: AUEMROV
+msgid "emergency overrider"
+msgstr ""
+
+# null
+#: AUEMROV@definition
+msgid "**Description:**Entity authorized to override a consent directive or privacy policy in an emergency."
+msgstr ""
+
+# null
+#: _CoverageParticipationFunction
+msgid "CoverageParticipationFunction"
+msgstr ""
+
+# null
+#: _CoverageParticipationFunction@definition
+msgid "**Definition:** Set of codes indicating the manner in which sponsors, underwriters, and payers participate in a policy or program."
+msgstr ""
+
+# null
+#: _PayorParticipationFunction
+msgid "PayorParticipationFunction"
+msgstr ""
+
+# null
+#: _PayorParticipationFunction@definition
+msgid "**Definition:** Set of codes indicating the manner in which payors participate in a policy or program.</"
+msgstr ""
+
+# null
+#: CLMADJ
+msgid "claims adjudication"
+msgstr ""
+
+# null
+#: CLMADJ@definition
+msgid "**Definition:** Manages all operations required to adjudicate fee for service claims or managed care encounter reports."
+msgstr ""
+
+# null
+#: ENROLL
+msgid "enrollment broker"
+msgstr ""
+
+# null
+#: ENROLL@definition
+msgid "**Definition:** Managing the enrollment of covered parties."
+msgstr ""
+
+# null
+#: FFSMGT
+msgid "ffs management"
+msgstr ""
+
+# null
+#: FFSMGT@definition
+msgid "**Definition:** Managing all operations required to administer a fee for service or indemnity health plan including enrolling covered parties and providing customer service, provider contracting, claims payment, care management and utilization review."
+msgstr ""
+
+# null
+#: MCMGT
+msgid "managed care management"
+msgstr ""
+
+# null
+#: MCMGT@definition
+msgid "**Definition:** Managing all operations required to administer a managed care plan including enrolling covered parties and providing customer service,, provider contracting, claims payment, care management and utilization review."
+msgstr ""
+
+# null
+#: PROVMGT
+msgid "provider management"
+msgstr ""
+
+# null
+#: PROVMGT@definition
+msgid "**Definition:** Managing provider contracting, provider services, credentialing, profiling, performance measures, and ensuring network adequacy."
+msgstr ""
+
+# null
+#: UMGT
+msgid "utilization management"
+msgstr ""
+
+# null
+#: UMGT@definition
+msgid "**Definition:** Managing utilization of services by ensuring that providers adhere to, e.g., payeraTMs clinical protocols for medical appropriateness and standards of medical necessity. May include management of authorizations for services and referrals."
+msgstr ""
+
+# null
+#: _SponsorParticipationFunction
+msgid "SponsorParticipationFunction"
+msgstr ""
+
+# null
+#: _SponsorParticipationFunction@definition
+msgid "**Definition:** Set of codes indicating the manner in which sponsors participate in a policy or program. NOTE: use only when the Sponsor is not further specified with a SponsorRoleType as being either a fully insured sponsor or a self insured sponsor."
+msgstr ""
+
+# null
+#: FULINRD
+msgid "fully insured"
+msgstr ""
+
+# null
+#: FULINRD@definition
+msgid "**Definition:** Responsibility taken by a sponsor to contract with one or more underwriters for the assumption of full responsibility for the risk and administration of a policy or program."
+msgstr ""
+
+# null
+#: SELFINRD
+msgid "self insured"
+msgstr ""
+
+# null
+#: SELFINRD@definition
+msgid "**Definition:** Responsibility taken by a sponsor to organize the underwriting of risk and administration of a policy or program."
+msgstr ""
+
+# null
+#: _UnderwriterParticipationFunction
+msgid "UnderwriterParticipationFunction"
+msgstr ""
+
+# null
+#: _UnderwriterParticipationFunction@definition
+msgid "**Definition:** Set of codes indicating the manner in which underwriters participate in a policy or program."
+msgstr ""
+
+# null
+#: PAYORCNTR
+msgid "payor contracting"
+msgstr ""
+
+# null
+#: PAYORCNTR@definition
+msgid "**Definition:** Contracting for the provision and administration of health services to payors while retaining the risk for coverage. Contracting may be for all provision and administration; or for provision of certain types of services; for provision of services by region; and by types of administration, e.g., claims adjudication, enrollment, provider management, and utilization management. Typically done by underwriters for sponsors who need coverage provided to covered parties in multiple regions. The underwriter may act as the payor in some, but not all of the regions in which coverage is provided."
+msgstr ""
+
+# null
+#: REINS
+msgid "reinsures"
+msgstr ""
+
+# null
+#: REINS@definition
+msgid "**Definition:** Underwriting reinsurance for another underwriter for the policy or program."
+msgstr ""
+
+# null
+#: RETROCES
+msgid "retrocessionaires"
+msgstr ""
+
+# null
+#: RETROCES@definition
+msgid "**Definition:** Underwriting reinsurance for another reinsurer."
+msgstr ""
+
+# null
+#: SUBCTRT
+msgid "subcontracting risk"
+msgstr ""
+
+# null
+#: SUBCTRT@definition
+msgid "**Definition:** Delegating risk for a policy or program to one or more subcontracting underwriters, e.g., a major health insurer may delegate risk for provision of coverage under a national health plan to other underwriters by region ."
+msgstr ""
+
+# null
+#: UNDERWRTNG
+msgid "underwriting"
+msgstr ""
+
+# null
+#: UNDERWRTNG@definition
+msgid "**Definition:** Provision of underwriting analysis for another underwriter without assumption of risk."
+msgstr ""
+
+# null
+#: ADMPHYS
+msgid "admitting physician"
+msgstr "Responsable de l'admission"
+
+# null
+#: ADMPHYS@definition
+msgid "A physician who admitted a patient to a hospital or other care unit that is the context of this service."
+msgstr ""
+
+# null
+#: ANEST
+msgid "anesthesist"
+msgstr ""
+
+# null
+#: ANEST@definition
+msgid "In a typical anesthesia setting an anesthesiologist or anesthesia resident in charge of the anesthesia and life support, but only a witness to the surgical procedure itself. To clarify responsibilities anesthesia should always be represented as a separate service related to the surgery."
+msgstr ""
+
+# null
+#: ANRS
+msgid "anesthesia nurse"
+msgstr ""
+
+# null
+#: ANRS@definition
+msgid "In a typical anesthesia setting the nurse principally assisting the anesthesiologist during the critical periods."
+msgstr ""
+
+# null
+#: ASSEMBLER
+msgid "assembly software"
+msgstr ""
+
+# null
+#: ASSEMBLER@definition
+msgid "A device that operates independently of an author on custodian's algorithms for data extraction of existing information for purpose of generating a new artifact.
+
+*UsageConstraint:* ASSEMBLER ParticipationFunction should be used with DEV (device) ParticipationType."
+msgstr ""
+
+# null
+#: ATTPHYS
+msgid "attending physician"
+msgstr "Référent - Responsable du patient dans la structure de soins"
+
+# null
+#: ATTPHYS@definition
+msgid "A physician who is primarily responsible for a patient during the hospitalization, which is the context of the service."
+msgstr ""
+
+# null
+#: COMPOSER
+msgid "composer software"
+msgstr ""
+
+# null
+#: COMPOSER@definition
+msgid "A device used by an author to record new information, which may also be used by the author to select existing information for aggregation with newly recorded information for the purpose of generating a new artifact.
+
+*UsageConstraint:* COMPOSER ParticipationFunction should be used with DEV (device) ParticipationType.
+
+*Usage Note:* This code will enable implementers to more specifically represent the manner in which a Device participated in and facilitated the generation of a CDA Clinical Document or a CDA Entry by the responsible Author, which is comprised of the Author's newly entered content, and may include the pre-existing content selected by the Author, for the purpose of establishing the provenance and accountability for these acts."
+msgstr ""
+
+# null
+#: DISPHYS
+msgid "discharging physician"
+msgstr "Responsable de la sortie"
+
+# null
+#: DISPHYS@definition
+msgid "A physician who discharged a patient from a hospital or other care unit that is the context of this service."
+msgstr ""
+
+# null
+#: FASST
+msgid "first assistant surgeon"
+msgstr ""
+
+# null
+#: FASST@definition
+msgid "In a typical surgery setting the assistant facing the primary surgeon. The first assistant performs parts of the operation and assists in others (e.g., incision, approach, electrocoutering, ligatures, sutures)."
+msgstr ""
+
+# null
+#: MDWF
+msgid "midwife"
+msgstr ""
+
+# null
+#: MDWF@definition
+msgid "A person (usually female) helping a woman deliver a baby. Responsibilities vary locally, ranging from a mere optional assistant to a full required participant, responsible for (normal) births and pre- and post-natal care for both mother and baby."
+msgstr ""
+
+# null
+#: NASST
+msgid "nurse assistant"
+msgstr ""
+
+# null
+#: NASST@definition
+msgid "In a typical surgery setting the non-sterile nurse handles material supply from the stock, forwards specimen to pathology, and helps with other non-sterile tasks (e.g., phone calls, etc.)."
+msgstr ""
+
+# null
+#: PCP
+msgid "primary care physician"
+msgstr "Médecin traitant"
+
+# null
+#: PCP@definition
+msgid "The healthcare provider that holds primary responsibility for the overall care of a patient."
+msgstr ""
+
+# null
+#: PRISURG
+msgid "primary surgeon"
+msgstr ""
+
+# null
+#: PRISURG@definition
+msgid "In a typical surgery setting the primary performing surgeon."
+msgstr ""
+
+# null
+#: REVIEWER
+msgid "reviewer"
+msgstr ""
+
+# null
+#: REVIEWER@definition
+msgid "A verifier who is accountable for reviewing and asserting that the verification of an Act complies with jurisdictional or organizational policy.
+
+*UsageConstraint:* UsageConstraint: Specifies the exact function that an actor is authorized to have as a verifier of an Act. Connotes that a specialized verifier asserts compliance for veracity of the review per jurisdictional or organizational policy. E.g., The Provider who takes responsibility for authenticity of a record submitted to a payer.
+
+REVIEW ParticipationFunction should be used with VFR (verifier)"
+msgstr ""
+
+# null
+#: RNDPHYS
+msgid "rounding physician"
+msgstr ""
+
+# null
+#: RNDPHYS@definition
+msgid "A physician who made rounds on a patient in a hospital or other care center."
+msgstr ""
+
+# null
+#: SASST
+msgid "second assistant surgeon"
+msgstr ""
+
+# null
+#: SASST@definition
+msgid "In a typical surgery setting the assistant who primarily holds the hooks."
+msgstr ""
+
+# null
+#: SNRS
+msgid "scrub nurse"
+msgstr ""
+
+# null
+#: SNRS@definition
+msgid "In a typical surgery setting the nurse in charge of the instrumentation."
+msgstr ""
+
+# null
+#: TASST
+msgid "third assistant"
+msgstr ""
+
+# null
+#: TASST@definition
+msgid "In a typical surgery setting there is rarely a third assistant (e.g., in some Hip operations the third assistant postures the affected leg)."
+msgstr ""
+

@@ -1,0 +1,139 @@
+
+# null
+#: _ActSubstanceAdminSubstitutionCode
+msgid "ActSubstanceAdminSubstitutionCode"
+msgstr ""
+
+# null
+#: _ActSubstanceAdminSubstitutionCode@definition
+msgid "Substitution occurred or is permitted with another product that may potentially have different ingredients, but having the same biological and therapeutic effects."
+msgstr ""
+
+# null
+#: E
+msgid "equivalent"
+msgstr ""
+
+# null
+#: E@definition
+msgid "Substitution occurred or is permitted with another bioequivalent and therapeutically equivalent product."
+msgstr ""
+
+# null
+#: EC
+msgid "equivalent composition"
+msgstr ""
+
+# null
+#: EC@definition
+msgid "Substitution occurred or is permitted with another product that is a:
+
+ *  pharmaceutical alternative containing the same active ingredient but is formulated with different salt, ester
+ *  pharmaceutical equivalent that has the same active ingredient, strength, dosage form and route of administration
+
+*Examples:* 
+
+ *  *Pharmaceutical alternative:* Erythromycin Ethylsuccinate for Erythromycin Stearate
+ *  *Pharmaceutical equivalent:* Lisonpril for Zestril"
+msgstr ""
+
+# null
+#: BC
+msgid "brand composition"
+msgstr ""
+
+# null
+#: BC@definition
+msgid "Substitution occurred or is permitted between equivalent Brands but not Generics
+
+*Examples:* 
+
+ *  Zestril for Prinivil
+ *  Coumadin for Jantoven"
+msgstr ""
+
+# null
+#: G
+msgid "generic composition"
+msgstr "Substitution autorisée par un produit générique"
+
+# null (!!when last translated was: Substitution occurred or is permitted between equivalent Generics but not Brands)
+#: G@definition
+msgid "Substitution occurred or is permitted between equivalent Generics but not Brands
+
+*Examples:* 
+
+ *  Lisnopril (Lupin Corp) for Lisnopril (Wockhardt Corp)"
+msgstr "!!"
+
+# null
+#: TE
+msgid "therapeutic alternative"
+msgstr ""
+
+# null
+#: TE@definition
+msgid "Substitution occurred or is permitted with another product having the same therapeutic objective and safety profile.
+
+*Examples:* 
+
+ *  ranitidine for Tagamet"
+msgstr ""
+
+# null
+#: TB
+msgid "therapeutic brand"
+msgstr ""
+
+# null
+#: TB@definition
+msgid "Substitution occurred or is permitted between therapeutically equivalent Brands but not Generics
+
+>
+
+*Examples:* 
+
+ *  Zantac for Tagamet"
+msgstr ""
+
+# null
+#: TG
+msgid "therapeutic generic"
+msgstr ""
+
+# null
+#: TG@definition
+msgid "Substitution occurred or is permitted between therapeutically equivalent Generics but not Brands
+
+>
+
+*Examples:* 
+
+ *  Ranitidine for cimetidine"
+msgstr ""
+
+# null
+#: F
+msgid "formulary"
+msgstr ""
+
+# null
+#: F@definition
+msgid "This substitution was performed or is permitted based on formulary guidelines."
+msgstr ""
+
+# null
+#: N
+msgid "none"
+msgstr "Aucune substitution permise"
+
+# null
+#: N@definition
+msgid "No substitution occurred or is permitted."
+msgstr ""
+
+# null
+#: !!G@definition
+msgid "Substitution occurred or is permitted between equivalent Generics but not Brands"
+msgstr ""
+

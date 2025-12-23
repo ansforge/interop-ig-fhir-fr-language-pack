@@ -1,0 +1,41 @@
+{
+  "id" : "CodeSystem-allergy-intolerance-criticality",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "fr-FR",
+      "entries" : [
+        {
+          "id" : "low",
+          "source" : "Low Risk",
+          "target" : "Bas"
+        },
+        {
+          "id" : "low@definition",
+          "source" : "Worst case result of a future exposure is not assessed to be life-threatening or having high potential for organ system failure.",
+          "target" : ""
+        },
+        {
+          "id" : "high",
+          "source" : "High Risk",
+          "target" : "Elevé"
+        },
+        {
+          "id" : "high@definition",
+          "source" : "Worst case result of a future exposure is assessed to be life-threatening or having high potential for organ system failure.",
+          "target" : ""
+        },
+        {
+          "id" : "unable-to-assess",
+          "source" : "Unable to Assess Risk",
+          "target" : "Impossible à évaluer"
+        },
+        {
+          "id" : "unable-to-assess@definition",
+          "source" : "Unable to assess the worst case result of a future exposure.",
+          "target" : ""
+        }
+      ]
+    }
+  ]
+}

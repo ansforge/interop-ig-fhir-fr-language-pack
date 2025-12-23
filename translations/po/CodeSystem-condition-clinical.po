@@ -1,0 +1,71 @@
+
+# null
+#: active
+msgid "Active"
+msgstr "Actif"
+
+# null
+#: active@definition
+msgid "The subject is currently experiencing the condition or situation, there is evidence of the condition or situation, or considered to be a significant risk."
+msgstr ""
+
+# null
+#: recurrence
+msgid "Recurrence"
+msgstr "Récurrent"
+
+# null
+#: recurrence@definition
+msgid "The subject is experiencing a reoccurence or repeating of a previously resolved condition or situation, e.g. urinary tract infection, food insecurity."
+msgstr ""
+
+# null
+#: relapse
+msgid "Relapse"
+msgstr "Rechute"
+
+# null
+#: relapse@definition
+msgid "The subject is experiencing a return of a condition or situation after a period of improvement or remission, e.g. relapse of cancer, alcoholism."
+msgstr ""
+
+# null
+#: inactive
+msgid "Inactive"
+msgstr "Inactif"
+
+# null
+#: inactive@definition
+msgid "The subject is no longer experiencing the condition or situation and there is no longer evidence or appreciable risk of the condition or situation."
+msgstr ""
+
+# null
+#: remission
+msgid "Remission"
+msgstr "En rémission"
+
+# null
+#: remission@definition
+msgid "The subject is not presently experiencing the condition or situation, but there is a risk of the condition or situation returning."
+msgstr ""
+
+# null
+#: resolved
+msgid "Resolved"
+msgstr "Résolu"
+
+# null
+#: resolved@definition
+msgid "The subject is not presently experiencing the condition or situation and there is a negligible perceived risk of the condition or situation returning."
+msgstr ""
+
+# null
+#: unknown
+msgid "Unknown"
+msgstr ""
+
+# null
+#: unknown@definition
+msgid "The authoring/source system does not know which of the status values currently applies for this condition. Note: This concept is not to be used for \"other\" - one of the listed statuses is presumed to apply, but the authoring/source system does not know which."
+msgstr ""
+

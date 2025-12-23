@@ -1,0 +1,410 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="fr-FR" id="CodeSystem-v3-ParticipationFunction" original="Resource CodeSystem-v3-ParticipationFunction" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_AuthorizedParticipationFunction">
+        <source>AuthorizedParticipationFunction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_AuthorizedParticipationFunction@definition">
+        <source>This code is used to specify the exact function an actor is authorized to have in a service in all necessary detail.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_AuthorizedReceiverParticipationFunction">
+        <source>AuthorizedReceiverParticipationFunction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_AuthorizedReceiverParticipationFunction@definition">
+        <source>This code is used to specify the exact function an actor is authorized to have as a receiver of information that is the subject of a consent directive or consent override.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="AUCG">
+        <source>caregiver information receiver</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="AUCG@definition">
+        <source>**Description:**Caregiver authorized to receive patient health information.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="AULR">
+        <source>legitimate relationship information receiver</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="AULR@definition">
+        <source>**Description:**Provider with legitimate relationship authorized to receive patient health information.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="AUTM">
+        <source>care team information receiver</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="AUTM@definition">
+        <source>**Description:**Member of care team authorized to receive patient health information.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="AUWA">
+        <source>work area information receiver</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="AUWA@definition">
+        <source>**Description:**Entities within specified work area authorized to receive patient health information.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_ConsenterParticipationFunction">
+        <source>ConsenterParticipationFunction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_ConsenterParticipationFunction@definition">
+        <source>This code is used to specify the exact function an actor is authorized to have in authoring a consent directive.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="GRDCON">
+        <source>legal guardian consent author</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="GRDCON@definition">
+        <source>**Description:**Legal guardian of the subject of consent authorized to author a consent directive for the subject of consent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="POACON">
+        <source>healthcare power of attorney consent author</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="POACON@definition">
+        <source>**Description:**Person authorized with healthcare power of attorney to author a consent directive for the subject of consent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="PRCON">
+        <source>personal representative consent author</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="PRCON@definition">
+        <source>**Description:**Personal representative of the subject of consent authorized to author a consent directive for the subject of consent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="PROMSK">
+        <source>authorized provider masking author</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="PROMSK@definition">
+        <source>**Definition:**Provider authorized to mask information to protect the patient, a third party, or to ensure that the provider has consulted with the patient prior to release of this information.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="SUBCON">
+        <source>subject of consent author</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="SUBCON@definition">
+        <source>**Description:**Subject of consent authorized to author a consent directive.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_OverriderParticipationFunction">
+        <source>OverriderParticipationFunction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_OverriderParticipationFunction@definition">
+        <source>This code is used to specify the exact function an actor is authorized to have in authoring a consent override.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="AUCOV">
+        <source>consent overrider</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="AUCOV@definition">
+        <source>**Description:**Entity authorized to override a consent directive.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="AUEMROV">
+        <source>emergency overrider</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="AUEMROV@definition">
+        <source>**Description:**Entity authorized to override a consent directive or privacy policy in an emergency.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_CoverageParticipationFunction">
+        <source>CoverageParticipationFunction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_CoverageParticipationFunction@definition">
+        <source>**Definition:** Set of codes indicating the manner in which sponsors, underwriters, and payers participate in a policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_PayorParticipationFunction">
+        <source>PayorParticipationFunction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_PayorParticipationFunction@definition">
+        <source>**Definition:** Set of codes indicating the manner in which payors participate in a policy or program.&lt;/</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="CLMADJ">
+        <source>claims adjudication</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="CLMADJ@definition">
+        <source>**Definition:** Manages all operations required to adjudicate fee for service claims or managed care encounter reports.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="ENROLL">
+        <source>enrollment broker</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="ENROLL@definition">
+        <source>**Definition:** Managing the enrollment of covered parties.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="FFSMGT">
+        <source>ffs management</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="FFSMGT@definition">
+        <source>**Definition:** Managing all operations required to administer a fee for service or indemnity health plan including enrolling covered parties and providing customer service, provider contracting, claims payment, care management and utilization review.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="MCMGT">
+        <source>managed care management</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="MCMGT@definition">
+        <source>**Definition:** Managing all operations required to administer a managed care plan including enrolling covered parties and providing customer service,, provider contracting, claims payment, care management and utilization review.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="PROVMGT">
+        <source>provider management</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="PROVMGT@definition">
+        <source>**Definition:** Managing provider contracting, provider services, credentialing, profiling, performance measures, and ensuring network adequacy.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="UMGT">
+        <source>utilization management</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="UMGT@definition">
+        <source>**Definition:** Managing utilization of services by ensuring that providers adhere to, e.g., payeraTMs clinical protocols for medical appropriateness and standards of medical necessity. May include management of authorizations for services and referrals.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_SponsorParticipationFunction">
+        <source>SponsorParticipationFunction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_SponsorParticipationFunction@definition">
+        <source>**Definition:** Set of codes indicating the manner in which sponsors participate in a policy or program. NOTE: use only when the Sponsor is not further specified with a SponsorRoleType as being either a fully insured sponsor or a self insured sponsor.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="FULINRD">
+        <source>fully insured</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="FULINRD@definition">
+        <source>**Definition:** Responsibility taken by a sponsor to contract with one or more underwriters for the assumption of full responsibility for the risk and administration of a policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="SELFINRD">
+        <source>self insured</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="SELFINRD@definition">
+        <source>**Definition:** Responsibility taken by a sponsor to organize the underwriting of risk and administration of a policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_UnderwriterParticipationFunction">
+        <source>UnderwriterParticipationFunction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="_UnderwriterParticipationFunction@definition">
+        <source>**Definition:** Set of codes indicating the manner in which underwriters participate in a policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="PAYORCNTR">
+        <source>payor contracting</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="PAYORCNTR@definition">
+        <source>**Definition:** Contracting for the provision and administration of health services to payors while retaining the risk for coverage. Contracting may be for all provision and administration; or for provision of certain types of services; for provision of services by region; and by types of administration, e.g., claims adjudication, enrollment, provider management, and utilization management. Typically done by underwriters for sponsors who need coverage provided to covered parties in multiple regions. The underwriter may act as the payor in some, but not all of the regions in which coverage is provided.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="REINS">
+        <source>reinsures</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="REINS@definition">
+        <source>**Definition:** Underwriting reinsurance for another underwriter for the policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="RETROCES">
+        <source>retrocessionaires</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="RETROCES@definition">
+        <source>**Definition:** Underwriting reinsurance for another reinsurer.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="SUBCTRT">
+        <source>subcontracting risk</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="SUBCTRT@definition">
+        <source>**Definition:** Delegating risk for a policy or program to one or more subcontracting underwriters, e.g., a major health insurer may delegate risk for provision of coverage under a national health plan to other underwriters by region .</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="UNDERWRTNG">
+        <source>underwriting</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="UNDERWRTNG@definition">
+        <source>**Definition:** Provision of underwriting analysis for another underwriter without assumption of risk.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="ADMPHYS">
+        <source>admitting physician</source>
+        <target>Responsable de l'admission</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="ADMPHYS@definition">
+        <source>A physician who admitted a patient to a hospital or other care unit that is the context of this service.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="ANEST">
+        <source>anesthesist</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="ANEST@definition">
+        <source>In a typical anesthesia setting an anesthesiologist or anesthesia resident in charge of the anesthesia and life support, but only a witness to the surgical procedure itself. To clarify responsibilities anesthesia should always be represented as a separate service related to the surgery.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="ANRS">
+        <source>anesthesia nurse</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="ANRS@definition">
+        <source>In a typical anesthesia setting the nurse principally assisting the anesthesiologist during the critical periods.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="ASSEMBLER">
+        <source>assembly software</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="ASSEMBLER@definition">
+        <source>A device that operates independently of an author on custodian's algorithms for data extraction of existing information for purpose of generating a new artifact.
+
+*UsageConstraint:* ASSEMBLER ParticipationFunction should be used with DEV (device) ParticipationType.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="ATTPHYS">
+        <source>attending physician</source>
+        <target>Référent - Responsable du patient dans la structure de soins</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="ATTPHYS@definition">
+        <source>A physician who is primarily responsible for a patient during the hospitalization, which is the context of the service.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="COMPOSER">
+        <source>composer software</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="COMPOSER@definition">
+        <source>A device used by an author to record new information, which may also be used by the author to select existing information for aggregation with newly recorded information for the purpose of generating a new artifact.
+
+*UsageConstraint:* COMPOSER ParticipationFunction should be used with DEV (device) ParticipationType.
+
+*Usage Note:* This code will enable implementers to more specifically represent the manner in which a Device participated in and facilitated the generation of a CDA Clinical Document or a CDA Entry by the responsible Author, which is comprised of the Author's newly entered content, and may include the pre-existing content selected by the Author, for the purpose of establishing the provenance and accountability for these acts.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="DISPHYS">
+        <source>discharging physician</source>
+        <target>Responsable de la sortie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="DISPHYS@definition">
+        <source>A physician who discharged a patient from a hospital or other care unit that is the context of this service.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="FASST">
+        <source>first assistant surgeon</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="FASST@definition">
+        <source>In a typical surgery setting the assistant facing the primary surgeon. The first assistant performs parts of the operation and assists in others (e.g., incision, approach, electrocoutering, ligatures, sutures).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="MDWF">
+        <source>midwife</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="MDWF@definition">
+        <source>A person (usually female) helping a woman deliver a baby. Responsibilities vary locally, ranging from a mere optional assistant to a full required participant, responsible for (normal) births and pre- and post-natal care for both mother and baby.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="NASST">
+        <source>nurse assistant</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="NASST@definition">
+        <source>In a typical surgery setting the non-sterile nurse handles material supply from the stock, forwards specimen to pathology, and helps with other non-sterile tasks (e.g., phone calls, etc.).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="PCP">
+        <source>primary care physician</source>
+        <target>Médecin traitant</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="PCP@definition">
+        <source>The healthcare provider that holds primary responsibility for the overall care of a patient.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="PRISURG">
+        <source>primary surgeon</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="PRISURG@definition">
+        <source>In a typical surgery setting the primary performing surgeon.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="REVIEWER">
+        <source>reviewer</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="REVIEWER@definition">
+        <source>A verifier who is accountable for reviewing and asserting that the verification of an Act complies with jurisdictional or organizational policy.
+
+*UsageConstraint:* UsageConstraint: Specifies the exact function that an actor is authorized to have as a verifier of an Act. Connotes that a specialized verifier asserts compliance for veracity of the review per jurisdictional or organizational policy. E.g., The Provider who takes responsibility for authenticity of a record submitted to a payer.
+
+REVIEW ParticipationFunction should be used with VFR (verifier)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="RNDPHYS">
+        <source>rounding physician</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="RNDPHYS@definition">
+        <source>A physician who made rounds on a patient in a hospital or other care center.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="SASST">
+        <source>second assistant surgeon</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="SASST@definition">
+        <source>In a typical surgery setting the assistant who primarily holds the hooks.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="SNRS">
+        <source>scrub nurse</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="SNRS@definition">
+        <source>In a typical surgery setting the nurse in charge of the instrumentation.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="TASST">
+        <source>third assistant</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationFunction" resname="TASST@definition">
+        <source>In a typical surgery setting there is rarely a third assistant (e.g., in some Hip operations the third assistant postures the affected leg).</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+
+# null
+#: active
+msgid "Active"
+msgstr "Actif"
+
+# null
+#: active@definition
+msgid "The subject is currently experiencing, or is at risk of, a reaction to the identified substance."
+msgstr ""
+
+# null
+#: inactive
+msgid "Inactive"
+msgstr "Inactif"
+
+# null
+#: inactive@definition
+msgid "The subject is no longer at risk of a reaction to the identified substance."
+msgstr ""
+
+# null
+#: resolved
+msgid "Resolved"
+msgstr "Résolu"
+
+# null
+#: resolved@definition
+msgid "A reaction to the identified substance has been clinically reassessed by testing or re-exposure and is considered no longer to be present. Re-exposure could be accidental, unplanned, or outside of any clinical setting."
+msgstr ""
+

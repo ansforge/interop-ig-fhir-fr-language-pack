@@ -1,0 +1,2648 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="fr-FR" id="CodeSystem-v2-0487" original="Resource CodeSystem-v2-0487" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-v2-0487" resname="ABS">
+        <source>Abscess</source>
+        <target>Abcès</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ABS@definition">
+        <source>Abscess</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="...">
+        <source>No suggested values</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="...@definition">
+        <source>No suggested values</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ACNE">
+        <source>Tissue, Acne</source>
+        <target>Acné</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ACNE@definition">
+        <source>Tissue, Acne</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ACNFLD">
+        <source>Fluid, Acne</source>
+        <target>Liquide d'acné</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ACNFLD@definition">
+        <source>Fluid, Acne</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="AIRS">
+        <source>Air Sample</source>
+        <target>Échantillon d'air</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="AIRS@definition">
+        <source>Air Sample</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ALL">
+        <source>Allograft</source>
+        <target>Allogreffe</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ALL@definition">
+        <source>Allograft</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="AMN">
+        <source>Amniotic fluid</source>
+        <target>Liquide amniotique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="AMN@definition">
+        <source>Amniotic fluid</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="AMP">
+        <source>Amputation</source>
+        <target>Amputation</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="AMP@definition">
+        <source>Amputation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ANGI">
+        <source>Catheter Tip, Angio</source>
+        <target>Cathéter d'angiographie (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ANGI@definition">
+        <source>Catheter Tip, Angio</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ARTC">
+        <source>Catheter Tip, Arterial</source>
+        <target>Cathéter artériel (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ARTC@definition">
+        <source>Catheter Tip, Arterial</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ASERU">
+        <source>Serum, Acute</source>
+        <target>Sérum en phase aigüe</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ASERU@definition">
+        <source>Serum, Acute</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ASP">
+        <source>Aspirate</source>
+        <target>Aspiration</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ASP@definition">
+        <source>Aspirate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ATTE">
+        <source>Environment, Attest</source>
+        <target>Environnement, Attest</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ATTE@definition">
+        <source>Environment, Attest</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="AUTOA">
+        <source>Environmental, Autoclave Ampule</source>
+        <target>Ampoule d'autoclave</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="AUTOA@definition">
+        <source>Environmental, Autoclave Ampule</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="AUTOC">
+        <source>Environmental, Autoclave Capsule</source>
+        <target>Capsule d'autoclave</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="AUTOC@definition">
+        <source>Environmental, Autoclave Capsule</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="AUTP">
+        <source>Autopsy</source>
+        <target>Autopsie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="AUTP@definition">
+        <source>Autopsy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BBL">
+        <source>Blood bag</source>
+        <target>Poche de sang</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BBL@definition">
+        <source>Blood bag</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BCYST">
+        <source>Cyst, Baker's</source>
+        <target>Kyste de Baker</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BCYST@definition">
+        <source>Cyst, Baker's</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BDY">
+        <source>Whole body</source>
+        <target>Corps humain</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BDY@definition">
+        <source>Whole body</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BIFL">
+        <source>Bile Fluid</source>
+        <target>Bile</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BIFL@definition">
+        <source>Bile Fluid</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BITE">
+        <source>Bite</source>
+        <target>Morsure</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BITE@definition">
+        <source>Bite</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BLD">
+        <source>Whole blood</source>
+        <target>Sang</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BLD@definition">
+        <source>Whole blood</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BLDA">
+        <source>Blood arterial</source>
+        <target>Sang artériel</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BLDA@definition">
+        <source>Blood arterial</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BLDCO">
+        <source>Cord blood</source>
+        <target>Sang de cordon</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BLDCO@definition">
+        <source>Cord blood</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BLDV">
+        <source>Blood venous</source>
+        <target>Sang veineux</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BLDV@definition">
+        <source>Blood venous</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BLEB">
+        <source>Bleb</source>
+        <target>Cloque</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BLEB@definition">
+        <source>Bleb</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BLIST">
+        <source>Blister</source>
+        <target>Ampoule</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BLIST@definition">
+        <source>Blister</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BOIL">
+        <source>Boil</source>
+        <target>Clou</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BOIL@definition">
+        <source>Boil</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BON">
+        <source>Bone</source>
+        <target>Os</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BON@definition">
+        <source>Bone</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BOWL">
+        <source>Bowel contents</source>
+        <target>Contenu intestinal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BOWL@definition">
+        <source>Bowel contents</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BPH">
+        <source>Basophils</source>
+        <target>Polynucléaires basophiles</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BPH@definition">
+        <source>Basophils</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BPU">
+        <source>Blood product unit</source>
+        <target>Produit sanguin labile</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BPU@definition">
+        <source>Blood product unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BRN">
+        <source>Burn</source>
+        <target>Brûlure</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BRN@definition">
+        <source>Burn</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BRSH">
+        <source>Brush</source>
+        <target>Brosse</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BRSH@definition">
+        <source>Brush</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BRTH">
+        <source>Breath (use EXHLD)</source>
+        <target>Gas expiré (use EXG)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BRTH@definition">
+        <source>Breath (use EXHLD)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BRUS">
+        <source>Brushing</source>
+        <target>Brossage</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BRUS@definition">
+        <source>Brushing</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BUB">
+        <source>Bubo</source>
+        <target>Bubon</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BUB@definition">
+        <source>Bubo</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BULLA">
+        <source>Bulla/Bullae</source>
+        <target>Bulle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BULLA@definition">
+        <source>Bulla/Bullae</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BX">
+        <source>Biopsy</source>
+        <target>Biopsie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BX@definition">
+        <source>Biopsy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CALC">
+        <source>Calculus (=Stone)</source>
+        <target>Calcul</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CALC@definition">
+        <source>Calculus (=Stone)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BONE">
+        <source>Bone</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="BONE@definition">
+        <source>Bone</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CARBU">
+        <source>Carbuncle</source>
+        <target>Anthrax</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CARBU@definition">
+        <source>Carbuncle</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CAT">
+        <source>Catheter</source>
+        <target>Cathéter</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CAT@definition">
+        <source>Catheter</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CBITE">
+        <source>Bite, Cat</source>
+        <target>Morsure de chat</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CBITE@definition">
+        <source>Bite, Cat</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CDM">
+        <source>Cardiac muscle</source>
+        <target>Muscle cardiaque</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CDM@definition">
+        <source>Cardiac muscle</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CLIPP">
+        <source>Clippings</source>
+        <target>Coupures</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CLIPP@definition">
+        <source>Clippings</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CNJT">
+        <source>Conjunctiva</source>
+        <target>Conjonctive</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CNJT@definition">
+        <source>Conjunctiva</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CNL">
+        <source>Cannula</source>
+        <target>Canule</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CNL@definition">
+        <source>Cannula</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="COL">
+        <source>Colostrum</source>
+        <target>Colostrum</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="COL@definition">
+        <source>Colostrum</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CONE">
+        <source>Biospy, Cone</source>
+        <target>Biopsie conique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CONE@definition">
+        <source>Biospy, Cone</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CSCR">
+        <source>Scratch, Cat</source>
+        <target>Griffure de chat</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CSCR@definition">
+        <source>Scratch, Cat</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CSERU">
+        <source>Serum, Convalescent</source>
+        <target>Sérum de convalescent</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CSERU@definition">
+        <source>Serum, Convalescent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CSF">
+        <source>Cerebral spinal fluid</source>
+        <target>Liquide céphalorachidien</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CSF@definition">
+        <source>Cerebral spinal fluid</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CSITE">
+        <source>Catheter Insertion Site</source>
+        <target>Cathéter (Site d'insertion)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CSITE@definition">
+        <source>Catheter Insertion Site</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CSMY">
+        <source>Fluid,  Cystostomy Tube</source>
+        <target>Liquide de tube de cystostomie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CSMY@definition">
+        <source>Fluid,  Cystostomy Tube</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CST">
+        <source>Fluid, Cyst</source>
+        <target>Liquide de kyste</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CST@definition">
+        <source>Fluid, Cyst</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CSVR">
+        <source>Blood, Cell Saver</source>
+        <target>Récupérateur de sang</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CSVR@definition">
+        <source>Blood, Cell Saver</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CTP">
+        <source>Catheter tip</source>
+        <target>Cathéter (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CTP@definition">
+        <source>Catheter tip</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CUR">
+        <source>Curretage</source>
+        <target>Curetage</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CUR@definition">
+        <source>Curretage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CVM">
+        <source>Cervical Mucus</source>
+        <target>Glaire cervicale</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CVM@definition">
+        <source>Cervical Mucus</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CVPS">
+        <source>Site, CVP</source>
+        <target>Cathéter veineux central (site)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CVPS@definition">
+        <source>Site, CVP</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CVPT">
+        <source>Catheter Tip, CVP</source>
+        <target>Cathéter veineux central (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CVPT@definition">
+        <source>Catheter Tip, CVP</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CYN">
+        <source>Nodule, Cystic</source>
+        <target>Nodule kystique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CYN@definition">
+        <source>Nodule, Cystic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CYST">
+        <source>Cyst</source>
+        <target>Kyste</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="CYST@definition">
+        <source>Cyst</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DBITE">
+        <source>Bite, Dog</source>
+        <target>Morsure de chien</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DBITE@definition">
+        <source>Bite, Dog</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DCS">
+        <source>Sputum, Deep Cough</source>
+        <target>Expectoration profonde (crachat)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DCS@definition">
+        <source>Sputum, Deep Cough</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DEC">
+        <source>Ulcer, Decubitus</source>
+        <target>Ulcère de décubitus</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DEC@definition">
+        <source>Ulcer, Decubitus</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DEION">
+        <source>Environmental, Water  (Deionized)</source>
+        <target>Eau déminéralisée</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DEION@definition">
+        <source>Environmental, Water  (Deionized)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DIA">
+        <source>Dialysate</source>
+        <target>Dialysat</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DIA@definition">
+        <source>Dialysate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DIAF">
+        <source>Dialysis Fluid</source>
+        <target>Liquide de dialyse</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DIAF@definition">
+        <source>Dialysis Fluid</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DISCHG">
+        <source>Discharge</source>
+        <target>Décharge</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DISCHG@definition">
+        <source>Discharge</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DIV">
+        <source>Diverticulum</source>
+        <target>Diverticule</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DIV@definition">
+        <source>Diverticulum</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DRN">
+        <source>Drain</source>
+        <target>Drain</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DRN@definition">
+        <source>Drain</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DRNG">
+        <source>Drainage, Tube</source>
+        <target>Drain (Tube)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DRNG@definition">
+        <source>Drainage, Tube</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DRNGP">
+        <source>Drainage, Penrose</source>
+        <target>Drain Penrose</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DRNGP@definition">
+        <source>Drainage, Penrose</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DUFL">
+        <source>Duodenal fluid</source>
+        <target>Liquide duodénal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="DUFL@definition">
+        <source>Duodenal fluid</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EARW">
+        <source>Ear wax (cerumen)</source>
+        <target>Cérumen</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EARW@definition">
+        <source>Ear wax (cerumen)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EBRUSH">
+        <source>Brush, Esophageal</source>
+        <target>Brossage oesophagien</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EBRUSH@definition">
+        <source>Brush, Esophageal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EEYE">
+        <source>Environmental, Eye Wash</source>
+        <target>Lavage oculaire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EEYE@definition">
+        <source>Environmental, Eye Wash</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EFF">
+        <source>Environmental, Effluent</source>
+        <target>Éffluent environnemental</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EFF@definition">
+        <source>Environmental, Effluent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EFFUS">
+        <source>Effusion</source>
+        <target>Éffusion</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EFFUS@definition">
+        <source>Effusion</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EFOD">
+        <source>Environmental, Food</source>
+        <target>Aliment</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EFOD@definition">
+        <source>Environmental, Food</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EISO">
+        <source>Environmental, Isolette</source>
+        <target>Isolette environnementale</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EISO@definition">
+        <source>Environmental, Isolette</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ELT">
+        <source>Electrode</source>
+        <target>Electrode</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ELT@definition">
+        <source>Electrode</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ENVIR">
+        <source>Environmental, Unidentified Substance</source>
+        <target>Substance non identifiée</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ENVIR@definition">
+        <source>Environmental, Unidentified Substance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EOS">
+        <source>Eosinophils</source>
+        <target>Polynucléaires éosinophiles</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EOS@definition">
+        <source>Eosinophils</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EOTH">
+        <source>Environmental, Other Substance</source>
+        <target>Autre substance</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EOTH@definition">
+        <source>Environmental, Other Substance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ESOI">
+        <source>Environmental, Soil</source>
+        <target>Sol</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ESOI@definition">
+        <source>Environmental, Soil</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ESOS">
+        <source>Environmental, Solution (Sterile)</source>
+        <target>Solution stérile</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ESOS@definition">
+        <source>Environmental, Solution (Sterile)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ETA">
+        <source>Aspirate,  Endotrach</source>
+        <target>Aspiration endotrachéale</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ETA@definition">
+        <source>Aspirate,  Endotrach</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ETTP">
+        <source>Catheter Tip, Endotracheal</source>
+        <target>Cathéter endotrachéal (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ETTP@definition">
+        <source>Catheter Tip, Endotracheal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ETTUB">
+        <source>Tube, Endotracheal</source>
+        <target>Tube endotrachéal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ETTUB@definition">
+        <source>Tube, Endotracheal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EWHI">
+        <source>Environmental, Whirlpool</source>
+        <target>Bain à remous</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EWHI@definition">
+        <source>Environmental, Whirlpool</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EXG">
+        <source>Gas, exhaled (=breath)</source>
+        <target>Gaz expiré</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EXG@definition">
+        <source>Gas, exhaled (=breath)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EXS">
+        <source>Shunt, External</source>
+        <target>Dérivation externe</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EXS@definition">
+        <source>Shunt, External</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EXUDTE">
+        <source>Exudate</source>
+        <target>Exudat</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="EXUDTE@definition">
+        <source>Exudate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FAW">
+        <source>Environmental, Water  (Well)</source>
+        <target>Eau de puits</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FAW@definition">
+        <source>Environmental, Water  (Well)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FBLOOD">
+        <source>Blood, Fetal</source>
+        <target>Sang foetal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FBLOOD@definition">
+        <source>Blood, Fetal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FGA">
+        <source>Fluid,  Abdomen</source>
+        <target>Liquide abdominal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FGA@definition">
+        <source>Fluid,  Abdomen</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FIB">
+        <source>Fibroblasts</source>
+        <target>Fibroblastes</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FIB@definition">
+        <source>Fibroblasts</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FIST">
+        <source>Fistula</source>
+        <target>Fistule</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FIST@definition">
+        <source>Fistula</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FLD">
+        <source>Fluid, Other</source>
+        <target>Liquide (autre)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FLD@definition">
+        <source>Fluid, Other</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FLT">
+        <source>Filter</source>
+        <target>Filtre</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FLT@definition">
+        <source>Filter</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FLU">
+        <source>Fluid, Body unsp</source>
+        <target>Liquide biologique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FLU@definition">
+        <source>Fluid, Body unsp</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FLUID">
+        <source>Fluid</source>
+        <target>Liquide</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FLUID@definition">
+        <source>Fluid</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FOLEY">
+        <source>Catheter Tip, Foley</source>
+        <target>Cathéter de Foley (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FOLEY@definition">
+        <source>Catheter Tip, Foley</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FRS">
+        <source>Fluid, Respiratory</source>
+        <target>Liquide respiratoire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FRS@definition">
+        <source>Fluid, Respiratory</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FSCLP">
+        <source>Scalp, Fetal</source>
+        <target>Cuir chevelu foetal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FSCLP@definition">
+        <source>Scalp, Fetal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FUR">
+        <source>Furuncle</source>
+        <target>Furoncle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="FUR@definition">
+        <source>Furuncle</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GAS">
+        <source>Gas</source>
+        <target>Gaz du sang</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GAS@definition">
+        <source>Gas</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GASA">
+        <source>Aspirate, Gastric</source>
+        <target>Aspiration gastrique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GASA@definition">
+        <source>Aspirate, Gastric</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GASAN">
+        <source>Antrum, Gastric</source>
+        <target>Antre gastrique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GASAN@definition">
+        <source>Antrum, Gastric</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GASBR">
+        <source>Brushing, Gastric</source>
+        <target>Brossage gastrique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GASBR@definition">
+        <source>Brushing, Gastric</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GASD">
+        <source>Drainage, Gastric</source>
+        <target>Drainage gastrique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GASD@definition">
+        <source>Drainage, Gastric</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GAST">
+        <source>Fluid/contents, Gastric</source>
+        <target>Prélèvement digestif</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GAST@definition">
+        <source>Fluid/contents, Gastric</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GENL">
+        <source>Genital lochia</source>
+        <target>Lochies</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GENL@definition">
+        <source>Genital lochia</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GENV">
+        <source>Genital vaginal</source>
+        <target>Prélèvement vaginal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GENV@definition">
+        <source>Genital vaginal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GRAFT">
+        <source>Graft</source>
+        <target>Greffe</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GRAFT@definition">
+        <source>Graft</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GRAFTS">
+        <source>Graft Site</source>
+        <target>Greffe (Site)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GRAFTS@definition">
+        <source>Graft Site</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GRANU">
+        <source>Granuloma</source>
+        <target>Granulome</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GRANU@definition">
+        <source>Granuloma</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GROSH">
+        <source>Catheter, Groshong</source>
+        <target>Cathéter Groshong</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GROSH@definition">
+        <source>Catheter, Groshong</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GSOL">
+        <source>Solution, Gastrostomy</source>
+        <target>Solution pour gastrostomie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GSOL@definition">
+        <source>Solution, Gastrostomy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GSPEC">
+        <source>Biopsy, Gastric</source>
+        <target>Biopsie gastrique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GSPEC@definition">
+        <source>Biopsy, Gastric</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GT">
+        <source>Tube, Gastric</source>
+        <target>Sonde gastrique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GT@definition">
+        <source>Tube, Gastric</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GTUBE">
+        <source>Drainage Tube, Drainage (Gastrostomy)</source>
+        <target>Drainage de gastrostomie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="GTUBE@definition">
+        <source>Drainage Tube, Drainage (Gastrostomy)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HAR">
+        <source>Hair</source>
+        <target>Poils/Cheveux</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HAR@definition">
+        <source>Hair</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HBITE">
+        <source>Bite, Human</source>
+        <target>Morsure humaine</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HBITE@definition">
+        <source>Bite, Human</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HBLUD">
+        <source>Blood, Autopsy</source>
+        <target>Sang (Autopsie)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HBLUD@definition">
+        <source>Blood, Autopsy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HEMAQ">
+        <source>Catheter Tip, Hemaquit</source>
+        <target>Cathéter Hemaquit (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HEMAQ@definition">
+        <source>Catheter Tip, Hemaquit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HEMO">
+        <source>Catheter Tip, Hemovac</source>
+        <target>Cathéter Hemovac (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HEMO@definition">
+        <source>Catheter Tip, Hemovac</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HERNI">
+        <source>Tissue, Herniated</source>
+        <target>Hernie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HERNI@definition">
+        <source>Tissue, Herniated</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HEV">
+        <source>Drain, Hemovac</source>
+        <target>Drain Hemovac</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HEV@definition">
+        <source>Drain, Hemovac</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HIC">
+        <source>Catheter, Hickman</source>
+        <target>Cathéter de Hickman</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HIC@definition">
+        <source>Catheter, Hickman</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HYDC">
+        <source>Fluid, Hydrocele</source>
+        <target>Hydrocèle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="HYDC@definition">
+        <source>Fluid, Hydrocele</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IBITE">
+        <source>Bite, Insect</source>
+        <target>Morsure d'insecte</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IBITE@definition">
+        <source>Bite, Insect</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ICYST">
+        <source>Cyst, Inclusion</source>
+        <target>Kyste d'inclusion</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ICYST@definition">
+        <source>Cyst, Inclusion</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IDC">
+        <source>Catheter Tip, Indwelling</source>
+        <target>Cathéter Indwelling (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IDC@definition">
+        <source>Catheter Tip, Indwelling</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IHG">
+        <source>Gas, Inhaled</source>
+        <target>Gaz inhalé</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IHG@definition">
+        <source>Gas, Inhaled</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ILEO">
+        <source>Drainage, Ileostomy</source>
+        <target>Drainage d'iléostomie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ILEO@definition">
+        <source>Drainage, Ileostomy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ILLEG">
+        <source>Source of Specimen Is Illegible</source>
+        <target>Source du spécimen illisible</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ILLEG@definition">
+        <source>Source of Specimen Is Illegible</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IMP">
+        <source>Implant</source>
+        <target>Implant</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IMP@definition">
+        <source>Implant</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="INCI">
+        <source>Site, Incision/Surgical</source>
+        <target>Incision/chirurgie (Site)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="INCI@definition">
+        <source>Site, Incision/Surgical</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="INFIL">
+        <source>Infiltrate</source>
+        <target>Infiltration</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="INFIL@definition">
+        <source>Infiltrate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="INS">
+        <source>Insect</source>
+        <target>Insecte</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="INS@definition">
+        <source>Insect</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="INTRD">
+        <source>Catheter Tip, Introducer</source>
+        <target>Cathéter (Guide)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="INTRD@definition">
+        <source>Catheter Tip, Introducer</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ISLT">
+        <source>Isolate</source>
+        <target>Isolat</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ISLT@definition">
+        <source>Isolate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IT">
+        <source>Intubation tube</source>
+        <target>Tube d'intubation</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IT@definition">
+        <source>Intubation tube</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IUD">
+        <source>Intrauterine Device</source>
+        <target>Dispositif intra-utérin</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IUD@definition">
+        <source>Intrauterine Device</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IVCAT">
+        <source>Catheter Tip, IV</source>
+        <target>Cathéter intraveineux</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IVCAT@definition">
+        <source>Catheter Tip, IV</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IVFLD">
+        <source>Fluid, IV</source>
+        <target>Liquide intraveineux</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IVFLD@definition">
+        <source>Fluid, IV</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IVTIP">
+        <source>Tubing Tip, IV</source>
+        <target>Sonde intraveineuse</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="IVTIP@definition">
+        <source>Tubing Tip, IV</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="JEJU">
+        <source>Drainage, Jejunal</source>
+        <target>Drainage jéjunal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="JEJU@definition">
+        <source>Drainage, Jejunal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="JNTFLD">
+        <source>Fluid, Joint</source>
+        <target>Liquide articulaire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="JNTFLD@definition">
+        <source>Fluid, Joint</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="JP">
+        <source>Drainage, Jackson Pratt</source>
+        <target>Drain Jackson Pratt</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="JP@definition">
+        <source>Drainage, Jackson Pratt</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="KELOI">
+        <source>Lavage</source>
+        <target>Lavage</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="KELOI@definition">
+        <source>Lavage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="KIDFLD">
+        <source>Fluid, Kidney</source>
+        <target>Liquide rénal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="KIDFLD@definition">
+        <source>Fluid, Kidney</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LAVG">
+        <source>Lavage, Bronhial</source>
+        <target>Lavage bronchial</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LAVG@definition">
+        <source>Lavage, Bronhial</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LAVGG">
+        <source>Lavage, Gastric</source>
+        <target>Lavage gastrique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LAVGG@definition">
+        <source>Lavage, Gastric</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LAVGP">
+        <source>Lavage, Peritoneal</source>
+        <target>Lavage péritonéal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LAVGP@definition">
+        <source>Lavage, Peritoneal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LAVPG">
+        <source>Lavage, Pre-Bronch</source>
+        <target>Lavage pré-bronchial</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LAVPG@definition">
+        <source>Lavage, Pre-Bronch</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LENS1">
+        <source>Contact Lens</source>
+        <target>Lentilles de contact</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LENS1@definition">
+        <source>Contact Lens</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LENS2">
+        <source>Contact Lens Case</source>
+        <target>Étui pour lentilles de contact</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LENS2@definition">
+        <source>Contact Lens Case</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LESN">
+        <source>Lesion</source>
+        <target>Lésion</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LESN@definition">
+        <source>Lesion</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LIQ">
+        <source>Liquid, Unspecified</source>
+        <target>Liquide non spécifié</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LIQ@definition">
+        <source>Liquid, Unspecified</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LIQO">
+        <source>Liquid, Other</source>
+        <target>Liquide (autres)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LIQO@definition">
+        <source>Liquid, Other</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LNA">
+        <source>Line arterial</source>
+        <target>Ponction artérielle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LNA@definition">
+        <source>Line arterial</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LNV">
+        <source>Line venous</source>
+        <target>Ponction veineuse</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LNV@definition">
+        <source>Line venous</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LSAC">
+        <source>Fluid, Lumbar Sac</source>
+        <target>Liquide de sac lombaire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LSAC@definition">
+        <source>Fluid, Lumbar Sac</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LYM">
+        <source>Lymphocytes</source>
+        <target>Lymphocytes</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="LYM@definition">
+        <source>Lymphocytes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MAC">
+        <source>Macrophages</source>
+        <target>Macrophages</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MAC@definition">
+        <source>Macrophages</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MAHUR">
+        <source>Catheter Tip, Makurkour</source>
+        <target>Catheter Makurkour</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MAHUR@definition">
+        <source>Catheter Tip, Makurkour</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MAR">
+        <source>Marrow</source>
+        <target>Moelle osseuse</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MAR@definition">
+        <source>Marrow</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MASS">
+        <source>Mass</source>
+        <target>Masse</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MASS@definition">
+        <source>Mass</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MBLD">
+        <source>Blood, Menstrual</source>
+        <target>Sang menstruel</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MBLD@definition">
+        <source>Blood, Menstrual</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MEC">
+        <source>Meconium</source>
+        <target>Méconium</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MEC@definition">
+        <source>Meconium</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MILK">
+        <source>Breast milk</source>
+        <target>Lait maternel</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MILK@definition">
+        <source>Breast milk</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MLK">
+        <source>Milk</source>
+        <target>Lait</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MLK@definition">
+        <source>Milk</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MUCOS">
+        <source>Mucosa</source>
+        <target>Muqueuse</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MUCOS@definition">
+        <source>Mucosa</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MUCUS">
+        <source>Mucus</source>
+        <target>Mucus</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="MUCUS@definition">
+        <source>Mucus</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NAIL">
+        <source>Nail</source>
+        <target>Ongle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NAIL@definition">
+        <source>Nail</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NASDR">
+        <source>Drainage, Nasal</source>
+        <target>Drainage des voies nasales</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NASDR@definition">
+        <source>Drainage, Nasal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NEDL">
+        <source>Needle</source>
+        <target>Aiguille</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NEDL@definition">
+        <source>Needle</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NEPH">
+        <source>Site, Nephrostomy</source>
+        <target>Néphrostomie (site)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NEPH@definition">
+        <source>Site, Nephrostomy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NGASP">
+        <source>Aspirate, Nasogastric</source>
+        <target>Aspiration nasogastrique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NGASP@definition">
+        <source>Aspirate, Nasogastric</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NGAST">
+        <source>Drainage, Nasogastric</source>
+        <target>Drainage nasogastrique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NGAST@definition">
+        <source>Drainage, Nasogastric</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NGS">
+        <source>Site, Naso/Gastric</source>
+        <target>Nasogastrique (site)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NGS@definition">
+        <source>Site, Naso/Gastric</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NODUL">
+        <source>Nodule(s)</source>
+        <target>Nodule(s)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NODUL@definition">
+        <source>Nodule(s)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NSECR">
+        <source>Secretion, Nasal</source>
+        <target>Sécrétion nasale</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="NSECR@definition">
+        <source>Secretion, Nasal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ORH">
+        <source>Other</source>
+        <target>Autre</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ORH@definition">
+        <source>Other</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ORL">
+        <source>Lesion, Oral</source>
+        <target>Lésion orale</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="ORL@definition">
+        <source>Lesion, Oral</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="OTH">
+        <source>Source, Other</source>
+        <target>Autre origine</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="OTH@definition">
+        <source>Source, Other</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PACEM">
+        <source>Pacemaker</source>
+        <target>Stimulateur cardiaque</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PACEM@definition">
+        <source>Pacemaker</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PAFL">
+        <source>Pancreatic fluid</source>
+        <target>Liquide pancréatique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PAFL@definition">
+        <source>Pancreatic fluid</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PCFL">
+        <source>Fluid, Pericardial</source>
+        <target>Liquide péricardique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PCFL@definition">
+        <source>Fluid, Pericardial</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PDSIT">
+        <source>Site, Peritoneal Dialysis</source>
+        <target>Dialyse péritonéale (site)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PDSIT@definition">
+        <source>Site, Peritoneal Dialysis</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PDTS">
+        <source>Site, Peritoneal Dialysis Tunnel</source>
+        <target>Dialyse péritonéale, Tunnel (site)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PDTS@definition">
+        <source>Site, Peritoneal Dialysis Tunnel</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PELVA">
+        <source>Abscess, Pelvic</source>
+        <target>Abcès pelvien</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PELVA@definition">
+        <source>Abscess, Pelvic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PENIL">
+        <source>Lesion, Penile</source>
+        <target>Lésion du pénis</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PENIL@definition">
+        <source>Lesion, Penile</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PERIA">
+        <source>Abscess, Perianal</source>
+        <target>Abcès périanal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PERIA@definition">
+        <source>Abscess, Perianal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PILOC">
+        <source>Cyst, Pilonidal</source>
+        <target>kyste pilonidal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PILOC@definition">
+        <source>Cyst, Pilonidal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PINS">
+        <source>Site, Pin</source>
+        <target>Site de la broche</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PINS@definition">
+        <source>Site, Pin</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PIS">
+        <source>Site, Pacemaker Insetion</source>
+        <target>Site d'insertion du stimulateur cardiaque</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PIS@definition">
+        <source>Site, Pacemaker Insetion</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PLAN">
+        <source>Plant Material</source>
+        <target>Matériel végétal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PLAN@definition">
+        <source>Plant Material</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PLAS">
+        <source>Plasma</source>
+        <target>Plasma</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PLAS@definition">
+        <source>Plasma</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PLB">
+        <source>Plasma bag</source>
+        <target>Poche de plasma</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PLB@definition">
+        <source>Plasma bag</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PLC">
+        <source>Placenta</source>
+        <target>Placenta</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PLC@definition">
+        <source>Placenta</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PLEVS">
+        <source>Serum, Peak Level</source>
+        <target>Sérum au pic</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PLEVS@definition">
+        <source>Serum, Peak Level</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PLR">
+        <source>Pleural fluid (thoracentesis fluid)</source>
+        <target>Liquide pleural</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PLR@definition">
+        <source>Pleural fluid (thoracentesis fluid)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PMN">
+        <source>Polymorphonuclear neutrophils</source>
+        <target>Polynucléaires neutrophiles</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PMN@definition">
+        <source>Polymorphonuclear neutrophils</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PND">
+        <source>Drainage, Penile</source>
+        <target>Drainage pénien</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PND@definition">
+        <source>Drainage, Penile</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="POL">
+        <source>Polyps</source>
+        <target>Polypes</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="POL@definition">
+        <source>Polyps</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="POPGS">
+        <source>Graft Site, Popliteal</source>
+        <target>Site de greffe poplité</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="POPGS@definition">
+        <source>Graft Site, Popliteal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="POPLG">
+        <source>Graft, Popliteal</source>
+        <target>Greffe poplitée</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="POPLG@definition">
+        <source>Graft, Popliteal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="POPLV">
+        <source>Site, Popliteal Vein</source>
+        <target>Veine poplitée (site)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="POPLV@definition">
+        <source>Site, Popliteal Vein</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PORTA">
+        <source>Catheter, Porta</source>
+        <target>Chambre implantable</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PORTA@definition">
+        <source>Catheter, Porta</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PPP">
+        <source>Plasma, Platelet poor</source>
+        <target>Plasma pauvre en plaquettes</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PPP@definition">
+        <source>Plasma, Platelet poor</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PROST">
+        <source>Prosthetic Device</source>
+        <target>Appareil prothétique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PROST@definition">
+        <source>Prosthetic Device</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PRP">
+        <source>Plasma, Platelet rich</source>
+        <target>Plasma riche en plaquettes</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PRP@definition">
+        <source>Plasma, Platelet rich</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PSC">
+        <source>Pseudocyst</source>
+        <target>Pseudokyste</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PSC@definition">
+        <source>Pseudocyst</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PUNCT">
+        <source>Wound, Puncture</source>
+        <target>Blessure, Perforation</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PUNCT@definition">
+        <source>Wound, Puncture</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PUS">
+        <source>Pus</source>
+        <target>Pus</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PUS@definition">
+        <source>Pus</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PUSFR">
+        <source>Pustule</source>
+        <target>Pustule</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PUSFR@definition">
+        <source>Pustule</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PUST">
+        <source>Pus</source>
+        <target>Pus</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="PUST@definition">
+        <source>Pus</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="QC3">
+        <source>Quality Control</source>
+        <target>Contrôle qualité</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="QC3@definition">
+        <source>Quality Control</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RANDU">
+        <source>Urine, Random</source>
+        <target>Urine aléatoire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RANDU@definition">
+        <source>Urine, Random</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RBC">
+        <source>Erythrocytes</source>
+        <target>Erythrocytes</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RBC@definition">
+        <source>Erythrocytes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RBITE">
+        <source>Bite, Reptile</source>
+        <target>Morsure de reptile</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RBITE@definition">
+        <source>Bite, Reptile</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RECT">
+        <source>Drainage, Rectal</source>
+        <target>Drainage rectal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RECT@definition">
+        <source>Drainage, Rectal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RECTA">
+        <source>Abscess, Rectal</source>
+        <target>Abcès rectal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RECTA@definition">
+        <source>Abscess, Rectal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RENALC">
+        <source>Cyst, Renal</source>
+        <target>Kyste rénal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RENALC@definition">
+        <source>Cyst, Renal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RENC">
+        <source>Fluid, Renal Cyst</source>
+        <target>Liquide de kyste rénal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RENC@definition">
+        <source>Fluid, Renal Cyst</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RES">
+        <source>Respiratory</source>
+        <target>Respiratoire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="RES@definition">
+        <source>Respiratory</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SAL">
+        <source>Saliva</source>
+        <target>Salive</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SAL@definition">
+        <source>Saliva</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SCAR">
+        <source>Tissue, Keloid (Scar)</source>
+        <target>Cicatrice</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SCAR@definition">
+        <source>Tissue, Keloid (Scar)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SCLV">
+        <source>Catheter Tip, Subclavian</source>
+        <target>Cathéter sous-clavière (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SCLV@definition">
+        <source>Catheter Tip, Subclavian</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SCROA">
+        <source>Abscess, Scrotal</source>
+        <target>Abcès scrotal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SCROA@definition">
+        <source>Abscess, Scrotal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SECRE">
+        <source>Secretion(s)</source>
+        <target>Sécrétion(s)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SECRE@definition">
+        <source>Secretion(s)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SER">
+        <source>Serum</source>
+        <target>Sérum</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SER@definition">
+        <source>Serum</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SHU">
+        <source>Site, Shunt</source>
+        <target>Site du shunt</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SHU@definition">
+        <source>Site, Shunt</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SHUNF">
+        <source>Fluid, Shunt</source>
+        <target>Liquide de shunt</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SHUNF@definition">
+        <source>Fluid, Shunt</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SHUNT">
+        <source>Shunt</source>
+        <target>Shunt (site)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SHUNT@definition">
+        <source>Shunt</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SITE">
+        <source>Site</source>
+        <target>Site</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SITE@definition">
+        <source>Site</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SKBP">
+        <source>Biopsy, Skin</source>
+        <target>Biopsie de peau</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SKBP@definition">
+        <source>Biopsy, Skin</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SKN">
+        <source>Skin</source>
+        <target>Peau</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SKN@definition">
+        <source>Skin</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SMM">
+        <source>Mass, Sub-Mandibular</source>
+        <target>Masse sous-mandibulaire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SMM@definition">
+        <source>Mass, Sub-Mandibular</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SMN">
+        <source>Seminal fluid</source>
+        <target>Sperme</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SMN@definition">
+        <source>Seminal fluid</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SNV">
+        <source>Fluid, synovial (Joint fluid)</source>
+        <target>Liquide synovial</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SNV@definition">
+        <source>Fluid, synovial (Joint fluid)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPRM">
+        <source>Spermatozoa</source>
+        <target>Spermatozoïdes</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPRM@definition">
+        <source>Spermatozoa</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPRP">
+        <source>Catheter Tip, Suprapubic</source>
+        <target>Cathéter sus-pubien (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPRP@definition">
+        <source>Catheter Tip, Suprapubic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPRPB">
+        <source>Cathether Tip, Suprapubic</source>
+        <target>Cathéter suprapubien (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPRPB@definition">
+        <source>Cathether Tip, Suprapubic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPS">
+        <source>Environmental, Spore Strip</source>
+        <target>Bande de spores</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPS@definition">
+        <source>Environmental, Spore Strip</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPT">
+        <source>Sputum</source>
+        <target>Expectoration (crachat)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPT@definition">
+        <source>Sputum</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPTC">
+        <source>Sputum - coughed</source>
+        <target>Expectoration (Toux)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPTC@definition">
+        <source>Sputum - coughed</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPTT">
+        <source>Sputum - tracheal aspirate</source>
+        <target>Expectoration (crachat) par aspiration trachéale</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPTT@definition">
+        <source>Sputum - tracheal aspirate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPUT1">
+        <source>Sputum, Simulated</source>
+        <target>Expectoration simulée (crachat)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPUT1@definition">
+        <source>Sputum, Simulated</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPUTIN">
+        <source>Sputum, Inducted</source>
+        <target>Expectoration induite (crachat)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPUTIN@definition">
+        <source>Sputum, Inducted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPUTSP">
+        <source>Sputum, Spontaneous</source>
+        <target>Expectoration spontanée (crachat)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SPUTSP@definition">
+        <source>Sputum, Spontaneous</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="STER">
+        <source>Environmental, Sterrad</source>
+        <target>Sterrad</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="STER@definition">
+        <source>Environmental, Sterrad</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="STL">
+        <source>Stool = Fecal</source>
+        <target>Selles</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="STL@definition">
+        <source>Stool = Fecal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="STONE">
+        <source>Stone, Kidney</source>
+        <target>Calcul rénal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="STONE@definition">
+        <source>Stone, Kidney</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SUBMA">
+        <source>Abscess, Submandibular</source>
+        <target>Abcès sous-mandibulaire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SUBMA@definition">
+        <source>Abscess, Submandibular</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SUBMX">
+        <source>Abscess, Submaxillary</source>
+        <target>Abcès sous-maxillaire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SUBMX@definition">
+        <source>Abscess, Submaxillary</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SUMP">
+        <source>Drainage, Sump</source>
+        <target>Drain de puisard</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SUMP@definition">
+        <source>Drainage, Sump</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SUP">
+        <source>Suprapubic Tap</source>
+        <target>Robinet suprapubien</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SUP@definition">
+        <source>Suprapubic Tap</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SUTUR">
+        <source>Suture</source>
+        <target>Suture</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SUTUR@definition">
+        <source>Suture</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SWGZ">
+        <source>Catheter Tip, Swan Gantz</source>
+        <target>Cathéter de Swan-Ganz</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SWGZ@definition">
+        <source>Catheter Tip, Swan Gantz</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SWT">
+        <source>Sweat</source>
+        <target>Sueur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="SWT@definition">
+        <source>Sweat</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TASP">
+        <source>Aspirate, Tracheal</source>
+        <target>Aspiration trachéale</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TASP@definition">
+        <source>Aspirate, Tracheal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TEAR">
+        <source>Tears</source>
+        <target>Larmes</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TEAR@definition">
+        <source>Tears</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="THRB">
+        <source>Thrombocyte (platelet)</source>
+        <target>Plaquettes</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="THRB@definition">
+        <source>Thrombocyte (platelet)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TISS">
+        <source>Tissue</source>
+        <target>Tissu</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TISS@definition">
+        <source>Tissue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TISU">
+        <source>Tissue ulcer</source>
+        <target>Tissu ulcéreux</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TISU@definition">
+        <source>Tissue ulcer</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TLC">
+        <source>Cathether Tip, Triple Lumen</source>
+        <target>Cathéter triple lumière (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TLC@definition">
+        <source>Cathether Tip, Triple Lumen</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TRAC">
+        <source>Site, Tracheostomy</source>
+        <target>Trachéotomie (site)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TRAC@definition">
+        <source>Site, Tracheostomy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TRANS">
+        <source>Transudate</source>
+        <target>Transudat</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TRANS@definition">
+        <source>Transudate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TSERU">
+        <source>Serum, Trough</source>
+        <target>par sérum</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TSERU@definition">
+        <source>Serum, Trough</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TSTES">
+        <source>Abscess, Testicular</source>
+        <target>Abcès testiculaire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TSTES@definition">
+        <source>Abscess, Testicular</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TTRA">
+        <source>Aspirate, Transtracheal</source>
+        <target>Aspiration transtrachéale</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TTRA@definition">
+        <source>Aspirate, Transtracheal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TUBES">
+        <source>Tubes</source>
+        <target>Tubes</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TUBES@definition">
+        <source>Tubes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TUMOR">
+        <source>Tumor</source>
+        <target>Tumeur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TUMOR@definition">
+        <source>Tumor</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TZANC">
+        <source>Smear, Tzanck</source>
+        <target>Frottis de Tzanck</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="TZANC@definition">
+        <source>Smear, Tzanck</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="UDENT">
+        <source>Source, Unidentified</source>
+        <target>Origine non identifiée</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="UDENT@definition">
+        <source>Source, Unidentified</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="UMED">
+        <source>Unknown Medicine</source>
+        <target>Médicament inconnu</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="UMED@definition">
+        <source>Unknown Medicine</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="UR">
+        <source>Urine</source>
+        <target>Urine</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="UR@definition">
+        <source>Urine</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URC">
+        <source>Urine clean catch</source>
+        <target>Urine 1er jet</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URC@definition">
+        <source>Urine clean catch</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URINB">
+        <source>Urine, Bladder Washings</source>
+        <target>Urine de lavage vésical</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URINB@definition">
+        <source>Urine, Bladder Washings</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URINC">
+        <source>Urine, Catheterized</source>
+        <target>Urine cathétérisée</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URINC@definition">
+        <source>Urine, Catheterized</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URINM">
+        <source>Urine, Midstream</source>
+        <target>Urine milieu de jet</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URINM@definition">
+        <source>Urine, Midstream</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URINN">
+        <source>Urine, Nephrostomy</source>
+        <target>Urine de néphrostomie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URINN@definition">
+        <source>Urine, Nephrostomy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URINP">
+        <source>Urine, Pedibag</source>
+        <target>Urine de poche pédiatrique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URINP@definition">
+        <source>Urine, Pedibag</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URNS">
+        <source>Urine sediment</source>
+        <target>Sédiments urinaires</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URNS@definition">
+        <source>Urine sediment</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URT">
+        <source>Urine catheter</source>
+        <target>Urine par cathéter</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="URT@definition">
+        <source>Urine catheter</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="USCOP">
+        <source>Urine, Cystoscopy</source>
+        <target>Urine de cystoscopie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="USCOP@definition">
+        <source>Urine, Cystoscopy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="USPEC">
+        <source>Source, Unspecified</source>
+        <target>Origine non spécifiée</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="USPEC@definition">
+        <source>Source, Unspecified</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="USUB">
+        <source>Unkown substance</source>
+        <target>Substance inconnue</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="USUB@definition">
+        <source>Unkown substance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="VASTIP">
+        <source>Catheter Tip, Vas</source>
+        <target>Cathéter vasculaire (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="VASTIP@definition">
+        <source>Catheter Tip, Vas</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="VENT">
+        <source>Catheter Tip, Ventricular</source>
+        <target>Cathéter ventriculaire (embout)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="VENT@definition">
+        <source>Catheter Tip, Ventricular</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="VITF">
+        <source>Vitreous Fluid</source>
+        <target>Corps vitré</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="VITF@definition">
+        <source>Vitreous Fluid</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="VOM">
+        <source>Vomitus</source>
+        <target>Vomissure</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="VOM@definition">
+        <source>Vomitus</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WASH">
+        <source>Wash</source>
+        <target>Produit de lavage</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WASH@definition">
+        <source>Wash</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WASI">
+        <source>Washing, e.g. bronchial washing</source>
+        <target>Lavage, par ex. lavage broncho-alvéolaire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WASI@definition">
+        <source>Washing, e.g. bronchial washing</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WAT">
+        <source>Water</source>
+        <target>Eau</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WAT@definition">
+        <source>Water</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WB">
+        <source>Blood, Whole</source>
+        <target>Sang total</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WB@definition">
+        <source>Blood, Whole</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WBC">
+        <source>Leukocytes</source>
+        <target>Leucocytes</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WBC@definition">
+        <source>Leukocytes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WEN">
+        <source>Wen</source>
+        <target>Loupe</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WEN@definition">
+        <source>Wen</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WICK">
+        <source>Wick</source>
+        <target>Mèche</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WICK@definition">
+        <source>Wick</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WND">
+        <source>Wound</source>
+        <target>Plaie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WND@definition">
+        <source>Wound</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WNDA">
+        <source>Wound abscess</source>
+        <target>Abcès d'une plaie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WNDA@definition">
+        <source>Wound abscess</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WNDD">
+        <source>Wound drainage</source>
+        <target>Drainage d'une plaie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WNDD@definition">
+        <source>Wound drainage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WNDE">
+        <source>Wound exudate</source>
+        <target>Exsudat d'une plaie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WNDE@definition">
+        <source>Wound exudate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WORM">
+        <source>Worm</source>
+        <target>Ver</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WORM@definition">
+        <source>Worm</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WRT">
+        <source>Wart</source>
+        <target>Verrue</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WRT@definition">
+        <source>Wart</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WWA">
+        <source>Environmental, Water</source>
+        <target>Eau environnementale</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WWA@definition">
+        <source>Environmental, Water</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WWO">
+        <source>Environmental, Water (Ocean)</source>
+        <target>Eau (océan)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WWO@definition">
+        <source>Environmental, Water (Ocean)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WWT">
+        <source>Environmental, Water  (Tap)</source>
+        <target>Eau (robinet)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="WWT@definition">
+        <source>Environmental, Water  (Tap)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!BLDC">
+        <source>BLDC</source>
+        <target>Sang capillaire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!BRO">
+        <source>BRO</source>
+        <target>Prélèvement bronchique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!CRN">
+        <source>CRN</source>
+        <target>Cornée</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!CVX">
+        <source>CVX</source>
+        <target>Col de l’utérus</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!DOSE">
+        <source>DOSE</source>
+        <target>Posologie (médicament ou substance)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!EAR">
+        <source>EAR</source>
+        <target>Oreille</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!ENDC">
+        <source>ENDC</source>
+        <target>Endocarde</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!ENDM">
+        <source>ENDM</source>
+        <target>Endomètre</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!EYE">
+        <source>EYE</source>
+        <target>Oeil</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!FOOD">
+        <source>FOOD</source>
+        <target>Aliment</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!GEN">
+        <source>GEN</source>
+        <target>Prélèvement génitaux</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!GENC">
+        <source>GENC</source>
+        <target>Prélèvement cervico-vaginal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!GENF">
+        <source>GENF</source>
+        <target>Sécrétions des organes génitaux</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!LAM">
+        <source>LAM</source>
+        <target>Lame</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!LN">
+        <source>LN</source>
+        <target>Ponction</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!NOS">
+        <source>NOS</source>
+        <target>Prélèvement nasopharyngée</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!PAT">
+        <source>PAT</source>
+        <target>Patient</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!PRT">
+        <source>PRT</source>
+        <target>Liquide péritonéal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!SKM">
+        <source>SKM</source>
+        <target>Muscle squelettique</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!SMPLS">
+        <source>SMPLS</source>
+        <target>Plasma séminal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!THRT">
+        <source>THRT</source>
+        <target>Gorge</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!TISG">
+        <source>TISG</source>
+        <target>Vésicule biliaire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!TISPL">
+        <source>TISPL</source>
+        <target>Trophoblastes</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!TLGI">
+        <source>TLGI</source>
+        <target>Gros intestin</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!TLNG">
+        <source>TLNG</source>
+        <target>Tissu pulmonaire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!TSMI">
+        <source>TSMI</source>
+        <target>Intestin grêle</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!TUB">
+        <source>TUB</source>
+        <target>Tube</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!ULC">
+        <source>ULC</source>
+        <target>Ulcère</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!UMB">
+        <source>UMB</source>
+        <target>Sang de cordon ombilical</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0487" resname="!!URTH">
+        <source>URTH</source>
+        <target>Urètre</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

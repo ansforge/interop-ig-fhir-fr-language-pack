@@ -1,0 +1,2381 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="fr-FR" id="CodeSystem-v3-ObservationValue" original="Resource CodeSystem-v3-ObservationValue" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ActCoverageAssessmentObservationValue">
+        <source>ActCoverageAssessmentObservationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ActCoverageAssessmentObservationValue@definition">
+        <source>Codes specify the category of observation, evidence, or document used to assess for services, e.g., discharge planning, or to establish eligibility for coverage under a policy or program. The type of evidence is coded as observation values.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ActFinancialStatusObservationValue">
+        <source>ActFinancialStatusObservationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ActFinancialStatusObservationValue@definition">
+        <source>Code specifying financial indicators used to assess or establish eligibility for coverage under a policy or program; e.g., pay stub; tax or income document; asset document; living expenses.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ASSET">
+        <source>asset</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ASSET@definition">
+        <source>Codes specifying asset indicators used to assess or establish eligibility for coverage under a policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ANNUITY">
+        <source>annuity</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ANNUITY@definition">
+        <source>Indicator of annuity ownership or status as beneficiary.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PROP">
+        <source>real property</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PROP@definition">
+        <source>Indicator of real property ownership, e.g., deed or real estate contract.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RETACCT">
+        <source>retirement investment account</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RETACCT@definition">
+        <source>Indicator of retirement investment account ownership.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRUST">
+        <source>trust</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRUST@definition">
+        <source>Indicator of status as trust beneficiary.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="INCOME">
+        <source>income</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="INCOME@definition">
+        <source>Code specifying income indicators used to assess or establish eligibility for coverage under a policy or program; e.g., pay or pension check, child support payments received or provided, and taxes paid.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CHILD">
+        <source>child support</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CHILD@definition">
+        <source>Indicator of child support payments received or provided.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DISABL">
+        <source>disability pay</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DISABL@definition">
+        <source>Indicator of disability income replacement payment.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="INVEST">
+        <source>investment income</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="INVEST@definition">
+        <source>Indicator of investment income, e.g., dividend check, annuity payment; real estate rent, investment divestiture proceeds; trust or endowment check.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PAY">
+        <source>paid employment</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PAY@definition">
+        <source>Indicator of paid employment, e.g., letter of hire, contract, employer letter; copy of pay check or pay stub.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RETIRE">
+        <source>retirement pay</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RETIRE@definition">
+        <source>Indicator of retirement payment, e.g., pension check.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SPOUSAL">
+        <source>spousal or partner support</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SPOUSAL@definition">
+        <source>Indicator of spousal or partner support payments received or provided; e.g., alimony payment; support stipulations in a divorce settlement.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SUPPLE">
+        <source>income supplement</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SUPPLE@definition">
+        <source>Indicator of income supplement, e.g., gifting, parental income support; stipend, or grant.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TAX">
+        <source>tax obligation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TAX@definition">
+        <source>Indicator of tax obligation or payment, e.g., statement of taxable income.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LIVEXP">
+        <source>living expense</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LIVEXP@definition">
+        <source>Codes specifying living expense indicators used to assess or establish eligibility for coverage under a policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CLOTH">
+        <source>clothing expense</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CLOTH@definition">
+        <source>Indicator of clothing expenses.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="FOOD">
+        <source>food expense</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="FOOD@definition">
+        <source>Indicator of transportation expenses.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="HEALTH">
+        <source>health expense</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="HEALTH@definition">
+        <source>Indicator of health expenses; including medication costs, health service costs, financial participations, and health coverage premiums.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="HOUSE">
+        <source>household expense</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="HOUSE@definition">
+        <source>Indicator of housing expense, e.g., household appliances, fixtures, furnishings, and maintenance and repairs.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LEGAL">
+        <source>legal expense</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LEGAL@definition">
+        <source>Indicator of legal expenses.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MORTG">
+        <source>mortgage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MORTG@definition">
+        <source>Indicator of mortgage amount, interest, and payments.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RENT">
+        <source>rent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RENT@definition">
+        <source>Indicator of rental or lease payments.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SUNDRY">
+        <source>sundry expense</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SUNDRY@definition">
+        <source>Indicator of transportation expenses.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRANS">
+        <source>transportation expense</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRANS@definition">
+        <source>Indicator of transportation expenses, e.g., vehicle payments, vehicle insurance, vehicle fuel, and vehicle maintenance and repairs.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="UTIL">
+        <source>utility expense</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="UTIL@definition">
+        <source>Indicator of transportation expenses.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ELSTAT">
+        <source>eligibility indicator</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ELSTAT@definition">
+        <source>Code specifying eligibility indicators used to assess or establish eligibility for coverage under a policy or program eligibility status, e.g., certificates of creditable coverage; student enrollment; adoption, marriage or birth certificate.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ADOPT">
+        <source>adoption document</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ADOPT@definition">
+        <source>Indicator of adoption.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="BTHCERT">
+        <source>birth certificate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="BTHCERT@definition">
+        <source>Indicator of birth.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CCOC">
+        <source>creditable coverage document</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CCOC@definition">
+        <source>Indicator of creditable coverage.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DRLIC">
+        <source>driver license</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DRLIC@definition">
+        <source>Indicator of driving status.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="FOSTER">
+        <source>foster child document</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="FOSTER@definition">
+        <source>Indicator of foster child status.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MEMBER">
+        <source>program or policy member</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MEMBER@definition">
+        <source>Indicator of status as covered member under a policy or program, e.g., member id card or coverage document.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MIL">
+        <source>military identification</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MIL@definition">
+        <source>Indicator of military status.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MRGCERT">
+        <source>marriage certificate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MRGCERT@definition">
+        <source>Indicator of marriage status.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PASSPORT">
+        <source>passport</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PASSPORT@definition">
+        <source>Indicator of citizenship.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="STUDENRL">
+        <source>student enrollment</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="STUDENRL@definition">
+        <source>Indicator of student status.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="HLSTAT">
+        <source>health status</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="HLSTAT@definition">
+        <source>Code specifying non-clinical indicators related to health status used to assess or establish eligibility for coverage under a policy or program, e.g., pregnancy, disability, drug use, mental health issues.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DISABLE">
+        <source>disabled</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DISABLE@definition">
+        <source>Indication of disability.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DRUG">
+        <source>drug use</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DRUG@definition">
+        <source>Indication of drug use.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="IVDRG">
+        <source>IV drug use</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="IVDRG@definition">
+        <source>Indication of IV drug use .</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PGNT">
+        <source>pregnant</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PGNT@definition">
+        <source>Non-clinical report of pregnancy.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LIVDEP">
+        <source>living dependency</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LIVDEP@definition">
+        <source>Code specifying observations related to living dependency, such as dependent upon spouse for activities of daily living.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RELDEP">
+        <source>relative dependent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RELDEP@definition">
+        <source>Continued living in private residence requires functional and health care assistance from one or more relatives.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SPSDEP">
+        <source>spouse dependent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SPSDEP@definition">
+        <source>Continued living in private residence requires functional and health care assistance from spouse or life partner.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="URELDEP">
+        <source>unrelated person dependent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="URELDEP@definition">
+        <source>Continued living in private residence requires functional and health care assistance from one or more unrelated persons.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LIVSIT">
+        <source>living situation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LIVSIT@definition">
+        <source>Code specifying observations related to living situation for a person in a private residence.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ALONE">
+        <source>alone</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ALONE@definition">
+        <source>Living alone. Maps to PD1-2 Living arrangement (IS) 00742 \[A\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DEPCHD">
+        <source>dependent children</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DEPCHD@definition">
+        <source>Living with one or more dependent children requiring moderate supervision.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DEPSPS">
+        <source>dependent spouse</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DEPSPS@definition">
+        <source>Living with disabled spouse requiring functional and health care assistance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DEPYGCHD">
+        <source>dependent young children</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DEPYGCHD@definition">
+        <source>Living with one or more dependent children requiring intensive supervision</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="FAM">
+        <source>live with family</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="FAM@definition">
+        <source>Living with family. Maps to PD1-2 Living arrangement (IS) 00742 \[F\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RELAT">
+        <source>relative</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RELAT@definition">
+        <source>Living with one or more relatives. Maps to PD1-2 Living arrangement (IS) 00742 \[R\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SPS">
+        <source>spouse only</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SPS@definition">
+        <source>Living only with spouse or life partner. Maps to PD1-2 Living arrangement (IS) 00742 \[S\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="UNREL">
+        <source>unrelated person</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="UNREL@definition">
+        <source>Living with one or more unrelated persons.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SOECSTAT">
+        <source>socio economic status</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SOECSTAT@definition">
+        <source>Code specifying observations or indicators related to socio-economic status used to assess to assess for services, e.g., discharge planning, or to establish eligibility for coverage under a policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ABUSE">
+        <source>abuse victim</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ABUSE@definition">
+        <source>Indication of abuse victim.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="HMLESS">
+        <source>homeless</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="HMLESS@definition">
+        <source>Indication of status as homeless.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ILGIM">
+        <source>illegal immigrant</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ILGIM@definition">
+        <source>Indication of status as illegal immigrant.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="INCAR">
+        <source>incarcerated</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="INCAR@definition">
+        <source>Indication of status as incarcerated.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PROB">
+        <source>probation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PROB@definition">
+        <source>Indication of probation status.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="REFUG">
+        <source>refugee</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="REFUG@definition">
+        <source>Indication of refugee status.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="UNEMPL">
+        <source>unemployed</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="UNEMPL@definition">
+        <source>Indication of unemployed status.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_AllergyTestValue">
+        <source>AllergyTestValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_AllergyTestValue@definition">
+        <source>Indicates the result of a particular allergy test. E.g. Negative, Mild, Moderate, Severe</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="A0">
+        <source>no reaction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="A0@definition">
+        <source>**Description:**Patient exhibits no reaction to the challenge agent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="A1">
+        <source>minimal reaction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="A1@definition">
+        <source>**Description:**Patient exhibits a minimal reaction to the challenge agent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="A2">
+        <source>mild reaction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="A2@definition">
+        <source>**Description:**Patient exhibits a mild reaction to the challenge agent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="A3">
+        <source>moderate reaction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="A3@definition">
+        <source>**Description:**Patient exhibits moderate reaction to the challenge agent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="A4">
+        <source>severe reaction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="A4@definition">
+        <source>**Description:**Patient exhibits a severe reaction to the challenge agent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CompositeMeasureScoring">
+        <source>CompositeMeasureScoring</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CompositeMeasureScoring@definition">
+        <source>Observation values that communicate the method used in a quality measure to combine the component measure results included in an composite measure.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ALLORNONESCR">
+        <source>All-or-nothing Scoring</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ALLORNONESCR@definition">
+        <source>Code specifying that the measure uses all-or-nothing scoring. All-or-nothing scoring places an individual in the numerator of the composite measure if and only if they are in the numerator of all component measures in which they are in the denominator.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LINEARSCR">
+        <source>Linear Scoring</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LINEARSCR@definition">
+        <source>Code specifying that the measure uses linear scoring. Linear scoring computes the fraction of component measures in which the individual appears in the numerator, giving equal weight to each component measure.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="OPPORSCR">
+        <source>Opportunity Scoring</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="OPPORSCR@definition">
+        <source>Code specifying that the measure uses opportunity-based scoring. In opportunity-based scoring the measure score is determined by combining the denominator and numerator of each component measure to determine an overall composite score.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="WEIGHTSCR">
+        <source>Weighted Scoring</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="WEIGHTSCR@definition">
+        <source>Code specifying that the measure uses weighted scoring. Weighted scoring assigns a factor to each component measure to weight that measure's contribution to the overall score.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CoverageLimitObservationValue">
+        <source>CoverageLimitObservationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CoverageLimitObservationValue@definition">
+        <source>**Description:**Coded observation values for coverage limitations, for e.g., types of claims or types of parties covered under a policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CoverageLevelObservationValue">
+        <source>CoverageLevelObservationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CoverageLevelObservationValue@definition">
+        <source>**Description:**Coded observation values for types of covered parties under a policy or program based on their personal relationships or employment status.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ADC">
+        <source>adult child</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ADC@definition">
+        <source>**Description:**Child over an age as specified by coverage policy or program, e.g., student, differently abled, and income dependent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CHD">
+        <source>child</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CHD@definition">
+        <source>**Description:**Dependent biological, adopted, foster child as specified by coverage policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DEP">
+        <source>dependent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DEP@definition">
+        <source>**Description:**Person requiring functional and/or financial assistance from another person as specified by coverage policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DP">
+        <source>domestic partner</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DP@definition">
+        <source>**Description:**Persons registered as a family unit in a domestic partner registry as specified by law and by coverage policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ECH">
+        <source>employee</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ECH@definition">
+        <source>**Description:**An individual employed by an employer who receive remuneration in wages, salary, commission, tips, piece-rates, or pay-in-kind through the employeraTMs payment system (i.e., not a contractor) as specified by coverage policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="FLY">
+        <source>family coverage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="FLY@definition">
+        <source>**Description:**As specified by coverage policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="IND">
+        <source>individual</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="IND@definition">
+        <source>**Description:**Person as specified by coverage policy or program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SSP">
+        <source>same sex partner</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SSP@definition">
+        <source>**Description:**A pair of people of the same gender who live together as a family as specified by coverage policy or program, e.g., Naomi and Ruth from the Book of Ruth; Socrates and Alcibiades</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CoverageItemLimitObservationValue">
+        <source>CoverageItemLimitObservationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CoverageItemLimitObservationValue@definition">
+        <source>**Description:**Coded observation values for types or instances of items for which coverage is provided under a policy or program, e.g., a type of vehicle or a named work of art.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CoverageLocationLimitObservationValue">
+        <source>CoverageLocationLimitObservationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CoverageLocationLimitObservationValue@definition">
+        <source>**Description:**Coded observation values for types or instances of locations for which coverage is provided under a policy or program, e.g., in the covered party home, in state or in the country.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CriticalityObservationValue">
+        <source>CriticalityObservationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CriticalityObservationValue@definition">
+        <source>A clinical judgment as to the worst case result of a future exposure (including substance administration). When the worst case result is assessed to have a life-threatening or organ system threatening potential, it is considered to be of high criticality.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CRITH">
+        <source>high criticality</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CRITH@definition">
+        <source>Worst case result of a future exposure is assessed to be life-threatening or having high potential for organ system failure.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CRITL">
+        <source>low criticality</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CRITL@definition">
+        <source>Worst case result of a future exposure is not assessed to be life-threatening or having high potential for organ system failure.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CRITU">
+        <source>unable to assess criticality</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CRITU@definition">
+        <source>Unable to assess the worst case result of a future exposure.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_EmploymentStatus">
+        <source>_EmploymentStatus</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_EmploymentStatus@definition">
+        <source>Concepts representing whether a person does or does not currently have a job or is not currently in the labor pool seeking employment.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="Employed">
+        <source>Employed</source>
+        <target>En activité</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="Employed@definition">
+        <source>Individuals who, during the last week: a) did any work for at least 1 hour as paid or unpaid employees of a business or government organization; worked in their own businesses, professions, or on their own farms; or b) were not working, but who have a job or business from which the individual was temporarily absent because of vacation, illness, bad weather, childcare problems, maternity or paternity leave, labor-management dispute, job training, or other family or personal reasons, regardless of whether or not they were paid for the time off or were seeking other jobs.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="NotInLaborForce">
+        <source>Not In Labor Force</source>
+        <target>Inactif</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="NotInLaborForce@definition">
+        <source>Persons not classified as employed or unemployed, meaning those who have no job and are not looking for one.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="Unemployed">
+        <source>Unemployed</source>
+        <target>Sans activité</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="Unemployed@definition">
+        <source>Persons who currently have no employment, but are available for work and have made specific efforts to find employment.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_GeneticObservationValue">
+        <source>GeneticObservationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_GeneticObservationValue@definition">
+        <source>**Description:** The domain contains genetic analysis specific observation values, e.g. Homozygote, Heterozygote, etc.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="Homozygote">
+        <source>HOMO</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="Homozygote@definition">
+        <source>**Description:** An individual having different alleles at one or more loci regarding a specific character</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_MeasurementImprovementNotation">
+        <source>Measurement Improvement Notation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_MeasurementImprovementNotation@definition">
+        <source>Observation values that indicate what change in a measurement value or score is indicative of an improvement in the measured item or scored issue.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DecrIsImp">
+        <source>Decreased score indicates improvement</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DecrIsImp@definition">
+        <source>Improvement is indicated as a decrease in the score or measurement (e.g. Lower score indicates better quality)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="IncrIsImp">
+        <source>Increased score indicates improvement</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="IncrIsImp@definition">
+        <source>Improvement is indicated as an increase in the score or measurement (e.g. Higher score indicates better quality)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ObservationMeasureScoring">
+        <source>ObservationMeasureScoring</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ObservationMeasureScoring@definition">
+        <source>Observation values used to indicate the type of scoring (e.g. proportion, ratio) used by a health quality measure.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="COHORT">
+        <source>cohort measure scoring</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="COHORT@definition">
+        <source>A measure in which either short-term cross-section or long-term longitudinal analysis is performed over a group of subjects defined by a set of common properties or defining characteristics (e.g., Male smokers between the ages of 40 and 50 years, exposure to treatment, exposure duration).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CONTVAR">
+        <source>continuous variable measure scoring</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CONTVAR@definition">
+        <source>A measure score in which each individual value for the measure can fall anywhere along a continuous scale (e.g., mean time to thrombolytics which aggregates the time in minutes from a case presenting with chest pain to the time of administration of thrombolytics).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PROPOR">
+        <source>proportion measure scoring</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PROPOR@definition">
+        <source>A score derived by dividing the number of cases that meet a criterion for quality (the numerator) by the number of eligible cases within a given time frame (the denominator) where the numerator cases are a subset of the denominator cases (e.g., percentage of eligible women with a mammogram performed in the last year).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RATIO">
+        <source>ratio measure scoring</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RATIO@definition">
+        <source>A score that may have a value of zero or greater that is derived by dividing a count of one type of data by a count of another type of data (e.g., the number of patients with central lines who develop infection divided by the number of central line days).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ObservationMeasureType">
+        <source>ObservationMeasureType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ObservationMeasureType@definition">
+        <source>Observation values used to indicate what kind of health quality measure is used.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="COMPOSITE">
+        <source>composite measure type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="COMPOSITE@definition">
+        <source>A measure that is composed from one or more other measures and indicates an overall summary of those measures.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="EFFICIENCY">
+        <source>efficiency measure type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="EFFICIENCY@definition">
+        <source>A measure related to the efficiency of medical treatment.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="EXPERIENCE">
+        <source>experience measure type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="EXPERIENCE@definition">
+        <source>A measure related to the level of patient engagement or patient experience of care.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="OUTCOME">
+        <source>outcome measure type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="OUTCOME@definition">
+        <source>A measure that indicates the result of the performance (or non-performance) of a function or process.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="INTERM-OM">
+        <source>intermediate outcome measure type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="INTERM-OM@definition">
+        <source>A measure that evaluates the change over time of a physiologic state observable that is associated with a specific long-term health outcome.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PRO-PM">
+        <source>patient reported outcome measure type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PRO-PM@definition">
+        <source>A measure that is a comparison of patient reported outcomes for a single or multiple patients collected via an instrument specifically designed to obtain input directly from patients.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PROCESS">
+        <source>process measure type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PROCESS@definition">
+        <source>A measure which focuses on a process which leads to a certain outcome, meaning that a scientific basis exists for believing that the process, when executed well, will increase the probability of achieving a desired outcome.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="APPROPRIATE">
+        <source>appropriate use process measure</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="APPROPRIATE@definition">
+        <source>A measure that assesses the use of one or more processes where the expected health benefit exceeds the expected negative consequences.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RESOURCE">
+        <source>resource use measure type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RESOURCE@definition">
+        <source>A measure related to the extent of use of clinical resources or cost of care.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="STRUCTURE">
+        <source>structure measure type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="STRUCTURE@definition">
+        <source>A measure related to the structure of patient care.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ObservationPopulationInclusion">
+        <source>ObservationPopulationInclusion</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ObservationPopulationInclusion@definition">
+        <source>Observation values used to assert various populations that a subject falls into.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DENEX">
+        <source>denominator exclusions</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DENEX@definition">
+        <source>Patients who should be removed from the eMeasure population and denominator before determining if numerator criteria are met. Denominator exclusions are used in proportion and ratio measures to help narrow the denominator.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DENEXCEP">
+        <source>denominator exceptions</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DENEXCEP@definition">
+        <source>Denominator exceptions are those conditions that should remove a patient, procedure or unit of measurement from the denominator only if the numerator criteria are not met. Denominator exceptions allow for adjustment of the calculated score for those providers with higher risk populations. Denominator exceptions are used only in proportion eMeasures. They are not appropriate for ratio or continuous variable eMeasures. Denominator exceptions allow for the exercise of clinical judgment and should be specifically defined where capturing the information in a structured manner fits the clinical workflow. Generic denominator exception reasons used in proportion eMeasures fall into three general categories:
+
+ *  Medical reasons
+ *  Patient reasons
+ *  System reasons</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DENOM">
+        <source>denominator</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DENOM@definition">
+        <source>It can be the same as the initial patient population or a subset of the initial patient population to further constrain the population for the purpose of the eMeasure. Different measures within an eMeasure set may have different Denominators. Continuous Variable eMeasures do not have a Denominator, but instead define a Measure Population.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="IP">
+        <source>initial population</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="IP@definition">
+        <source>The initial population refers to all entities to be evaluated by a specific quality measure who share a common set of specified characteristics within a specific measurement set to which a given measure belongs.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="IPP">
+        <source>initial patient population</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="IPP@definition">
+        <source>The initial patient population refers to all patients to be evaluated by a specific quality measure who share a common set of specified characteristics within a specific measurement set to which a given measure belongs. Details often include information based upon specific age groups, diagnoses, diagnostic and procedure codes, and enrollment periods.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MSRPOPL">
+        <source>measure population</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MSRPOPL@definition">
+        <source>Measure population is used only in continuous variable eMeasures. It is a narrative description of the eMeasure population. (e.g., all patients seen in the Emergency Department during the measurement period).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="NUMER">
+        <source>numerator</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="NUMER@definition">
+        <source>Numerators are used in proportion and ratio eMeasures. In proportion measures the numerator criteria are the processes or outcomes expected for each patient, procedure, or other unit of measurement defined in the denominator. In ratio measures the numerator is related, but not directly derived from the denominator (e.g., a numerator listing the number of central line blood stream infections and a denominator indicating the days per thousand of central line usage in a specific time period).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="NUMEX">
+        <source>numerator exclusions</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="NUMEX@definition">
+        <source>Numerator Exclusions are used only in ratio eMeasures to define instances that should not be included in the numerator data. (e.g., if the number of central line blood stream infections per 1000 catheter days were to exclude infections with a specific bacterium, that bacterium would be listed as a numerator exclusion.)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_PartialCompletionScale">
+        <source>PartialCompletionScale</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="G">
+        <source>Great extent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="G@definition">
+        <source>Value for Act.partialCompletionCode attribute that implies 81-99% completion</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LE">
+        <source>Large extent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LE@definition">
+        <source>Value for Act.partialCompletionCode attribute that implies 61-80% completion</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ME">
+        <source>Medium extent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ME@definition">
+        <source>Value for Act.partialCompletionCode attribute that implies 41-60% completion</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MI">
+        <source>Minimal extent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MI@definition">
+        <source>Value for Act.partialCompletionCode attribute that implies 1-20% completion</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="N">
+        <source>None</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="N@definition">
+        <source>Value for Act.partialCompletionCode attribute that implies 0% completion</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="S">
+        <source>Some extent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="S@definition">
+        <source>Value for Act.partialCompletionCode attribute that implies 21-40% completion</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SecurityObservationValue">
+        <source>SecurityObservationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SecurityObservationValue@definition">
+        <source>Observation values used to indicate security observation metadata.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECCATOBV">
+        <source>security category</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECCATOBV@definition">
+        <source>Abstract security observation values used to indicate security category metadata.
+
+**Examples:** Codes conveying:
+
+ *  privacy law
+ *  information sensitivity
+ *  consent directive types</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECCLASSOBV">
+        <source>security classification</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECCLASSOBV@definition">
+        <source>Abstract security observation values used to indicate security classification metadata.
+
+**Examples:** Confidentiality Codes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECCONOBV">
+        <source>security control</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECCONOBV@definition">
+        <source>Abstract security observation values used to indicate security control metadata.
+
+**Examples:** Codes conveying dissemination controls, information handling caveats, purpose of use, refrain policies, and obligations to which custodians and information receivers must comply.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECINTOBV">
+        <source>security integrity</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECINTOBV@definition">
+        <source>Abstract security observation values used to indicate security integrity metadata.
+
+**Examples:** Codes conveying integrity status, integrity confidence, and provenance.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECALTINTOBV">
+        <source>alteration integrity</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECALTINTOBV@definition">
+        <source>Abstract security metadata observation values used to indicate mechanism used for authorized alteration of an IT resource (data, information object, service, or system capability)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ABSTRED">
+        <source>abstracted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ABSTRED@definition">
+        <source>Security metadata observation values used to indicate the use of a more abstract version of the content, e.g., replacing exact value of an age or date field with a range, or remove the left digits of a credit card number or SSN.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="AGGRED">
+        <source>aggregated</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="AGGRED@definition">
+        <source>Security metadata observation values used to indicate the use of an algorithmic combination of actual values with the result of an aggregate function, e.g., average, sum, or count in order to limit disclosure of an IT resource (data, information object, service, or system capability) to the minimum necessary.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ANONYED">
+        <source>anonymized</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ANONYED@definition">
+        <source>Security metadata observation value conveying the alteration integrity of an IT resource (data, information object, service, or system capability) by used to indicate the mechanism by which software systems can strip portions of the resource that could allow the identification of the source of the information or the information subject. No key to relink the data is retained.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MAPPED">
+        <source>mapped</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MAPPED@definition">
+        <source>Security metadata observation value used to indicate that the IT resource semantic content has been transformed from one encoding to another.
+
+*Usage Note:* &quot;MAP&quot; code does not indicate the semantic fidelity of the transformed content.
+
+To indicate semantic fidelity for maps of HL7 to other code systems, this security alteration integrity observation may be further specified using an Act valued with Value Set: MapRelationship (2.16.840.1.113883.1.11.11052).
+
+Semantic fidelity of the mapped IT Resource may also be indicated using a SecurityIntegrityConfidenceObservation.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MASKED">
+        <source>masked</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="MASKED@definition">
+        <source>Security metadata observation value conveying the alteration integrity of an IT resource (data, information object, service, or system capability) by indicating the mechanism by which software systems can make data unintelligible (that is, as unreadable and unusable by algorithmically transforming plaintext into ciphertext) such that it can only be accessed or used by authorized users. An authorized user may be provided a key to decrypt per license or &quot;shared secret&quot;.
+
+*Usage Note:* &quot;MASKED&quot; may be used, per applicable policy, as a flag to indicate to a user or receiver that some portion of an IT resource has been further encrypted, and may be accessed only by an authorized user or receiver to which a decryption key is provided.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PSEUDED">
+        <source>pseudonymized</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PSEUDED@definition">
+        <source>Security metadata observation value conveying the alteration integrity of an IT resource (data, information object, service, or system capability), by indicating the mechanism by which software systems can strip portions of the resource that could allow the identification of the source of the information or the information subject. Custodian may retain a key to relink data necessary to reidentify the information subject.
+
+*Rationale:* Personal data which has been processed to make it impossible to know whose data it is. Used particularly for secondary use of health data. In some cases, it may be possible for authorized individuals to restore the identity of the individual, e.g.,for public health case management. Based on ISO/TS 25237:2008 Health informatics-Pseudonymization</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="REDACTED">
+        <source>redacted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="REDACTED@definition">
+        <source>Security metadata observation value used to indicate the mechanism by which software systems can filter an IT resource (data, information object, service, or system capability) to remove any portion of the resource that is not authorized to be access, used, or disclosed.
+
+*Usage Note:* &quot;REDACTED&quot; may be used, per applicable policy, as a flag to indicate to a user or receiver that some portion of an IT resource has filtered and not included in the content accessed or received.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SUBSETTED">
+        <source>subsetted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SUBSETTED@definition">
+        <source>Metadata observation used to indicate that some information has been removed from the source object when the view this object contains was constructed because of configuration options when the view was created. The content may not be suitable for use as the basis of a record update
+
+*Usage Note:* This is not suitable to be used when information is removed for security reasons - see the code REDACTED for this use.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SYNTAC">
+        <source>syntactic transform</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SYNTAC@definition">
+        <source>Security metadata observation value used to indicate that the IT resource syntax has been transformed from one syntactical representation to another.
+
+*Usage Note:* &quot;SYNTAC&quot; code does not indicate the syntactical correctness of the syntactically transformed IT resource.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRSLT">
+        <source>translated</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRSLT@definition">
+        <source>Security metadata observation value used to indicate that the IT resource has been translated from one human language to another.
+
+*Usage Note:* &quot;TRSLT&quot; does not indicate the fidelity of the translation or the languages translated.
+
+The fidelity of the IT Resource translation may be indicated using a SecurityIntegrityConfidenceObservation.
+
+To indicate languages, use the Value Set:HumanLanguage (2.16.840.1.113883.1.11.11526)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="VERSIONED">
+        <source>versioned</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="VERSIONED@definition">
+        <source>Security metadata observation value conveying the alteration integrity of an IT resource (data, information object, service, or system capability) which indicates that the resource only retains versions of an IT resource for access and use per applicable policy
+
+*Usage Note:* When this code is used, expectation is that the system has removed historical versions of the data that falls outside the time period deemed to be the effective time of the applicable version.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECDATINTOBV">
+        <source>data integrity</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECDATINTOBV@definition">
+        <source>Abstract security observation values used to indicate data integrity metadata.
+
+**Examples:** Codes conveying the mechanism used to preserve the accuracy and consistency of an IT resource such as a digital signature and a cryptographic hash function.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CRYTOHASH">
+        <source>cryptographic hash function</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CRYTOHASH@definition">
+        <source>Security metadata observation value used to indicate the mechanism by which software systems can establish that data was not modified in transit.
+
+*Rationale:* This definition is intended to align with the ISO 22600-2 3.3.19 definition of cryptographic checkvalue: Information which is derived by performing a cryptographic transformation (see cryptography) on the data unit. The derivation of the checkvalue may be performed in one or more steps and is a result of a mathematical function of the key and a data unit. It is usually used to check the integrity of a data unit.
+
+**Examples:** 
+
+ *  SHA-1
+ *  SHA-2 (Secure Hash Algorithm)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DIGSIG">
+        <source>digital signature</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DIGSIG@definition">
+        <source>Security metadata observation value used to indicate the mechanism by which software systems use digital signature to establish that data has not been modified.
+
+*Rationale:* This definition is intended to align with the ISO 22600-2 3.3.26 definition of digital signature: Data appended to, or a cryptographic transformation (see cryptography) of, a data unit that allows a recipient of the data unit to prove the source and integrity of the data unit and protect against forgery e.g., by the recipient.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECINTCONOBV">
+        <source>integrity confidence</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECINTCONOBV@definition">
+        <source>Abstract security observation value used to indicate integrity confidence metadata.
+
+**Examples:** Codes conveying the level of reliability and trustworthiness of an IT resource.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="HRELIABLE">
+        <source>highly reliable</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="HRELIABLE@definition">
+        <source>Security metadata observation value used to indicate that the veracity or trustworthiness of an IT resource (data, information object, service, or system capability) for a specified purpose of use is perceived to be or deemed by policy to be very high.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RELIABLE">
+        <source>reliable</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RELIABLE@definition">
+        <source>Security metadata observation value used to indicate that the veracity or trustworthiness of an IT resource (data, information object, service, or system capability) for a specified purpose of use is perceived to be or deemed by policy to be adequate.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="UNCERTREL">
+        <source>uncertain reliability</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="UNCERTREL@definition">
+        <source>Security metadata observation value used to indicate that the veracity or trustworthiness of an IT resource (data, information object, service, or system capability) for a specified purpose of use is perceived to be or deemed by policy to be uncertain.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="UNRELIABLE">
+        <source>unreliable</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="UNRELIABLE@definition">
+        <source>Security metadata observation value used to indicate that the veracity or trustworthiness of an IT resource (data, information object, service, or system capability) for a specified purpose of use is perceived to be or deemed by policy to be inadequate.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECINTPRVOBV">
+        <source>provenance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECINTPRVOBV@definition">
+        <source>Abstract security metadata observation value used to indicate the provenance of an IT resource (data, information object, service, or system capability).
+
+**Examples:** Codes conveying the provenance metadata about the entity reporting an IT resource.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECINTPRVABOBV">
+        <source>provenance asserted by</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECINTPRVABOBV@definition">
+        <source>Abstract security provenance metadata observation value used to indicate the entity that asserted an IT resource (data, information object, service, or system capability).
+
+**Examples:** Codes conveying the provenance metadata about the entity asserting the resource.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CLINAST">
+        <source>clinician asserted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CLINAST@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was asserted by a clinician.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DEVAST">
+        <source>device asserted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DEVAST@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was asserted by a device.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="HCPAST">
+        <source>healthcare professional asserted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="HCPAST@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was asserted by a healthcare professional.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PACQAST">
+        <source>patient acquaintance asserted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PACQAST@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was asserted by a patient acquaintance.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PATAST">
+        <source>patient asserted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PATAST@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was asserted by a patient.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PAYAST">
+        <source>payer asserted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PAYAST@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was asserted by a payer.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PROAST">
+        <source>professional asserted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PROAST@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was asserted by a professional.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SDMAST">
+        <source>substitute decision maker asserted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SDMAST@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was asserted by a substitute decision maker.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="AIAST">
+        <source>Artificial Intelligence asserted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="AIAST@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, or information object) was asserted by a Artificial Intelligence (e.g. Clinical Decision Support, Machine Learning, Algorithm).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DICTAST">
+        <source>Dictation asserted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DICTAST@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, or information object) was asserted by a Dictation algorithm transforming human communications (e.g. speech).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECINTPRVRBOBV">
+        <source>provenance reported by</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECINTPRVRBOBV@definition">
+        <source>Abstract security provenance metadata observation value used to indicate the entity that reported the resource (data, information object, service, or system capability).
+
+**Examples:** Codes conveying the provenance metadata about the entity reporting an IT resource.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CLINRPT">
+        <source>clinician reported</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="CLINRPT@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was reported by a clinician.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DEVRPT">
+        <source>device reported</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DEVRPT@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was reported by a device.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="HCPRPT">
+        <source>healthcare professional reported</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="HCPRPT@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was reported by a healthcare professional.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PACQRPT">
+        <source>patient acquaintance reported</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PACQRPT@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was reported by a patient acquaintance.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PATRPT">
+        <source>patient reported</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PATRPT@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was reported by a patient.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PAYRPT">
+        <source>payer reported</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PAYRPT@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was reported by a payer.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PRORPT">
+        <source>professional reported</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PRORPT@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was reported by a professional.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SDMRPT">
+        <source>substitute decision maker reported</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SDMRPT@definition">
+        <source>Security provenance metadata observation value used to indicate that an IT resource (data, information object, service, or system capability) was reported by a substitute decision maker.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECINTSTOBV">
+        <source>integrity status</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SECINTSTOBV@definition">
+        <source>Abstract security observation values used to indicate integrity status metadata.
+
+**Examples:** Codes, such as those in the HL7 DocumentClassification code system conveying the workflow status of resource as authenticated, legally authenticated, and in progress.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SECTRSTOBV">
+        <source>security trust observation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SECTRSTOBV@definition">
+        <source>Observation value used to indicate aspects of trust applicable to an IT resource (data, information object, service, or system capability).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRSTACCRDOBV">
+        <source>trust accreditation observation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRSTACCRDOBV@definition">
+        <source>Values for security trust accreditation metadata observation made about the formal declaration by an authority or neutral third party that validates the technical, security, trust, and business practice conformance of Trust Agents to facilitate security, interoperability, and trust among participants within a security domain or trust framework.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRSTAGREOBV">
+        <source>trust agreement observation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRSTAGREOBV@definition">
+        <source>Values for security trust agreement metadata observation made about privacy and security requirements with which a security domain must comply. \[ISO IEC 10181-1\] \[ISO IEC 10181-1\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRSTCERTOBV">
+        <source>trust certificate observation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRSTCERTOBV@definition">
+        <source>Values for security trust certificate metadata observation made about a set of security-relevant data issued by a security authority or trusted third party, together with security information which is used to provide the integrity and data origin authentication services for an IT resource (data, information object, service, or system capability). \[Based on ISO IEC 10181-1\]
+
+For example, a Certificate Policy (CP), which is a named set of rules that indicates the applicability of a certificate to a particular community and/or class of application with common security requirements. A particular Certificate Policy might indicate the applicability of a type of certificate to the authentication of electronic data interchange transactions for the trading of goods within a given price range. Another example is Cross Certification with Federal Bridge.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRSTFWKOBV">
+        <source>none supplied 5</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRSTFWKOBV@definition">
+        <source>Values for security trust framework metadata observation made about a complete set of contracts, regulations or commitments that enable participating actors to rely on certain assertions by other actors to fulfill their information security requirements. \[Kantara Initiative\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRSTLOAOBV">
+        <source>trust assurance observation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRSTLOAOBV@definition">
+        <source>Values for security trust assurance metadata observation made about the digital quality or reliability of a trust assertion, activity, capability, information exchange, mechanism, process, or protocol.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAN">
+        <source>authentication level of assurance value</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAN@definition">
+        <source>The value assigned as the indicator of the digital quality or reliability of the verification and validation process used to verify the claimed identity of an entity by securely associating an identifier and its authenticator. \[Based on ISO 7498-2\]
+
+For example, the degree of confidence in the vetting process used to establish the identity of the individual to whom the credential was issued, and 2) the degree of confidence that the individual who uses the credential is the individual to whom the credential was issued. \[OMB M-04-04 E-Authentication Guidance for Federal Agencies\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAN1">
+        <source>low authentication level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAN1@definition">
+        <source>Indicator of low digital quality or reliability of the digital reliability of the verification and validation process used to verify the claimed identity of an entity by securely associating an identifier and its authenticator. \[Based on ISO 7498-2\]
+
+The degree of confidence in the vetting process used to establish the identity of the individual to whom the credential was issued, and 2) the degree of confidence that the individual who uses the credential is the individual to whom the credential was issued. \[OMB M-04-04 E-Authentication Guidance for Federal Agencies\]
+
+Low authentication level of assurance indicates that the relying party may have little or no confidence in the asserted identity's validity. Level 1 requires little or no confidence in the asserted identity. No identity proofing is required at this level, but the authentication mechanism should provide some assurance that the same claimant is accessing the protected transaction or data. A wide range of available authentication technologies can be employed and any of the token methods of Levels 2, 3, or 4, including Personal Identification Numbers (PINs), may be used. To be authenticated, the claimant must prove control of the token through a secure authentication protocol. At Level 1, long-term shared authentication secrets may be revealed to verifiers. Assertions issued about claimants as a result of a successful authentication are either cryptographically authenticated by relying parties (using approved methods) or are obtained directly from a trusted party via a secure authentication protocol. \[Summary of the technical requirements specified in NIST SP 800-63 for the four levels of assurance defined by the December 2003, the Office of Management and Budget (OMB) issued Memorandum M-04-04, E-Authentication Guidance for Federal Agencies.\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAN2">
+        <source>basic authentication level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAN2@definition">
+        <source>Indicator of basic digital quality or reliability of the digital reliability of the verification and validation process used to verify the claimed identity of an entity by securely associating an identifier and its authenticator. \[Based on ISO 7498-2\]
+
+The degree of confidence in the vetting process used to establish the identity of the individual to whom the credential was issued, and 2) the degree of confidence that the individual who uses the credential is the individual to whom the credential was issued. \[OMB M-04-04 E-Authentication Guidance for Federal Agencies\]
+
+Basic authentication level of assurance indicates that the relying party may have some confidence in the asserted identity's validity. Level 2 requires confidence that the asserted identity is accurate. Level 2 provides for single-factor remote network authentication, including identity-proofing requirements for presentation of identifying materials or information. A wide range of available authentication technologies can be employed, including any of the token methods of Levels 3 or 4, as well as passwords. Successful authentication requires that the claimant prove through a secure authentication protocol that the claimant controls the token. Eavesdropper, replay, and online guessing attacks are prevented. Long-term shared authentication secrets, if used, are never revealed to any party except the claimant and verifiers operated by the CSP; however, session (temporary) shared secrets may be provided to independent verifiers by the CSP. Approved cryptographic techniques are required. Assertions issued about claimants as a result of a successful authentication are either cryptographically authenticated by relying parties (using approved methods) or are obtained directly from a trusted party via a secure authentication protocol. \[Summary of the technical requirements specified in NIST SP 800-63 for the four levels of assurance defined by the December 2003, the Office of Management and Budget (OMB) issued Memorandum M-04-04, E-Authentication Guidance for Federal Agencies.\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAN3">
+        <source>medium authentication level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAN3@definition">
+        <source>Indicator of medium digital quality or reliability of the digital reliability of verification and validation of the process used to verify the claimed identity of an entity by securely associating an identifier and its authenticator. \[Based on ISO 7498-2\]
+
+The degree of confidence in the vetting process used to establish the identity of the individual to whom the credential was issued, and 2) the degree of confidence that the individual who uses the credential is the individual to whom the credential was issued. \[OMB M-04-04 E-Authentication Guidance for Federal Agencies\]
+
+Medium authentication level of assurance indicates that the relying party may have high confidence in the asserted identity's validity. Level 3 is appropriate for transactions that need high confidence in the accuracy of the asserted identity. Level 3 provides multifactor remote network authentication. At this level, identity-proofing procedures require verification of identifying materials and information. Authentication is based on proof of possession of a key or password through a cryptographic protocol. Cryptographic strength mechanisms should protect the primary authentication token (a cryptographic key) against compromise by the protocol threats, including eavesdropper, replay, online guessing, verifier impersonation, and man-in-the-middle attacks. A minimum of two authentication factors is required. Three kinds of tokens may be used:
+
+ *  &quot;soft&quot; cryptographic token, which has the key stored on a general-purpose computer,
+ *  &quot;hard&quot; cryptographic token, which has the key stored on a special hardware device, and
+ *  &quot;one-time password&quot; device token, which has symmetric key stored on a personal hardware device that is a cryptographic module validated at FIPS 140-2 Level 1 or higher. Validation testing of cryptographic modules and algorithms for conformance to Federal Information Processing Standard (FIPS) 140-2, Security Requirements for Cryptographic Modules, is managed by NIST.
+
+Authentication requires that the claimant prove control of the token through a secure authentication protocol. The token must be unlocked with a password or biometric representation, or a password must be used in a secure authentication protocol, to establish two-factor authentication. Long-term shared authentication secrets, if used, are never revealed to any party except the claimant and verifiers operated directly by the CSP; however, session (temporary) shared secrets may be provided to independent verifiers by the CSP. Approved cryptographic techniques are used for all operations. Assertions issued about claimants as a result of a successful authentication are either cryptographically authenticated by relying parties (using approved methods) or are obtained directly from a trusted party via a secure authentication protocol. \[Summary of the technical requirements specified in NIST SP 800-63 for the four levels of assurance defined by the December 2003, the Office of Management and Budget (OMB) issued Memorandum M-04-04, E-Authentication Guidance for Federal Agencies.\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAN4">
+        <source>high authentication level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAN4@definition">
+        <source>Indicator of high digital quality or reliability of the digital reliability of the verification and validation process used to verify the claimed identity of an entity by securely associating an identifier and its authenticator. \[Based on ISO 7498-2\]
+
+The degree of confidence in the vetting process used to establish the identity of the individual to whom the credential was issued, and 2) the degree of confidence that the individual who uses the credential is the individual to whom the credential was issued. \[OMB M-04-04 E-Authentication Guidance for Federal Agencies\]
+
+High authentication level of assurance indicates that the relying party may have very high confidence in the asserted identity's validity. Level 4 is for transactions that need very high confidence in the accuracy of the asserted identity. Level 4 provides the highest practical assurance of remote network authentication. Authentication is based on proof of possession of a key through a cryptographic protocol. This level is similar to Level 3 except that only â€œhardâ€? cryptographic tokens are allowed, cryptographic module validation requirements are strengthened, and subsequent critical data transfers must be authenticated via a key that is bound to the authentication process. The token should be a hardware cryptographic module validated at FIPS 140-2 Level 2 or higher overall with at least FIPS 140-2 Level 3 physical security. This level requires a physical token, which cannot readily be copied, and operator authentication at Level 2 and higher, and ensures good, two-factor remote authentication.
+
+Level 4 requires strong cryptographic authentication of all parties and all sensitive data transfers between the parties. Either public key or symmetric key technology may be used. Authentication requires that the claimant prove through a secure authentication protocol that the claimant controls the token. Eavesdropper, replay, online guessing, verifier impersonation, and man-in-the-middle attacks are prevented. Long-term shared authentication secrets, if used, are never revealed to any party except the claimant and verifiers operated directly by the CSP; however, session (temporary) shared secrets may be provided to independent verifiers by the CSP. Strong approved cryptographic techniques are used for all operations. All sensitive data transfers are cryptographically authenticated using keys bound to the authentication process. \[Summary of the technical requirements specified in NIST SP 800-63 for the four levels of assurance defined by the December 2003, the Office of Management and Budget (OMB) issued Memorandum M-04-04, E-Authentication Guidance for Federal Agencies.\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAP">
+        <source>authentication process level of assurance value</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAP@definition">
+        <source>The value assigned as the indicator of the digital quality or reliability of a defined sequence of messages between a Claimant and a Verifier that demonstrates that the Claimant has possession and control of a valid token to establish his/her identity, and optionally, demonstrates to the Claimant that he or she is communicating with the intended Verifier. \[Based on NIST SP 800-63-2\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAP1">
+        <source>low authentication process level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAP1@definition">
+        <source>Indicator of the low digital quality or reliability of a defined sequence of messages between a Claimant and a Verifier that demonstrates that the Claimant has possession and control of a valid token to establish his/her identity, and optionally, demonstrates to the Claimant that he or she is communicating with the intended Verifier. \[Based on NIST SP 800-63-2\]
+
+Low authentication process level of assurance indicates that (1) long-term shared authentication secrets may be revealed to verifiers; and (2) assertions and assertion references require protection from manufacture/modification and reuse attacks. \[Summary of the technical requirements specified in NIST SP 800-63 for the four levels of assurance defined by the December 2003, the Office of Management and Budget (OMB) issued Memorandum M-04-04, E-Authentication Guidance for Federal Agencies.\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAP2">
+        <source>basic authentication process level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAP2@definition">
+        <source>Indicator of the basic digital quality or reliability of a defined sequence of messages between a Claimant and a Verifier that demonstrates that the Claimant has possession and control of a valid token to establish his/her identity, and optionally, demonstrates to the Claimant that he or she is communicating with the intended Verifier. \[Based on NIST SP 800-63-2\]
+
+Basic authentication process level of assurance indicates that long-term shared authentication secrets are never revealed to any other party except Credential Service Provider (CSP). Sessions (temporary) shared secrets may be provided to independent verifiers by CSP. Long-term shared authentication secrets, if used, are never revealed to any other party except Verifiers operated by the Credential Service Provider (CSP); however, session (temporary) shared secrets may be provided to independent Verifiers by the CSP. In addition to Level 1 requirements, assertions are resistant to disclosure, redirection, capture and substitution attacks. Approved cryptographic techniques are required. \[Summary of the technical requirements specified in NIST SP 800-63 for the four levels of assurance defined by the December 2003, the Office of Management and Budget (OMB) issued Memorandum M-04-04, E-Authentication Guidance for Federal Agencies.\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAP3">
+        <source>medium authentication process level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAP3@definition">
+        <source>Indicator of the medium digital quality or reliability of a defined sequence of messages between a Claimant and a Verifier that demonstrates that the Claimant has possession and control of a valid token to establish his/her identity, and optionally, demonstrates to the Claimant that he or she is communicating with the intended Verifier. \[Based on NIST SP 800-63-2\]
+
+Medium authentication process level of assurance indicates that the token can be unlocked with password, biometric, or uses a secure multi-token authentication protocol to establish two-factor authentication. Long-term shared authentication secrets are never revealed to any party except the Claimant and Credential Service Provider (CSP).
+
+Authentication requires that the Claimant prove, through a secure authentication protocol, that he or she controls the token. The Claimant unlocks the token with a password or biometric, or uses a secure multi-token authentication protocol to establish two-factor authentication (through proof of possession of a physical or software token in combination with some memorized secret knowledge). Long-term shared authentication secrets, if used, are never revealed to any party except the Claimant and Verifiers operated directly by the CSP; however, session (temporary) shared secrets may be provided to independent Verifiers by the CSP. In addition to Level 2 requirements, assertions are protected against repudiation by the Verifier.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAP4">
+        <source>high authentication process level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAP4@definition">
+        <source>Indicator of the high digital quality or reliability of a defined sequence of messages between a Claimant and a Verifier that demonstrates that the Claimant has possession and control of a valid token to establish his/her identity, and optionally, demonstrates to the Claimant that he or she is communicating with the intended Verifier. \[Based on NIST SP 800-63-2\]
+
+High authentication process level of assurance indicates all sensitive data transfer are cryptographically authenticated using keys bound to the authentication process. Level 4 requires strong cryptographic authentication of all communicating parties and all sensitive data transfers between the parties. Either public key or symmetric key technology may be used. Authentication requires that the Claimant prove through a secure authentication protocol that he or she controls the token. All protocol threats at Level 3 are required to be prevented at Level 4. Protocols shall also be strongly resistant to man-in-the-middle attacks. Long-term shared authentication secrets, if used, are never revealed to any party except the Claimant and Verifiers operated directly by the CSP; however, session (temporary) shared secrets may be provided to independent Verifiers by the CSP. Approved cryptographic techniques are used for all operations. All sensitive data transfers are cryptographically authenticated using keys bound to the authentication process. \[Summary of the technical requirements specified in NIST SP 800-63 for the four levels of assurance defined by the December 2003, the Office of Management and Budget (OMB) issued Memorandum M-04-04, E-Authentication Guidance for Federal Agencies.\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAS">
+        <source>assertion level of assurance value</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAS@definition">
+        <source>The value assigned as the indicator of the high quality or reliability of the statement from a Verifier to a Relying Party (RP) that contains identity information about a Subscriber. Assertions may also contain verified attributes.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAS1">
+        <source>low assertion level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAS1@definition">
+        <source>Indicator of the low quality or reliability of the statement from a Verifier to a Relying Party (RP) that contains identity information about a Subscriber. Assertions may also contain verified attributes.
+
+Assertions and assertion references require protection from modification and reuse attacks. \[Summary of the technical requirements specified in NIST SP 800-63 for the four levels of assurance defined by the December 2003, the Office of Management and Budget (OMB) issued Memorandum M-04-04, E-Authentication Guidance for Federal Agencies.\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAS2">
+        <source>basic assertion level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAS2@definition">
+        <source>Indicator of the basic quality or reliability of the statement from a Verifier to a Relying Party (RP) that contains identity information about a Subscriber. Assertions may also contain verified attributes.
+
+Assertions are resistant to disclosure, redirection, capture and substitution attacks. Approved cryptographic techniques are required for all assertion protocols. \[Summary of the technical requirements specified in NIST SP 800-63 for the four levels of assurance defined by the December 2003, the Office of Management and Budget (OMB) issued Memorandum M-04-04, E-Authentication Guidance for Federal Agencies.\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAS3">
+        <source>medium assertion level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAS3@definition">
+        <source>Indicator of the medium quality or reliability of the statement from a Verifier to a Relying Party (RP) that contains identity information about a Subscriber. Assertions may also contain verified attributes.
+
+Assertions are protected against repudiation by the verifier. \[Summary of the technical requirements specified in NIST SP 800-63 for the four levels of assurance defined by the December 2003, the Office of Management and Budget (OMB) issued Memorandum M-04-04, E-Authentication Guidance for Federal Agencies.\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAS4">
+        <source>high assertion level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAAS4@definition">
+        <source>Indicator of the high quality or reliability of the statement from a Verifier to a Relying Party (RP) that contains identity information about a Subscriber. Assertions may also contain verified attributes.
+
+Strongly resistant to man-in-the-middle attacks. &quot;Bearer&quot; assertions are not used. &quot;Holder-of-key&quot; assertions may be used. RP maintains records of the assertions. \[Summary of the technical requirements specified in NIST SP 800-63 for the four levels of assurance defined by the December 2003, the Office of Management and Budget (OMB) issued Memorandum M-04-04, E-Authentication Guidance for Federal Agencies.\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOACM">
+        <source>token and credential management level of assurance value)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOACM@definition">
+        <source>Indicator of the digital quality or reliability of the activities performed by the Credential Service Provider (CSP) subsequent to electronic authentication registration, identity proofing and issuance activities to manage and safeguard the integrity of an issued credential and its binding to an identity. \[Electronic Authentication Guideline - Recommendations of the National Institute of Standards and Technology, NIST Special Publication 800-63-1, Dec 2011\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOACM1">
+        <source>low token and credential management level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOACM1@definition">
+        <source>Indicator of the low digital quality or reliability of the activities performed by the Credential Service Provider (CSP) subsequent to electronic authentication registration, identity proofing and issuance activities to manage and safeguard the integrity of an issued credential and its binding to an identity. Little or no confidence that an individual has maintained control over a token that has been entrusted to him or her and that that token has not been compromised. Characteristics include weak identity binding to tokens and plaintext passwords or secrets not transmitted across a network. \[Electronic Authentication Guideline - Recommendations of the National Institute of Standards and Technology, NIST Special Publication 800-63-1, Dec 2011\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOACM2">
+        <source>basic token and credential management level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOACM2@definition">
+        <source>Indicator of the basic digital quality or reliability of the activities performed by the Credential Service Provider (CSP) subsequent to electronic authentication registration, identity proofing and issuance activities to manage and safeguard the integrity of an issued credential and its binding to an identity. Some confidence that an individual has maintained control over a token that has been entrusted to him or her and that that token has not been compromised. Characteristics include: Verification must prove claimant controls the token; token resists online guessing, replay, session hijacking, and eavesdropping attacks; and token is at least weakly resistant to man-in-the middle attacks. \[Electronic Authentication Guideline - Recommendations of the National Institute of Standards and Technology, NIST Special Publication 800-63-1, Dec 2011\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOACM3">
+        <source>medium token and credential management level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOACM3@definition">
+        <source>Indicator of the medium digital quality or reliability of the activities performed by the Credential Service Provider (CSP) subsequent to electronic authentication registration, identity proofing and issuance activities to manage and safeguard the integrity of an issued credential and it's binding to an identity. High confidence that an individual has maintained control over a token that has been entrusted to him or her and that that token has not been compromised. Characteristics include: Ownership of token verifiable through security authentication protocol and credential management protects against verifier impersonation attacks. \[Electronic Authentication Guideline - Recommendations of the National Institute of Standards and Technology, NIST Special Publication 800-63-1, Dec 2011\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOACM4">
+        <source>high token and credential management level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOACM4@definition">
+        <source>Indicator of the high digital quality or reliability of the activities performed by the Credential Service Provider (CSP) subsequent to electronic authentication registration, identity proofing and issuance activities to manage and safeguard the integrity of an issued credential and it's binding to an identity. Very high confidence that an individual has maintained control over a token that has been entrusted to him or her and that that token has not been compromised. Characteristics include: Verifier can prove control of token through a secure protocol; credential management supports strong cryptographic authentication of all communication parties. \[Electronic Authentication Guideline - Recommendations of the National Institute of Standards and Technology, NIST Special Publication 800-63-1, Dec 2011\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAID">
+        <source>identity proofing level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAID@definition">
+        <source>Indicator of the quality or reliability in the process of ascertaining that an individual is who he or she claims to be.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAID1">
+        <source>low identity proofing level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAID1@definition">
+        <source>Indicator of low digital quality or reliability in the process of ascertaining that an individual is who he or she claims to be. Requires that a continuity of identity be maintained but does not require identity proofing. \[Based on Electronic Authentication Guideline - Recommendations of the National Institute of Standards and Technology, NIST Special Publication 800-63-1, Dec 2011\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAID2">
+        <source>basic identity proofing level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAID2@definition">
+        <source>Indicator of some digital quality or reliability in the process of ascertaining that that an individual is who he or she claims to be. Requires identity proofing via presentation of identifying material or information. \[Based on Electronic Authentication Guideline - Recommendations of the National Institute of Standards and Technology, NIST Special Publication 800-63-1, Dec 2011\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAID3">
+        <source>medium identity proofing level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAID3@definition">
+        <source>Indicator of high digital quality or reliability in the process of ascertaining that an individual is who he or she claims to be. Requires identity proofing procedures for verification of identifying materials and information. \[Based on Electronic Authentication Guideline - Recommendations of the National Institute of Standards and Technology, NIST Special Publication 800-63-1, Dec 2011\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAID4">
+        <source>high identity proofing level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOAID4@definition">
+        <source>Indicator of high digital quality or reliability in the process of ascertaining that an individual is who he or she claims to be. Requires identity proofing procedures for verification of identifying materials and information. \[Based on Electronic Authentication Guideline - Recommendations of the National Institute of Standards and Technology, NIST Special Publication 800-63-1, Dec 2011\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOANR">
+        <source>non-repudiation level of assurance value</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOANR@definition">
+        <source>Indicator of the digital quality or reliability in the process of establishing proof of delivery and proof of origin. \[Based on ISO 7498-2\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOANR1">
+        <source>low non-repudiation level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOANR1@definition">
+        <source>Indicator of low digital quality or reliability in the process of establishing proof of delivery and proof of origin. \[Based on ISO 7498-2\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOANR2">
+        <source>basic non-repudiation level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOANR2@definition">
+        <source>Indicator of basic digital quality or reliability in the process of establishing proof of delivery and proof of origin. \[Based on ISO 7498-2\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOANR3">
+        <source>medium non-repudiation level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOANR3@definition">
+        <source>Indicator of medium digital quality or reliability in the process of establishing proof of delivery and proof of origin. \[Based on ISO 7498-2\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOANR4">
+        <source>high non-repudiation level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOANR4@definition">
+        <source>Indicator of high digital quality or reliability in the process of establishing proof of delivery and proof of origin. \[Based on ISO 7498-2\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOARA">
+        <source>remote access level of assurance value</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOARA@definition">
+        <source>Indicator of the digital quality or reliability of the information exchange between network-connected devices where the information cannot be reliably protected end-to-end by a single organization's security controls. \[Based on NIST SP 800-63-2\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOARA1">
+        <source>low remote access level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOARA1@definition">
+        <source>Indicator of low digital quality or reliability of the information exchange between network-connected devices where the information cannot be reliably protected end-to-end by a single organization's security controls. \[Based on NIST SP 800-63-2\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOARA2">
+        <source>basic remote access level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOARA2@definition">
+        <source>Indicator of basic digital quality or reliability of the information exchange between network-connected devices where the information cannot be reliably protected end-to-end by a single organization's security controls. \[Based on NIST SP 800-63-2\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOARA3">
+        <source>medium remote access level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOARA3@definition">
+        <source>Indicator of medium digital quality or reliability of the information exchange between network-connected devices where the information cannot be reliably protected end-to-end by a single organization's security controls. \[Based on NIST SP 800-63-2\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOARA4">
+        <source>high remote access level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOARA4@definition">
+        <source>Indicator of high digital quality or reliability of the information exchange between network-connected devices where the information cannot be reliably protected end-to-end by a single organization's security controls. \[Based on NIST SP 800-63-2\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOATK">
+        <source>token level of assurance value</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOATK@definition">
+        <source>Indicator of the digital quality or reliability of single and multi-token authentication. \[Electronic Authentication Guideline - Recommendations of the National Institute of Standards and Technology, NIST Special Publication 800-63-1, Dec 2011\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOATK1">
+        <source>low token level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOATK1@definition">
+        <source>Indicator of the low digital quality or reliability of single and multi-token authentication. Permits the use of any of the token methods of Levels 2, 3, or 4. \[Electronic Authentication Guideline - Recommendations of the National Institute of Standards and Technology, NIST Special Publication 800-63-1, Dec 2011\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOATK2">
+        <source>basic token level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOATK2@definition">
+        <source>Indicator of the basic digital quality or reliability of single and multi-token authentication. Requires single factor authentication using memorized secret tokens, pre-registered knowledge tokens, look-up secret tokens, out of band tokens, or single factor one-time password devices. \[Electronic Authentication Guideline - Recommendations of the National Institute of Standards and Technology, NIST Special Publication 800-63-1, Dec 2011\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOATK3">
+        <source>medium token level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOATK3@definition">
+        <source>Indicator of the medium digital quality or reliability of single and multi-token authentication. Requires two authentication factors. Provides multi-factor remote network authentication. Permits multi-factor software cryptographic token. \[Electronic Authentication Guideline - Recommendations of the National Institute of Standards and Technology, NIST Special Publication 800-63-1, Dec 2011\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOATK4">
+        <source>high token level of assurance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LOATK4@definition">
+        <source>Indicator of the high digital quality or reliability of single and multi-token authentication. Requires token that is a hardware cryptographic module validated at validated at Federal Information Processing Standard (FIPS) 140-2 Level 2 or higher overall with at least FIPS 140-2 Level 3 physical security. Level 4 token requirements can be met by using the PIV authentication key of a FIPS 201 compliant Personal Identity Verification (PIV) Card. \[Electronic Authentication Guideline - Recommendations of the National Institute of Standards and Technology, NIST Special Publication 800-63-1, Dec 2011\]</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRSTMECOBV">
+        <source>none supplied 6</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRSTMECOBV@definition">
+        <source>Values for security trust mechanism metadata observation made about a security architecture system component that supports enforcement of security policies.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SeverityObservation">
+        <source>SeverityObservation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SeverityObservation@definition">
+        <source>Potential values for observations of severity.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="H">
+        <source>High</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="H@definition">
+        <source>Indicates the condition may be life-threatening or has the potential to cause permanent injury.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="L">
+        <source>Low</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="L@definition">
+        <source>Indicates the condition may result in some adverse consequences but is unlikely to substantially affect the situation of the subject.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="M">
+        <source>Moderate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="M@definition">
+        <source>Indicates the condition may result in noticable adverse adverse consequences but is unlikely to be life-threatening or cause permanent injury.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SubjectBodyPosition">
+        <source>_SubjectBodyPosition</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SubjectBodyPosition@definition">
+        <source>Contains codes for defining the observed, physical position of a subject, such as during an observation, assessment, collection of a specimen, etc. ECG waveforms and vital signs, such as blood pressure, are two examples where a general, observed position typically needs to be noted.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LLD">
+        <source>left lateral decubitus</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="LLD@definition">
+        <source>Lying on the left side.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PRN">
+        <source>prone</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="PRN@definition">
+        <source>Lying with the front or ventral surface downward; lying face down.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RLD">
+        <source>right lateral decubitus</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RLD@definition">
+        <source>Lying on the right side.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SFWL">
+        <source>Semi-Fowler's</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SFWL@definition">
+        <source>A semi-sitting position in bed with the head of the bed elevated approximately 45 degrees.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SIT">
+        <source>sitting</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SIT@definition">
+        <source>Resting the body on the buttocks, typically with upper torso erect or semi erect.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="STN">
+        <source>standing</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="STN@definition">
+        <source>To be stationary, upright, vertical, on one's legs.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SUP">
+        <source>supine</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RTRD">
+        <source>reverse trendelenburg</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RTRD@definition">
+        <source>Lying on the back, on an inclined plane, typically about 30-45 degrees with head raised and feet lowered.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRD">
+        <source>trendelenburg</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="TRD@definition">
+        <source>Lying on the back, on an inclined plane, typically about 30-45 degrees, with head lowered and feet raised.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_VerificationOutcomeValue">
+        <source>verification outcome</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_VerificationOutcomeValue@definition">
+        <source>Values for observations of verification act results
+
+**Examples:** Verified, not verified, verified with warning.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ACT">
+        <source>active coverage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ACT@definition">
+        <source>**Definition:** Coverage is in effect for healthcare service(s) and/or product(s).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ACTPEND">
+        <source>active - pending investigation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ACTPEND@definition">
+        <source>**Definition:** Coverage is in effect for healthcare service(s) and/or product(s) - Pending Investigation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ELG">
+        <source>eligible</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ELG@definition">
+        <source>**Definition:** Coverage is in effect for healthcare service(s) and/or product(s).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="INACT">
+        <source>inactive</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="INACT@definition">
+        <source>**Definition:** Coverage is not in effect for healthcare service(s) and/or product(s).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="INPNDINV">
+        <source>inactive - pending investigation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="INPNDINV@definition">
+        <source>**Definition:** Coverage is not in effect for healthcare service(s) and/or product(s) - Pending Investigation.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="INPNDUPD">
+        <source>inactive - pending eligibility update</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="INPNDUPD@definition">
+        <source>**Definition:** Coverage is not in effect for healthcare service(s) and/or product(s) - Pending Eligibility Update.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="NELG">
+        <source>not eligible</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="NELG@definition">
+        <source>**Definition:** Coverage is not in effect for healthcare service(s) and/or product(s). May optionally include reasons for the ineligibility.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_WorkSchedule">
+        <source>_WorkSchedule</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_WorkSchedule@definition">
+        <source>Concepts that describe an individual's typical arrangement of working hours for an occupation.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DS">
+        <source>daytime shift</source>
+        <target>Journée (par exemple : entre 6h et 18h)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="DS@definition">
+        <source>A person who is scheduled for work during daytime hours (for example between 6am and 6pm) on a regular basis.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="EMS">
+        <source>early morning shift</source>
+        <target>Matin (entre 2h et 14h)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="EMS@definition">
+        <source>Consistent Early morning schedule of 13 hours or less per shift (between 2 am and 2 pm)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ES">
+        <source>evening shift</source>
+        <target>Après-midi (entre 14h et minuit)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="ES@definition">
+        <source>A person who is scheduled for work during evening hours (for example between 2pm and midnight) on a regular basis.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="NS">
+        <source>night shift</source>
+        <target>Nuit (entre 21h et 8h)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="NS@definition">
+        <source>Scheduled for work during nighttime hours (for example between 9pm and 8am) on a regular basis.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RSWN">
+        <source>rotating shift with nights</source>
+        <target>Variable (journées, soirées, avec parfois des nuits)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RSWN@definition">
+        <source>Scheduled for work times that change periodically between days, and/or evenings, and includes some night shifts.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RSWON">
+        <source>rotating shift without nights</source>
+        <target>Variable (journées, soirées, sans nuits ni soirées)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="RSWON@definition">
+        <source>Scheduled for work days/times that change periodically between days, but does not include night or evening work.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SS">
+        <source>split shift</source>
+        <target>Journée avec coupure de 2 à 4 heures.</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="SS@definition">
+        <source>Shift consisting of two distinct work periods each day that are separated by a break of a few hours (for example 2 to 4 hours)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="VLS">
+        <source>very long shift</source>
+        <target>Horaires de longue durée (17h ou plus)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="VLS@definition">
+        <source>Shifts of 17 or more hours.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="VS">
+        <source>variable shift</source>
+        <target>Irrégulier avec information à court terme</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="VS@definition">
+        <source>Irregular, unpredictable hours scheduled on a short notice (for example, less than 2 day notice): inconsistent schedule, on-call, as needed, as available.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_AnnotationValue">
+        <source>AnnotationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ECGAnnotationValue">
+        <source>ECGAnnotationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CommonClinicalObservationValue">
+        <source>common clinical observation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CommonClinicalObservationValue@definition">
+        <source>**Description:**Used in a patient care message to value simple clinical (non-lab) observations.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CommonClinicalObservationAssertionValue">
+        <source>CommonClinicalObservationAssertionValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CommonClinicalObservationAssertionValue@definition">
+        <source>**Definition:** The non-laboratory, non-DI (diagnostic imaging) coded observation if no value is also required to convey the full meaning of the observation. This may be a single concept code or a complex expression.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CommonClinicalObservationResultValue">
+        <source>CommonClinicalObservationResultValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CommonClinicalObservationResultValue@definition">
+        <source>**Definition:** The non-laboratory, non-diagnostic imaging coded result of the coded observable or &quot;question&quot; represented by the paired concept from the the NonLabDICodedObservationType domain.
+
+\]
+
+**Examples:**An APGAR result, a functional assessment, etc. The value must not require a specific unit of measure.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CoverageChemicalDependencyValue">
+        <source>CoverageChemicalDependencyValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CoverageChemicalDependencyValue@definition">
+        <source>**Definition:** The category of addiction used for coverage purposes that may refer to a substance, the consumption of which may result in physical or emotional harm.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_IndividualCaseSafetyReportValueDomains">
+        <source>Individual Case Safety Report Value Domains</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_IndividualCaseSafetyReportValueDomains@definition">
+        <source>This domain is established as a parent to a variety of value domains being defined to support the communication of Individual Case Safety Reports to regulatory bodies. Arguably, this aggregation is not taxonomically pure, but the grouping will facilitate the management of these domains.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CaseSeriousnessCriteria">
+        <source>CaseSeriousnessCriteria</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_CaseSeriousnessCriteria@definition">
+        <source>A code that provides information on the overall effect or outcome of the adverse reaction/adverse event reported in the ICSR. Note the criterion applies to the case as a whole and not to an individual reaction.
+
+Example concepts are: death, disability, hospitalization, congenital anomaly/ birth defect, and other medically important condition.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_DeviceManufacturerEvaluationInterpretation">
+        <source>DeviceManufacturerEvaluationInterpretation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_DeviceManufacturerEvaluationInterpretation@definition">
+        <source>A code set that includes codes that are used to characterize the outcome of the device evaluation process. The code defines the manufacturer's conclusions following the evaluation.
+
+Examples include: inadequate alarms, device maintenance contributed to event, device failed just prior to use, user error caused event</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_DeviceManufacturerEvaluationMethod">
+        <source>DeviceManufacturerEvaluationMethod</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_DeviceManufacturerEvaluationMethod@definition">
+        <source>Code assigned to indicate a relevant fact within the context of the evaluation of a reported product. There are a number of concept types including the status of the evaluation, the type of evaluation findings, and the type of activity carried out as part of the evaluation process.
+
+Examples include: Actual device involved in incident was evaluated, electrical tests performed, visual examination.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_DeviceManufacturerEvaluationResult">
+        <source>DeviceManufacturerEvaluationResult</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_DeviceManufacturerEvaluationResult@definition">
+        <source>Code assigned to indicate an outcome of the manufacturer's investigation of a product for which a defect has been reported.
+
+Examples include:.component/subassembly failure: air cleaner, computer-, imaging system-, microprocessor-controlled device problem: cache memory, design -- not fail safe.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_PertinentReactionRelatedness">
+        <source>Pertinent Reaction Relatedness</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_PertinentReactionRelatedness@definition">
+        <source>A code to capture the reporter's assessment of the extent to which the reaction is related to the suspect product reported in the ICSR.
+
+Example concepts include: related, not related, possibly related and unlikely related.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ProductCharacterization">
+        <source>Product Characterization</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ProductCharacterization@definition">
+        <source>A code that characterizes the role that the primary reporter felt that the suspect intervention -- either a substance administration or a device related procedure - played in the incident being reported. This code will capture the primary reporter's assessment of the role that the suspect product played in the incident reported in the ICSR.
+
+Examples include: Suspect, Concomitant, Interacting, Re-challenge.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ReactionActionTaken">
+        <source>ReactionActionTaken</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_ReactionActionTaken@definition">
+        <source>Code used to indicate the action taken by practitioner in response to the problem (whether drug or device related) that is reported in the ICSR.
+
+Examples include: failing device replaced, medication stopped, medication dose adjusted.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SubjectReaction">
+        <source>Subject Reaction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SubjectReaction@definition">
+        <source>A code to capture the kind of reaction that was suffered by the investigated subject, and that is being reported in the ICSR. At this point, SNOMED or MedDRA have been suggested as code systems to be used for providing this information.
+
+Example concepts include hives, swelling, rash, anaphylactic shock.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SubjectReactionEmphasis">
+        <source>SubjectReactionEmphasis</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SubjectReactionEmphasis@definition">
+        <source>Code that captures the emphasis that the reporter placed on this reaction.
+
+Examples include: highlighted by the reporter, NOT serious, Not highlighted by the reporter, NOT serious, Highlighted by the reporter, SERIOUS, Not highlighted by the reporter, SERIOUS.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SubjectReactionOutcome">
+        <source>SubjectReactionOutcome</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SubjectReactionOutcome@definition">
+        <source>Code that captures the type of outcome from an individual outcome of a reaction to the suspect product reported in the ICSR.
+
+Examples include: Recovered/resolved. Recovering/resolving, Not recovered/not resolved, Recovered/resolved with sequelae, Fatal.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_InjuryObservationValue">
+        <source>InjuryObservationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_InjuryObservationValue@definition">
+        <source>Values for observations of injuries.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_IntoleranceValue">
+        <source>IntoleranceValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_IntoleranceValue@definition">
+        <source>Codes identifying pariticular groupings of allergens and other agents which cause allergies and intolerances. E.g. the drug, allergen group, food or environmental agent which triggers the intolerance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_IssueTriggerObservationValue">
+        <source>IssueTriggerObservationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_IssueTriggerObservationValue@definition">
+        <source>The combined domain for different types of coded observation issue triggers, such as diagnoses, allergies, etc.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_OtherIndicationValue">
+        <source>OtherIndicationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_OtherIndicationValue@definition">
+        <source>Indicates an observed reason for a medical action other than an indication or symptom. E.g. Need for a contrast agent prior to a diagnostic image, need for anesthesia prior to surgery, etc.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_IndicationValue">
+        <source>IndicationValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_IndicationValue@definition">
+        <source>Indicates the specific observation result which is the reason for the action (prescription, lab test, etc.). E.g. Headache, Ear infection, planned diagnostic image (requiring contrast agent), etc.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_DiagnosisValue">
+        <source>DiagnosisValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_DiagnosisValue@definition">
+        <source>Diagnosis Value</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SymptomValue">
+        <source>SymptomValue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ObservationValue" resname="_SymptomValue@definition">
+        <source>Indicates an observed abnormality in the patientaTMs condition, but does not assert causation. E.g. Runny nose, swelling, flaky skin, etc.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,117 @@
+{
+  "id" : "CodeSystem-v3-substanceAdminSubstitution",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "fr-FR",
+      "entries" : [
+        {
+          "id" : "_ActSubstanceAdminSubstitutionCode",
+          "source" : "ActSubstanceAdminSubstitutionCode",
+          "target" : null
+        },
+        {
+          "id" : "_ActSubstanceAdminSubstitutionCode@definition",
+          "source" : "Substitution occurred or is permitted with another product that may potentially have different ingredients, but having the same biological and therapeutic effects.",
+          "target" : null
+        },
+        {
+          "id" : "E",
+          "source" : "equivalent",
+          "target" : null
+        },
+        {
+          "id" : "E@definition",
+          "source" : "Substitution occurred or is permitted with another bioequivalent and therapeutically equivalent product.",
+          "target" : null
+        },
+        {
+          "id" : "EC",
+          "source" : "equivalent composition",
+          "target" : null
+        },
+        {
+          "id" : "EC@definition",
+          "source" : "Substitution occurred or is permitted with another product that is a:\r\n\r\n *  pharmaceutical alternative containing the same active ingredient but is formulated with different salt, ester\r\n *  pharmaceutical equivalent that has the same active ingredient, strength, dosage form and route of administration\r\n\r\n*Examples:* \r\n\r\n *  *Pharmaceutical alternative:* Erythromycin Ethylsuccinate for Erythromycin Stearate\r\n *  *Pharmaceutical equivalent:* Lisonpril for Zestril",
+          "target" : null
+        },
+        {
+          "id" : "BC",
+          "source" : "brand composition",
+          "target" : null
+        },
+        {
+          "id" : "BC@definition",
+          "source" : "Substitution occurred or is permitted between equivalent Brands but not Generics\r\n\r\n*Examples:* \r\n\r\n *  Zestril for Prinivil\r\n *  Coumadin for Jantoven",
+          "target" : null
+        },
+        {
+          "id" : "G",
+          "source" : "generic composition",
+          "target" : "Substitution autorisée par un produit générique"
+        },
+        {
+          "id" : "G@definition",
+          "original" : "Substitution occurred or is permitted between equivalent Generics but not Brands",
+          "source" : "Substitution occurred or is permitted between equivalent Generics but not Brands\r\n\r\n*Examples:* \r\n\r\n *  Lisnopril (Lupin Corp) for Lisnopril (Wockhardt Corp)",
+          "target" : "!!"
+        },
+        {
+          "id" : "TE",
+          "source" : "therapeutic alternative",
+          "target" : null
+        },
+        {
+          "id" : "TE@definition",
+          "source" : "Substitution occurred or is permitted with another product having the same therapeutic objective and safety profile.\r\n\r\n*Examples:* \r\n\r\n *  ranitidine for Tagamet",
+          "target" : null
+        },
+        {
+          "id" : "TB",
+          "source" : "therapeutic brand",
+          "target" : null
+        },
+        {
+          "id" : "TB@definition",
+          "source" : "Substitution occurred or is permitted between therapeutically equivalent Brands but not Generics\r\n\r\n>\r\n\r\n*Examples:* \r\n\r\n *  Zantac for Tagamet",
+          "target" : null
+        },
+        {
+          "id" : "TG",
+          "source" : "therapeutic generic",
+          "target" : null
+        },
+        {
+          "id" : "TG@definition",
+          "source" : "Substitution occurred or is permitted between therapeutically equivalent Generics but not Brands\r\n\r\n>\r\n\r\n*Examples:* \r\n\r\n *  Ranitidine for cimetidine",
+          "target" : null
+        },
+        {
+          "id" : "F",
+          "source" : "formulary",
+          "target" : null
+        },
+        {
+          "id" : "F@definition",
+          "source" : "This substitution was performed or is permitted based on formulary guidelines.",
+          "target" : null
+        },
+        {
+          "id" : "N",
+          "source" : "none",
+          "target" : "Aucune substitution permise"
+        },
+        {
+          "id" : "N@definition",
+          "source" : "No substitution occurred or is permitted.",
+          "target" : ""
+        },
+        {
+          "id" : "!!G@definition",
+          "source" : "Substitution occurred or is permitted between equivalent Generics but not Brands",
+          "target" : ""
+        }
+      ]
+    }
+  ]
+}

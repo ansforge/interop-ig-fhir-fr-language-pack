@@ -1,0 +1,101 @@
+
+# null
+#: normal
+msgid "normal"
+msgstr ""
+
+# null
+#: normal@definition
+msgid "Encompasses the expected states of an Act, but excludes \"nullified\" and \"obsolete\" which represent unusual terminal states for the life-cycle."
+msgstr ""
+
+# null
+#: aborted
+msgid "aborted"
+msgstr "Arrêté (après son lancement)"
+
+# null
+#: aborted@definition
+msgid "The Act has been terminated prior to the originally intended completion."
+msgstr ""
+
+# null
+#: active
+msgid "active"
+msgstr "Actif (en cours ou à venir)"
+
+# null
+#: active@definition
+msgid "The Act can be performed or is being performed"
+msgstr ""
+
+# null
+#: cancelled
+msgid "cancelled"
+msgstr "Annulé (avant son lancement)"
+
+# null
+#: cancelled@definition
+msgid "The Act has been abandoned before activation."
+msgstr ""
+
+# null
+#: completed
+msgid "completed"
+msgstr "Terminé"
+
+# null
+#: completed@definition
+msgid "An Act that has terminated normally after all of its constituents have been performed."
+msgstr ""
+
+# null
+#: held
+msgid "held"
+msgstr "En attente (avant son lancement)"
+
+# null
+#: held@definition
+msgid "An Act that is still in the preparatory stages has been put aside. No action can occur until the Act is released."
+msgstr ""
+
+# null
+#: new
+msgid "new"
+msgstr "En préparation"
+
+# null
+#: new@definition
+msgid "An Act that is in the preparatory stages and may not yet be acted upon"
+msgstr ""
+
+# null
+#: suspended
+msgid "suspended"
+msgstr "Suspendu (au cours de sa réalisation)"
+
+# null
+#: suspended@definition
+msgid "An Act that has been activated (actions could or have been performed against it), but has been temporarily disabled. No further action should be taken against it until it is released"
+msgstr ""
+
+# null
+#: nullified
+msgid "nullified"
+msgstr ""
+
+# null
+#: nullified@definition
+msgid "This Act instance was created in error and has been 'removed' and is treated as though it never existed. A record is retained for audit purposes only."
+msgstr ""
+
+# null
+#: obsolete
+msgid "obsolete"
+msgstr ""
+
+# null
+#: obsolete@definition
+msgid "This Act instance has been replaced by a new instance."
+msgstr ""
+

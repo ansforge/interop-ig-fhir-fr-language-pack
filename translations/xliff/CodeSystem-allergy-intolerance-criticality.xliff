@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="fr-FR" id="CodeSystem-allergy-intolerance-criticality" original="Resource CodeSystem-allergy-intolerance-criticality" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-allergy-intolerance-criticality" resname="low">
+        <source>Low Risk</source>
+        <target>Bas</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-intolerance-criticality" resname="low@definition">
+        <source>Worst case result of a future exposure is not assessed to be life-threatening or having high potential for organ system failure.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-intolerance-criticality" resname="high">
+        <source>High Risk</source>
+        <target>Elevé</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-intolerance-criticality" resname="high@definition">
+        <source>Worst case result of a future exposure is assessed to be life-threatening or having high potential for organ system failure.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-intolerance-criticality" resname="unable-to-assess">
+        <source>Unable to Assess Risk</source>
+        <target>Impossible à évaluer</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-intolerance-criticality" resname="unable-to-assess@definition">
+        <source>Unable to assess the worst case result of a future exposure.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

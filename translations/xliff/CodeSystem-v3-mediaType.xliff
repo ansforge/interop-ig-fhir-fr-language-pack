@@ -1,0 +1,296 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="fr-FR" id="CodeSystem-v3-mediaType" original="Resource CodeSystem-v3-mediaType" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="application">
+        <source>ApplicationMediaType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="application@definition">
+        <source>Application specific media type.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="application/dicom">
+        <source>DICOM</source>
+        <target>DICOM</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="application/dicom@definition">
+        <source>Digital Imaging and Communications in Medicine (DICOM) MIME type defined in RFC3240 \[http://ietf.org/rfc/rfc3240.txt\].</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="application/msword">
+        <source>MSWORD</source>
+        <target>MSWORD</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="application/msword@definition">
+        <source>This format is very prone to compatibility problems. If sharing of edit-able text is required, text/plain, text/html or text/rtf should be used instead.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="application/pdf">
+        <source>PDF</source>
+        <target>PDF</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="application/pdf@definition">
+        <source>The Portable Document Format is recommended for written text that is completely laid out and read-only. PDF is a platform independent, widely deployed, and open specification with freely available creation and rendering tools.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="audio">
+        <source>AudioMediaType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="audio@definition">
+        <source>Audio media type.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="audio/basic">
+        <source>Basic Audio</source>
+        <target>Basic Audio</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="audio/basic@definition">
+        <source>This is a format for single channel audio, encoded using 8bit ISDN mu-law \[PCM\] at a sample rate of 8000 Hz. This format is standardized by: CCITT, Fascicle III.4 -Recommendation G.711. Pulse Code Modulation (PCM) of Voice Frequencies. Geneva, 1972.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="audio/k32adpcm">
+        <source>K32ADPCM Audio</source>
+        <target>K32ADPCM Audio</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="audio/k32adpcm@definition">
+        <source>ADPCM allows compressing audio data. It is defined in the Internet specification RFC 2421 \[ftp://ftp.isi.edu/in-notes/rfc2421.txt\]. Its implementation base is unclear.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="audio/mpeg">
+        <source>MPEG audio layer 3</source>
+        <target>MPEG audio layer 3 MP3 Audio</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="audio/mpeg@definition">
+        <source>MPEG-1 Audio layer-3 is an audio compression algorithm and file format defined in ISO 11172-3 and ISO 13818-3. MP3 has an adjustable sampling frequency for highly compressed telephone to CD quality audio.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="image">
+        <source>ImageMediaType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="image@definition">
+        <source>Image media type.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="image/g3fax">
+        <source>G3Fax Image</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="image/g3fax@definition">
+        <source>This is recommended only for fax applications.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="image/gif">
+        <source>GIF Image</source>
+        <target>GIF Image</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="image/gif@definition">
+        <source>GIF is a popular format that is universally well supported. However GIF is patent encumbered and should therefore be used with caution.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="image/jpeg">
+        <source>JPEG Image</source>
+        <target>JPEG Image</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="image/jpeg@definition">
+        <source>This format is required for high compression of high color photographs. It is a &quot;lossy&quot; compression, but the difference to lossless compression is almost unnoticeable to the human vision.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="image/png">
+        <source>PNG Image</source>
+        <target>PNG Image</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="image/png@definition">
+        <source>Portable Network Graphics (PNG) \[http://www.cdrom.com/pub/png\] is a widely supported lossless image compression standard with open source code available.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="image/tiff">
+        <source>TIFF Image</source>
+        <target>TIFF Image</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="image/tiff@definition">
+        <source>Although TIFF (Tag Image File Format) is an international standard it has many interoperability problems in practice. Too many different versions that are not handled by all software alike.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="model">
+        <source>ModelMediaType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="model@definition">
+        <source>Model media type.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="model/vrml">
+        <source>VRML Model</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="model/vrml@definition">
+        <source>This is an openly standardized format for 3D models that can be useful for virtual reality applications such as anatomy or biochemical research (visualization of the steric structure of macromolecules)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="multipart">
+        <source>MultipartMediaType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="multipart@definition">
+        <source>Multipart Media Type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="multipart/x-hl7-cda-level-one">
+        <source>CDA Level 1 Multipart</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="multipart/x-hl7-cda-level-one@definition">
+        <source>The HL7 clinical document Architecture, Level 1 MIME package.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="multipart/x-hl7-cda-level1">
+        <source>CDA Level 1 Multipart</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="multipart/x-hl7-cda-level1@definition">
+        <source>The HL7 clinical document Architecture, Level 1 MIME package.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text">
+        <source>TextMediaType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text@definition">
+        <source>For any text</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text/html">
+        <source>HTML Text</source>
+        <target>HTML Text</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text/html@definition">
+        <source>For marked-up text according to the Hypertext Mark-up Language. HTML markup is sufficient for typographically marking-up most written-text documents. HTML is platform independent and widely deployed.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text/plain">
+        <source>Plain Text</source>
+        <target>Plain Text</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text/plain@definition">
+        <source>**Description:**For any plain text. This is the default and is used for a character string (ST) data type.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text/rtf">
+        <source>RTF Text</source>
+        <target>RTF Text</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text/rtf@definition">
+        <source>The Rich Text Format is widely used to share word-processor documents. However, RTF does have compatibility problems, as it is quite dependent on the word processor. May be useful if word processor edit-able text should be shared.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text/sgml">
+        <source>SGML Text</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text/sgml@definition">
+        <source>For structured character based data. There is a risk that general SGML/XML is too powerful to allow a sharing of general SGML/XML documents between different applications.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text/x-hl7-ft">
+        <source>HL7 Text</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text/x-hl7-ft@definition">
+        <source>For compatibility, this represents the HL7 v2.x FT data type. Its use is recommended only for backward compatibility with HL7 v2.x systems.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text/x-hl7-text+xml">
+        <source>HL7 Structured Narrative</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text/x-hl7-text+xml@definition">
+        <source>**Description:**  The content described by the CDA Narrative Block (not just used by CDA).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text/xml">
+        <source>XML Text</source>
+        <target>XML Text</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="text/xml@definition">
+        <source>For structured character based data. There is a risk that general SGML/XML is too powerful to allow a sharing of general SGML/XML documents between different applications.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="video">
+        <source>VideoMediaType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="video@definition">
+        <source>Video media type.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="video/mp4">
+        <source>MP4 Video</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="video/mp4@definition">
+        <source>Video format by the Motion Picture Experts Group under ISO/IEC 14496</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="video/mpeg">
+        <source>MPEG Video</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="video/mpeg@definition">
+        <source>MPEG is an international standard, widely deployed, highly efficient for high color video; open source code exists; highly interoperable.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="video/quicktime">
+        <source>QuickTime Video</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="video/quicktime@definition">
+        <source>Proprietary video format from Apple, Inc.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="video/webm">
+        <source>WebM Video</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="video/webm@definition">
+        <source>A royalty-free audiovisual media file format.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="video/x-avi">
+        <source>X-AVI Video</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="video/x-avi@definition">
+        <source>The AVI file format is just a wrapper for many different codecs; it is a source of many interoperability problems.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="video/x-ms-wmv">
+        <source>Windows Media Video</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="video/x-ms-wmv@definition">
+        <source>Proprietary video format from Microsoft, Inc.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="!!application/dicom@definition">
+        <source>Digital Imaging and Communications in Medicine (DICOM) MIME type defined in RFC3240 \\[http://ietf.org/rfc/rfc3240.txt\\].</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="!!audio/basic@definition">
+        <source>This is a format for single channel audio, encoded using 8bit ISDN mu-law \\[PCM\\] at a sample rate of 8000 Hz. This format is standardized by: CCITT, Fascicle III.4 -Recommendation G.711. Pulse Code Modulation (PCM) of Voice Frequencies. Geneva, 1972.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="!!audio/k32adpcm@definition">
+        <source>ADPCM allows compressing audio data. It is defined in the Internet specification RFC 2421 \\[ftp://ftp.isi.edu/in-notes/rfc2421.txt\\]. Its implementation base is unclear.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-mediaType" resname="!!image/png@definition">
+        <source>Portable Network Graphics (PNG) \\[http://www.cdrom.com/pub/png\\] is a widely supported lossless image compression standard with open source code available.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

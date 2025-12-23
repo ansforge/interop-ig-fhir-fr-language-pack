@@ -1,0 +1,577 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="fr-FR" id="CodeSystem-v3-ParticipationType" original="Resource CodeSystem-v3-ParticipationType" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="PART">
+        <source>Participation</source>
+        <target>Participant</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="PART@definition">
+        <source>Indicates that the target of the participation is involved in some manner in the act, but does not qualify how.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="_ParticipationAncillary">
+        <source>ParticipationAncillary</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="_ParticipationAncillary@definition">
+        <source>Participations related, but not primary to an act. The Referring, Admitting, and Discharging practitioners must be the same person as those authoring the ControlAct event for their respective trigger events.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="ADM">
+        <source>admitter</source>
+        <target>Responsable de l'admission</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="ADM@definition">
+        <source>The practitioner who is responsible for admitting a patient to a patient encounter.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="ATND">
+        <source>attender</source>
+        <target>Superviseur / Responsable des soins</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="ATND@definition">
+        <source>The practitioner that has responsibility for overseeing a patient's care during a patient encounter.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="CALLBCK">
+        <source>callback contact</source>
+        <target>Contact à rappeler</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="CALLBCK@definition">
+        <source>A person or organization who should be contacted for follow-up questions about the act in place of the author.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="CON">
+        <source>consultant</source>
+        <target>Consultant</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="CON@definition">
+        <source>An advisor participating in the service by performing evaluations and making recommendations.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="DIS">
+        <source>discharger</source>
+        <target>Responsable de la sortie</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="DIS@definition">
+        <source>The practitioner who is responsible for the discharge of a patient from a patient encounter.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="ESC">
+        <source>escort</source>
+        <target>Accompagnateur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="ESC@definition">
+        <source>Only with Transportation services. A person who escorts the patient.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="REF">
+        <source>referrer</source>
+        <target>Référent / Prescripteur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="REF@definition">
+        <source>A person having referred the subject of the service to the performer (referring physician). Typically, a referring physician will receive a report.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="_ParticipationInformationGenerator">
+        <source>ParticipationInformationGenerator</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="_ParticipationInformationGenerator@definition">
+        <source>Parties that may or should contribute or have contributed information to the Act. Such information includes information leading to the decision to perform the Act and how to perform the Act (e.g., consultant), information that the Act itself seeks to reveal (e.g., informant of clinical history), or information about what Act was performed (e.g., informant witness).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="AUT">
+        <source>author (originator)</source>
+        <target>Auteur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="AUT@definition">
+        <source>**Definition:** A party that originates the Act and therefore has responsibility for the information given in the Act and ownership of this Act.
+
+**Example:** the report writer, the person writing the act definition, the guideline author, the placer of an order, the EKG cart (device) creating a report etc. Every Act should have an author. Authorship is regardless of mood always actual authorship.
+
+Examples of such policies might include:
+
+ *  The author and anyone they explicitly delegate may update the report;
+ *  All administrators within the same clinic may cancel and reschedule appointments created by other administrators within that clinic;
+
+A party that is neither an author nor a party who is extended authorship maintenance rights by policy, may only amend, reverse, override, replace, or follow up in other ways on this Act, whereby the Act remains intact and is linked to another Act authored by that other party.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="INF">
+        <source>informant</source>
+        <target>Informateur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="INF@definition">
+        <source>A source of reported information (e.g., a next of kin who answers questions about the patient's history). For history questions, the patient is logically an informant, yet the informant of history questions is implicitly the subject.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="TRANS">
+        <source>Transcriber</source>
+        <target>Transcripteur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="TRANS@definition">
+        <source>An entity entering the data into the originating system. The data entry entity is collected optionally for internal quality control purposes. This includes the transcriptionist for dictated text transcribed into electronic form.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="ENT">
+        <source>data entry person</source>
+        <target>Transcripteur du contenu à partir d'une autre forme</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="ENT@definition">
+        <source>A person entering the data into the originating system. The data entry person is collected optionally for internal quality control purposes. This includes the transcriptionist for dictated text.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="WIT">
+        <source>witness</source>
+        <target>Témoin</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="WIT@definition">
+        <source>Only with service events. A person witnessing the action happening without doing anything. A witness is not necessarily aware, much less approves of anything stated in the service event. Example for a witness is students watching an operation or an advanced directive witness.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="NOTARY">
+        <source>notary</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="NOTARY@definition">
+        <source>The entity (person or organization) who legally attests that the information present in the Act is a true replica of an original.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="CST">
+        <source>custodian</source>
+        <target>Responsable de l'information</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="CST@definition">
+        <source>An entity (person, organization or device) that is in charge of maintaining the information of this act (e.g., who maintains the report or the master service catalog item, etc.).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="DIR">
+        <source>direct target</source>
+        <target>Participant direct</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="DIR@definition">
+        <source>Target participant that is substantially present in the act and which is directly involved in the action (includes consumed material, devices, etc.).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="ALY">
+        <source>analyte</source>
+        <target>Cible d'une observation (substance ou composant le plus spécifique)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="ALY@definition">
+        <source>The target of an Observation action. Links an observation to a Role whose player is the substance or most specific component entity (material, micro-organism, etc.) being measured within the subject.
+
+*Examples:* A &quot;plasma porcelain substance concentration&quot; has analyte a Role with player substance Entity &quot;porcelain&quot;.
+
+*UsageNotes:* The Role that this participation connects to may be any Role whose player is that substance measured. Very often, the scoper may indicate the system in which the component is being measured. E.g., for &quot;plasma porcelain&quot; the scoper could be &quot;Plasma&quot;.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="BBY">
+        <source>baby</source>
+        <target>Nouveau né</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="BBY@definition">
+        <source>In an obstetric service, the baby.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="CAT">
+        <source>catalyst</source>
+        <target>Catalyseur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="CAT@definition">
+        <source>The catalyst of a chemical reaction, such as an enzyme or a platinum surface. In biochemical reactions, connects the enzyme with the molecular interaction</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="CSM">
+        <source>consumable</source>
+        <target>Consommable</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="CSM@definition">
+        <source>Participant material that is taken up, diminished, altered, or disappears in the act.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="TPA">
+        <source>therapeutic agent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="TPA@definition">
+        <source>Something incorporated in the subject of a therapy service to achieve a physiologic effect (e.g., heal, relieve, provoke a condition, etc.) on the subject. In an administration service the therapeutic agent is a consumable, in a preparation or dispense service, it is a product. Thus, consumable or product must be specified in accordance with the kind of service.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="DEV">
+        <source>device</source>
+        <target>Dispositif automatique impliqué dans la production des résultats</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="DEV@definition">
+        <source>Participant used in performing the act without being substantially affected by the act (i.e. durable or inert with respect to that particular service).
+
+*Examples:* monitoring equipment, tools, but also access/drainage lines, prostheses, pace maker, etc.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="NRD">
+        <source>non-reuseable device</source>
+        <target>Dispositif non réutilisable</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="NRD@definition">
+        <source>A device that changes ownership due to the service, e.g., a pacemaker, a prosthesis, an insulin injection equipment (pen), etc. Such material may need to be restocked after he service.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="RDV">
+        <source>reusable device</source>
+        <target>Dispositif réutilisable</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="RDV@definition">
+        <source>A device that does not change ownership due to the service, i.e., a surgical instrument or tool or an endoscope. The distinction between reuseable and non-reuseable must be made in order to know whether material must be re-stocked.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="DON">
+        <source>donor</source>
+        <target>Donneur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="DON@definition">
+        <source>In some organ transplantation services and rarely in transfusion services a donor will be a target participant in the service. However, in most cases transplantation is decomposed in three services: explantation, transport, and implantation. The identity of the donor (recipient) is often irrelevant for the explantation (implantation) service.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="EXPAGNT">
+        <source>ExposureAgent</source>
+        <target>Agent de l'exposition</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="EXPAGNT@definition">
+        <source>**Description:** The entity playing the associated role is the physical (including energy), chemical or biological substance that is participating in the exposure. For example in communicable diseases, the associated playing entity is the disease causing pathogen.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="EXPART">
+        <source>ExposureParticipation</source>
+        <target>Partie de l'exposition</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="EXPART@definition">
+        <source>**Description:**Direct participation in an exposure act where it is unknown that the participant is the source or subject of the exposure. If the participant is known to be the contact of an exposure then the SBJ participation type should be used. If the participant is known to be the source then the EXSRC participation type should be used.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="EXPTRGT">
+        <source>ExposureTarget</source>
+        <target>Cible de l'exposition</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="EXPTRGT@definition">
+        <source>**Description:** The entity playing the associated role is the target (contact) of exposure.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="EXSRC">
+        <source>ExposureSource</source>
+        <target>Source de l'exposition</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="EXSRC@definition">
+        <source>**Description:**The entity playing the associated role is the source of exposure.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="PRD">
+        <source>product</source>
+        <target>Produit</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="PRD@definition">
+        <source>Participant material that is brought forth (produced) in the act (e.g., specimen in a specimen collection, access or drainage in a placement service, medication package in a dispense service). It does not matter whether the material produced had existence prior to the service, or whether it is created in the service (e.g., in supply services the product is taken from a stock).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="SBJ">
+        <source>subject</source>
+        <target>Sujet</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="SBJ@definition">
+        <source>The principle target on which the action happens.
+
+*Examples:* The patient in physical examination, a specimen in a lab observation. May also be a patient's family member (teaching) or a device or room (cleaning, disinfecting, housekeeping).
+
+*UsageNotes:* Not all direct targets are subjects. Consumables and devices used as tools for an act are not subjects. However, a device may be a subject of a maintenance action.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="SPC">
+        <source>specimen</source>
+        <target>Echantillon</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="SPC@definition">
+        <source>The subject of non-clinical (e.g. laboratory) observation services is a specimen.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="IND">
+        <source>indirect target</source>
+        <target>Cible indirecte</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="IND@definition">
+        <source>Target that is not substantially present in the act and which is not directly affected by the act, but which will be a focus of the record or documentation of the act.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="BEN">
+        <source>beneficiary</source>
+        <target>Bénéficiaire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="BEN@definition">
+        <source>Target on behalf of whom the service happens, but that is not necessarily present in the service. Can occur together with direct target to indicate that a target is both, as in the case where the patient is the indirect beneficiary of a service rendered to a family member, e.g. counseling or given home care instructions. This concept includes a participant, such as a covered party, who derives benefits from a service act covered by a coverage act.
+
+Note that the semantic role of the intended recipient who benefits from the happening denoted by the verb in the clause. Thus, a patient who has no coverage under a policy or program may be a beneficiary of a health service while not being the beneficiary of coverage for that service.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="CAGNT">
+        <source>causative agent</source>
+        <target>Agent causal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="CAGNT@definition">
+        <source>Definition: A factor, such as a microorganism, chemical substance, or form of radiation, whose presence, excessive presence, or (in deficiency diseases) relative absence is essential, in whole or in part, for the occurrence of a condition.
+
+Constraint: The use of this participation is limited to observations.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="COV">
+        <source>coverage target</source>
+        <target>Partie couverte (titulaire ou bénéficiaire)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="COV@definition">
+        <source>The target participation for an individual in a health care coverage act in which the target role is either the policy holder of the coverage, or a covered party under the coverage.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="GUAR">
+        <source>guarantor party</source>
+        <target>Garant</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="GUAR@definition">
+        <source>The target person or organization contractually recognized by the issuer as a participant who has assumed fiscal responsibility for another personaTMs financial obligations by guaranteeing to pay for amounts owed to a particular account
+
+*Example:*The subscriber of the patientaTMs health insurance policy signs a contract with the provider to be fiscally responsible for the patient billing account balance amount owed.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="HLD">
+        <source>holder</source>
+        <target>Souscripteur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="HLD@definition">
+        <source>Participant who posses an instrument such as a financial contract (insurance policy) usually based on some agreement with the author.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="RCT">
+        <source>record target</source>
+        <target>Dossier médical</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="RCT@definition">
+        <source>The record target indicates whose medical record holds the documentation of this act. This is especially important when the subject of a service is not the patient himself.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="RCV">
+        <source>receiver</source>
+        <target>Récepteur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="RCV@definition">
+        <source>The person (or organization) who receives the product of an Act.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="IRCP">
+        <source>information recipient</source>
+        <target>Destinataire de l'information</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="IRCP@definition">
+        <source>A party, who may or should receive or who has recieved the Act or subsequent or derivative information of that Act. Information recipient is inert, i.e., independent of mood.&quot; Rationale: this is a generalization of a too diverse family that the definition can't be any more specific, and the concept is abstract so one of the specializations should be used.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="NOT">
+        <source>ugent notification contact</source>
+        <target>Personne à prévenir en cas d'urgence</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="NOT@definition">
+        <source>An information recipient to notify for urgent matters about this Act. (e.g., in a laboratory order, critical results are being called by phone right away, this is the contact to call; or for an inpatient encounter, a next of kin to notify when the patient becomes critically ill).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="PRCP">
+        <source>primary information recipient</source>
+        <target>Destinataire principal de l'information</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="PRCP@definition">
+        <source>Information recipient to whom an act statement is primarily directed. E.g., a primary care provider receiving a discharge letter from a hospitalist, a health department receiving information on a suspected case of infectious disease. Multiple of these participations may exist on the same act without requiring that recipients be ranked as primary vs. secondary.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="REFB">
+        <source>Referred By</source>
+        <target>Personne ayant adressé le patient</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="REFB@definition">
+        <source>A participant (e.g. provider) who has referred the subject of an act (e.g. patient).
+
+Typically, a referred by participant will provide a report (e.g. referral).</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="REFT">
+        <source>Referred to</source>
+        <target>Personne recevant le patient</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="REFT@definition">
+        <source>The person who receives the patient</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="TRC">
+        <source>tracker</source>
+        <target>Personne recevant une copie de l'information</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="TRC@definition">
+        <source>A secondary information recipient, who receives copies (e.g., a primary care provider receiving copies of results as ordered by specialist).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="LOC">
+        <source>location</source>
+        <target>Emplacement principal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="LOC@definition">
+        <source>The facility where the service is done. May be a static building (or room therein) or a moving location (e.g., ambulance, helicopter, aircraft, train, truck, ship, etc.)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="DST">
+        <source>destination</source>
+        <target>Destination</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="DST@definition">
+        <source>The destination for services. May be a static building (or room therein) or a movable facility (e.g., ship).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="ELOC">
+        <source>entry location</source>
+        <target>Emplacement où les données sont saisies</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="ELOC@definition">
+        <source>A location where data about an Act was entered.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="ORG">
+        <source>origin</source>
+        <target>Lieu d'origine</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="ORG@definition">
+        <source>The location of origin for services. May be a static building (or room therein) or a movable facility (e.g., ship).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="RML">
+        <source>remote</source>
+        <target>Emplacement distant</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="RML@definition">
+        <source>Some services take place at multiple concurrent locations (e.g., telemedicine, telephone consultation). The location where the principal performing actor is located is taken as the primary location (LOC) while the other location(s) are considered &quot;remote.&quot;</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="VIA">
+        <source>via</source>
+        <target>Emplacement intermédiaire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="VIA@definition">
+        <source>For services, an intermediate location that specifies a path between origin an destination.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="PRF">
+        <source>performer</source>
+        <target>Exécutant</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="PRF@definition">
+        <source>**Definition:** A person, non-person living subject, organization or device that who actually and principally carries out the action. Device should only be assigned as a performer in circumstances where the device is performing independent of human intervention. Need not be the principal responsible actor.
+
+**Exampe:** A surgery resident operating under supervision of attending surgeon, a search and rescue dog locating survivors, an electronic laboratory analyzer or the laboratory discipline requested to perform a laboratory test. The performer may also be the patient in self-care, e.g. fingerstick blood sugar. The traditional order filler is a performer. This information should accompany every service event.
+
+**Note:** that existing HL7 designs assign an organization as the playing entity of the Role that is the performer. These designs should be revised in subsequent releases to make this the scooping entity for the role involved.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="DIST">
+        <source>distributor</source>
+        <target>Distributeur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="DIST@definition">
+        <source>Distributes material used in or generated during the act.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="PPRF">
+        <source>primary performer</source>
+        <target>Exécutant principal</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="PPRF@definition">
+        <source>The principal or primary performer of the act.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="SPRF">
+        <source>secondary performer</source>
+        <target>Exécutant secondaire</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="SPRF@definition">
+        <source>A person assisting in an act through his substantial presence and involvement This includes: assistants, technicians, associates, or whatever the job titles may be.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="RESP">
+        <source>responsible party</source>
+        <target>Responsable de l'acte</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="RESP@definition">
+        <source>The person or organization that has primary responsibility for the act. The responsible party is not necessarily present in an action, but is accountable for the action through the power to delegate, and the duty to review actions with the performing actor after the fact. This responsibility may be ethical, legal, contractual, fiscal, or fiduciary in nature.
+
+*Example:* A person who is the head of a biochemical laboratory; a sponsor for a policy or government program.</source>
+        <target>!!</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="VRF">
+        <source>verifier</source>
+        <target>Vérificateur</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="VRF@definition">
+        <source>A person who verifies the correctness and appropriateness of the service (plan, order, event, etc.) and hence takes on accountability.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="AUTHEN">
+        <source>authenticator</source>
+        <target>Valideur des résultats (ex : un biologiste ou un système expert)</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="AUTHEN@definition">
+        <source>A verifier who attests to the accuracy of an act, but who does not have privileges to legally authenticate the act. An example would be a resident physician who sees a patient and dictates a note, then later signs it. Their signature constitutes an authentication.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="LA">
+        <source>legal authenticator</source>
+        <target>Responsable légal de l'acte</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="LA@definition">
+        <source>A verifier who legally authenticates the accuracy of an act. An example would be a staff physician who sees a patient and dictates a note, then later signs it. Their signature constitutes a legal authentication.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="!!ALY@definition">
+        <source>The target of an Observation action. Links an observation to a Role whose player is the substance or most specific component entity (material, micro-organism, etc.) being measured within the subject.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="!!AUT@definition">
+        <source>**Definition:** A party that originates the Act and therefore has responsibility for the information given in the Act and ownership of this Act.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="!!BEN@definition">
+        <source>Target on behalf of whom the service happens, but that is not necessarily present in the service. Can occur together with direct target to indicate that a target is both, as in the case where the patient is the indirect beneficiary of a service rendered to a family member, e.g. counseling or given home care instructions. This concept includes a participant, such as a covered party, who derives benefits from a service act covered by a coverage act.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="!!CAGNT@definition">
+        <source>Definition: A factor, such as a microorganism, chemical substance, or form of radiation, whose presence, excessive presence, or (in deficiency diseases) relative absence is essential, in whole or in part, for the occurrence of a condition.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="!!DEV@definition">
+        <source>Participant used in performing the act without being substantially affected by the act (i.e. durable or inert with respect to that particular service).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="!!GUAR@definition">
+        <source>The target person or organization contractually recognized by the issuer as a participant who has assumed fiscal responsibility for another personaTMs financial obligations by guaranteeing to pay for amounts owed to a particular account</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="!!PRF@definition">
+        <source>**Definition:** A person, non-person living subject, organization or device that who actually and principally carries out the action. Device should only be assigned as a performer in circumstances where the device is performing independent of human intervention. Need not be the principal responsible actor.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="!!REFB@definition">
+        <source>A participant (e.g. provider) who has referred the subject of an act (e.g. patient).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="!!RESP@definition">
+        <source>The person or organization that has primary responsibility for the act. The responsible party is not necessarily present in an action, but is accountable for the action through the power to delegate, and the duty to review actions with the performing actor after the fact. This responsibility may be ethical, legal, contractual, fiscal, or fiduciary in nature.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-ParticipationType" resname="!!SBJ@definition">
+        <source>The principle target on which the action happens.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

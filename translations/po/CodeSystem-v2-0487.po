@@ -1,0 +1,3301 @@
+
+# null
+#: ABS
+msgid "Abscess"
+msgstr "Abcès"
+
+# null
+#: ABS@definition
+msgid "Abscess"
+msgstr ""
+
+# null
+#: ...
+msgid "No suggested values"
+msgstr ""
+
+# null
+#: ...@definition
+msgid "No suggested values"
+msgstr ""
+
+# null
+#: ACNE
+msgid "Tissue, Acne"
+msgstr "Acné"
+
+# null
+#: ACNE@definition
+msgid "Tissue, Acne"
+msgstr ""
+
+# null
+#: ACNFLD
+msgid "Fluid, Acne"
+msgstr "Liquide d'acné"
+
+# null
+#: ACNFLD@definition
+msgid "Fluid, Acne"
+msgstr ""
+
+# null
+#: AIRS
+msgid "Air Sample"
+msgstr "Échantillon d'air"
+
+# null
+#: AIRS@definition
+msgid "Air Sample"
+msgstr ""
+
+# null
+#: ALL
+msgid "Allograft"
+msgstr "Allogreffe"
+
+# null
+#: ALL@definition
+msgid "Allograft"
+msgstr ""
+
+# null
+#: AMN
+msgid "Amniotic fluid"
+msgstr "Liquide amniotique"
+
+# null
+#: AMN@definition
+msgid "Amniotic fluid"
+msgstr ""
+
+# null
+#: AMP
+msgid "Amputation"
+msgstr "Amputation"
+
+# null
+#: AMP@definition
+msgid "Amputation"
+msgstr ""
+
+# null
+#: ANGI
+msgid "Catheter Tip, Angio"
+msgstr "Cathéter d'angiographie (embout)"
+
+# null
+#: ANGI@definition
+msgid "Catheter Tip, Angio"
+msgstr ""
+
+# null
+#: ARTC
+msgid "Catheter Tip, Arterial"
+msgstr "Cathéter artériel (embout)"
+
+# null
+#: ARTC@definition
+msgid "Catheter Tip, Arterial"
+msgstr ""
+
+# null
+#: ASERU
+msgid "Serum, Acute"
+msgstr "Sérum en phase aigüe"
+
+# null
+#: ASERU@definition
+msgid "Serum, Acute"
+msgstr ""
+
+# null
+#: ASP
+msgid "Aspirate"
+msgstr "Aspiration"
+
+# null
+#: ASP@definition
+msgid "Aspirate"
+msgstr ""
+
+# null
+#: ATTE
+msgid "Environment, Attest"
+msgstr "Environnement, Attest"
+
+# null
+#: ATTE@definition
+msgid "Environment, Attest"
+msgstr ""
+
+# null
+#: AUTOA
+msgid "Environmental, Autoclave Ampule"
+msgstr "Ampoule d'autoclave"
+
+# null
+#: AUTOA@definition
+msgid "Environmental, Autoclave Ampule"
+msgstr ""
+
+# null
+#: AUTOC
+msgid "Environmental, Autoclave Capsule"
+msgstr "Capsule d'autoclave"
+
+# null
+#: AUTOC@definition
+msgid "Environmental, Autoclave Capsule"
+msgstr ""
+
+# null
+#: AUTP
+msgid "Autopsy"
+msgstr "Autopsie"
+
+# null
+#: AUTP@definition
+msgid "Autopsy"
+msgstr ""
+
+# null
+#: BBL
+msgid "Blood bag"
+msgstr "Poche de sang"
+
+# null
+#: BBL@definition
+msgid "Blood bag"
+msgstr ""
+
+# null
+#: BCYST
+msgid "Cyst, Baker's"
+msgstr "Kyste de Baker"
+
+# null
+#: BCYST@definition
+msgid "Cyst, Baker's"
+msgstr ""
+
+# null
+#: BDY
+msgid "Whole body"
+msgstr "Corps humain"
+
+# null
+#: BDY@definition
+msgid "Whole body"
+msgstr ""
+
+# null
+#: BIFL
+msgid "Bile Fluid"
+msgstr "Bile"
+
+# null
+#: BIFL@definition
+msgid "Bile Fluid"
+msgstr ""
+
+# null
+#: BITE
+msgid "Bite"
+msgstr "Morsure"
+
+# null
+#: BITE@definition
+msgid "Bite"
+msgstr ""
+
+# null
+#: BLD
+msgid "Whole blood"
+msgstr "Sang"
+
+# null
+#: BLD@definition
+msgid "Whole blood"
+msgstr ""
+
+# null
+#: BLDA
+msgid "Blood arterial"
+msgstr "Sang artériel"
+
+# null
+#: BLDA@definition
+msgid "Blood arterial"
+msgstr ""
+
+# null
+#: BLDCO
+msgid "Cord blood"
+msgstr "Sang de cordon"
+
+# null
+#: BLDCO@definition
+msgid "Cord blood"
+msgstr ""
+
+# null
+#: BLDV
+msgid "Blood venous"
+msgstr "Sang veineux"
+
+# null
+#: BLDV@definition
+msgid "Blood venous"
+msgstr ""
+
+# null
+#: BLEB
+msgid "Bleb"
+msgstr "Cloque"
+
+# null
+#: BLEB@definition
+msgid "Bleb"
+msgstr ""
+
+# null
+#: BLIST
+msgid "Blister"
+msgstr "Ampoule"
+
+# null
+#: BLIST@definition
+msgid "Blister"
+msgstr ""
+
+# null
+#: BOIL
+msgid "Boil"
+msgstr "Clou"
+
+# null
+#: BOIL@definition
+msgid "Boil"
+msgstr ""
+
+# null
+#: BON
+msgid "Bone"
+msgstr "Os"
+
+# null
+#: BON@definition
+msgid "Bone"
+msgstr ""
+
+# null
+#: BOWL
+msgid "Bowel contents"
+msgstr "Contenu intestinal"
+
+# null
+#: BOWL@definition
+msgid "Bowel contents"
+msgstr ""
+
+# null
+#: BPH
+msgid "Basophils"
+msgstr "Polynucléaires basophiles"
+
+# null
+#: BPH@definition
+msgid "Basophils"
+msgstr ""
+
+# null
+#: BPU
+msgid "Blood product unit"
+msgstr "Produit sanguin labile"
+
+# null
+#: BPU@definition
+msgid "Blood product unit"
+msgstr ""
+
+# null
+#: BRN
+msgid "Burn"
+msgstr "Brûlure"
+
+# null
+#: BRN@definition
+msgid "Burn"
+msgstr ""
+
+# null
+#: BRSH
+msgid "Brush"
+msgstr "Brosse"
+
+# null
+#: BRSH@definition
+msgid "Brush"
+msgstr ""
+
+# null
+#: BRTH
+msgid "Breath (use EXHLD)"
+msgstr "Gas expiré (use EXG)"
+
+# null
+#: BRTH@definition
+msgid "Breath (use EXHLD)"
+msgstr ""
+
+# null
+#: BRUS
+msgid "Brushing"
+msgstr "Brossage"
+
+# null
+#: BRUS@definition
+msgid "Brushing"
+msgstr ""
+
+# null
+#: BUB
+msgid "Bubo"
+msgstr "Bubon"
+
+# null
+#: BUB@definition
+msgid "Bubo"
+msgstr ""
+
+# null
+#: BULLA
+msgid "Bulla/Bullae"
+msgstr "Bulle"
+
+# null
+#: BULLA@definition
+msgid "Bulla/Bullae"
+msgstr ""
+
+# null
+#: BX
+msgid "Biopsy"
+msgstr "Biopsie"
+
+# null
+#: BX@definition
+msgid "Biopsy"
+msgstr ""
+
+# null
+#: CALC
+msgid "Calculus (=Stone)"
+msgstr "Calcul"
+
+# null
+#: CALC@definition
+msgid "Calculus (=Stone)"
+msgstr ""
+
+# null
+#: BONE
+msgid "Bone"
+msgstr ""
+
+# null
+#: BONE@definition
+msgid "Bone"
+msgstr ""
+
+# null
+#: CARBU
+msgid "Carbuncle"
+msgstr "Anthrax"
+
+# null
+#: CARBU@definition
+msgid "Carbuncle"
+msgstr ""
+
+# null
+#: CAT
+msgid "Catheter"
+msgstr "Cathéter"
+
+# null
+#: CAT@definition
+msgid "Catheter"
+msgstr ""
+
+# null
+#: CBITE
+msgid "Bite, Cat"
+msgstr "Morsure de chat"
+
+# null
+#: CBITE@definition
+msgid "Bite, Cat"
+msgstr ""
+
+# null
+#: CDM
+msgid "Cardiac muscle"
+msgstr "Muscle cardiaque"
+
+# null
+#: CDM@definition
+msgid "Cardiac muscle"
+msgstr ""
+
+# null
+#: CLIPP
+msgid "Clippings"
+msgstr "Coupures"
+
+# null
+#: CLIPP@definition
+msgid "Clippings"
+msgstr ""
+
+# null
+#: CNJT
+msgid "Conjunctiva"
+msgstr "Conjonctive"
+
+# null
+#: CNJT@definition
+msgid "Conjunctiva"
+msgstr ""
+
+# null
+#: CNL
+msgid "Cannula"
+msgstr "Canule"
+
+# null
+#: CNL@definition
+msgid "Cannula"
+msgstr ""
+
+# null
+#: COL
+msgid "Colostrum"
+msgstr "Colostrum"
+
+# null
+#: COL@definition
+msgid "Colostrum"
+msgstr ""
+
+# null
+#: CONE
+msgid "Biospy, Cone"
+msgstr "Biopsie conique"
+
+# null
+#: CONE@definition
+msgid "Biospy, Cone"
+msgstr ""
+
+# null
+#: CSCR
+msgid "Scratch, Cat"
+msgstr "Griffure de chat"
+
+# null
+#: CSCR@definition
+msgid "Scratch, Cat"
+msgstr ""
+
+# null
+#: CSERU
+msgid "Serum, Convalescent"
+msgstr "Sérum de convalescent"
+
+# null
+#: CSERU@definition
+msgid "Serum, Convalescent"
+msgstr ""
+
+# null
+#: CSF
+msgid "Cerebral spinal fluid"
+msgstr "Liquide céphalorachidien"
+
+# null
+#: CSF@definition
+msgid "Cerebral spinal fluid"
+msgstr ""
+
+# null
+#: CSITE
+msgid "Catheter Insertion Site"
+msgstr "Cathéter (Site d'insertion)"
+
+# null
+#: CSITE@definition
+msgid "Catheter Insertion Site"
+msgstr ""
+
+# null
+#: CSMY
+msgid "Fluid,  Cystostomy Tube"
+msgstr "Liquide de tube de cystostomie"
+
+# null
+#: CSMY@definition
+msgid "Fluid,  Cystostomy Tube"
+msgstr ""
+
+# null
+#: CST
+msgid "Fluid, Cyst"
+msgstr "Liquide de kyste"
+
+# null
+#: CST@definition
+msgid "Fluid, Cyst"
+msgstr ""
+
+# null
+#: CSVR
+msgid "Blood, Cell Saver"
+msgstr "Récupérateur de sang"
+
+# null
+#: CSVR@definition
+msgid "Blood, Cell Saver"
+msgstr ""
+
+# null
+#: CTP
+msgid "Catheter tip"
+msgstr "Cathéter (embout)"
+
+# null
+#: CTP@definition
+msgid "Catheter tip"
+msgstr ""
+
+# null
+#: CUR
+msgid "Curretage"
+msgstr "Curetage"
+
+# null
+#: CUR@definition
+msgid "Curretage"
+msgstr ""
+
+# null
+#: CVM
+msgid "Cervical Mucus"
+msgstr "Glaire cervicale"
+
+# null
+#: CVM@definition
+msgid "Cervical Mucus"
+msgstr ""
+
+# null
+#: CVPS
+msgid "Site, CVP"
+msgstr "Cathéter veineux central (site)"
+
+# null
+#: CVPS@definition
+msgid "Site, CVP"
+msgstr ""
+
+# null
+#: CVPT
+msgid "Catheter Tip, CVP"
+msgstr "Cathéter veineux central (embout)"
+
+# null
+#: CVPT@definition
+msgid "Catheter Tip, CVP"
+msgstr ""
+
+# null
+#: CYN
+msgid "Nodule, Cystic"
+msgstr "Nodule kystique"
+
+# null
+#: CYN@definition
+msgid "Nodule, Cystic"
+msgstr ""
+
+# null
+#: CYST
+msgid "Cyst"
+msgstr "Kyste"
+
+# null
+#: CYST@definition
+msgid "Cyst"
+msgstr ""
+
+# null
+#: DBITE
+msgid "Bite, Dog"
+msgstr "Morsure de chien"
+
+# null
+#: DBITE@definition
+msgid "Bite, Dog"
+msgstr ""
+
+# null
+#: DCS
+msgid "Sputum, Deep Cough"
+msgstr "Expectoration profonde (crachat)"
+
+# null
+#: DCS@definition
+msgid "Sputum, Deep Cough"
+msgstr ""
+
+# null
+#: DEC
+msgid "Ulcer, Decubitus"
+msgstr "Ulcère de décubitus"
+
+# null
+#: DEC@definition
+msgid "Ulcer, Decubitus"
+msgstr ""
+
+# null
+#: DEION
+msgid "Environmental, Water  (Deionized)"
+msgstr "Eau déminéralisée"
+
+# null
+#: DEION@definition
+msgid "Environmental, Water  (Deionized)"
+msgstr ""
+
+# null
+#: DIA
+msgid "Dialysate"
+msgstr "Dialysat"
+
+# null
+#: DIA@definition
+msgid "Dialysate"
+msgstr ""
+
+# null
+#: DIAF
+msgid "Dialysis Fluid"
+msgstr "Liquide de dialyse"
+
+# null
+#: DIAF@definition
+msgid "Dialysis Fluid"
+msgstr ""
+
+# null
+#: DISCHG
+msgid "Discharge"
+msgstr "Décharge"
+
+# null
+#: DISCHG@definition
+msgid "Discharge"
+msgstr ""
+
+# null
+#: DIV
+msgid "Diverticulum"
+msgstr "Diverticule"
+
+# null
+#: DIV@definition
+msgid "Diverticulum"
+msgstr ""
+
+# null
+#: DRN
+msgid "Drain"
+msgstr "Drain"
+
+# null
+#: DRN@definition
+msgid "Drain"
+msgstr ""
+
+# null
+#: DRNG
+msgid "Drainage, Tube"
+msgstr "Drain (Tube)"
+
+# null
+#: DRNG@definition
+msgid "Drainage, Tube"
+msgstr ""
+
+# null
+#: DRNGP
+msgid "Drainage, Penrose"
+msgstr "Drain Penrose"
+
+# null
+#: DRNGP@definition
+msgid "Drainage, Penrose"
+msgstr ""
+
+# null
+#: DUFL
+msgid "Duodenal fluid"
+msgstr "Liquide duodénal"
+
+# null
+#: DUFL@definition
+msgid "Duodenal fluid"
+msgstr ""
+
+# null
+#: EARW
+msgid "Ear wax (cerumen)"
+msgstr "Cérumen"
+
+# null
+#: EARW@definition
+msgid "Ear wax (cerumen)"
+msgstr ""
+
+# null
+#: EBRUSH
+msgid "Brush, Esophageal"
+msgstr "Brossage oesophagien"
+
+# null
+#: EBRUSH@definition
+msgid "Brush, Esophageal"
+msgstr ""
+
+# null
+#: EEYE
+msgid "Environmental, Eye Wash"
+msgstr "Lavage oculaire"
+
+# null
+#: EEYE@definition
+msgid "Environmental, Eye Wash"
+msgstr ""
+
+# null
+#: EFF
+msgid "Environmental, Effluent"
+msgstr "Éffluent environnemental"
+
+# null
+#: EFF@definition
+msgid "Environmental, Effluent"
+msgstr ""
+
+# null
+#: EFFUS
+msgid "Effusion"
+msgstr "Éffusion"
+
+# null
+#: EFFUS@definition
+msgid "Effusion"
+msgstr ""
+
+# null
+#: EFOD
+msgid "Environmental, Food"
+msgstr "Aliment"
+
+# null
+#: EFOD@definition
+msgid "Environmental, Food"
+msgstr ""
+
+# null
+#: EISO
+msgid "Environmental, Isolette"
+msgstr "Isolette environnementale"
+
+# null
+#: EISO@definition
+msgid "Environmental, Isolette"
+msgstr ""
+
+# null
+#: ELT
+msgid "Electrode"
+msgstr "Electrode"
+
+# null
+#: ELT@definition
+msgid "Electrode"
+msgstr ""
+
+# null
+#: ENVIR
+msgid "Environmental, Unidentified Substance"
+msgstr "Substance non identifiée"
+
+# null
+#: ENVIR@definition
+msgid "Environmental, Unidentified Substance"
+msgstr ""
+
+# null
+#: EOS
+msgid "Eosinophils"
+msgstr "Polynucléaires éosinophiles"
+
+# null
+#: EOS@definition
+msgid "Eosinophils"
+msgstr ""
+
+# null
+#: EOTH
+msgid "Environmental, Other Substance"
+msgstr "Autre substance"
+
+# null
+#: EOTH@definition
+msgid "Environmental, Other Substance"
+msgstr ""
+
+# null
+#: ESOI
+msgid "Environmental, Soil"
+msgstr "Sol"
+
+# null
+#: ESOI@definition
+msgid "Environmental, Soil"
+msgstr ""
+
+# null
+#: ESOS
+msgid "Environmental, Solution (Sterile)"
+msgstr "Solution stérile"
+
+# null
+#: ESOS@definition
+msgid "Environmental, Solution (Sterile)"
+msgstr ""
+
+# null
+#: ETA
+msgid "Aspirate,  Endotrach"
+msgstr "Aspiration endotrachéale"
+
+# null
+#: ETA@definition
+msgid "Aspirate,  Endotrach"
+msgstr ""
+
+# null
+#: ETTP
+msgid "Catheter Tip, Endotracheal"
+msgstr "Cathéter endotrachéal (embout)"
+
+# null
+#: ETTP@definition
+msgid "Catheter Tip, Endotracheal"
+msgstr ""
+
+# null
+#: ETTUB
+msgid "Tube, Endotracheal"
+msgstr "Tube endotrachéal"
+
+# null
+#: ETTUB@definition
+msgid "Tube, Endotracheal"
+msgstr ""
+
+# null
+#: EWHI
+msgid "Environmental, Whirlpool"
+msgstr "Bain à remous"
+
+# null
+#: EWHI@definition
+msgid "Environmental, Whirlpool"
+msgstr ""
+
+# null
+#: EXG
+msgid "Gas, exhaled (=breath)"
+msgstr "Gaz expiré"
+
+# null
+#: EXG@definition
+msgid "Gas, exhaled (=breath)"
+msgstr ""
+
+# null
+#: EXS
+msgid "Shunt, External"
+msgstr "Dérivation externe"
+
+# null
+#: EXS@definition
+msgid "Shunt, External"
+msgstr ""
+
+# null
+#: EXUDTE
+msgid "Exudate"
+msgstr "Exudat"
+
+# null
+#: EXUDTE@definition
+msgid "Exudate"
+msgstr ""
+
+# null
+#: FAW
+msgid "Environmental, Water  (Well)"
+msgstr "Eau de puits"
+
+# null
+#: FAW@definition
+msgid "Environmental, Water  (Well)"
+msgstr ""
+
+# null
+#: FBLOOD
+msgid "Blood, Fetal"
+msgstr "Sang foetal"
+
+# null
+#: FBLOOD@definition
+msgid "Blood, Fetal"
+msgstr ""
+
+# null
+#: FGA
+msgid "Fluid,  Abdomen"
+msgstr "Liquide abdominal"
+
+# null
+#: FGA@definition
+msgid "Fluid,  Abdomen"
+msgstr ""
+
+# null
+#: FIB
+msgid "Fibroblasts"
+msgstr "Fibroblastes"
+
+# null
+#: FIB@definition
+msgid "Fibroblasts"
+msgstr ""
+
+# null
+#: FIST
+msgid "Fistula"
+msgstr "Fistule"
+
+# null
+#: FIST@definition
+msgid "Fistula"
+msgstr ""
+
+# null
+#: FLD
+msgid "Fluid, Other"
+msgstr "Liquide (autre)"
+
+# null
+#: FLD@definition
+msgid "Fluid, Other"
+msgstr ""
+
+# null
+#: FLT
+msgid "Filter"
+msgstr "Filtre"
+
+# null
+#: FLT@definition
+msgid "Filter"
+msgstr ""
+
+# null
+#: FLU
+msgid "Fluid, Body unsp"
+msgstr "Liquide biologique"
+
+# null
+#: FLU@definition
+msgid "Fluid, Body unsp"
+msgstr ""
+
+# null
+#: FLUID
+msgid "Fluid"
+msgstr "Liquide"
+
+# null
+#: FLUID@definition
+msgid "Fluid"
+msgstr ""
+
+# null
+#: FOLEY
+msgid "Catheter Tip, Foley"
+msgstr "Cathéter de Foley (embout)"
+
+# null
+#: FOLEY@definition
+msgid "Catheter Tip, Foley"
+msgstr ""
+
+# null
+#: FRS
+msgid "Fluid, Respiratory"
+msgstr "Liquide respiratoire"
+
+# null
+#: FRS@definition
+msgid "Fluid, Respiratory"
+msgstr ""
+
+# null
+#: FSCLP
+msgid "Scalp, Fetal"
+msgstr "Cuir chevelu foetal"
+
+# null
+#: FSCLP@definition
+msgid "Scalp, Fetal"
+msgstr ""
+
+# null
+#: FUR
+msgid "Furuncle"
+msgstr "Furoncle"
+
+# null
+#: FUR@definition
+msgid "Furuncle"
+msgstr ""
+
+# null
+#: GAS
+msgid "Gas"
+msgstr "Gaz du sang"
+
+# null
+#: GAS@definition
+msgid "Gas"
+msgstr ""
+
+# null
+#: GASA
+msgid "Aspirate, Gastric"
+msgstr "Aspiration gastrique"
+
+# null
+#: GASA@definition
+msgid "Aspirate, Gastric"
+msgstr ""
+
+# null
+#: GASAN
+msgid "Antrum, Gastric"
+msgstr "Antre gastrique"
+
+# null
+#: GASAN@definition
+msgid "Antrum, Gastric"
+msgstr ""
+
+# null
+#: GASBR
+msgid "Brushing, Gastric"
+msgstr "Brossage gastrique"
+
+# null
+#: GASBR@definition
+msgid "Brushing, Gastric"
+msgstr ""
+
+# null
+#: GASD
+msgid "Drainage, Gastric"
+msgstr "Drainage gastrique"
+
+# null
+#: GASD@definition
+msgid "Drainage, Gastric"
+msgstr ""
+
+# null
+#: GAST
+msgid "Fluid/contents, Gastric"
+msgstr "Prélèvement digestif"
+
+# null
+#: GAST@definition
+msgid "Fluid/contents, Gastric"
+msgstr ""
+
+# null
+#: GENL
+msgid "Genital lochia"
+msgstr "Lochies"
+
+# null
+#: GENL@definition
+msgid "Genital lochia"
+msgstr ""
+
+# null
+#: GENV
+msgid "Genital vaginal"
+msgstr "Prélèvement vaginal"
+
+# null
+#: GENV@definition
+msgid "Genital vaginal"
+msgstr ""
+
+# null
+#: GRAFT
+msgid "Graft"
+msgstr "Greffe"
+
+# null
+#: GRAFT@definition
+msgid "Graft"
+msgstr ""
+
+# null
+#: GRAFTS
+msgid "Graft Site"
+msgstr "Greffe (Site)"
+
+# null
+#: GRAFTS@definition
+msgid "Graft Site"
+msgstr ""
+
+# null
+#: GRANU
+msgid "Granuloma"
+msgstr "Granulome"
+
+# null
+#: GRANU@definition
+msgid "Granuloma"
+msgstr ""
+
+# null
+#: GROSH
+msgid "Catheter, Groshong"
+msgstr "Cathéter Groshong"
+
+# null
+#: GROSH@definition
+msgid "Catheter, Groshong"
+msgstr ""
+
+# null
+#: GSOL
+msgid "Solution, Gastrostomy"
+msgstr "Solution pour gastrostomie"
+
+# null
+#: GSOL@definition
+msgid "Solution, Gastrostomy"
+msgstr ""
+
+# null
+#: GSPEC
+msgid "Biopsy, Gastric"
+msgstr "Biopsie gastrique"
+
+# null
+#: GSPEC@definition
+msgid "Biopsy, Gastric"
+msgstr ""
+
+# null
+#: GT
+msgid "Tube, Gastric"
+msgstr "Sonde gastrique"
+
+# null
+#: GT@definition
+msgid "Tube, Gastric"
+msgstr ""
+
+# null
+#: GTUBE
+msgid "Drainage Tube, Drainage (Gastrostomy)"
+msgstr "Drainage de gastrostomie"
+
+# null
+#: GTUBE@definition
+msgid "Drainage Tube, Drainage (Gastrostomy)"
+msgstr ""
+
+# null
+#: HAR
+msgid "Hair"
+msgstr "Poils/Cheveux"
+
+# null
+#: HAR@definition
+msgid "Hair"
+msgstr ""
+
+# null
+#: HBITE
+msgid "Bite, Human"
+msgstr "Morsure humaine"
+
+# null
+#: HBITE@definition
+msgid "Bite, Human"
+msgstr ""
+
+# null
+#: HBLUD
+msgid "Blood, Autopsy"
+msgstr "Sang (Autopsie)"
+
+# null
+#: HBLUD@definition
+msgid "Blood, Autopsy"
+msgstr ""
+
+# null
+#: HEMAQ
+msgid "Catheter Tip, Hemaquit"
+msgstr "Cathéter Hemaquit (embout)"
+
+# null
+#: HEMAQ@definition
+msgid "Catheter Tip, Hemaquit"
+msgstr ""
+
+# null
+#: HEMO
+msgid "Catheter Tip, Hemovac"
+msgstr "Cathéter Hemovac (embout)"
+
+# null
+#: HEMO@definition
+msgid "Catheter Tip, Hemovac"
+msgstr ""
+
+# null
+#: HERNI
+msgid "Tissue, Herniated"
+msgstr "Hernie"
+
+# null
+#: HERNI@definition
+msgid "Tissue, Herniated"
+msgstr ""
+
+# null
+#: HEV
+msgid "Drain, Hemovac"
+msgstr "Drain Hemovac"
+
+# null
+#: HEV@definition
+msgid "Drain, Hemovac"
+msgstr ""
+
+# null
+#: HIC
+msgid "Catheter, Hickman"
+msgstr "Cathéter de Hickman"
+
+# null
+#: HIC@definition
+msgid "Catheter, Hickman"
+msgstr ""
+
+# null
+#: HYDC
+msgid "Fluid, Hydrocele"
+msgstr "Hydrocèle"
+
+# null
+#: HYDC@definition
+msgid "Fluid, Hydrocele"
+msgstr ""
+
+# null
+#: IBITE
+msgid "Bite, Insect"
+msgstr "Morsure d'insecte"
+
+# null
+#: IBITE@definition
+msgid "Bite, Insect"
+msgstr ""
+
+# null
+#: ICYST
+msgid "Cyst, Inclusion"
+msgstr "Kyste d'inclusion"
+
+# null
+#: ICYST@definition
+msgid "Cyst, Inclusion"
+msgstr ""
+
+# null
+#: IDC
+msgid "Catheter Tip, Indwelling"
+msgstr "Cathéter Indwelling (embout)"
+
+# null
+#: IDC@definition
+msgid "Catheter Tip, Indwelling"
+msgstr ""
+
+# null
+#: IHG
+msgid "Gas, Inhaled"
+msgstr "Gaz inhalé"
+
+# null
+#: IHG@definition
+msgid "Gas, Inhaled"
+msgstr ""
+
+# null
+#: ILEO
+msgid "Drainage, Ileostomy"
+msgstr "Drainage d'iléostomie"
+
+# null
+#: ILEO@definition
+msgid "Drainage, Ileostomy"
+msgstr ""
+
+# null
+#: ILLEG
+msgid "Source of Specimen Is Illegible"
+msgstr "Source du spécimen illisible"
+
+# null
+#: ILLEG@definition
+msgid "Source of Specimen Is Illegible"
+msgstr ""
+
+# null
+#: IMP
+msgid "Implant"
+msgstr "Implant"
+
+# null
+#: IMP@definition
+msgid "Implant"
+msgstr ""
+
+# null
+#: INCI
+msgid "Site, Incision/Surgical"
+msgstr "Incision/chirurgie (Site)"
+
+# null
+#: INCI@definition
+msgid "Site, Incision/Surgical"
+msgstr ""
+
+# null
+#: INFIL
+msgid "Infiltrate"
+msgstr "Infiltration"
+
+# null
+#: INFIL@definition
+msgid "Infiltrate"
+msgstr ""
+
+# null
+#: INS
+msgid "Insect"
+msgstr "Insecte"
+
+# null
+#: INS@definition
+msgid "Insect"
+msgstr ""
+
+# null
+#: INTRD
+msgid "Catheter Tip, Introducer"
+msgstr "Cathéter (Guide)"
+
+# null
+#: INTRD@definition
+msgid "Catheter Tip, Introducer"
+msgstr ""
+
+# null
+#: ISLT
+msgid "Isolate"
+msgstr "Isolat"
+
+# null
+#: ISLT@definition
+msgid "Isolate"
+msgstr ""
+
+# null
+#: IT
+msgid "Intubation tube"
+msgstr "Tube d'intubation"
+
+# null
+#: IT@definition
+msgid "Intubation tube"
+msgstr ""
+
+# null
+#: IUD
+msgid "Intrauterine Device"
+msgstr "Dispositif intra-utérin"
+
+# null
+#: IUD@definition
+msgid "Intrauterine Device"
+msgstr ""
+
+# null
+#: IVCAT
+msgid "Catheter Tip, IV"
+msgstr "Cathéter intraveineux"
+
+# null
+#: IVCAT@definition
+msgid "Catheter Tip, IV"
+msgstr ""
+
+# null
+#: IVFLD
+msgid "Fluid, IV"
+msgstr "Liquide intraveineux"
+
+# null
+#: IVFLD@definition
+msgid "Fluid, IV"
+msgstr ""
+
+# null
+#: IVTIP
+msgid "Tubing Tip, IV"
+msgstr "Sonde intraveineuse"
+
+# null
+#: IVTIP@definition
+msgid "Tubing Tip, IV"
+msgstr ""
+
+# null
+#: JEJU
+msgid "Drainage, Jejunal"
+msgstr "Drainage jéjunal"
+
+# null
+#: JEJU@definition
+msgid "Drainage, Jejunal"
+msgstr ""
+
+# null
+#: JNTFLD
+msgid "Fluid, Joint"
+msgstr "Liquide articulaire"
+
+# null
+#: JNTFLD@definition
+msgid "Fluid, Joint"
+msgstr ""
+
+# null
+#: JP
+msgid "Drainage, Jackson Pratt"
+msgstr "Drain Jackson Pratt"
+
+# null
+#: JP@definition
+msgid "Drainage, Jackson Pratt"
+msgstr ""
+
+# null
+#: KELOI
+msgid "Lavage"
+msgstr "Lavage"
+
+# null
+#: KELOI@definition
+msgid "Lavage"
+msgstr ""
+
+# null
+#: KIDFLD
+msgid "Fluid, Kidney"
+msgstr "Liquide rénal"
+
+# null
+#: KIDFLD@definition
+msgid "Fluid, Kidney"
+msgstr ""
+
+# null
+#: LAVG
+msgid "Lavage, Bronhial"
+msgstr "Lavage bronchial"
+
+# null
+#: LAVG@definition
+msgid "Lavage, Bronhial"
+msgstr ""
+
+# null
+#: LAVGG
+msgid "Lavage, Gastric"
+msgstr "Lavage gastrique"
+
+# null
+#: LAVGG@definition
+msgid "Lavage, Gastric"
+msgstr ""
+
+# null
+#: LAVGP
+msgid "Lavage, Peritoneal"
+msgstr "Lavage péritonéal"
+
+# null
+#: LAVGP@definition
+msgid "Lavage, Peritoneal"
+msgstr ""
+
+# null
+#: LAVPG
+msgid "Lavage, Pre-Bronch"
+msgstr "Lavage pré-bronchial"
+
+# null
+#: LAVPG@definition
+msgid "Lavage, Pre-Bronch"
+msgstr ""
+
+# null
+#: LENS1
+msgid "Contact Lens"
+msgstr "Lentilles de contact"
+
+# null
+#: LENS1@definition
+msgid "Contact Lens"
+msgstr ""
+
+# null
+#: LENS2
+msgid "Contact Lens Case"
+msgstr "Étui pour lentilles de contact"
+
+# null
+#: LENS2@definition
+msgid "Contact Lens Case"
+msgstr ""
+
+# null
+#: LESN
+msgid "Lesion"
+msgstr "Lésion"
+
+# null
+#: LESN@definition
+msgid "Lesion"
+msgstr ""
+
+# null
+#: LIQ
+msgid "Liquid, Unspecified"
+msgstr "Liquide non spécifié"
+
+# null
+#: LIQ@definition
+msgid "Liquid, Unspecified"
+msgstr ""
+
+# null
+#: LIQO
+msgid "Liquid, Other"
+msgstr "Liquide (autres)"
+
+# null
+#: LIQO@definition
+msgid "Liquid, Other"
+msgstr ""
+
+# null
+#: LNA
+msgid "Line arterial"
+msgstr "Ponction artérielle"
+
+# null
+#: LNA@definition
+msgid "Line arterial"
+msgstr ""
+
+# null
+#: LNV
+msgid "Line venous"
+msgstr "Ponction veineuse"
+
+# null
+#: LNV@definition
+msgid "Line venous"
+msgstr ""
+
+# null
+#: LSAC
+msgid "Fluid, Lumbar Sac"
+msgstr "Liquide de sac lombaire"
+
+# null
+#: LSAC@definition
+msgid "Fluid, Lumbar Sac"
+msgstr ""
+
+# null
+#: LYM
+msgid "Lymphocytes"
+msgstr "Lymphocytes"
+
+# null
+#: LYM@definition
+msgid "Lymphocytes"
+msgstr ""
+
+# null
+#: MAC
+msgid "Macrophages"
+msgstr "Macrophages"
+
+# null
+#: MAC@definition
+msgid "Macrophages"
+msgstr ""
+
+# null
+#: MAHUR
+msgid "Catheter Tip, Makurkour"
+msgstr "Catheter Makurkour"
+
+# null
+#: MAHUR@definition
+msgid "Catheter Tip, Makurkour"
+msgstr ""
+
+# null
+#: MAR
+msgid "Marrow"
+msgstr "Moelle osseuse"
+
+# null
+#: MAR@definition
+msgid "Marrow"
+msgstr ""
+
+# null
+#: MASS
+msgid "Mass"
+msgstr "Masse"
+
+# null
+#: MASS@definition
+msgid "Mass"
+msgstr ""
+
+# null
+#: MBLD
+msgid "Blood, Menstrual"
+msgstr "Sang menstruel"
+
+# null
+#: MBLD@definition
+msgid "Blood, Menstrual"
+msgstr ""
+
+# null
+#: MEC
+msgid "Meconium"
+msgstr "Méconium"
+
+# null
+#: MEC@definition
+msgid "Meconium"
+msgstr ""
+
+# null
+#: MILK
+msgid "Breast milk"
+msgstr "Lait maternel"
+
+# null
+#: MILK@definition
+msgid "Breast milk"
+msgstr ""
+
+# null
+#: MLK
+msgid "Milk"
+msgstr "Lait"
+
+# null
+#: MLK@definition
+msgid "Milk"
+msgstr ""
+
+# null
+#: MUCOS
+msgid "Mucosa"
+msgstr "Muqueuse"
+
+# null
+#: MUCOS@definition
+msgid "Mucosa"
+msgstr ""
+
+# null
+#: MUCUS
+msgid "Mucus"
+msgstr "Mucus"
+
+# null
+#: MUCUS@definition
+msgid "Mucus"
+msgstr ""
+
+# null
+#: NAIL
+msgid "Nail"
+msgstr "Ongle"
+
+# null
+#: NAIL@definition
+msgid "Nail"
+msgstr ""
+
+# null
+#: NASDR
+msgid "Drainage, Nasal"
+msgstr "Drainage des voies nasales"
+
+# null
+#: NASDR@definition
+msgid "Drainage, Nasal"
+msgstr ""
+
+# null
+#: NEDL
+msgid "Needle"
+msgstr "Aiguille"
+
+# null
+#: NEDL@definition
+msgid "Needle"
+msgstr ""
+
+# null
+#: NEPH
+msgid "Site, Nephrostomy"
+msgstr "Néphrostomie (site)"
+
+# null
+#: NEPH@definition
+msgid "Site, Nephrostomy"
+msgstr ""
+
+# null
+#: NGASP
+msgid "Aspirate, Nasogastric"
+msgstr "Aspiration nasogastrique"
+
+# null
+#: NGASP@definition
+msgid "Aspirate, Nasogastric"
+msgstr ""
+
+# null
+#: NGAST
+msgid "Drainage, Nasogastric"
+msgstr "Drainage nasogastrique"
+
+# null
+#: NGAST@definition
+msgid "Drainage, Nasogastric"
+msgstr ""
+
+# null
+#: NGS
+msgid "Site, Naso/Gastric"
+msgstr "Nasogastrique (site)"
+
+# null
+#: NGS@definition
+msgid "Site, Naso/Gastric"
+msgstr ""
+
+# null
+#: NODUL
+msgid "Nodule(s)"
+msgstr "Nodule(s)"
+
+# null
+#: NODUL@definition
+msgid "Nodule(s)"
+msgstr ""
+
+# null
+#: NSECR
+msgid "Secretion, Nasal"
+msgstr "Sécrétion nasale"
+
+# null
+#: NSECR@definition
+msgid "Secretion, Nasal"
+msgstr ""
+
+# null
+#: ORH
+msgid "Other"
+msgstr "Autre"
+
+# null
+#: ORH@definition
+msgid "Other"
+msgstr ""
+
+# null
+#: ORL
+msgid "Lesion, Oral"
+msgstr "Lésion orale"
+
+# null
+#: ORL@definition
+msgid "Lesion, Oral"
+msgstr ""
+
+# null
+#: OTH
+msgid "Source, Other"
+msgstr "Autre origine"
+
+# null
+#: OTH@definition
+msgid "Source, Other"
+msgstr ""
+
+# null
+#: PACEM
+msgid "Pacemaker"
+msgstr "Stimulateur cardiaque"
+
+# null
+#: PACEM@definition
+msgid "Pacemaker"
+msgstr ""
+
+# null
+#: PAFL
+msgid "Pancreatic fluid"
+msgstr "Liquide pancréatique"
+
+# null
+#: PAFL@definition
+msgid "Pancreatic fluid"
+msgstr ""
+
+# null
+#: PCFL
+msgid "Fluid, Pericardial"
+msgstr "Liquide péricardique"
+
+# null
+#: PCFL@definition
+msgid "Fluid, Pericardial"
+msgstr ""
+
+# null
+#: PDSIT
+msgid "Site, Peritoneal Dialysis"
+msgstr "Dialyse péritonéale (site)"
+
+# null
+#: PDSIT@definition
+msgid "Site, Peritoneal Dialysis"
+msgstr ""
+
+# null
+#: PDTS
+msgid "Site, Peritoneal Dialysis Tunnel"
+msgstr "Dialyse péritonéale, Tunnel (site)"
+
+# null
+#: PDTS@definition
+msgid "Site, Peritoneal Dialysis Tunnel"
+msgstr ""
+
+# null
+#: PELVA
+msgid "Abscess, Pelvic"
+msgstr "Abcès pelvien"
+
+# null
+#: PELVA@definition
+msgid "Abscess, Pelvic"
+msgstr ""
+
+# null
+#: PENIL
+msgid "Lesion, Penile"
+msgstr "Lésion du pénis"
+
+# null
+#: PENIL@definition
+msgid "Lesion, Penile"
+msgstr ""
+
+# null
+#: PERIA
+msgid "Abscess, Perianal"
+msgstr "Abcès périanal"
+
+# null
+#: PERIA@definition
+msgid "Abscess, Perianal"
+msgstr ""
+
+# null
+#: PILOC
+msgid "Cyst, Pilonidal"
+msgstr "kyste pilonidal"
+
+# null
+#: PILOC@definition
+msgid "Cyst, Pilonidal"
+msgstr ""
+
+# null
+#: PINS
+msgid "Site, Pin"
+msgstr "Site de la broche"
+
+# null
+#: PINS@definition
+msgid "Site, Pin"
+msgstr ""
+
+# null
+#: PIS
+msgid "Site, Pacemaker Insetion"
+msgstr "Site d'insertion du stimulateur cardiaque"
+
+# null
+#: PIS@definition
+msgid "Site, Pacemaker Insetion"
+msgstr ""
+
+# null
+#: PLAN
+msgid "Plant Material"
+msgstr "Matériel végétal"
+
+# null
+#: PLAN@definition
+msgid "Plant Material"
+msgstr ""
+
+# null
+#: PLAS
+msgid "Plasma"
+msgstr "Plasma"
+
+# null
+#: PLAS@definition
+msgid "Plasma"
+msgstr ""
+
+# null
+#: PLB
+msgid "Plasma bag"
+msgstr "Poche de plasma"
+
+# null
+#: PLB@definition
+msgid "Plasma bag"
+msgstr ""
+
+# null
+#: PLC
+msgid "Placenta"
+msgstr "Placenta"
+
+# null
+#: PLC@definition
+msgid "Placenta"
+msgstr ""
+
+# null
+#: PLEVS
+msgid "Serum, Peak Level"
+msgstr "Sérum au pic"
+
+# null
+#: PLEVS@definition
+msgid "Serum, Peak Level"
+msgstr ""
+
+# null
+#: PLR
+msgid "Pleural fluid (thoracentesis fluid)"
+msgstr "Liquide pleural"
+
+# null
+#: PLR@definition
+msgid "Pleural fluid (thoracentesis fluid)"
+msgstr ""
+
+# null
+#: PMN
+msgid "Polymorphonuclear neutrophils"
+msgstr "Polynucléaires neutrophiles"
+
+# null
+#: PMN@definition
+msgid "Polymorphonuclear neutrophils"
+msgstr ""
+
+# null
+#: PND
+msgid "Drainage, Penile"
+msgstr "Drainage pénien"
+
+# null
+#: PND@definition
+msgid "Drainage, Penile"
+msgstr ""
+
+# null
+#: POL
+msgid "Polyps"
+msgstr "Polypes"
+
+# null
+#: POL@definition
+msgid "Polyps"
+msgstr ""
+
+# null
+#: POPGS
+msgid "Graft Site, Popliteal"
+msgstr "Site de greffe poplité"
+
+# null
+#: POPGS@definition
+msgid "Graft Site, Popliteal"
+msgstr ""
+
+# null
+#: POPLG
+msgid "Graft, Popliteal"
+msgstr "Greffe poplitée"
+
+# null
+#: POPLG@definition
+msgid "Graft, Popliteal"
+msgstr ""
+
+# null
+#: POPLV
+msgid "Site, Popliteal Vein"
+msgstr "Veine poplitée (site)"
+
+# null
+#: POPLV@definition
+msgid "Site, Popliteal Vein"
+msgstr ""
+
+# null
+#: PORTA
+msgid "Catheter, Porta"
+msgstr "Chambre implantable"
+
+# null
+#: PORTA@definition
+msgid "Catheter, Porta"
+msgstr ""
+
+# null
+#: PPP
+msgid "Plasma, Platelet poor"
+msgstr "Plasma pauvre en plaquettes"
+
+# null
+#: PPP@definition
+msgid "Plasma, Platelet poor"
+msgstr ""
+
+# null
+#: PROST
+msgid "Prosthetic Device"
+msgstr "Appareil prothétique"
+
+# null
+#: PROST@definition
+msgid "Prosthetic Device"
+msgstr ""
+
+# null
+#: PRP
+msgid "Plasma, Platelet rich"
+msgstr "Plasma riche en plaquettes"
+
+# null
+#: PRP@definition
+msgid "Plasma, Platelet rich"
+msgstr ""
+
+# null
+#: PSC
+msgid "Pseudocyst"
+msgstr "Pseudokyste"
+
+# null
+#: PSC@definition
+msgid "Pseudocyst"
+msgstr ""
+
+# null
+#: PUNCT
+msgid "Wound, Puncture"
+msgstr "Blessure, Perforation"
+
+# null
+#: PUNCT@definition
+msgid "Wound, Puncture"
+msgstr ""
+
+# null
+#: PUS
+msgid "Pus"
+msgstr "Pus"
+
+# null
+#: PUS@definition
+msgid "Pus"
+msgstr ""
+
+# null
+#: PUSFR
+msgid "Pustule"
+msgstr "Pustule"
+
+# null
+#: PUSFR@definition
+msgid "Pustule"
+msgstr ""
+
+# null
+#: PUST
+msgid "Pus"
+msgstr "Pus"
+
+# null
+#: PUST@definition
+msgid "Pus"
+msgstr ""
+
+# null
+#: QC3
+msgid "Quality Control"
+msgstr "Contrôle qualité"
+
+# null
+#: QC3@definition
+msgid "Quality Control"
+msgstr ""
+
+# null
+#: RANDU
+msgid "Urine, Random"
+msgstr "Urine aléatoire"
+
+# null
+#: RANDU@definition
+msgid "Urine, Random"
+msgstr ""
+
+# null
+#: RBC
+msgid "Erythrocytes"
+msgstr "Erythrocytes"
+
+# null
+#: RBC@definition
+msgid "Erythrocytes"
+msgstr ""
+
+# null
+#: RBITE
+msgid "Bite, Reptile"
+msgstr "Morsure de reptile"
+
+# null
+#: RBITE@definition
+msgid "Bite, Reptile"
+msgstr ""
+
+# null
+#: RECT
+msgid "Drainage, Rectal"
+msgstr "Drainage rectal"
+
+# null
+#: RECT@definition
+msgid "Drainage, Rectal"
+msgstr ""
+
+# null
+#: RECTA
+msgid "Abscess, Rectal"
+msgstr "Abcès rectal"
+
+# null
+#: RECTA@definition
+msgid "Abscess, Rectal"
+msgstr ""
+
+# null
+#: RENALC
+msgid "Cyst, Renal"
+msgstr "Kyste rénal"
+
+# null
+#: RENALC@definition
+msgid "Cyst, Renal"
+msgstr ""
+
+# null
+#: RENC
+msgid "Fluid, Renal Cyst"
+msgstr "Liquide de kyste rénal"
+
+# null
+#: RENC@definition
+msgid "Fluid, Renal Cyst"
+msgstr ""
+
+# null
+#: RES
+msgid "Respiratory"
+msgstr "Respiratoire"
+
+# null
+#: RES@definition
+msgid "Respiratory"
+msgstr ""
+
+# null
+#: SAL
+msgid "Saliva"
+msgstr "Salive"
+
+# null
+#: SAL@definition
+msgid "Saliva"
+msgstr ""
+
+# null
+#: SCAR
+msgid "Tissue, Keloid (Scar)"
+msgstr "Cicatrice"
+
+# null
+#: SCAR@definition
+msgid "Tissue, Keloid (Scar)"
+msgstr ""
+
+# null
+#: SCLV
+msgid "Catheter Tip, Subclavian"
+msgstr "Cathéter sous-clavière (embout)"
+
+# null
+#: SCLV@definition
+msgid "Catheter Tip, Subclavian"
+msgstr ""
+
+# null
+#: SCROA
+msgid "Abscess, Scrotal"
+msgstr "Abcès scrotal"
+
+# null
+#: SCROA@definition
+msgid "Abscess, Scrotal"
+msgstr ""
+
+# null
+#: SECRE
+msgid "Secretion(s)"
+msgstr "Sécrétion(s)"
+
+# null
+#: SECRE@definition
+msgid "Secretion(s)"
+msgstr ""
+
+# null
+#: SER
+msgid "Serum"
+msgstr "Sérum"
+
+# null
+#: SER@definition
+msgid "Serum"
+msgstr ""
+
+# null
+#: SHU
+msgid "Site, Shunt"
+msgstr "Site du shunt"
+
+# null
+#: SHU@definition
+msgid "Site, Shunt"
+msgstr ""
+
+# null
+#: SHUNF
+msgid "Fluid, Shunt"
+msgstr "Liquide de shunt"
+
+# null
+#: SHUNF@definition
+msgid "Fluid, Shunt"
+msgstr ""
+
+# null
+#: SHUNT
+msgid "Shunt"
+msgstr "Shunt (site)"
+
+# null
+#: SHUNT@definition
+msgid "Shunt"
+msgstr ""
+
+# null
+#: SITE
+msgid "Site"
+msgstr "Site"
+
+# null
+#: SITE@definition
+msgid "Site"
+msgstr ""
+
+# null
+#: SKBP
+msgid "Biopsy, Skin"
+msgstr "Biopsie de peau"
+
+# null
+#: SKBP@definition
+msgid "Biopsy, Skin"
+msgstr ""
+
+# null
+#: SKN
+msgid "Skin"
+msgstr "Peau"
+
+# null
+#: SKN@definition
+msgid "Skin"
+msgstr ""
+
+# null
+#: SMM
+msgid "Mass, Sub-Mandibular"
+msgstr "Masse sous-mandibulaire"
+
+# null
+#: SMM@definition
+msgid "Mass, Sub-Mandibular"
+msgstr ""
+
+# null
+#: SMN
+msgid "Seminal fluid"
+msgstr "Sperme"
+
+# null
+#: SMN@definition
+msgid "Seminal fluid"
+msgstr ""
+
+# null
+#: SNV
+msgid "Fluid, synovial (Joint fluid)"
+msgstr "Liquide synovial"
+
+# null
+#: SNV@definition
+msgid "Fluid, synovial (Joint fluid)"
+msgstr ""
+
+# null
+#: SPRM
+msgid "Spermatozoa"
+msgstr "Spermatozoïdes"
+
+# null
+#: SPRM@definition
+msgid "Spermatozoa"
+msgstr ""
+
+# null
+#: SPRP
+msgid "Catheter Tip, Suprapubic"
+msgstr "Cathéter sus-pubien (embout)"
+
+# null
+#: SPRP@definition
+msgid "Catheter Tip, Suprapubic"
+msgstr ""
+
+# null
+#: SPRPB
+msgid "Cathether Tip, Suprapubic"
+msgstr "Cathéter suprapubien (embout)"
+
+# null
+#: SPRPB@definition
+msgid "Cathether Tip, Suprapubic"
+msgstr ""
+
+# null
+#: SPS
+msgid "Environmental, Spore Strip"
+msgstr "Bande de spores"
+
+# null
+#: SPS@definition
+msgid "Environmental, Spore Strip"
+msgstr ""
+
+# null
+#: SPT
+msgid "Sputum"
+msgstr "Expectoration (crachat)"
+
+# null
+#: SPT@definition
+msgid "Sputum"
+msgstr ""
+
+# null
+#: SPTC
+msgid "Sputum - coughed"
+msgstr "Expectoration (Toux)"
+
+# null
+#: SPTC@definition
+msgid "Sputum - coughed"
+msgstr ""
+
+# null
+#: SPTT
+msgid "Sputum - tracheal aspirate"
+msgstr "Expectoration (crachat) par aspiration trachéale"
+
+# null
+#: SPTT@definition
+msgid "Sputum - tracheal aspirate"
+msgstr ""
+
+# null
+#: SPUT1
+msgid "Sputum, Simulated"
+msgstr "Expectoration simulée (crachat)"
+
+# null
+#: SPUT1@definition
+msgid "Sputum, Simulated"
+msgstr ""
+
+# null
+#: SPUTIN
+msgid "Sputum, Inducted"
+msgstr "Expectoration induite (crachat)"
+
+# null
+#: SPUTIN@definition
+msgid "Sputum, Inducted"
+msgstr ""
+
+# null
+#: SPUTSP
+msgid "Sputum, Spontaneous"
+msgstr "Expectoration spontanée (crachat)"
+
+# null
+#: SPUTSP@definition
+msgid "Sputum, Spontaneous"
+msgstr ""
+
+# null
+#: STER
+msgid "Environmental, Sterrad"
+msgstr "Sterrad"
+
+# null
+#: STER@definition
+msgid "Environmental, Sterrad"
+msgstr ""
+
+# null
+#: STL
+msgid "Stool = Fecal"
+msgstr "Selles"
+
+# null
+#: STL@definition
+msgid "Stool = Fecal"
+msgstr ""
+
+# null
+#: STONE
+msgid "Stone, Kidney"
+msgstr "Calcul rénal"
+
+# null
+#: STONE@definition
+msgid "Stone, Kidney"
+msgstr ""
+
+# null
+#: SUBMA
+msgid "Abscess, Submandibular"
+msgstr "Abcès sous-mandibulaire"
+
+# null
+#: SUBMA@definition
+msgid "Abscess, Submandibular"
+msgstr ""
+
+# null
+#: SUBMX
+msgid "Abscess, Submaxillary"
+msgstr "Abcès sous-maxillaire"
+
+# null
+#: SUBMX@definition
+msgid "Abscess, Submaxillary"
+msgstr ""
+
+# null
+#: SUMP
+msgid "Drainage, Sump"
+msgstr "Drain de puisard"
+
+# null
+#: SUMP@definition
+msgid "Drainage, Sump"
+msgstr ""
+
+# null
+#: SUP
+msgid "Suprapubic Tap"
+msgstr "Robinet suprapubien"
+
+# null
+#: SUP@definition
+msgid "Suprapubic Tap"
+msgstr ""
+
+# null
+#: SUTUR
+msgid "Suture"
+msgstr "Suture"
+
+# null
+#: SUTUR@definition
+msgid "Suture"
+msgstr ""
+
+# null
+#: SWGZ
+msgid "Catheter Tip, Swan Gantz"
+msgstr "Cathéter de Swan-Ganz"
+
+# null
+#: SWGZ@definition
+msgid "Catheter Tip, Swan Gantz"
+msgstr ""
+
+# null
+#: SWT
+msgid "Sweat"
+msgstr "Sueur"
+
+# null
+#: SWT@definition
+msgid "Sweat"
+msgstr ""
+
+# null
+#: TASP
+msgid "Aspirate, Tracheal"
+msgstr "Aspiration trachéale"
+
+# null
+#: TASP@definition
+msgid "Aspirate, Tracheal"
+msgstr ""
+
+# null
+#: TEAR
+msgid "Tears"
+msgstr "Larmes"
+
+# null
+#: TEAR@definition
+msgid "Tears"
+msgstr ""
+
+# null
+#: THRB
+msgid "Thrombocyte (platelet)"
+msgstr "Plaquettes"
+
+# null
+#: THRB@definition
+msgid "Thrombocyte (platelet)"
+msgstr ""
+
+# null
+#: TISS
+msgid "Tissue"
+msgstr "Tissu"
+
+# null
+#: TISS@definition
+msgid "Tissue"
+msgstr ""
+
+# null
+#: TISU
+msgid "Tissue ulcer"
+msgstr "Tissu ulcéreux"
+
+# null
+#: TISU@definition
+msgid "Tissue ulcer"
+msgstr ""
+
+# null
+#: TLC
+msgid "Cathether Tip, Triple Lumen"
+msgstr "Cathéter triple lumière (embout)"
+
+# null
+#: TLC@definition
+msgid "Cathether Tip, Triple Lumen"
+msgstr ""
+
+# null
+#: TRAC
+msgid "Site, Tracheostomy"
+msgstr "Trachéotomie (site)"
+
+# null
+#: TRAC@definition
+msgid "Site, Tracheostomy"
+msgstr ""
+
+# null
+#: TRANS
+msgid "Transudate"
+msgstr "Transudat"
+
+# null
+#: TRANS@definition
+msgid "Transudate"
+msgstr ""
+
+# null
+#: TSERU
+msgid "Serum, Trough"
+msgstr "par sérum"
+
+# null
+#: TSERU@definition
+msgid "Serum, Trough"
+msgstr ""
+
+# null
+#: TSTES
+msgid "Abscess, Testicular"
+msgstr "Abcès testiculaire"
+
+# null
+#: TSTES@definition
+msgid "Abscess, Testicular"
+msgstr ""
+
+# null
+#: TTRA
+msgid "Aspirate, Transtracheal"
+msgstr "Aspiration transtrachéale"
+
+# null
+#: TTRA@definition
+msgid "Aspirate, Transtracheal"
+msgstr ""
+
+# null
+#: TUBES
+msgid "Tubes"
+msgstr "Tubes"
+
+# null
+#: TUBES@definition
+msgid "Tubes"
+msgstr ""
+
+# null
+#: TUMOR
+msgid "Tumor"
+msgstr "Tumeur"
+
+# null
+#: TUMOR@definition
+msgid "Tumor"
+msgstr ""
+
+# null
+#: TZANC
+msgid "Smear, Tzanck"
+msgstr "Frottis de Tzanck"
+
+# null
+#: TZANC@definition
+msgid "Smear, Tzanck"
+msgstr ""
+
+# null
+#: UDENT
+msgid "Source, Unidentified"
+msgstr "Origine non identifiée"
+
+# null
+#: UDENT@definition
+msgid "Source, Unidentified"
+msgstr ""
+
+# null
+#: UMED
+msgid "Unknown Medicine"
+msgstr "Médicament inconnu"
+
+# null
+#: UMED@definition
+msgid "Unknown Medicine"
+msgstr ""
+
+# null
+#: UR
+msgid "Urine"
+msgstr "Urine"
+
+# null
+#: UR@definition
+msgid "Urine"
+msgstr ""
+
+# null
+#: URC
+msgid "Urine clean catch"
+msgstr "Urine 1er jet"
+
+# null
+#: URC@definition
+msgid "Urine clean catch"
+msgstr ""
+
+# null
+#: URINB
+msgid "Urine, Bladder Washings"
+msgstr "Urine de lavage vésical"
+
+# null
+#: URINB@definition
+msgid "Urine, Bladder Washings"
+msgstr ""
+
+# null
+#: URINC
+msgid "Urine, Catheterized"
+msgstr "Urine cathétérisée"
+
+# null
+#: URINC@definition
+msgid "Urine, Catheterized"
+msgstr ""
+
+# null
+#: URINM
+msgid "Urine, Midstream"
+msgstr "Urine milieu de jet"
+
+# null
+#: URINM@definition
+msgid "Urine, Midstream"
+msgstr ""
+
+# null
+#: URINN
+msgid "Urine, Nephrostomy"
+msgstr "Urine de néphrostomie"
+
+# null
+#: URINN@definition
+msgid "Urine, Nephrostomy"
+msgstr ""
+
+# null
+#: URINP
+msgid "Urine, Pedibag"
+msgstr "Urine de poche pédiatrique"
+
+# null
+#: URINP@definition
+msgid "Urine, Pedibag"
+msgstr ""
+
+# null
+#: URNS
+msgid "Urine sediment"
+msgstr "Sédiments urinaires"
+
+# null
+#: URNS@definition
+msgid "Urine sediment"
+msgstr ""
+
+# null
+#: URT
+msgid "Urine catheter"
+msgstr "Urine par cathéter"
+
+# null
+#: URT@definition
+msgid "Urine catheter"
+msgstr ""
+
+# null
+#: USCOP
+msgid "Urine, Cystoscopy"
+msgstr "Urine de cystoscopie"
+
+# null
+#: USCOP@definition
+msgid "Urine, Cystoscopy"
+msgstr ""
+
+# null
+#: USPEC
+msgid "Source, Unspecified"
+msgstr "Origine non spécifiée"
+
+# null
+#: USPEC@definition
+msgid "Source, Unspecified"
+msgstr ""
+
+# null
+#: USUB
+msgid "Unkown substance"
+msgstr "Substance inconnue"
+
+# null
+#: USUB@definition
+msgid "Unkown substance"
+msgstr ""
+
+# null
+#: VASTIP
+msgid "Catheter Tip, Vas"
+msgstr "Cathéter vasculaire (embout)"
+
+# null
+#: VASTIP@definition
+msgid "Catheter Tip, Vas"
+msgstr ""
+
+# null
+#: VENT
+msgid "Catheter Tip, Ventricular"
+msgstr "Cathéter ventriculaire (embout)"
+
+# null
+#: VENT@definition
+msgid "Catheter Tip, Ventricular"
+msgstr ""
+
+# null
+#: VITF
+msgid "Vitreous Fluid"
+msgstr "Corps vitré"
+
+# null
+#: VITF@definition
+msgid "Vitreous Fluid"
+msgstr ""
+
+# null
+#: VOM
+msgid "Vomitus"
+msgstr "Vomissure"
+
+# null
+#: VOM@definition
+msgid "Vomitus"
+msgstr ""
+
+# null
+#: WASH
+msgid "Wash"
+msgstr "Produit de lavage"
+
+# null
+#: WASH@definition
+msgid "Wash"
+msgstr ""
+
+# null
+#: WASI
+msgid "Washing, e.g. bronchial washing"
+msgstr "Lavage, par ex. lavage broncho-alvéolaire"
+
+# null
+#: WASI@definition
+msgid "Washing, e.g. bronchial washing"
+msgstr ""
+
+# null
+#: WAT
+msgid "Water"
+msgstr "Eau"
+
+# null
+#: WAT@definition
+msgid "Water"
+msgstr ""
+
+# null
+#: WB
+msgid "Blood, Whole"
+msgstr "Sang total"
+
+# null
+#: WB@definition
+msgid "Blood, Whole"
+msgstr ""
+
+# null
+#: WBC
+msgid "Leukocytes"
+msgstr "Leucocytes"
+
+# null
+#: WBC@definition
+msgid "Leukocytes"
+msgstr ""
+
+# null
+#: WEN
+msgid "Wen"
+msgstr "Loupe"
+
+# null
+#: WEN@definition
+msgid "Wen"
+msgstr ""
+
+# null
+#: WICK
+msgid "Wick"
+msgstr "Mèche"
+
+# null
+#: WICK@definition
+msgid "Wick"
+msgstr ""
+
+# null
+#: WND
+msgid "Wound"
+msgstr "Plaie"
+
+# null
+#: WND@definition
+msgid "Wound"
+msgstr ""
+
+# null
+#: WNDA
+msgid "Wound abscess"
+msgstr "Abcès d'une plaie"
+
+# null
+#: WNDA@definition
+msgid "Wound abscess"
+msgstr ""
+
+# null
+#: WNDD
+msgid "Wound drainage"
+msgstr "Drainage d'une plaie"
+
+# null
+#: WNDD@definition
+msgid "Wound drainage"
+msgstr ""
+
+# null
+#: WNDE
+msgid "Wound exudate"
+msgstr "Exsudat d'une plaie"
+
+# null
+#: WNDE@definition
+msgid "Wound exudate"
+msgstr ""
+
+# null
+#: WORM
+msgid "Worm"
+msgstr "Ver"
+
+# null
+#: WORM@definition
+msgid "Worm"
+msgstr ""
+
+# null
+#: WRT
+msgid "Wart"
+msgstr "Verrue"
+
+# null
+#: WRT@definition
+msgid "Wart"
+msgstr ""
+
+# null
+#: WWA
+msgid "Environmental, Water"
+msgstr "Eau environnementale"
+
+# null
+#: WWA@definition
+msgid "Environmental, Water"
+msgstr ""
+
+# null
+#: WWO
+msgid "Environmental, Water (Ocean)"
+msgstr "Eau (océan)"
+
+# null
+#: WWO@definition
+msgid "Environmental, Water (Ocean)"
+msgstr ""
+
+# null
+#: WWT
+msgid "Environmental, Water  (Tap)"
+msgstr "Eau (robinet)"
+
+# null
+#: WWT@definition
+msgid "Environmental, Water  (Tap)"
+msgstr ""
+
+# null
+#: !!BLDC
+msgid "BLDC"
+msgstr "Sang capillaire"
+
+# null
+#: !!BRO
+msgid "BRO"
+msgstr "Prélèvement bronchique"
+
+# null
+#: !!CRN
+msgid "CRN"
+msgstr "Cornée"
+
+# null
+#: !!CVX
+msgid "CVX"
+msgstr "Col de l’utérus"
+
+# null
+#: !!DOSE
+msgid "DOSE"
+msgstr "Posologie (médicament ou substance)"
+
+# null
+#: !!EAR
+msgid "EAR"
+msgstr "Oreille"
+
+# null
+#: !!ENDC
+msgid "ENDC"
+msgstr "Endocarde"
+
+# null
+#: !!ENDM
+msgid "ENDM"
+msgstr "Endomètre"
+
+# null
+#: !!EYE
+msgid "EYE"
+msgstr "Oeil"
+
+# null
+#: !!FOOD
+msgid "FOOD"
+msgstr "Aliment"
+
+# null
+#: !!GEN
+msgid "GEN"
+msgstr "Prélèvement génitaux"
+
+# null
+#: !!GENC
+msgid "GENC"
+msgstr "Prélèvement cervico-vaginal"
+
+# null
+#: !!GENF
+msgid "GENF"
+msgstr "Sécrétions des organes génitaux"
+
+# null
+#: !!LAM
+msgid "LAM"
+msgstr "Lame"
+
+# null
+#: !!LN
+msgid "LN"
+msgstr "Ponction"
+
+# null
+#: !!NOS
+msgid "NOS"
+msgstr "Prélèvement nasopharyngée"
+
+# null
+#: !!PAT
+msgid "PAT"
+msgstr "Patient"
+
+# null
+#: !!PRT
+msgid "PRT"
+msgstr "Liquide péritonéal"
+
+# null
+#: !!SKM
+msgid "SKM"
+msgstr "Muscle squelettique"
+
+# null
+#: !!SMPLS
+msgid "SMPLS"
+msgstr "Plasma séminal"
+
+# null
+#: !!THRT
+msgid "THRT"
+msgstr "Gorge"
+
+# null
+#: !!TISG
+msgid "TISG"
+msgstr "Vésicule biliaire"
+
+# null
+#: !!TISPL
+msgid "TISPL"
+msgstr "Trophoblastes"
+
+# null
+#: !!TLGI
+msgid "TLGI"
+msgstr "Gros intestin"
+
+# null
+#: !!TLNG
+msgid "TLNG"
+msgstr "Tissu pulmonaire"
+
+# null
+#: !!TSMI
+msgid "TSMI"
+msgstr "Intestin grêle"
+
+# null
+#: !!TUB
+msgid "TUB"
+msgstr "Tube"
+
+# null
+#: !!ULC
+msgid "ULC"
+msgstr "Ulcère"
+
+# null
+#: !!UMB
+msgid "UMB"
+msgstr "Sang de cordon ombilical"
+
+# null
+#: !!URTH
+msgid "URTH"
+msgstr "Urètre"
+
