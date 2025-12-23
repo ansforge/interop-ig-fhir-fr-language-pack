@@ -37,7 +37,7 @@ Ce système de codes est référencé dans la définition des ensembles de valeu
   "name" : "AdministrativeGender",
   "title" : "AdministrativeGender",
   "status" : "active",
-  "date" : "2025-12-23T09:35:21+00:00",
+  "date" : "2025-12-23T09:39:52+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "The gender of a person used for adminstrative purposes (as opposed to clinical gender)",
   "jurisdiction" : [
