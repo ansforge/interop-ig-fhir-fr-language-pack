@@ -93,6 +93,14 @@ Ce jeu de valeurs nest pas utilisé ici ; il peut être utilisé autre part (par
             "code" : "UN"
           }
         ]
+      },
+      {
+        "system" : "http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm",
+        "concept" : [
+          {
+            "code" : "DROP"
+          }
+        ]
       }
     ]
   }

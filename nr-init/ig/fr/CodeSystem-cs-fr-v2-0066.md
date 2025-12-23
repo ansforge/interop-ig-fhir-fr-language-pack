@@ -37,7 +37,7 @@ Ce système de codes est référencé dans la définition des ensembles de valeu
   "name" : "EmploymentStatus",
   "title" : "employmentStatus",
   "status" : "active",
-  "date" : "2025-12-23T09:57:47+00:00",
+  "date" : "2025-12-23T10:01:19+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "HL7-defined code system of concepts which specify an employment status of a person. Used in HL7 Version 2 messaging in the GT1 segment.",
   "jurisdiction" : [

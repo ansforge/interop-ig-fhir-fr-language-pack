@@ -11,6 +11,18 @@
       "uses" : {
       },
       "ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.html" : "AdministrativeGender"
+    },
+    {
+      "url" : "http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm",
+      "version" : "3.0.0",
+      "status" : "active",
+      "name" : "OrderableDrugForm",
+      "title" : "Orderable Drug Form",
+      "description" : "*OpenIssue:* Missing description.",
+      "oids" : ["2.16.840.1.113883.5.85"],
+      "uses" : {
+      },
+      "ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.html" : "AdministrativeGender"
     }
   ]
 }

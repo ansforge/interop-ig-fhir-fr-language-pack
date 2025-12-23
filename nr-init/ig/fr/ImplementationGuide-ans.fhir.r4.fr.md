@@ -14,7 +14,7 @@
   "name" : "FHIRLangPackFrench",
   "title" : "French language pack for FHIR R4",
   "status" : "draft",
-  "date" : "2025-12-23T09:57:47+00:00",
+  "date" : "2025-12-23T10:01:19+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "contact" : [
     {
