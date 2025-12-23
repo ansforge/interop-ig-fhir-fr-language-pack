@@ -1,60 +1,55 @@
 {
-  "date" : "Tue, 23 Dec, 2025 08:56:57 +0000",
+  "date" : "Tue, 23 Dec, 2025 09:21:12 +0000",
   "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
   "files" : [
     {
       "name" : "/fsh-generated/resources/ImplementationGuide-ans.fhir.r4.fr.json",
-      "size" : 2138,
+      "size" : 2070,
       "processes" : [
         {
           "activity" : "load",
           "start" : 30,
-          "length" : 264
+          "length" : 260
         },
         {
           "activity" : "checkR4R4B",
-          "start" : 32,
-          "length" : 21
+          "start" : 31,
+          "length" : 19
         },
         {
           "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 88
+          "start" : 31,
+          "length" : 92
         },
         {
           "activity" : "validate",
-          "start" : 38,
-          "length" : 2324
+          "start" : 40,
+          "length" : 3237
         },
         {
           "activity" : "scanForUsageStats",
-          "start" : 40,
+          "start" : 43,
           "length" : 1
         },
         {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 14
-        },
-        {
           "activity" : "generate1",
-          "start" : 41,
-          "length" : 99
+          "start" : 43,
+          "length" : 146
         },
         {
           "activity" : "generate2",
-          "start" : 44,
-          "length" : 104
+          "start" : 47,
+          "length" : 197
         },
         {
           "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 9
+          "start" : 54,
+          "length" : 10
         },
         {
           "activity" : "scanExamplesForR5",
-          "start" : 56,
-          "length" : 2
+          "start" : 59,
+          "length" : 1
         }
       ]
     },
@@ -65,763 +60,191 @@
         {
           "activity" : "loadResources",
           "start" : 30,
-          "length" : 27
+          "length" : 25
         },
         {
           "activity" : "load",
           "start" : 30,
-          "length" : 7
+          "length" : 5
         },
         {
           "activity" : "load-configure",
-          "start" : 32,
-          "length" : 1
-        },
-        {
-          "activity" : "checkR4R4B",
-          "start" : 32,
+          "start" : 31,
           "length" : 1
         },
         {
           "activity" : "generateNarratives",
           "start" : 32,
-          "length" : 48
+          "length" : 46
         },
         {
           "activity" : "validate",
-          "start" : 38,
-          "length" : 24
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 5
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 20
-        },
-        {
-          "activity" : "generate2",
-          "start" : 44,
-          "length" : 641
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v3-mediaType.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 5
-        },
-        {
-          "activity" : "checkR4R4B",
-          "start" : 32,
-          "length" : 1
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 11
-        },
-        {
-          "activity" : "validate",
-          "start" : 32,
-          "length" : 4101
-        },
-        {
-          "activity" : "checkConformanceResources",
-          "start" : 40,
-          "length" : 1
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 2
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 20
-        },
-        {
-          "activity" : "generate2",
-          "start" : 44,
-          "length" : 126
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v3-ActPriority.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 3
-        },
-        {
-          "activity" : "load-configure",
-          "start" : 32,
-          "length" : 1
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 8
-        },
-        {
-          "activity" : "validate",
-          "start" : 36,
-          "length" : 24
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 1
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 22
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 59
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v2-0487.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 20
-        },
-        {
-          "activity" : "load-configure",
-          "start" : 32,
-          "length" : 1
-        },
-        {
-          "activity" : "checkR4R4B",
-          "start" : 32,
-          "length" : 8
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 61
-        },
-        {
-          "activity" : "validate",
-          "start" : 36,
-          "length" : 890
-        },
-        {
-          "activity" : "scanForUsageStats",
-          "start" : 40,
-          "length" : 1
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 28
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 163
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 219
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 11
-        },
-        {
-          "activity" : "scanExamplesForR5",
-          "start" : 56,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v3-ActMood.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 5
-        },
-        {
-          "activity" : "checkR4R4B",
-          "start" : 32,
-          "length" : 1
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 7
-        },
-        {
-          "activity" : "validate",
-          "start" : 37,
-          "length" : 20
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 3
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 21
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 38
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v3-TimingEvent.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 4
-        },
-        {
-          "activity" : "checkR4R4B",
-          "start" : 32,
-          "length" : 1
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 6
-        },
-        {
-          "activity" : "validate",
-          "start" : 37,
-          "length" : 35
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 1
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 21
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 39
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v3-ParticipationFunction.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 3
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 6
-        },
-        {
-          "activity" : "validate",
-          "start" : 37,
-          "length" : 8
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 2
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 15
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 32
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v3-RoleCode.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 7
-        },
-        {
-          "activity" : "load-configure",
-          "start" : 32,
-          "length" : 1
-        },
-        {
-          "activity" : "checkR4R4B",
-          "start" : 32,
-          "length" : 3
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 18
-        },
-        {
-          "activity" : "validate",
-          "start" : 37,
-          "length" : 343
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 20
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 63
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 79
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 4
-        },
-        {
-          "activity" : "scanExamplesForR5",
-          "start" : 56,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v3-Confidentiality.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 4
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 5
-        },
-        {
-          "activity" : "validate",
-          "start" : 37,
-          "length" : 9
-        },
-        {
-          "activity" : "scanForUsageStats",
-          "start" : 40,
-          "length" : 1
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 2
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 12
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 29
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-allergy-intolerance-criticality.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 3
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 5
-        },
-        {
-          "activity" : "validate",
-          "start" : 37,
-          "length" : 10
-        },
-        {
-          "activity" : "validate",
-          "start" : 38,
-          "length" : 1
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 11
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 29
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v2-0066.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 4
-        },
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 1
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 7
-        },
-        {
-          "activity" : "validate",
-          "start" : 37,
-          "length" : 10
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 1
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 16
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 30
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-allergyintolerance-clinical.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 3
-        },
-        {
-          "activity" : "checkR4R4B",
-          "start" : 32,
-          "length" : 1
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 5
-        },
-        {
-          "activity" : "validate",
-          "start" : 37,
-          "length" : 7
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 1
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 10
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 28
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v3-AdministrativeGender.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 4
-        },
-        {
-          "activity" : "load-configure",
-          "start" : 32,
-          "length" : 1
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 4
-        },
-        {
-          "activity" : "validate",
-          "start" : 37,
-          "length" : 7
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 10
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 27
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v3-ParticipationType.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 5
-        },
-        {
-          "activity" : "checkR4R4B",
-          "start" : 32,
-          "length" : 1
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 11
-        },
-        {
-          "activity" : "validate",
-          "start" : 37,
-          "length" : 45
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 4
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 32
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 52
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 2
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v3-orderableDrugForm.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 4
-        },
-        {
-          "activity" : "checkR4R4B",
-          "start" : 32,
-          "length" : 1
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 5
-        },
-        {
-          "activity" : "validate",
-          "start" : 37,
-          "length" : 12
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 3
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 13
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 31
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v3-ObservationMethod.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 3
-        },
-        {
-          "activity" : "load-configure",
-          "start" : 32,
-          "length" : 1
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 5
-        },
-        {
-          "activity" : "validate",
-          "start" : 37,
-          "length" : 13
-        },
-        {
-          "activity" : "translate",
           "start" : 40,
           "length" : 26
         },
         {
           "activity" : "generate1",
-          "start" : 41,
-          "length" : 17
+          "start" : 43,
+          "length" : 30
         },
         {
           "activity" : "generate2",
-          "start" : 45,
-          "length" : 33
+          "start" : 47,
+          "length" : 666
         },
         {
           "activity" : "generateValidationPack",
-          "start" : 50,
+          "start" : 54,
           "length" : 1
         }
       ]
     },
     {
-      "name" : "input/translations/CodeSystem-v3-ActStatus.po",
+      "name" : "input/translations/fr/CodeSystem-v3-mediaType.po",
       "size" : 0,
       "processes" : [
         {
           "activity" : "load",
           "start" : 30,
-          "length" : 5
+          "length" : 6
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 31,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 10
+        },
+        {
+          "activity" : "validate",
+          "start" : 32,
+          "length" : 6366
+        },
+        {
+          "activity" : "generate1",
+          "start" : 43,
+          "length" : 36
+        },
+        {
+          "activity" : "generate2",
+          "start" : 48,
+          "length" : 117
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v3-ActPriority.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 3
+        },
+        {
+          "activity" : "scan",
+          "start" : 31,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 7
+        },
+        {
+          "activity" : "validate",
+          "start" : 38,
+          "length" : 21
+        },
+        {
+          "activity" : "generate1",
+          "start" : 43,
+          "length" : 32
+        },
+        {
+          "activity" : "generate2",
+          "start" : 48,
+          "length" : 88
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v2-0487.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 18
+        },
+        {
+          "activity" : "load-configure",
+          "start" : 31,
+          "length" : 1
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 31,
+          "length" : 8
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 55
+        },
+        {
+          "activity" : "validate",
+          "start" : 38,
+          "length" : 742
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 43,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 43,
+          "length" : 228
+        },
+        {
+          "activity" : "generate2",
+          "start" : 48,
+          "length" : 340
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 10
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 59,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v3-ActMood.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 2
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 31,
+          "length" : 1
         },
         {
           "activity" : "generateNarratives",
@@ -830,28 +253,192 @@
         },
         {
           "activity" : "validate",
-          "start" : 38,
-          "length" : 8
+          "start" : 39,
+          "length" : 18
         },
         {
           "activity" : "generate1",
-          "start" : 41,
-          "length" : 15
+          "start" : 44,
+          "length" : 32
         },
         {
           "activity" : "generate2",
-          "start" : 45,
-          "length" : 29
+          "start" : 49,
+          "length" : 72
         },
         {
           "activity" : "generateValidationPack",
-          "start" : 50,
+          "start" : 54,
           "length" : 1
         }
       ]
     },
     {
-      "name" : "input/translations/CodeSystem-v3-ObservationValue.po",
+      "name" : "input/translations/fr/CodeSystem-v3-TimingEvent.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 3
+        },
+        {
+          "activity" : "load",
+          "start" : 31,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 6
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 15
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 32
+        },
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 92
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v3-ParticipationFunction.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 2
+        },
+        {
+          "activity" : "load-configure",
+          "start" : 31,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 5
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 9
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 24
+        },
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 56
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v3-RoleCode.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 4
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 31,
+          "length" : 3
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 17
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 349
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 82
+        },
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 139
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 3
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v3-Confidentiality.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 2
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 5
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 10
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 43,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 25
+        },
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 52
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-allergy-intolerance-criticality.po",
       "size" : 0,
       "processes" : [
         {
@@ -861,8 +448,44 @@
         },
         {
           "activity" : "checkR4R4B",
-          "start" : 32,
+          "start" : 31,
           "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 4
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 9
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 22
+        },
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 48
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v2-0066.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 2
         },
         {
           "activity" : "generateNarratives",
@@ -871,34 +494,250 @@
         },
         {
           "activity" : "validate",
-          "start" : 38,
-          "length" : 21
+          "start" : 39,
+          "length" : 11
         },
         {
-          "activity" : "translate",
-          "start" : 40,
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 25
+        },
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 53
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-allergyintolerance-clinical.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 3
+        },
+        {
+          "activity" : "load-configure",
+          "start" : 31,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 4
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 6
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 22
+        },
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 50
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v3-AdministrativeGender.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 2
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 5
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 7
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 22
+        },
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 57
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v3-ParticipationType.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 6
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 31,
+          "length" : 2
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 10
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 48
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 56
+        },
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 87
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 3
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v3-orderableDrugForm.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 3
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 5
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
           "length" : 13
         },
         {
           "activity" : "generate1",
-          "start" : 41,
-          "length" : 21
+          "start" : 44,
+          "length" : 24
         },
         {
           "activity" : "generate2",
-          "start" : 45,
-          "length" : 30
+          "start" : 49,
+          "length" : 53
         }
       ]
     },
     {
-      "name" : "input/translations/CodeSystem-v3-RoleClass.po",
+      "name" : "input/translations/fr/CodeSystem-v3-ObservationMethod.po",
       "size" : 0,
       "processes" : [
         {
           "activity" : "load",
           "start" : 30,
+          "length" : 3
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
           "length" : 4
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 14
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 26
+        },
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 54
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v3-ActStatus.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 3
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 5
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 8
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 23
+        },
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 52
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v3-ObservationValue.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 2
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 31,
+          "length" : 1
         },
         {
           "activity" : "generateNarratives",
@@ -907,243 +746,254 @@
         },
         {
           "activity" : "validate",
-          "start" : 38,
-          "length" : 14
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 5
+          "start" : 39,
+          "length" : 22
         },
         {
           "activity" : "generate1",
-          "start" : 41,
+          "start" : 44,
+          "length" : 27
+        },
+        {
+          "activity" : "generate2",
+          "start" : 50,
+          "length" : 45
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v3-RoleClass.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 2
+        },
+        {
+          "activity" : "load-configure",
+          "start" : 31,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 4
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 15
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 25
+        },
+        {
+          "activity" : "generate2",
+          "start" : 50,
+          "length" : 46
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v3-substanceAdminSubstitution.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 2
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 5
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 7
+        },
+        {
+          "activity" : "checkConformanceResources",
+          "start" : 43,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
           "length" : 15
         },
         {
           "activity" : "generate2",
-          "start" : 45,
-          "length" : 30
+          "start" : 50,
+          "length" : 39
         },
         {
-          "activity" : "generateValidationPack",
-          "start" : 50,
+          "activity" : "scanExamplesForR5",
+          "start" : 59,
           "length" : 1
         }
       ]
     },
     {
-      "name" : "input/translations/CodeSystem-v3-substanceAdminSubstitution.po",
+      "name" : "input/translations/fr/CodeSystem-condition-clinical.po",
       "size" : 0,
       "processes" : [
         {
           "activity" : "load",
           "start" : 30,
-          "length" : 3
-        },
-        {
-          "activity" : "load-configure",
-          "start" : 32,
-          "length" : 1
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 4
-        },
-        {
-          "activity" : "validate",
-          "start" : 38,
-          "length" : 6
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 1
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 9
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 25
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-condition-clinical.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 3
-        },
-        {
-          "activity" : "checkR4R4B",
-          "start" : 32,
-          "length" : 1
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 6
-        },
-        {
-          "activity" : "validate",
-          "start" : 38,
-          "length" : 7
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 1
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 11
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 27
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
-          "length" : 1
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-condition-ver-status.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 4
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 5
-        },
-        {
-          "activity" : "validate",
-          "start" : 38,
-          "length" : 6
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 10
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 27
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v3-ActCode.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 3
-        },
-        {
-          "activity" : "generateNarratives",
-          "start" : 32,
-          "length" : 7
-        },
-        {
-          "activity" : "validate",
-          "start" : 38,
-          "length" : 158
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
-          "length" : 77
-        },
-        {
-          "activity" : "generate1",
-          "start" : 41,
-          "length" : 18
-        },
-        {
-          "activity" : "generate2",
-          "start" : 45,
-          "length" : 32
-        },
-        {
-          "activity" : "generateValidationPack",
-          "start" : 50,
           "length" : 2
-        }
-      ]
-    },
-    {
-      "name" : "input/translations/CodeSystem-v3-ObservationInterpretation.po",
-      "size" : 0,
-      "processes" : [
-        {
-          "activity" : "load",
-          "start" : 30,
-          "length" : 5
-        },
-        {
-          "activity" : "load-configure",
-          "start" : 32,
-          "length" : 1
         },
         {
           "activity" : "checkR4R4B",
-          "start" : 32,
+          "start" : 31,
           "length" : 1
         },
         {
           "activity" : "generateNarratives",
           "start" : 32,
-          "length" : 9
-        },
-        {
-          "activity" : "validate",
-          "start" : 38,
-          "length" : 28
-        },
-        {
-          "activity" : "translate",
-          "start" : 40,
           "length" : 4
         },
         {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 8
+        },
+        {
           "activity" : "generate1",
-          "start" : 41,
-          "length" : 27
+          "start" : 44,
+          "length" : 21
         },
         {
           "activity" : "generate2",
-          "start" : 45,
+          "start" : 50,
+          "length" : 34
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-condition-ver-status.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 3
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 4
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 6
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 15
+        },
+        {
+          "activity" : "generate2",
+          "start" : 50,
+          "length" : 35
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v3-ActCode.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 3
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 7
+        },
+        {
+          "activity" : "validate",
+          "start" : 39,
+          "length" : 135
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 26
+        },
+        {
+          "activity" : "generate2",
+          "start" : 50,
           "length" : 40
         },
         {
           "activity" : "generateValidationPack",
-          "start" : 50,
+          "start" : 54,
           "length" : 2
+        }
+      ]
+    },
+    {
+      "name" : "input/translations/fr/CodeSystem-v3-ObservationInterpretation.po",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 30,
+          "length" : 4
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 31,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 32,
+          "length" : 9
+        },
+        {
+          "activity" : "validate",
+          "start" : 40,
+          "length" : 29
+        },
+        {
+          "activity" : "generate1",
+          "start" : 44,
+          "length" : 43
+        },
+        {
+          "activity" : "generate2",
+          "start" : 50,
+          "length" : 48
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 54,
+          "length" : 1
         }
       ]
     },
@@ -1153,14 +1003,21 @@
       "processes" : [
         {
           "activity" : "generate2",
-          "start" : 45,
+          "start" : 50,
           "length" : 1
         }
       ]
     },
     {
       "name" : "/fsh-generated/includes/menu.xml",
-      "size" : 1587
+      "size" : 1587,
+      "processes" : [
+        {
+          "activity" : "validate",
+          "start" : 43,
+          "length" : 1
+        }
+      ]
     },
     {
       "name" : "/input/pagecontent/index.md",
@@ -1176,11 +1033,11 @@
     },
     {
       "name" : "/temp/pages/_includes/artifacts.xml",
-      "size" : 16595,
+      "size" : 20745,
       "processes" : [
         {
           "activity" : "generate2",
-          "start" : 45,
+          "start" : 50,
           "length" : 1
         }
       ]
