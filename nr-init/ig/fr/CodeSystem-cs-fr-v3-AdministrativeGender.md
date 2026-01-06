@@ -9,7 +9,7 @@
 | | |
 | :--- | :--- |
 | *URL officiel*:https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender | *Version*:0.1.0 |
-| Active à partir de 2025-12-23 | *Nom computable*:AdministrativeGender |
+| Active à partir de 2026-01-06 | *Nom computable*:AdministrativeGender |
 | **Droit d'auteur/juridique**: This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html | |
 
  
@@ -37,7 +37,7 @@ Ce système de codes est référencé dans la définition des ensembles de valeu
   "name" : "AdministrativeGender",
   "title" : "AdministrativeGender",
   "status" : "active",
-  "date" : "2025-12-23T10:01:19+00:00",
+  "date" : "2026-01-06T09:35:23+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "The gender of a person used for adminstrative purposes (as opposed to clinical gender)",
   "jurisdiction" : [
