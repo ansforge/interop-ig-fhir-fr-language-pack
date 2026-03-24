@@ -1,0 +1,7 @@
+== Suppressed Messages ==
+
+# caseSensitive ne doit pas être défini sur un CodeSystem supplement (généré automatiquement par le publisher depuis les .po)
+CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+
+# experimental manquant sur les CodeSystem supplements générés automatiquement depuis les .po
+Published code systems SHOULD conform to the ShareableCodeSystem profile, which says that the element CodeSystem.experimental is mandatory, but it is not present
