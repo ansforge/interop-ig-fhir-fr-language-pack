@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Bundle xmlns="http://hl7.org/fhir">
-  <id value="6a0deef0-750e-4365-bfe6-464cf2a0d612"/>
+  <id value="26808c88-8129-4883-9bf6-61e928be37e1"/>
   <meta>
-    <lastUpdated value="2026-01-06T09:35:23.253+00:00"/>
+    <lastUpdated value="2026-03-24T16:04:23.587+00:00"/>
   </meta>
   <type value="collection"/>
   <entry>
@@ -23,27 +23,15 @@
               <p>Expansion effectuée en interne basée sur :</p>
               <ul>
                 <li>
-                  <a href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-AdministrativeGender.html">codesystem AdministrativeGender v3.0.0 (CodeSystem)</a>
+                  <a href="http://terminology.hl7.org/7.1.0/CodeSystem-v3-AdministrativeGender.html">codesystem AdministrativeGender v4.0.0 (CodeSystem)</a>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender|3.0.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
+                    <button data-clipboard-text="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender|4.0.0" title="Cliquer pour copier l'URL" class="btn-copy"> </button>
                   </span>
                 </li>
                 <li>
-                  <a href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-orderableDrugForm.html">codesystem Orderable Drug Form v3.0.0 (CodeSystem)</a>
+                  <a href="http://terminology.hl7.org/7.1.0/CodeSystem-v3-orderableDrugForm.html">codesystem Orderable Drug Form v4.0.0 (CodeSystem)</a>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm|3.0.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
-                  </span>
-                </li>
-                <li>
-                  <a href="CodeSystem-cs-fr-v3-AdministrativeGender.html">supplement AdministrativeGender v0.1.0 (CodeSystem)</a>
-                  <span class="copy-text-inline">
-                    <button data-clipboard-text="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender|0.1.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
-                  </span>
-                </li>
-                <li>
-                  <a href="CodeSystem-cs-fr-v3-orderableDrugForm.html">supplement Orderable Drug Form v0.1.0 (CodeSystem)</a>
-                  <span class="copy-text-inline">
-                    <button data-clipboard-text="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-orderableDrugForm|0.1.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
+                    <button data-clipboard-text="http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm|4.0.0" title="Cliquer pour copier l'URL" class="btn-copy"> </button>
                   </span>
                 </li>
               </ul>
@@ -76,7 +64,7 @@
                   <code>http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender</code>
                 </td>
                 <td style="white-space:nowrap">  
-                  <code>F</code>
+                  <a href="http://terminology.hl7.org/7.1.0/CodeSystem-v3-AdministrativeGender.html#v3-AdministrativeGender-F">F</a>
                 </td>
                 <td>Female</td>
                 <td>
@@ -87,12 +75,12 @@
                 </td>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;3.0.0&quot;, &quot;code&quot;: &quot;F&quot;, &quot;display&quot;: &quot;Female&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;4.0.0&quot;, &quot;code&quot;: &quot;F&quot;, &quot;display&quot;: &quot;Female&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;3.0.0&quot;&gt;&lt;code value=&quot;F&quot;&gt;&lt;display value=&quot;Female&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;4.0.0&quot;&gt;&lt;code value=&quot;F&quot;&gt;&lt;display value=&quot;Female&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
               </tr>
@@ -102,7 +90,7 @@
                   <code>http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender</code>
                 </td>
                 <td style="white-space:nowrap">  
-                  <code>M</code>
+                  <a href="http://terminology.hl7.org/7.1.0/CodeSystem-v3-AdministrativeGender.html#v3-AdministrativeGender-M">M</a>
                 </td>
                 <td>Male</td>
                 <td>
@@ -113,12 +101,12 @@
                 </td>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;3.0.0&quot;, &quot;code&quot;: &quot;M&quot;, &quot;display&quot;: &quot;Male&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;4.0.0&quot;, &quot;code&quot;: &quot;M&quot;, &quot;display&quot;: &quot;Male&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;3.0.0&quot;&gt;&lt;code value=&quot;M&quot;&gt;&lt;display value=&quot;Male&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;4.0.0&quot;&gt;&lt;code value=&quot;M&quot;&gt;&lt;display value=&quot;Male&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
               </tr>
@@ -128,7 +116,7 @@
                   <code>http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender</code>
                 </td>
                 <td style="white-space:nowrap">  
-                  <code>UN</code>
+                  <a href="http://terminology.hl7.org/7.1.0/CodeSystem-v3-AdministrativeGender.html#v3-AdministrativeGender-UN">UN</a>
                 </td>
                 <td>Undifferentiated</td>
                 <td>
@@ -143,12 +131,12 @@
                 </td>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;3.0.0&quot;, &quot;code&quot;: &quot;UN&quot;, &quot;display&quot;: &quot;Undifferentiated&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;4.0.0&quot;, &quot;code&quot;: &quot;UN&quot;, &quot;display&quot;: &quot;Undifferentiated&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;3.0.0&quot;&gt;&lt;code value=&quot;UN&quot;&gt;&lt;display value=&quot;Undifferentiated&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;4.0.0&quot;&gt;&lt;code value=&quot;UN&quot;&gt;&lt;display value=&quot;Undifferentiated&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
               </tr>
@@ -158,18 +146,18 @@
                   <code>http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm</code>
                 </td>
                 <td style="white-space:nowrap">  
-                  <code>DROP</code>
+                  <a href="http://terminology.hl7.org/7.1.0/CodeSystem-v3-orderableDrugForm.html#v3-orderableDrugForm-DROP">DROP</a>
                 </td>
                 <td>Drops</td>
                 <td/>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm&quot;, &quot;version&quot;: &quot;3.0.0&quot;, &quot;code&quot;: &quot;DROP&quot;, &quot;display&quot;: &quot;Drops&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm&quot;, &quot;version&quot;: &quot;4.0.0&quot;, &quot;code&quot;: &quot;DROP&quot;, &quot;display&quot;: &quot;Drops&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm&quot;&gt;&lt;version value=&quot;3.0.0&quot;&gt;&lt;code value=&quot;DROP&quot;&gt;&lt;display value=&quot;Drops&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm&quot;&gt;&lt;version value=&quot;4.0.0&quot;&gt;&lt;code value=&quot;DROP&quot;&gt;&lt;display value=&quot;Drops&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
               </tr>
@@ -191,12 +179,12 @@
           <coding>
             <system value="urn:iso:std:iso:3166"/>
             <code value="FR"/>
-            <display value="FRANCE"/>
+            <display value="France"/>
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:f7845c82-2f2a-4a6b-8c2f-1f0fe58281ed"/>
-          <timestamp value="2026-01-06T09:36:10+00:00"/>
+          <identifier value="urn:uuid:d022b46a-90ac-4c50-8a16-bcce3d41d796"/>
+          <timestamp value="2026-03-24T16:05:02+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
@@ -221,19 +209,11 @@
           </parameter>
           <parameter>
             <name value="used-codesystem"/>
-            <valueUri value="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender|3.0.0"/>
-          </parameter>
-          <parameter>
-            <name value="used-supplement"/>
-            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender|0.1.0"/>
+            <valueUri value="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender|4.0.0"/>
           </parameter>
           <parameter>
             <name value="used-codesystem"/>
-            <valueUri value="http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm|3.0.0"/>
-          </parameter>
-          <parameter>
-            <name value="used-supplement"/>
-            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-orderableDrugForm|0.1.0"/>
+            <valueUri value="http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm|4.0.0"/>
           </parameter>
           <contains>
             <system value="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender"/>
@@ -276,27 +256,15 @@
               <p>Expansion effectuée en interne basée sur :</p>
               <ul>
                 <li>
-                  <a href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-AdministrativeGender.html">codesystem AdministrativeGender v3.0.0 (CodeSystem)</a>
+                  <a href="http://terminology.hl7.org/7.1.0/CodeSystem-v3-AdministrativeGender.html">codesystem AdministrativeGender v4.0.0 (CodeSystem)</a>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender|3.0.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
+                    <button data-clipboard-text="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender|4.0.0" title="Cliquer pour copier l'URL" class="btn-copy"> </button>
                   </span>
                 </li>
                 <li>
-                  <a href="http://terminology.hl7.org/7.0.1/CodeSystem-v3-orderableDrugForm.html">codesystem Orderable Drug Form v3.0.0 (CodeSystem)</a>
+                  <a href="http://terminology.hl7.org/7.1.0/CodeSystem-v3-orderableDrugForm.html">codesystem Orderable Drug Form v4.0.0 (CodeSystem)</a>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm|3.0.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
-                  </span>
-                </li>
-                <li>
-                  <a href="CodeSystem-cs-fr-v3-AdministrativeGender.html">supplement AdministrativeGender v0.1.0 (CodeSystem)</a>
-                  <span class="copy-text-inline">
-                    <button data-clipboard-text="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender|0.1.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
-                  </span>
-                </li>
-                <li>
-                  <a href="CodeSystem-cs-fr-v3-orderableDrugForm.html">supplement Orderable Drug Form v0.1.0 (CodeSystem)</a>
-                  <span class="copy-text-inline">
-                    <button data-clipboard-text="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-orderableDrugForm|0.1.0" title="Cliquer pour copier lURL" class="btn-copy"> </button>
+                    <button data-clipboard-text="http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm|4.0.0" title="Cliquer pour copier l'URL" class="btn-copy"> </button>
                   </span>
                 </li>
               </ul>
@@ -329,7 +297,7 @@
                   <code>http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender</code>
                 </td>
                 <td style="white-space:nowrap">  
-                  <code>F</code>
+                  <a href="http://terminology.hl7.org/7.1.0/CodeSystem-v3-AdministrativeGender.html#v3-AdministrativeGender-F">F</a>
                 </td>
                 <td>Female</td>
                 <td>
@@ -340,12 +308,12 @@
                 </td>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;3.0.0&quot;, &quot;code&quot;: &quot;F&quot;, &quot;display&quot;: &quot;Female&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;4.0.0&quot;, &quot;code&quot;: &quot;F&quot;, &quot;display&quot;: &quot;Female&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;3.0.0&quot;&gt;&lt;code value=&quot;F&quot;&gt;&lt;display value=&quot;Female&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;4.0.0&quot;&gt;&lt;code value=&quot;F&quot;&gt;&lt;display value=&quot;Female&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
               </tr>
@@ -355,7 +323,7 @@
                   <code>http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender</code>
                 </td>
                 <td style="white-space:nowrap">  
-                  <code>M</code>
+                  <a href="http://terminology.hl7.org/7.1.0/CodeSystem-v3-AdministrativeGender.html#v3-AdministrativeGender-M">M</a>
                 </td>
                 <td>Male</td>
                 <td>
@@ -366,12 +334,12 @@
                 </td>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;3.0.0&quot;, &quot;code&quot;: &quot;M&quot;, &quot;display&quot;: &quot;Male&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;4.0.0&quot;, &quot;code&quot;: &quot;M&quot;, &quot;display&quot;: &quot;Male&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;3.0.0&quot;&gt;&lt;code value=&quot;M&quot;&gt;&lt;display value=&quot;Male&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;4.0.0&quot;&gt;&lt;code value=&quot;M&quot;&gt;&lt;display value=&quot;Male&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
               </tr>
@@ -381,7 +349,7 @@
                   <code>http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender</code>
                 </td>
                 <td style="white-space:nowrap">  
-                  <code>UN</code>
+                  <a href="http://terminology.hl7.org/7.1.0/CodeSystem-v3-AdministrativeGender.html#v3-AdministrativeGender-UN">UN</a>
                 </td>
                 <td>Undifferentiated</td>
                 <td>
@@ -396,12 +364,12 @@
                 </td>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;3.0.0&quot;, &quot;code&quot;: &quot;UN&quot;, &quot;display&quot;: &quot;Undifferentiated&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;, &quot;version&quot;: &quot;4.0.0&quot;, &quot;code&quot;: &quot;UN&quot;, &quot;display&quot;: &quot;Undifferentiated&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;3.0.0&quot;&gt;&lt;code value=&quot;UN&quot;&gt;&lt;display value=&quot;Undifferentiated&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender&quot;&gt;&lt;version value=&quot;4.0.0&quot;&gt;&lt;code value=&quot;UN&quot;&gt;&lt;display value=&quot;Undifferentiated&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
               </tr>
@@ -411,18 +379,18 @@
                   <code>http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm</code>
                 </td>
                 <td style="white-space:nowrap">  
-                  <code>DROP</code>
+                  <a href="http://terminology.hl7.org/7.1.0/CodeSystem-v3-orderableDrugForm.html#v3-orderableDrugForm-DROP">DROP</a>
                 </td>
                 <td>Drops</td>
                 <td/>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm&quot;, &quot;version&quot;: &quot;3.0.0&quot;, &quot;code&quot;: &quot;DROP&quot;, &quot;display&quot;: &quot;Drops&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="{&quot;system&quot;: &quot;http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm&quot;, &quot;version&quot;: &quot;4.0.0&quot;, &quot;code&quot;: &quot;DROP&quot;, &quot;display&quot;: &quot;Drops&quot;}" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
                 <td>
                   <span class="copy-text-inline">
-                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm&quot;&gt;&lt;version value=&quot;3.0.0&quot;&gt;&lt;code value=&quot;DROP&quot;&gt;&lt;display value=&quot;Drops&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
+                    <button data-clipboard-text="&lt;coding&gt;&lt;system value=&quot;http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm&quot;&gt;&lt;version value=&quot;4.0.0&quot;&gt;&lt;code value=&quot;DROP&quot;&gt;&lt;display value=&quot;Drops&quot;&gt;&lt;/coding&gt;" title="Cliquer pour copier en tant que Coding" class="btn-copy"> </button>
                   </span>
                 </td>
               </tr>
@@ -444,12 +412,12 @@
           <coding>
             <system value="urn:iso:std:iso:3166"/>
             <code value="FR"/>
-            <display value="FRANCE"/>
+            <display value="France"/>
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:f7845c82-2f2a-4a6b-8c2f-1f0fe58281ed"/>
-          <timestamp value="2026-01-06T09:36:10+00:00"/>
+          <identifier value="urn:uuid:d022b46a-90ac-4c50-8a16-bcce3d41d796"/>
+          <timestamp value="2026-03-24T16:05:02+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
@@ -474,19 +442,11 @@
           </parameter>
           <parameter>
             <name value="used-codesystem"/>
-            <valueUri value="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender|3.0.0"/>
-          </parameter>
-          <parameter>
-            <name value="used-supplement"/>
-            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender|0.1.0"/>
+            <valueUri value="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender|4.0.0"/>
           </parameter>
           <parameter>
             <name value="used-codesystem"/>
-            <valueUri value="http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm|3.0.0"/>
-          </parameter>
-          <parameter>
-            <name value="used-supplement"/>
-            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-orderableDrugForm|0.1.0"/>
+            <valueUri value="http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm|4.0.0"/>
           </parameter>
           <contains>
             <system value="http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender"/>

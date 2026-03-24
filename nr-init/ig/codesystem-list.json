@@ -1,28 +1,26 @@
 {
-  "codeSystems" : [
-    {
-      "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v2-0066",
-      "version" : "0.1.0",
-      "status" : "active",
-      "name" : "EmploymentStatus",
-      "title" : "employmentStatus",
-      "description" : "HL7-defined code system of concepts which specify an employment status of a person. Used in HL7 Version 2 messaging in the GT1 segment."
-    },
-    {
-      "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender",
-      "version" : "0.1.0",
-      "status" : "active",
-      "name" : "AdministrativeGender",
-      "title" : "AdministrativeGender",
-      "description" : "The gender of a person used for adminstrative purposes (as opposed to clinical gender)"
-    },
-    {
-      "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-orderableDrugForm",
-      "version" : "0.1.0",
-      "status" : "active",
-      "name" : "OrderableDrugForm",
-      "title" : "Orderable Drug Form",
-      "description" : "*OpenIssue:* Missing description."
-    }
-  ]
+  "codeSystems" : [{
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v2-0066",
+    "version" : "0.1.0",
+    "status" : "active",
+    "name" : "EmploymentStatus",
+    "title" : "employmentStatus",
+    "description" : "HL7-defined code system of concepts which specify an employment status of a person. Used in HL7 Version 2 messaging in the GT1 segment."
+  },
+  {
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender",
+    "version" : "0.1.0",
+    "status" : "active",
+    "name" : "AdministrativeGender",
+    "title" : "AdministrativeGender",
+    "description" : "The gender of a person used for adminstrative purposes (as opposed to clinical gender)"
+  },
+  {
+    "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-orderableDrugForm",
+    "version" : "0.1.0",
+    "status" : "active",
+    "name" : "OrderableDrugForm",
+    "title" : "Orderable Drug Form",
+    "description" : "*OpenIssue:* Missing description."
+  }]
 }

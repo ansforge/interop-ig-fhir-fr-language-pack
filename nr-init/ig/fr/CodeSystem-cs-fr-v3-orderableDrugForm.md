@@ -9,11 +9,11 @@
 | | |
 | :--- | :--- |
 | *URL officiel*:https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-orderableDrugForm | *Version*:0.1.0 |
-| Active à partir de 2026-01-06 | *Nom computable*:OrderableDrugForm |
+| Active à partir de 2026-03-24 | *Nom computable*:OrderableDrugForm |
 | **Droit d'auteur/juridique**: This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html | |
 
  
-**OpenIssue:**Missing description. 
+**OpenIssue:** Missing description. 
 
 Ce système de codes est référencé dans la définition des ensembles de valeurs suivants :
 
@@ -37,62 +37,56 @@ Ce système de codes est référencé dans la définition des ensembles de valeu
   "name" : "OrderableDrugForm",
   "title" : "Orderable Drug Form",
   "status" : "active",
-  "date" : "2026-01-06T09:35:23+00:00",
+  "date" : "2026-03-24T16:04:23+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "description" : "*OpenIssue:* Missing description.",
-  "jurisdiction" : [
-    {
-      "coding" : [
-        {
-          "system" : "urn:iso:std:iso:3166",
-          "code" : "FR",
-          "display" : "FRANCE"
-        }
-      ]
-    }
-  ],
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "urn:iso:std:iso:3166",
+      "code" : "FR",
+      "display" : "France"
+    }]
+  }],
   "copyright" : "This material derives from the HL7 Terminology THO. THO is copyright ©1989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license.html",
   "caseSensitive" : false,
   "content" : "supplement",
-  "supplements" : "http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm|3.0.0",
-  "concept" : [
-    {
-      "code" : "APPFUL",
-      "display" : "Dose d'applicateur"
-    },
-    {
-      "code" : "PUFF",
-      "display" : "Bouffée"
-    },
-    {
-      "code" : "SCOOP",
-      "display" : "Cuillerées"
-    },
-    {
-      "code" : "SPRY",
-      "display" : "Pulvérisations"
-    },
-    {
-      "code" : "DROP",
-      "display" : "Gouttes"
-    },
-    {
-      "code" : "NDROP",
-      "display" : "Gouttes nasales"
-    },
-    {
-      "code" : "OPDROP",
-      "display" : "Gouttes ophtalmiques"
-    },
-    {
-      "code" : "ORDROP",
-      "display" : "Gouttes orales"
-    },
-    {
-      "code" : "OTDROP",
-      "display" : "Gouttes auriculaires"
-    }
-  ]
+  "supplements" : "http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm|4.0.0",
+  "concept" : [{
+    "code" : "APPFUL",
+    "display" : "Dose d'applicateur"
+  },
+  {
+    "code" : "PUFF",
+    "display" : "Bouffée"
+  },
+  {
+    "code" : "SCOOP",
+    "display" : "Cuillerées"
+  },
+  {
+    "code" : "SPRY",
+    "display" : "Pulvérisations"
+  },
+  {
+    "code" : "DROP",
+    "display" : "Gouttes"
+  },
+  {
+    "code" : "NDROP",
+    "display" : "Gouttes nasales"
+  },
+  {
+    "code" : "OPDROP",
+    "display" : "Gouttes ophtalmiques"
+  },
+  {
+    "code" : "ORDROP",
+    "display" : "Gouttes orales"
+  },
+  {
+    "code" : "OTDROP",
+    "display" : "Gouttes auriculaires"
+  }]
 }
 
 ```

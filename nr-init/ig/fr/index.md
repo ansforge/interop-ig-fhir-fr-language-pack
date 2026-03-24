@@ -8,7 +8,7 @@
 | | |
 | :--- | :--- |
 | *URL officiel*:https://interop.esante.gouv.fr/ig/fhir/fr/ImplementationGuide/ans.fhir.r4.fr | *Version*:0.1.0 |
-| Draft à partir de 2026-01-06 | *Nom computable*:FHIRLangPackFrench |
+| Draft à partir de 2026-03-24 | *Nom computable*:FHIRLangPackFrench |
 
 ### Traduction des ressources FHIR en français
 
