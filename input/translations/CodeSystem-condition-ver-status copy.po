@@ -1,0 +1,13 @@
+# en -> fr
+
+#: unconfirmed
+msgid "Unconfirmed"
+msgstr "Non confirmé"
+
+#: confirmed
+msgid "Confirmed"
+msgstr "Confirmé"
+
+#: refuted
+msgid "Refuted"
+msgstr "Réfuté"

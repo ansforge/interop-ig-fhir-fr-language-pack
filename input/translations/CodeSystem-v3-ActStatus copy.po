@@ -1,0 +1,29 @@
+# en -> fr
+
+#: aborted
+msgid "aborted"
+msgstr "Arrêté (après son lancement)"
+
+#: active
+msgid "active"
+msgstr "Actif (en cours ou à venir)"
+
+#: cancelled
+msgid "cancelled"
+msgstr "Annulé (avant son lancement)"
+
+#: completed
+msgid "completed"
+msgstr "Terminé"
+
+#: held
+msgid "held"
+msgstr "En attente (avant son lancement)"
+
+#: new
+msgid "new"
+msgstr "En préparation"
+
+#: suspended
+msgid "suspended"
+msgstr "Suspendu (au cours de sa réalisation)"

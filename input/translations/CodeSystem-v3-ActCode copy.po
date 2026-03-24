@@ -1,0 +1,93 @@
+# en -> fr
+
+#: AMB
+msgid "ambulatory"
+msgstr "Ambulatoire (hors établissement)"
+
+#: EMER
+msgid "emergency"
+msgstr "Passage aux urgences (établissement)"
+
+#: FLD
+msgid "field"
+msgstr "Terrain (voie publique, hélicoptère, ambulance, etc.)"
+
+#: HH
+msgid "home health"
+msgstr "Soins à domicile (hors établissement)"
+
+#: IMP
+msgid "inpatient encounter"
+msgstr "Hospitalisation (établissement, y compris HAD)"
+
+#: OBSENC
+msgid "observation encounter"
+msgstr "Observation"
+
+#: PRENC
+msgid "pre-admission"
+msgstr "Pré-admission"
+
+#: SS
+msgid "short stay"
+msgstr "Hospitalisation de jour"
+
+#: VR
+msgid "virtual"
+msgstr "Virtuelle (exemple : RCP en l'absence du patient)"
+
+#: CIRCLE
+msgid "circle"
+msgstr "Cercle"
+
+#: ELLIPSE
+msgid "ellipse"
+msgstr "Elipse"
+
+#: POINT
+msgid "point"
+msgstr "Point"
+
+#: POLY
+msgid "polyline"
+msgstr "Multi"
+
+#: DRUG
+msgid "Drug therapy"
+msgstr "Médicament"
+
+#: FD
+msgid "food"
+msgstr "Aliment"
+
+#: BOOSTER
+msgid "Booster Immunization"
+msgstr "Rappel de vaccin"
+
+#: IMMUNIZ
+msgid "Immunization"
+msgstr "Vaccination sans autre précision"
+
+#: INITIMMUNIZ
+msgid "Initial Immunization"
+msgstr "1ère série vaccinante"
+
+#: SEV
+msgid "Severity Observation"
+msgstr "Sévérité"
+
+#: FFC
+msgid "First Fill - Complete"
+msgstr "Première dispensation - complète"
+
+#: FFP
+msgid "First Fill - Part Fill"
+msgstr "Première dispensation - partielle"
+
+#: RFP
+msgid "Refill - Part Fill"
+msgstr "Dispensation suivante - partielle"
+
+#: RFC
+msgid "Refill - Complete"
+msgstr "Dispensation suivante - complète"

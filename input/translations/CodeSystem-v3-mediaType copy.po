@@ -1,0 +1,57 @@
+# en -> fr
+
+#: application/dicom
+msgid "DICOM"
+msgstr "DICOM"
+
+#: application/msword
+msgid "MSWORD"
+msgstr "MSWORD"
+
+#: application/pdf
+msgid "PDF"
+msgstr "PDF"
+
+#: audio/basic
+msgid "Basic Audio"
+msgstr "Basic Audio"
+
+#: audio/k32adpcm
+msgid "K32ADPCM Audio"
+msgstr "K32ADPCM Audio"
+
+#: audio/mpeg
+msgid "MPEG audio layer 3"
+msgstr "MPEG audio layer 3 MP3 Audio"
+
+#: image/gif
+msgid "GIF Image"
+msgstr "GIF Image"
+
+#: image/jpeg
+msgid "JPEG Image"
+msgstr "JPEG Image"
+
+#: image/png
+msgid "PNG Image"
+msgstr "PNG Image"
+
+#: image/tiff
+msgid "TIFF Image"
+msgstr "TIFF Image"
+
+#: text/html
+msgid "HTML Text"
+msgstr "HTML Text"
+
+#: text/plain
+msgid "Plain Text"
+msgstr "Plain Text"
+
+#: text/rtf
+msgid "RTF Text"
+msgstr "RTF Text"
+
+#: text/xml
+msgid "XML Text"
+msgstr "XML Text"

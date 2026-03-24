@@ -1,0 +1,25 @@
+# en -> fr
+
+#: L
+msgid "low"
+msgstr "Bas"
+
+#: M
+msgid "moderate"
+msgstr "Modéré"
+
+#: N
+msgid "normal"
+msgstr "Normal"
+
+#: R
+msgid "restricted"
+msgstr "Restreint"
+
+#: U
+msgid "unrestricted"
+msgstr "Non restreint"
+
+#: V
+msgid "very restricted"
+msgstr "Très restreint"

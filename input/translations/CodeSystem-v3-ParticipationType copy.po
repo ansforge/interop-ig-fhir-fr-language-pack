@@ -1,0 +1,233 @@
+# en -> fr
+
+#: ADM
+msgid "admitter"
+msgstr "Responsable de l'admission"
+
+#: ALY
+msgid "analyte"
+msgstr "Cible d'une observation (substance ou composant le plus spécifique)"
+
+#: ATND
+msgid "attender"
+msgstr "Superviseur / Responsable des soins"
+
+#: AUT
+msgid "author (originator)"
+msgstr "Auteur"
+
+#: AUTHEN
+msgid "authenticator"
+msgstr "Valideur des résultats (ex : un biologiste ou un système expert)"
+
+#: BBY
+msgid "baby"
+msgstr "Nouveau né"
+
+#: BEN
+msgid "beneficiary"
+msgstr "Bénéficiaire"
+
+#: CAGNT
+msgid "causative agent"
+msgstr "Agent causal"
+
+#: CALLBCK
+msgid "callback contact"
+msgstr "Contact à rappeler"
+
+#: CAT
+msgid "catalyst"
+msgstr "Catalyseur"
+
+#: CON
+msgid "consultant"
+msgstr "Consultant"
+
+#: COV
+msgid "coverage target"
+msgstr "Partie couverte (titulaire ou bénéficiaire)"
+
+#: CSM
+msgid "consumable"
+msgstr "Consommable"
+
+#: CST
+msgid "custodian"
+msgstr "Responsable de l'information"
+
+#: DEV
+msgid "device"
+msgstr "Dispositif automatique impliqué dans la production des résultats"
+
+#: DIR
+msgid "direct target"
+msgstr "Participant direct"
+
+#: DIS
+msgid "discharger"
+msgstr "Responsable de la sortie"
+
+#: DIST
+msgid "distributor"
+msgstr "Distributeur"
+
+#: DON
+msgid "donor"
+msgstr "Donneur"
+
+#: DST
+msgid "destination"
+msgstr "Destination"
+
+#: ELOC
+msgid "entry location"
+msgstr "Emplacement où les données sont saisies"
+
+#: ENT
+msgid "data entry person"
+msgstr "Transcripteur du contenu à partir d'une autre forme"
+
+#: ESC
+msgid "escort"
+msgstr "Accompagnateur"
+
+#: EXPAGNT
+msgid "ExposureAgent"
+msgstr "Agent de l'exposition"
+
+#: EXPART
+msgid "ExposureParticipation"
+msgstr "Partie de l'exposition"
+
+#: EXSRC
+msgid "ExposureSource"
+msgstr "Source de l'exposition"
+
+#: EXPTRGT
+msgid "ExposureTarget"
+msgstr "Cible de l'exposition"
+
+#: GUAR
+msgid "guarantor party"
+msgstr "Garant"
+
+#: HLD
+msgid "holder"
+msgstr "Souscripteur"
+
+#: IND
+msgid "indirect target"
+msgstr "Cible indirecte"
+
+#: INF
+msgid "informant"
+msgstr "Informateur"
+
+#: IRCP
+msgid "information recipient"
+msgstr "Destinataire de l'information"
+
+#: LA
+msgid "legal authenticator"
+msgstr "Responsable légal de l'acte"
+
+#: LOC
+msgid "location"
+msgstr "Emplacement principal"
+
+#: NRD
+msgid "non-reuseable device"
+msgstr "Dispositif non réutilisable"
+
+#: NOT
+msgid "ugent notification contact"
+msgstr "Personne à prévenir en cas d'urgence"
+
+#: ORG
+msgid "origin"
+msgstr "Lieu d'origine"
+
+#: PART
+msgid "Participation"
+msgstr "Participant"
+
+#: PPRF
+msgid "primary performer"
+msgstr "Exécutant principal"
+
+#: PRCP
+msgid "primary information recipient"
+msgstr "Destinataire principal de l'information"
+
+#: PRD
+msgid "product"
+msgstr "Produit"
+
+#: PRF
+msgid "performer"
+msgstr "Exécutant"
+
+#: RCT
+msgid "record target"
+msgstr "Dossier médical"
+
+#: RCV
+msgid "receiver"
+msgstr "Récepteur"
+
+#: RDV
+msgid "reusable device"
+msgstr "Dispositif réutilisable"
+
+#: REF
+msgid "referrer"
+msgstr "Référent / Prescripteur"
+
+#: REFB
+msgid "Referred By"
+msgstr "Personne ayant adressé le patient"
+
+#: REFT
+msgid "Referred to"
+msgstr "Personne recevant le patient"
+
+#: RESP
+msgid "responsible party"
+msgstr "Responsable de l'acte"
+
+#: RML
+msgid "remote"
+msgstr "Emplacement distant"
+
+#: SBJ
+msgid "subject"
+msgstr "Sujet"
+
+#: SPC
+msgid "specimen"
+msgstr "Echantillon"
+
+#: SPRF
+msgid "secondary performer"
+msgstr "Exécutant secondaire"
+
+#: TRANS
+msgid "Transcriber"
+msgstr "Transcripteur"
+
+#: TRC
+msgid "tracker"
+msgstr "Personne recevant une copie de l'information"
+
+#: VIA
+msgid "via"
+msgstr "Emplacement intermédiaire"
+
+#: VRF
+msgid "verifier"
+msgstr "Vérificateur"
+
+#: WIT
+msgid "witness"
+msgstr "Témoin"

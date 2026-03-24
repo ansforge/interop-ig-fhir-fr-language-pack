@@ -1,0 +1,17 @@
+# en -> fr
+
+#: ADMPHYS
+msgid "admitting physician"
+msgstr "Responsable de l'admission"
+
+#: ATTPHYS
+msgid "attending physician"
+msgstr "Référent - Responsable du patient dans la structure de soins"
+
+#: DISPHYS
+msgid "discharging physician"
+msgstr "Responsable de la sortie"
+
+#: PCP
+msgid "primary care physician"
+msgstr "Médecin traitant"
