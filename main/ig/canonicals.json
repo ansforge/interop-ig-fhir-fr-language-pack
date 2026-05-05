@@ -1,0 +1,36 @@
+[{
+  "id" : "cs-fr-v2-0066",
+  "type" : "CodeSystem",
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v2-0066",
+  "version" : "0.1.0",
+  "name" : "EmploymentStatus"
+},
+{
+  "id" : "cs-fr-v3-AdministrativeGender",
+  "type" : "CodeSystem",
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-AdministrativeGender",
+  "version" : "0.1.0",
+  "name" : "AdministrativeGender"
+},
+{
+  "id" : "cs-fr-v3-orderableDrugForm",
+  "type" : "CodeSystem",
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/CodeSystem/cs-fr-v3-orderableDrugForm",
+  "version" : "0.1.0",
+  "name" : "OrderableDrugForm"
+},
+{
+  "id" : "ans.fhir.r4.fr",
+  "type" : "ImplementationGuide",
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/ImplementationGuide/ans.fhir.r4.fr",
+  "version" : "0.1.0",
+  "name" : "FHIRLangPackFrench"
+},
+{
+  "id" : "jdv-hl7-v3-AdministrativeGender-cisis",
+  "type" : "ValueSet",
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/ValueSet/jdv-hl7-v3-AdministrativeGender-cisis",
+  "version" : "0.1.0",
+  "name" : "AdministrativeGender",
+  "oids" : ["2.16.840.1.113883.1.11.1"]
+}]

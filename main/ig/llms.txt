@@ -1,0 +1,22 @@
+# ans.fhir.r4.fr#0.1.0: French language pack for FHIR R4(fr)
+
+## Pages
+
+* [Accueil](fr/index.md)
+* [Résumé des artefacts](fr/artifacts.md)
+
+## Resources
+
+### CodeSystems
+
+* [employmentStatus](fr/CodeSystem-cs-fr-v2-0066.md)
+* [AdministrativeGender](fr/CodeSystem-cs-fr-v3-AdministrativeGender.md)
+* [Orderable Drug Form](fr/CodeSystem-cs-fr-v3-orderableDrugForm.md)
+
+### ValueSets
+
+* [AdministrativeGender](fr/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.md)
+
+### ImplementationGuides
+
+* [French language pack for FHIR R4](fr/ImplementationGuide-ans.fhir.r4.fr.md)

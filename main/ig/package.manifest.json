@@ -1,0 +1,7 @@
+{
+  "version" : "0.1.0",
+  "fhirVersion" : ["4.0.1"],
+  "date" : "20260505151846",
+  "name" : "ans.fhir.r4.fr",
+  "jurisdiction" : "urn:iso:std:iso:3166#FR"
+}

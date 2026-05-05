@@ -1,0 +1,253 @@
+{
+  "date" : "Tue, 05 May, 2026 15:18:46 +0000",
+  "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
+  "files" : [{
+    "name" : "/fsh-generated/resources/ImplementationGuide-ans.fhir.r4.fr.json",
+    "size" : 2067,
+    "processes" : [{
+      "activity" : "load",
+      "start" : 32,
+      "length" : 219
+    },
+    {
+      "activity" : "loadInfo",
+      "start" : 33,
+      "length" : 1
+    },
+    {
+      "activity" : "checkR4R4B",
+      "start" : 33,
+      "length" : 19
+    },
+    {
+      "activity" : "generateNarratives",
+      "start" : 33,
+      "length" : 86
+    },
+    {
+      "activity" : "validate",
+      "start" : 36,
+      "length" : 2576
+    },
+    {
+      "activity" : "generate1",
+      "start" : 39,
+      "length" : 105
+    },
+    {
+      "activity" : "generate2",
+      "start" : 41,
+      "length" : 99
+    },
+    {
+      "activity" : "generateValidationPack",
+      "start" : 49,
+      "length" : 3
+    },
+    {
+      "activity" : "scanExamplesForR5",
+      "start" : 51,
+      "length" : 2
+    }]
+  },
+  {
+    "name" : "fsh-generated/resources/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.json",
+    "size" : 1658,
+    "processes" : [{
+      "activity" : "loadResources",
+      "start" : 31,
+      "length" : 5
+    },
+    {
+      "activity" : "load",
+      "start" : 32,
+      "length" : 7
+    },
+    {
+      "activity" : "load-configure",
+      "start" : 33,
+      "length" : 1
+    },
+    {
+      "activity" : "loadDepInfo",
+      "start" : 33,
+      "length" : 1
+    },
+    {
+      "activity" : "checkR4R4B",
+      "start" : 33,
+      "length" : 1
+    },
+    {
+      "activity" : "generateNarratives",
+      "start" : 33,
+      "length" : 56
+    },
+    {
+      "activity" : "validate",
+      "start" : 36,
+      "length" : 33
+    },
+    {
+      "activity" : "generate1",
+      "start" : 39,
+      "length" : 24
+    },
+    {
+      "activity" : "generate2",
+      "start" : 41,
+      "length" : 145
+    },
+    {
+      "activity" : "generateValidationPack",
+      "start" : 49,
+      "length" : 2
+    }]
+  },
+  {
+    "name" : "input/translations/fr/CodeSystem-v3-orderableDrugForm.po",
+    "size" : 0,
+    "processes" : [{
+      "activity" : "load",
+      "start" : 32,
+      "length" : 8
+    },
+    {
+      "activity" : "generateNarratives",
+      "start" : 33,
+      "length" : 7
+    },
+    {
+      "activity" : "validate",
+      "start" : 33,
+      "length" : 3372
+    },
+    {
+      "activity" : "generate1",
+      "start" : 39,
+      "length" : 22
+    },
+    {
+      "activity" : "generate2",
+      "start" : 42,
+      "length" : 85
+    }]
+  },
+  {
+    "name" : "input/translations/fr/CodeSystem-v3-AdministrativeGender.po",
+    "size" : 0,
+    "processes" : [{
+      "activity" : "load",
+      "start" : 32,
+      "length" : 3
+    },
+    {
+      "activity" : "scan",
+      "start" : 33,
+      "length" : 1
+    },
+    {
+      "activity" : "checkR4R4B",
+      "start" : 33,
+      "length" : 1
+    },
+    {
+      "activity" : "generateNarratives",
+      "start" : 33,
+      "length" : 4
+    },
+    {
+      "activity" : "validate",
+      "start" : 36,
+      "length" : 14
+    },
+    {
+      "activity" : "generate1",
+      "start" : 39,
+      "length" : 17
+    },
+    {
+      "activity" : "generate2",
+      "start" : 42,
+      "length" : 62
+    },
+    {
+      "activity" : "generateValidationPack",
+      "start" : 49,
+      "length" : 1
+    }]
+  },
+  {
+    "name" : "input/translations/fr/CodeSystem-v2-0066.po",
+    "size" : 0,
+    "processes" : [{
+      "activity" : "load",
+      "start" : 32,
+      "length" : 4
+    },
+    {
+      "activity" : "generateNarratives",
+      "start" : 33,
+      "length" : 4
+    },
+    {
+      "activity" : "validate",
+      "start" : 36,
+      "length" : 20
+    },
+    {
+      "activity" : "scanForUsageStats",
+      "start" : 39,
+      "length" : 1
+    },
+    {
+      "activity" : "generate1",
+      "start" : 39,
+      "length" : 25
+    },
+    {
+      "activity" : "generate2",
+      "start" : 42,
+      "length" : 76
+    },
+    {
+      "activity" : "generateValidationPack",
+      "start" : 49,
+      "length" : 1
+    }]
+  },
+  {
+    "name" : "/fsh-generated/includes/fsh-link-references.md",
+    "size" : 75,
+    "processes" : [{
+      "activity" : "generate2",
+      "start" : 42,
+      "length" : 1
+    }]
+  },
+  {
+    "name" : "/fsh-generated/includes/menu.xml",
+    "size" : 1587
+  },
+  {
+    "name" : "/input/pagecontent/index.md",
+    "size" : 117
+  },
+  {
+    "name" : "/template/config",
+    "size" : 0
+  },
+  {
+    "name" : "/template/config/_config.yml",
+    "size" : 140
+  },
+  {
+    "name" : "/temp/pages/_includes/artifacts.xml",
+    "size" : 3703,
+    "processes" : [{
+      "activity" : "generate2",
+      "start" : 42,
+      "length" : 1
+    }]
+  }]
+}
