@@ -1,0 +1,13 @@
+# en -> fr
+
+#: low
+msgid "low"
+msgstr "Bas"
+
+#: high
+msgid "high"
+msgstr "Elevé"
+
+#: unable-to-assess
+msgid "unable-to-assess"
+msgstr "Impossible à évaluer"

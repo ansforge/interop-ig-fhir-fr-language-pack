@@ -1,0 +1,157 @@
+# en -> fr
+
+#: <
+msgid "Off scale low"
+msgstr "Inférieur à la limite de détection"
+
+#: >
+msgid "Off scale high"
+msgstr "Supérieur à la limite maximale de mesure"
+
+#: A
+msgid "Abnormal"
+msgstr "Anormal"
+
+#: AA
+msgid "Critical abnormal"
+msgstr "Très anormal, alerte"
+
+#: B
+msgid "Better"
+msgstr "Amélioration"
+
+#: CAR
+msgid "Carrier"
+msgstr "Porteur d'une forme altérée d'un gène"
+
+#: D
+msgid "Significant change down"
+msgstr "Diminution significative par rapport au résultat antérieur"
+
+#: DET
+msgid "Detected"
+msgstr "Détecté"
+
+#: E
+msgid "Equivocal"
+msgstr "Équivoque"
+
+#: EX
+msgid "outside threshold"
+msgstr "Hors seuils"
+
+#: EXP
+msgid "Expected"
+msgstr "Attendu"
+
+#: H
+msgid "High"
+msgstr "Anormalement haut"
+
+#: HH
+msgid "Critical high"
+msgstr "Très anormalement haut, alerte"
+
+#: HU
+msgid "Significantly high"
+msgstr "Significativement haut"
+
+#: HX
+msgid "above high threshold"
+msgstr "Hors seuil supérieur"
+
+#: I
+msgid "Intermediate"
+msgstr "Intermédiaire"
+
+#: IE
+msgid "Insufficient evidence"
+msgstr "Preuves insuffisantes"
+
+#: IND
+msgid "Indeterminate"
+msgstr "Indéterminé"
+
+#: L
+msgid "Low"
+msgstr "Anormalement bas"
+
+#: LL
+msgid "Critical low"
+msgstr "Très anormalement bas, alerte"
+
+#: LU
+msgid "Significantly low"
+msgstr "Significativement bas"
+
+#: LX
+msgid "below low threshold"
+msgstr "Hors seuil inférieur"
+
+#: N
+msgid "Normal"
+msgstr "Normal"
+
+#: NCL
+msgid "No CLSI defined breakpoint"
+msgstr "Pas de standard défini"
+
+#: ND
+msgid "Not detected"
+msgstr "Non détecté"
+
+#: NEG
+msgid "Negative"
+msgstr "Négatif"
+
+#: NR
+msgid "Non-reactive"
+msgstr "Non réactif"
+
+#: NS
+msgid "Non-susceptible"
+msgstr "Non sensible"
+
+#: POS
+msgid "Positive"
+msgstr "Positif"
+
+#: R
+msgid "Resistant"
+msgstr "Résistant"
+
+#: RR
+msgid "Reactive"
+msgstr "Réactif"
+
+#: S
+msgid "Susceptible"
+msgstr "Sensible"
+
+#: SDD
+msgid "Susceptible-dose dependent"
+msgstr "Sensible à forte dose"
+
+#: SYN-R
+msgid "Synergy - resistant"
+msgstr "Synergie - résistant"
+
+#: SYN-S
+msgid "Synergy - susceptible"
+msgstr "Synergie - sensible"
+
+#: U
+msgid "Significant change up"
+msgstr "Augmentation significative par rapport au résultat antérieur"
+
+#: UNE
+msgid "Unexpected"
+msgstr "Inattendu"
+
+#: W
+msgid "Worse"
+msgstr "Dégradation"
+
+#: WR
+msgid "Weakly reactive"
+msgstr "Faiblement réactif"

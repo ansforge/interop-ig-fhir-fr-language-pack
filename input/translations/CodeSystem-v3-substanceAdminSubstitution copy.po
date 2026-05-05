@@ -1,0 +1,9 @@
+# en -> fr
+
+#: N
+msgid "none"
+msgstr "Aucune substitution permise"
+
+#: G
+msgid "generic composition"
+msgstr "Substitution autorisée par un produit générique"

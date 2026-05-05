@@ -1,0 +1,45 @@
+# en -> fr
+
+#: 1
+msgid "Full time employed"
+msgstr "Employé à temps plein"
+
+#: 2
+msgid "Part time employed"
+msgstr "Employé à temps partiel"
+
+#: 3
+msgid "Unemployed"
+msgstr "Sans emploi"
+
+#: 4
+msgid "Self-employed"
+msgstr "Auto-entrepreuneur"
+
+#: 5
+msgid "Retired"
+msgstr "Retraité"
+
+#: 6
+msgid "On active military duty"
+msgstr "En service militaire actif"
+
+#: 9
+msgid "Unknown"
+msgstr "Statut d'emploi inconnu"
+
+#: C
+msgid "Contract, per diem"
+msgstr "Contrat journalier"
+
+#: L
+msgid "Leave of absence (e.g., family leave, sabbatical, etc.)"
+msgstr "Congé (par exemple, congé familial, congé sabbatique, etc.)"
+
+#: T
+msgid "Temporarily unemployed"
+msgstr "Temporairement sans emploi"
+
+#: O
+msgid "Other"
+msgstr "Autre"

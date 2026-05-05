@@ -1,0 +1,1073 @@
+# en -> fr
+
+#: 1
+msgid "Complement fixation"
+msgstr "Fixation complément"
+
+#: 2
+msgid "Computed axial tomography"
+msgstr "Tomographie axiale"
+
+#: 3
+msgid "HLAR agar test"
+msgstr "Test de haut niveau de résistance aux aminosides sur gélose"
+
+#: 4
+msgid "Macroscopic observation"
+msgstr "Examen macroscopique"
+
+#: 5
+msgid "Magnetic resonance"
+msgstr "Résonnance magnétique"
+
+#: 6
+msgid "Morphometry"
+msgstr "Morphométrie"
+
+#: 7
+msgid "Positron emission tomography"
+msgstr "Tomographie par émission de positrons"
+
+#: 8
+msgid "SAMHSA confirmation"
+msgstr "SAMHSA confirmation"
+
+#: 9
+msgid "SAMHSA screening"
+msgstr "SAMHSA dépistage"
+
+#: 10
+msgid "Serum Neutralization"
+msgstr "Neutralisation sérum"
+
+#: 11
+msgid "Titration"
+msgstr "Titrimétrie"
+
+#: 12
+msgid "Ultrasound"
+msgstr "Ultrasonographie"
+
+#: 13
+msgid "X-ray crystallography"
+msgstr "Cristallographie Rayon X"
+
+#: 14
+msgid "Agglutination"
+msgstr "Agglutination"
+
+#: 15
+msgid "Buffered acidified plate agglutination"
+msgstr "Agglutination sur plaque tampon acidifié"
+
+#: 16
+msgid "Card agglutination"
+msgstr "Agglutination sur carte"
+
+#: 17
+msgid "Hemagglutination"
+msgstr "Hémagglutination"
+
+#: 18
+msgid "Hemagglutination inhibition"
+msgstr "Inhibition hémagglutination"
+
+#: 19
+msgid "Latex agglutination"
+msgstr "Agglutination latex"
+
+#: 20
+msgid "Plate agglutination"
+msgstr "Agglutination plaque"
+
+#: 21
+msgid "Rapid agglutination"
+msgstr "Agglutination rapide"
+
+#: 22
+msgid "RBC agglutination"
+msgstr "Agglutination érythrocytes"
+
+#: 23
+msgid "Rivanol agglutination"
+msgstr "Agglutination,rivanol"
+
+#: 24
+msgid "Tube agglutination"
+msgstr "Agglutination en tube"
+
+#: 25
+msgid "Bioassay"
+msgstr "Bioanalyse"
+
+#: 26
+msgid "Animal Inoculation"
+msgstr "Inoculation animal"
+
+#: 27
+msgid "Cytotoxicity"
+msgstr "Cytotoxicité"
+
+#: 30
+msgid "Mouse intercerebral inoculation"
+msgstr "Inoculation intracérébrale à la souris"
+
+#: 31
+msgid "Bioassay, qualitative"
+msgstr "Analyse qualitative"
+
+#: 32
+msgid "Bioassay, quantitative"
+msgstr "Analyse quantitative"
+
+#: 33
+msgid "Chemical method"
+msgstr "Méthode chimique"
+
+#: 34
+msgid "Differential light absorption chemical test"
+msgstr "Test chimique d'absorption de lumière différentielle"
+
+#: 37
+msgid "Test strip"
+msgstr "Test sur bandelette"
+
+#: 38
+msgid "Chromatography"
+msgstr "Chromatographie"
+
+#: 39
+msgid "Affinity chromatography"
+msgstr "Chromatographie d'affinité"
+
+#: 40
+msgid "Gas liquid chromatography"
+msgstr "Chromatographie phase gazeuse liquide"
+
+#: 41
+msgid "High performance liquid chromatography"
+msgstr "Chromatographie liquide haute pression"
+
+#: 42
+msgid "Liquid Chromatography"
+msgstr "Chromatographie liquide"
+
+#: 43
+msgid "Protein A affinity chromatography"
+msgstr "Chromatographie d'affinité à la protéine A"
+
+#: 44
+msgid "Coagulation"
+msgstr "Coagulation"
+
+#: 45
+msgid "Tilt tube coagulation time"
+msgstr "Temps de coagulation en tube"
+
+#: 46
+msgid "Tilt tube reptilase induced coagulation"
+msgstr "Coagulation induite par reptilase en tube"
+
+#: 47
+msgid "Automated count"
+msgstr "Comptage automatisé"
+
+#: 48
+msgid "Manual cell count"
+msgstr "Comptage manuel"
+
+#: 49
+msgid "Platelet count, Rees-Ecker"
+msgstr "Comptage plaquettaire de Rees-Ecker"
+
+#: 50
+msgid "Aerobic Culture"
+msgstr "Culture aérobie"
+
+#: 51
+msgid "Anaerobic Culture"
+msgstr "Culture anaérobie"
+
+#: 52
+msgid "Chicken embryo culture"
+msgstr "Culture sur embryon de poulet"
+
+#: 53
+msgid "Delayed secondary enrichment"
+msgstr "Enrichissement secondaire retardé"
+
+#: 54
+msgid "Microaerophilic Culture"
+msgstr "Culture microaérophile"
+
+#: 61
+msgid "Somatic Cell culture"
+msgstr "Culture cellulaire somatique"
+
+#: 62
+msgid "Agar diffusion"
+msgstr "Diffusion gel Agar"
+
+#: 63
+msgid "Agar Gel Immunodiffusion"
+msgstr "Immunodiffusion"
+
+#: 64
+msgid "Electrophoresis"
+msgstr "Électrophorèse"
+
+#: 65
+msgid "Agaorse gel electrophoresis"
+msgstr "Électrophorèse gel agarose"
+
+#: 66
+msgid "Electrophoresis, citrate agar"
+msgstr "Électrophorèse citrate agar"
+
+#: 67
+msgid "Immunoelectrophoresis"
+msgstr "Immunoélectrophorèse"
+
+#: 68
+msgid "Polyacrylamide gel electrophoresis"
+msgstr "Électrophorèse sur gel de polyacrylamide"
+
+#: 69
+msgid "Starch gel electrophoresis"
+msgstr "Électrophorèse sur gel d'amidon"
+
+#: 70
+msgid "ELISA"
+msgstr "ELISA"
+
+#: 71
+msgid "ELISA, antigen capture"
+msgstr "ELISA avec captude d'antigène"
+
+#: 72
+msgid "ELISA, avidin biotin peroxidase complex"
+msgstr "ELISA avec complexe avidine biotine péroxydase"
+
+#: 73
+msgid "Kinetic ELISA"
+msgstr "ELISA avec cinétique"
+
+#: 74
+msgid "ELISA, peroxidase-antiperoxidase"
+msgstr "ELISA avec péroxydase-anti-péroxydase"
+
+#: 75
+msgid "API 20 Strep"
+msgstr "Identification par galerie API 20 Strep"
+
+#: 76
+msgid "API 20A"
+msgstr "Identification par galerie API 20A"
+
+#: 77
+msgid "API 20C AUX"
+msgstr "Identification par galerie API 20C AUX"
+
+#: 78
+msgid "API 20E"
+msgstr "Identification par galerie API 20E"
+
+#: 79
+msgid "API 20NE"
+msgstr "Identification par galerie API 20NE"
+
+#: 80
+msgid "API 50 CH"
+msgstr "Identification par galerie API 50 CH"
+
+#: 81
+msgid "API An-IDENT"
+msgstr "Identification par galerie API An-IDENT"
+
+#: 82
+msgid "API Coryne"
+msgstr "Identification par galerie API Coryne"
+
+#: 83
+msgid "API Rapid 20E"
+msgstr "Identification par galerie API Rapid 20E"
+
+#: 84
+msgid "API Staph"
+msgstr "Identification par galerie API Staph"
+
+#: 85
+msgid "API ZYM"
+msgstr "Identification par galerie API 20 Strep"
+
+#: 86
+msgid "Bacterial identification"
+msgstr "Identification bactérienne"
+
+#: 87
+msgid "mini VIDAS"
+msgstr "Identification par mini VIDAS"
+
+#: 88
+msgid "Phage susceptibility typing"
+msgstr "Identification par lysotypie"
+
+#: 89
+msgid "Quad-FERM+"
+msgstr "Identification par galerie QuadFERM+"
+
+#: 90
+msgid "RAPIDEC Staph"
+msgstr "Identification par galerie RAPIDEC Staph"
+
+#: 91
+msgid "Staphaurex"
+msgstr "Identification par agglutination latex Staphaurex"
+
+#: 92
+msgid "VIDAS"
+msgstr "Identification par VIDAS"
+
+#: 93
+msgid "Vitek"
+msgstr "Identification par VITEK"
+
+#: 94
+msgid "VITEK 2"
+msgstr "Identification par VITEK 2"
+
+#: 95
+msgid "Immune stain"
+msgstr "Coloration immune"
+
+#: 96
+msgid "Immunofluorescent antibody, direct"
+msgstr "Immunofluorescence directe"
+
+#: 97
+msgid "Immunofluorescent antibody, indirect"
+msgstr "Immunofluorescence indirecte"
+
+#: 98
+msgid "Immunoperoxidase, Avidin-Biotin Complex"
+msgstr "Immunopéroxydase (complexe avidine-Biotine)"
+
+#: 99
+msgid "Immunoperoxidase, Peroxidase anti-peroxidase complex"
+msgstr "Immunopéroxydase (complexe péroxydase-antipéroxydase)"
+
+#: 100
+msgid "Immunoperoxidase, Protein A-peroxidase complex"
+msgstr "Immunopéroxydase (complexe Protéine A-péroxydase)"
+
+#: 101
+msgid "Immunoassay"
+msgstr "Immunoanalyse"
+
+#: 102
+msgid "Immunoassay, qualitative, multiple step"
+msgstr "Immunoanalyse qualitative à plusieurs étapes"
+
+#: 103
+msgid "Immunoassay, qualitative, single step"
+msgstr "Immunoanalyse qualitative à une étape"
+
+#: 104
+msgid "Radioimmunoassay"
+msgstr "Radioimmunologie"
+
+#: 105
+msgid "Immunoassay, semi-quantitative, multiple step"
+msgstr "Immunoanalyse semi-quantitative à plusieurs étapes"
+
+#: 106
+msgid "Immunoassay, semi-quantitative, single step"
+msgstr "Immunoanalyse semi-quantitative à une étape"
+
+#: 107
+msgid "Microscopy"
+msgstr "Microscopie"
+
+#: 108
+msgid "Darkfield microscopy"
+msgstr "Microscopie fond noir"
+
+#: 109
+msgid "Electron microscopy"
+msgstr "Microscopie électronique"
+
+#: 110
+msgid "Electron microscopy tomography"
+msgstr "Microscopie électronique, Tomographie numérique"
+
+#: 111
+msgid "Electron microscopy, negative stain"
+msgstr "Microscopie électronique en contraste de phase"
+
+#: 112
+msgid "Electron microscopy, thick section"
+msgstr "Microscopie électronique sur section épaisse"
+
+#: 113
+msgid "Electron microscopy, thin section"
+msgstr "Microscopie électronique sur section fine"
+
+#: 114
+msgid "Microscopy, Light"
+msgstr "Microscvopie en lumière directe"
+
+#: 115
+msgid "Polarizing light microscopy"
+msgstr "Microscopie à polarisation"
+
+#: 116
+msgid "Scanning electron microscopy"
+msgstr "Microscopie électronique à balayage"
+
+#: 117
+msgid "Transmission electron microscopy"
+msgstr "Microscopie électronique à transmission"
+
+#: 120
+msgid "Branched Chain DNA"
+msgstr "ADN branché"
+
+#: 122
+msgid "Immune blot"
+msgstr "Immunoblot"
+
+#: 123
+msgid "In-situ hybridization"
+msgstr "Hybridation moléculaire in situ"
+
+#: 127
+msgid "Nucleic acid probe"
+msgstr "Sonde acide nucléique"
+
+#: 128
+msgid "Nucleic acid probe with amplification"
+msgstr "Sonde acide nucléique avec amplification"
+
+#: 129
+msgid "Nucleic acid probe with target amplification"
+msgstr "Sonde acide nucléique avec amplification ciblée"
+
+#: 130
+msgid "Nucleic acid reverse transcription"
+msgstr "Transcription inverse"
+
+#: 131
+msgid "Nucleic Acid Sequence Based Analysis"
+msgstr "Séquençage d'acides nucléiques"
+
+#: 132
+msgid "Polymerase chain reaction"
+msgstr "PCR"
+
+#: 134
+msgid "Restriction Fragment Length Polymorphism"
+msgstr "RFLP"
+
+#: 135
+msgid "Southern Blot"
+msgstr "Southern-blot"
+
+#: 138
+msgid "Western Blot"
+msgstr "Western-Blot"
+
+#: 139
+msgid "Flocculation"
+msgstr "Floculation"
+
+#: 140
+msgid "Immune precipitation"
+msgstr "Immunoprécipitation"
+
+#: 141
+msgid "Milk ring test"
+msgstr "Test à l'anneau de lait"
+
+#: 142
+msgid "Precipitin"
+msgstr "Précipitine"
+
+#: 143
+msgid "Acid fast stain"
+msgstr "Coloration acide rapide"
+
+#: 144
+msgid "Acid fast stain, fluorochrome"
+msgstr "Coloration acide rapide/fluorochrome"
+
+#: 145
+msgid "Acid fast stain, Kinyoun's cold carbolfuchsin"
+msgstr "Coloration acide rapide Kinyoun"
+
+#: 146
+msgid "Acid fast stain, Ziehl-Neelsen"
+msgstr "Coloration acide Ziehl-Neelsen"
+
+#: 147
+msgid "Acid phosphatase stain"
+msgstr "Coloration phosphatase acide"
+
+#: 148
+msgid "Acridine orange stain"
+msgstr "Coloration acridine orange"
+
+#: 149
+msgid "Active brilliant orange KH stain"
+msgstr "Coloration orange brillant KH"
+
+#: 150
+msgid "Alazarin red S stain"
+msgstr "Coloration rouge alizarine"
+
+#: 151
+msgid "Alcian blue stain"
+msgstr "Coloration bleu alcian"
+
+#: 152
+msgid "Alcian blue with Periodic acid Schiff stain"
+msgstr "Coloration bleu alcian+acide périodique-Schiff"
+
+#: 153
+msgid "Argentaffin stain"
+msgstr "Coloration argentaffine"
+
+#: 154
+msgid "Argentaffin silver stain"
+msgstr "Coloration argent argentaffine"
+
+#: 155
+msgid "Azure-eosin stain"
+msgstr "Coloration azur-éosine"
+
+#: 156
+msgid "Basic Fuschin stain"
+msgstr "Coloration fuchsine basique"
+
+#: 157
+msgid "Bennhold stain"
+msgstr "Coloration Bennhold"
+
+#: 158
+msgid "Bennhold's Congo red stain"
+msgstr "Coloration rouge Congo/Bennhold"
+
+#: 159
+msgid "Bielschowsky stain"
+msgstr "Coloration Bielschowsky"
+
+#: 160
+msgid "Bielschowsky's silver stain"
+msgstr "Coloration Argent/Bielschowsky"
+
+#: 161
+msgid "Bleach stain"
+msgstr "Décoloration"
+
+#: 162
+msgid "Bodian stain"
+msgstr "Coloration Bodian"
+
+#: 163
+msgid "Brown-Brenn stain"
+msgstr "Coloration Brown et Brenn"
+
+#: 164
+msgid "Butyrate-esterase stain"
+msgstr "Coloration butyrate estérase"
+
+#: 165
+msgid "Calcofluor white fluorescent stain"
+msgstr "Préparation calcofluor blanc"
+
+#: 166
+msgid "Carbol-fuchsin stain"
+msgstr "Coloration carbol fuchsine"
+
+#: 167
+msgid "Carmine stain"
+msgstr "Coloration carmin"
+
+#: 168
+msgid "Churukian-Schenk stain"
+msgstr "Coloration Churukian-Schenk"
+
+#: 169
+msgid "Congo red stain"
+msgstr "Coloration rouge Congo"
+
+#: 170
+msgid "Cresyl echt violet stain"
+msgstr "Coloration violet de crésyl acétate"
+
+#: 171
+msgid "Crystal violet stain"
+msgstr "Coloration crystal violet"
+
+#: 172
+msgid "De Galantha stain"
+msgstr "Coloration de Galantha"
+
+#: 173
+msgid "Dieterle silver impregnation stain"
+msgstr "Coloration de Dieterle par imprégnation argentique"
+
+#: 174
+msgid "Fite-Farco stain"
+msgstr "Coloration Fite-Faraco"
+
+#: 175
+msgid "Fontana-Masson silver stain"
+msgstr "Coloration Fontana-Masson"
+
+#: 176
+msgid "Fouchet stain"
+msgstr "Coloration Fouchet"
+
+#: 177
+msgid "Gomori stain"
+msgstr "Coloration Gomori"
+
+#: 178
+msgid "Gomori methenamine silver stain"
+msgstr "Coloration méthénamine argent Gomori"
+
+#: 179
+msgid "Gomori-Wheatly trichrome stain"
+msgstr "Coloration trichrome Gomori-Wheatly"
+
+#: 180
+msgid "Gridley stain"
+msgstr "Coloration Gridley"
+
+#: 181
+msgid "Grimelius silver stain"
+msgstr "Coloration argent Grimelius"
+
+#: 182
+msgid "Grocott stain"
+msgstr "Coloration de Grocott"
+
+#: 183
+msgid "Grocott methenamine silver stain"
+msgstr "Coloration méthénamine argent Grocott"
+
+#: 184
+msgid "Hale's colloidal ferric oxide stain"
+msgstr "Coloration à l'oxyde ferrique colloïdale de Hale"
+
+#: 185
+msgid "Hale's colloidal iron stain"
+msgstr "Coloration au fer colloïdale de Hale"
+
+#: 186
+msgid "Hansel stain"
+msgstr "Coloration Hansel"
+
+#: 187
+msgid "Harris regressive hematoxylin and eosin stain"
+msgstr "Coloration hématoxylline Harris+éosine"
+
+#: 188
+msgid "Hematoxylin and eosin stain"
+msgstr "Coloration hématoxylline+éosine"
+
+#: 189
+msgid "Highman stain"
+msgstr "Coloration Highman"
+
+#: 190
+msgid "Holzer stain"
+msgstr "Coloration Holzer"
+
+#: 191
+msgid "Iron hematoxylin stain"
+msgstr "Coloration fer hématoxylline"
+
+#: 192
+msgid "Jones stain"
+msgstr "Coloration Jones"
+
+#: 193
+msgid "Jones methenamine silver stain"
+msgstr "Coloration méthénamine argent Jones"
+
+#: 194
+msgid "Kossa stain"
+msgstr "Coloration Kossa"
+
+#: 195
+msgid "Lawson-Van Gieson stain"
+msgstr "Coloration Lawson-Van Gieson"
+
+#: 196
+msgid "Loeffler methylene blue stain"
+msgstr "Coloration bleu de méthylène Loeffler"
+
+#: 197
+msgid "Luxol fast blue with cresyl violet stain"
+msgstr "Coloration Luxol bleu au violet crésyl"
+
+#: 198
+msgid "Luxol fast blue with Periodic acid-Schiff stain"
+msgstr "Coloration Luxol bleu à l'acide périodique-Schiff"
+
+#: 199
+msgid "MacNeal's tetrachrome blood stain"
+msgstr "Coloration tétrachrome MacNeal"
+
+#: 200
+msgid "Mallory-Heidenhain stain"
+msgstr "Coloration Mallory-Heidenhain"
+
+#: 201
+msgid "Masson trichrome stain"
+msgstr "Coloration trichrome Masson"
+
+#: 202
+msgid "Mayer mucicarmine stain"
+msgstr "Coloration Mayer mucicarmine"
+
+#: 203
+msgid "Mayers progressive hematoxylin and eosin stain"
+msgstr "Coloration Mayer hématoxyline éosine"
+
+#: 204
+msgid "May-Grunwald Giemsa stain"
+msgstr "Coloration May-Grunwald Giemsa"
+
+#: 205
+msgid "Methyl green stain"
+msgstr "Coloration au vert de méthyl"
+
+#: 206
+msgid "Methyl green pyronin stain"
+msgstr "Coloration au vert de méthyl pyronine"
+
+#: 207
+msgid "Modified Gomori-Wheatly trichrome stain"
+msgstr "Coloration trichrome Gomori-Wheatley"
+
+#: 208
+msgid "Modified Masson trichrome stain"
+msgstr "Coloration trichrome Masson modifié"
+
+#: 209
+msgid "Modified trichrome stain"
+msgstr "Coloration trichrome modifié"
+
+#: 210
+msgid "Movat pentachrome stain"
+msgstr "Coloration pentachrome Movat"
+
+#: 211
+msgid "Mucicarmine stain"
+msgstr "Coloration mucicarmine"
+
+#: 212
+msgid "Neutral red stain"
+msgstr "Coloration rouge neutre"
+
+#: 213
+msgid "Night blue stain"
+msgstr "Coloration bleu nuit"
+
+#: 214
+msgid "Non-specific esterase stain"
+msgstr "Coloration estérase non spécifique"
+
+#: 215
+msgid "Oil red-O stain"
+msgstr "Coloration huile rouge O"
+
+#: 216
+msgid "Orcein stain"
+msgstr "Coloration orcéine"
+
+#: 217
+msgid "Perls' stain"
+msgstr "Coloration de Perls"
+
+#: 218
+msgid "Phosphotungstic acid-hematoxylin stain"
+msgstr "Coloration hématoxyline phosphotungstique"
+
+#: 219
+msgid "Potassium ferrocyanide stain"
+msgstr "Coloration ferrocyanure de potassium"
+
+#: 220
+msgid "Prussian blue stain"
+msgstr "Coloration bleu de Prusse"
+
+#: 221
+msgid "Putchler modified Bennhold stain"
+msgstr "Coloration Bennhold modifiée"
+
+#: 222
+msgid "Quinacrine fluorescent stain"
+msgstr "Coloration quinacrine fluorescente"
+
+#: 223
+msgid "Reticulin stain"
+msgstr "Coloration réticuline"
+
+#: 224
+msgid "Rhodamine stain"
+msgstr "Coloration rhodamine"
+
+#: 225
+msgid "Safranin stain"
+msgstr "Coloration safranée"
+
+#: 226
+msgid "Schmorl stain"
+msgstr "Coloration Schmorl"
+
+#: 227
+msgid "Seiver-Munger stain"
+msgstr "Coloration Sevier-Munger"
+
+#: 228
+msgid "Silver stain"
+msgstr "Coloration argentique"
+
+#: 229
+msgid "Specific esterase stain"
+msgstr "Coloration estérase spécifique (Butyrate estérase)"
+
+#: 230
+msgid "Steiner silver stain"
+msgstr "Coloration Steiner"
+
+#: 231
+msgid "Sudan III stain"
+msgstr "Coloration Soudan III"
+
+#: 232
+msgid "Sudan IVI stain"
+msgstr "Coloration Soudan IV"
+
+#: 233
+msgid "Sulfated alcian blue stain"
+msgstr "Coloration bleu alcian sulfaté"
+
+#: 234
+msgid "Supravital stain"
+msgstr "Coloration supravitale"
+
+#: 235
+msgid "Thioflavine-S stain"
+msgstr "Coloration thioflavine-S"
+
+#: 236
+msgid "Three micron Giemsa stain"
+msgstr "Coloration Giemsa 3µ"
+
+#: 237
+msgid "Vassar-Culling stain"
+msgstr "Coloration Vassar-Culling"
+
+#: 238
+msgid "Vital Stain"
+msgstr "Coloration vitale"
+
+#: 239
+msgid "von Kossa stain"
+msgstr "Coloration Von Kossa"
+
+#: 240
+msgid "Antibiotic sensitivity, disk"
+msgstr "Antibiogramme méthode par diffusion"
+
+#: 241
+msgid "BACTEC susceptibility test"
+msgstr "Antibiogramme méthode par automate BACTEC"
+
+#: 242
+msgid "Disk dilution"
+msgstr "Antibiogramme méthode par dilution"
+
+#: 243
+msgid "Minimum bactericidal concentration test, macrodilution"
+msgstr "Concentration minimale bactéricide (CMB) par macrodilution (tube)"
+
+#: 244
+msgid "Minimum bactericidal concentration test, microdilution"
+msgstr "Concentration minimale bactéricide (CMB) par microdilution (plaque)"
+
+#: 245
+msgid "Minimum Inhibitory Concentration, macrodilution"
+msgstr "Concentration minimale inhibitrice (CMI) par macrodilution (tube)"
+
+#: 246
+msgid "Minimum Inhibitory Concentration, microdilution"
+msgstr "Concentration minimale inhibitrice (CMI) par microdilution (plaque)"
+
+#: 247
+msgid "Turbidometric"
+msgstr "Turbidimétrie"
+
+#: 248
+msgid "Refractometric"
+msgstr "Réfractométrie"
+
+#: 249
+msgid "Thin layer chromatography (TLC)"
+msgstr "Chromatographie couche mince"
+
+#: 250
+msgid "EMIT"
+msgstr "EMIT"
+
+#: 251
+msgid "Flow cytometry (FC)"
+msgstr "Cytométrie de flux"
+
+#: 252
+msgid "Radial immunodiffusion (RID)"
+msgstr "Immunodiffusion radiale (RID)"
+
+#: 253
+msgid "Fluorescence polarization immunoassay (FPIA)"
+msgstr "PFIA"
+
+#: 254
+msgid "Immunofixation electrophoresis (IFE)"
+msgstr "Immunofixation"
+
+#: 255
+msgid "Equilibrium dialysis"
+msgstr "Dialyse à l'équilibre"
+
+#: 256
+msgid "Kleihauer-Betke acid elution"
+msgstr "Elution acide de Kleihauer-Betke"
+
+#: 257
+msgid "Anti-complement immunofluorescence (ACIF)"
+msgstr "Immunofluorescence anti-complément (ACIF)"
+
+#: 258
+msgid "GC/MS"
+msgstr "Chromatographie phase gazeuse/Spectroscopie de masse (GC/MS)"
+
+#: 259
+msgid "Nephelometry"
+msgstr "Néphélométrie"
+
+#: 261
+msgid "Lymphocyte Microcytotoxicity Assay"
+msgstr "Test de micro-lymphocytotoxicité"
+
+#: 262
+msgid "Spectrophotometry"
+msgstr "Spectrophotométrie"
+
+#: 263
+msgid "Atomic absorption spectrophotometry (AAS)"
+msgstr "Spectrophotométrie d'absorption atomique (SAA)"
+
+#: 264
+msgid "Ion selective electrode (ISE)"
+msgstr "Electrode ionique sélective"
+
+#: 265
+msgid "Gas chromatography (GC)"
+msgstr "Chromatographie phase gazeuse (CG)"
+
+#: 266
+msgid "Isoelectric focusing (IEF)"
+msgstr "Isoélectrofocalisation (IEF)"
+
+#: 267
+msgid "Immunochemiluminescence"
+msgstr "Chimioluminescence"
+
+#: 268
+msgid "Microparticle enzyme immunoassay (MEIA)"
+msgstr "MEIA"
+
+#: 269
+msgid "ICP/MS"
+msgstr "Spectrométrie de masse à plasma à couplage inductif (ICP/MS)"
+
+#: 270
+msgid "Immunoradiometric assay (IRMA)"
+msgstr "IRMA"
+
+#: 271
+msgid "Photo optical clot detection"
+msgstr "Coagulation par détection optique du caillot"
+
+#: 272
+msgid "Minimum Inhibitory Concentration"
+msgstr "Concentration minimale inhibitrice (CMI)"
+
+#: 273
+msgid "Viral Genotype Susceptibility"
+msgstr "Susceptibilité génotypique virale"
+
+#: 274
+msgid "Viral Phenotype Susceptibility"
+msgstr "Susceptibilité phénotypique virale"
+
+#: 275
+msgid "Gradient Strip"
+msgstr "Bandelette à gradient"
+
+#: 275a
+msgid "275a"
+msgstr "Concentration minimale létale (CML)"
+
+#: 276
+msgid "Slow Mycobacteria Susceptibility"
+msgstr "Susceptibilité des mycobactéries à croissance lente"
+
+#: 277
+msgid "Serum bactericidal titer"
+msgstr "Titre bactéricide sérique (TBS)"
+
+#: 278
+msgid "Agar screen"
+msgstr "Dépistage sur gélose"
+
+#: 279
+msgid "Disk induction"
+msgstr "Test d'induction par disque"
+
+#: 280
+msgid "Susceptibility Testing"
+msgstr "Test de sensibilité"
+
+#: ALGM
+msgid "algorithm"
+msgstr "Algorythme"
+
+#: BYCL
+msgid "bayesian calculation"
+msgstr "Analyse stastistique Bayésienne"
+
+#: PCR
+msgid "PCR"
+msgstr "PCR"
+
+#: VDOC
+msgid "document verification"
+msgstr "Vérification à partir d'un document"
+
+#: VREG
+msgid "registry verification"
+msgstr "Vérification par requête électronique"
+
+#: VTOKEN
+msgid "electronic token verification"
+msgstr "Vérification au moyen d'un jeton électronique"
+
+#: VVOICE
+msgid "voice-based verification"
+msgstr "Vérification par voie orale"

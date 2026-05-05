@@ -1,0 +1,461 @@
+# en -> fr
+
+#: C
+msgid "Calibrator"
+msgstr "Spécimen utilisé pour les paramètres d'étalonnage initiaux d'un instrument"
+
+#: G
+msgid "Group"
+msgstr "Ensemble d'échantillons de patients dans lequel les individus du groupe peuvent ou non être identifiés."
+
+#: L
+msgid "Pool"
+msgstr "Aliquot d'échantillons individuels combinés pour former un seul spécimen représentant tous les individus inclus."
+
+#: P
+msgid "Patient"
+msgstr "Spécimen prélevé sur un patient"
+
+#: ADOPTF
+msgid "adoptive father"
+msgstr "Père adoptif"
+
+#: ADOPTM
+msgid "adoptive mother"
+msgstr "Mère adoptive"
+
+#: ADOPTP
+msgid "adoptive parent"
+msgstr "Parent adoptif, au sens père ou mère"
+
+#: AUNT
+msgid "aunt"
+msgstr "Tante"
+
+#: BRO
+msgid "brother"
+msgstr "Frère"
+
+#: BROINLAW
+msgid "brother-in-law"
+msgstr "Beau-frère"
+
+#: CHILD
+msgid "child"
+msgstr "Enfant"
+
+#: CHLDADOPT
+msgid "adopted child"
+msgstr "Enfant adopté"
+
+#: CHLDFOST
+msgid "foster child"
+msgstr "Enfant placé en famille d'accueil"
+
+#: CHLDINLAW
+msgid "child-in-law"
+msgstr "Gendre ou belle-fille"
+
+#: COUSN
+msgid "cousin"
+msgstr "Cousin(e)"
+
+#: DAU
+msgid "natural daughter"
+msgstr "Fille biologique"
+
+#: DAUADOPT
+msgid "adopted daughter"
+msgstr "Fille adoptive"
+
+#: DAUC
+msgid "daughter"
+msgstr "Fille"
+
+#: DAUFOST
+msgid "foster daughter"
+msgstr "Fille placée en famille d'accueil"
+
+#: DAUINLAW
+msgid "daughter in-law"
+msgstr "Belle-fille"
+
+#: DOMPART
+msgid "domestic partner"
+msgstr "Concubin(e) ou partenaire PACS"
+
+#: EXT
+msgid "extended family member"
+msgstr "Autre membre de la famille sans lien génétique direct"
+
+#: FAMMEMB
+msgid "family member"
+msgstr "Autre membre de la famille"
+
+#: FMRSPS
+msgid "former spouse"
+msgstr "Ancien époux ou ancienne épouse"
+
+#: FRND
+msgid "unrelated friend"
+msgstr "Autre proche"
+
+#: FTH
+msgid "father"
+msgstr "Père"
+
+#: FTHFOST
+msgid "foster father"
+msgstr "Assistant familial - Famille d'accueil"
+
+#: FTHINLAW
+msgid "father-in-law"
+msgstr "Beau-père"
+
+#: FTWIN
+msgid "fraternal twin"
+msgstr "Jumeau ou jumelle dizygote"
+
+#: FTWINBRO
+msgid "fraternal twin brother"
+msgstr "Jumeau dizygote"
+
+#: FTWINSIS
+msgid "fraternal twin sister"
+msgstr "Jumelle dizygote"
+
+#: GESTM
+msgid "gestational mother"
+msgstr "Mère porteuse"
+
+#: GGRFTH
+msgid "great grandfather"
+msgstr "Arrière-grand-père"
+
+#: GGRMTH
+msgid "great grandmother"
+msgstr "Arrière-grand-mère"
+
+#: GGRPRN
+msgid "great grandparent"
+msgstr "Arrière-grand-parent"
+
+#: GRFTH
+msgid "grandfather"
+msgstr "Grand-père"
+
+#: GRMTH
+msgid "grandmother"
+msgstr "Grand-mère"
+
+#: GRPRN
+msgid "grandparent"
+msgstr "Grand-parent"
+
+#: GRNDCHILD
+msgid "grandchild"
+msgstr "Petit-enfant"
+
+#: GRNDDAU
+msgid "granddaughter"
+msgstr "Petite-fille"
+
+#: GRNDSON
+msgid "grandson"
+msgstr "Petit-fils"
+
+#: HBRO
+msgid "half-brother"
+msgstr "Demi-frère"
+
+#: HSIB
+msgid "half-sibling"
+msgstr "Demi-frère ou demi-sœur"
+
+#: HSIS
+msgid "half-sister"
+msgstr "Demi-sœur"
+
+#: HUSB
+msgid "husband"
+msgstr "Epoux"
+
+#: ITWIN
+msgid "identical twin"
+msgstr "Jumeau ou jumelle monozygote"
+
+#: ITWINBRO
+msgid "identical twin brother"
+msgstr "Jumeau monozygote"
+
+#: ITWINSIS
+msgid "identical twin sister"
+msgstr "Jumelle monozygote"
+
+#: MAUNT
+msgid "maternal aunt"
+msgstr "Tante maternelle"
+
+#: MCOUSN
+msgid "maternal cousin"
+msgstr "Cousin (maternel)"
+
+#: MGGRFTH
+msgid "maternal great-grandfather"
+msgstr "Arrière-grand-père maternel"
+
+#: MGGRMTH
+msgid "maternal great-grandmother"
+msgstr "Arrière-grand-mère maternelle"
+
+#: MGGRPRN
+msgid "maternal great-grandparent"
+msgstr "Arrière grand parent maternel"
+
+#: MGRFTH
+msgid "maternal grandfather"
+msgstr "Grand-père maternel"
+
+#: MGRMTH
+msgid "maternal grandmother"
+msgstr "Grand-mère maternelle"
+
+#: MGRPRN
+msgid "maternal grandparent"
+msgstr "Grand parent maternel"
+
+#: MTH
+msgid "mother"
+msgstr "Mère"
+
+#: MTHFOST
+msgid "foster mother"
+msgstr "Assistante familiale - Famille d'accueil"
+
+#: MTHINLAW
+msgid "mother-in-law"
+msgstr "Belle-mère"
+
+#: MUNCLE
+msgid "maternal uncle"
+msgstr "Oncle maternel"
+
+#: NBOR
+msgid "neighbor"
+msgstr "Voisin(e)"
+
+#: NBRO
+msgid "natural brother"
+msgstr "Frère biologique"
+
+#: NCHILD
+msgid "natural child"
+msgstr "Enfant biologique"
+
+#: NEPHEW
+msgid "nephew"
+msgstr "Neveu"
+
+#: NFTH
+msgid "natural father"
+msgstr "Père biologique"
+
+#: NFTHF
+msgid "natural father of fetus"
+msgstr "Père biologique du fœtus"
+
+#: NIECE
+msgid "niece"
+msgstr "Nièce"
+
+#: NIENEPH
+msgid "niece/nephew"
+msgstr "Neveu ou nièce"
+
+#: NMTH
+msgid "natural mother"
+msgstr "Mère biologique"
+
+#: NMTHF
+msgid "natural mother of fetus"
+msgstr "Mère biologique du fœtus"
+
+#: NPRN
+msgid "natural parent"
+msgstr "Parent biologique, au sens père ou mère"
+
+#: NSIB
+msgid "natural sibling"
+msgstr "Frère ou soeur biologique"
+
+#: NSIS
+msgid "natural sister"
+msgstr "Soeur biologique"
+
+#: PAUNT
+msgid "paternal aunt"
+msgstr "Tante paternelle"
+
+#: PCOUSN
+msgid "paternal cousin"
+msgstr "Cousin (paternel)"
+
+#: PGGRFTH
+msgid "paternal great-grandfather"
+msgstr "Arrière-grand-père paternel"
+
+#: PGGRMTH
+msgid "paternal great-grandmother"
+msgstr "Arrière-grand-mère paternelle"
+
+#: PGGRPRN
+msgid "paternal great-grandparent"
+msgstr "Arrière grand parent paternel"
+
+#: PGRFTH
+msgid "paternal grandfather"
+msgstr "Grand-père paternel"
+
+#: PGRMTH
+msgid "paternal grandmother"
+msgstr "Grand-mère paternelle"
+
+#: PGRPRN
+msgid "paternal grandparent"
+msgstr "Grand parent paternel"
+
+#: PRN
+msgid "parent"
+msgstr "Parent, au sens père ou mère"
+
+#: PRNINLAW
+msgid "parent in-law"
+msgstr "Beau-père ou belle-mère"
+
+#: PRNFOST
+msgid "foster parent"
+msgstr "Parent, au sens famille d'accueil"
+
+#: PUNCLE
+msgid "paternal uncle"
+msgstr "Oncle paternel"
+
+#: RESPRSN
+msgid "responsible party"
+msgstr "Responsable légal non membre de la famille"
+
+#: ROOM
+msgid "Roommate"
+msgstr "Personne vivant sous le même toit"
+
+#: SIB
+msgid "sibling"
+msgstr "Frère ou sœur"
+
+#: SIBINLAW
+msgid "sibling in-law"
+msgstr "Beau-frère ou belle-sœur"
+
+#: SIGOTHR
+msgid "significant other"
+msgstr "Conjoint"
+
+#: SIS
+msgid "sister"
+msgstr "Sœur"
+
+#: SISINLAW
+msgid "sister-in-law"
+msgstr "Belle-sœur"
+
+#: SON
+msgid "natural son"
+msgstr "Fils biologique"
+
+#: SONADOPT
+msgid "adopted son"
+msgstr "Fils adoptif"
+
+#: SONC
+msgid "son"
+msgstr "Fils"
+
+#: SONFOST
+msgid "foster son"
+msgstr "Garçon placé en famille d'accueil"
+
+#: SONINLAW
+msgid "son in-law"
+msgstr "Gendre"
+
+#: SPS
+msgid "spouse"
+msgstr "Epoux ou épouse"
+
+#: STPBRO
+msgid "stepbrother"
+msgstr "Fils du beau-père ou de la belle-mère"
+
+#: STPFTH
+msgid "stepfather"
+msgstr "Beau-père - époux du père ou de la mère"
+
+#: STPMTH
+msgid "stepmother"
+msgstr "Belle-mère - épouse du père ou de la mère"
+
+#: STPCHLD
+msgid "step child"
+msgstr "Enfant du conjoint, issu d'un mariage précédent"
+
+#: STPDAU
+msgid "stepdaughter"
+msgstr "Fille du conjoint, issue d'un mariage précédent"
+
+#: STPPRN
+msgid "step parent"
+msgstr "Beau-père ou belle-mère - époux(se) du père ou de la mère"
+
+#: STPSIB
+msgid "step sibling"
+msgstr "Enfant du beau-père ou de la belle-mère"
+
+#: STPSIS
+msgid "stepsister"
+msgstr "Fille du beau-père ou de la belle-mère"
+
+#: STPSON
+msgid "stepson"
+msgstr "Fils du conjoint, issu d'un mariage précédent"
+
+#: TWIN
+msgid "twin"
+msgstr "Frère jumeau ou soeur jumelle"
+
+#: TWINBRO
+msgid "twin brother"
+msgstr "Frère jumeau"
+
+#: TWINSIS
+msgid "twin sister"
+msgstr "Soeur jumelle"
+
+#: UNCLE
+msgid "uncle"
+msgstr "Oncle"
+
+#: WIFE
+msgid "wife"
+msgstr "Epouse"
+
+#: FAMDEP
+msgid "family dependent"
+msgstr "Couverture familiale"
+
+#: STUD
+msgid "student"
+msgstr "Couverture étudiante"
+
+#: SELF
+msgid "self"
+msgstr "Couverture personnelle"

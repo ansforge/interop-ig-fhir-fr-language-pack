@@ -1,0 +1,1373 @@
+# en -> fr
+
+#: ABS
+msgid "Abscess"
+msgstr "Abcès"
+
+#: ACNE
+msgid "Tissue, Acne"
+msgstr "Acné"
+
+#: ACNFLD
+msgid "Fluid, Acne"
+msgstr "Liquide d'acné"
+
+#: AIRS
+msgid "Air Sample"
+msgstr "Échantillon d'air"
+
+#: ALL
+msgid "Allograft"
+msgstr "Allogreffe"
+
+#: AMN
+msgid "Amniotic fluid"
+msgstr "Liquide amniotique"
+
+#: AMP
+msgid "Amputation"
+msgstr "Amputation"
+
+#: ANGI
+msgid "Catheter Tip, Angio"
+msgstr "Cathéter d'angiographie (embout)"
+
+#: ARTC
+msgid "Catheter Tip, Arterial"
+msgstr "Cathéter artériel (embout)"
+
+#: ASERU
+msgid "Serum, Acute"
+msgstr "Sérum en phase aigüe"
+
+#: ASP
+msgid "Aspirate"
+msgstr "Aspiration"
+
+#: ATTE
+msgid "Environment, Attest"
+msgstr "Environnement, Attest"
+
+#: AUTOA
+msgid "Environmental, Autoclave Ampule"
+msgstr "Ampoule d'autoclave"
+
+#: AUTOC
+msgid "Environmental, Autoclave Capsule"
+msgstr "Capsule d'autoclave"
+
+#: AUTP
+msgid "Autopsy"
+msgstr "Autopsie"
+
+#: BBL
+msgid "Blood bag"
+msgstr "Poche de sang"
+
+#: BCYST
+msgid "Cyst, Baker's"
+msgstr "Kyste de Baker"
+
+#: BDY
+msgid "Whole body"
+msgstr "Corps humain"
+
+#: BIFL
+msgid "Bile Fluid"
+msgstr "Bile"
+
+#: BITE
+msgid "Bite"
+msgstr "Morsure"
+
+#: BLD
+msgid "Whole blood"
+msgstr "Sang"
+
+#: BLDA
+msgid "Blood arterial"
+msgstr "Sang artériel"
+
+#: BLDC
+msgid "BLDC"
+msgstr "Sang capillaire"
+
+#: BLDCO
+msgid "Cord blood"
+msgstr "Sang de cordon"
+
+#: BLDV
+msgid "Blood venous"
+msgstr "Sang veineux"
+
+#: BLEB
+msgid "Bleb"
+msgstr "Cloque"
+
+#: BLIST
+msgid "Blister"
+msgstr "Ampoule"
+
+#: BOIL
+msgid "Boil"
+msgstr "Clou"
+
+#: BON
+msgid "Bone"
+msgstr "Os"
+
+#: BOWL
+msgid "Bowel contents"
+msgstr "Contenu intestinal"
+
+#: BPH
+msgid "Basophils"
+msgstr "Polynucléaires basophiles"
+
+#: BPU
+msgid "Blood product unit"
+msgstr "Produit sanguin labile"
+
+#: BRN
+msgid "Burn"
+msgstr "Brûlure"
+
+#: BRO
+msgid "BRO"
+msgstr "Prélèvement bronchique"
+
+#: BRSH
+msgid "Brush"
+msgstr "Brosse"
+
+#: BRTH
+msgid "Breath (use EXHLD)"
+msgstr "Gas expiré (use EXG)"
+
+#: BRUS
+msgid "Brushing"
+msgstr "Brossage"
+
+#: BUB
+msgid "Bubo"
+msgstr "Bubon"
+
+#: BULLA
+msgid "Bulla/Bullae"
+msgstr "Bulle"
+
+#: BX
+msgid "Biopsy"
+msgstr "Biopsie"
+
+#: CALC
+msgid "Calculus (=Stone)"
+msgstr "Calcul"
+
+#: CARBU
+msgid "Carbuncle"
+msgstr "Anthrax"
+
+#: CAT
+msgid "Catheter"
+msgstr "Cathéter"
+
+#: CBITE
+msgid "Bite, Cat"
+msgstr "Morsure de chat"
+
+#: CDM
+msgid "Cardiac muscle"
+msgstr "Muscle cardiaque"
+
+#: CLIPP
+msgid "Clippings"
+msgstr "Coupures"
+
+#: CNJT
+msgid "Conjunctiva"
+msgstr "Conjonctive"
+
+#: CNL
+msgid "Cannula"
+msgstr "Canule"
+
+#: COL
+msgid "Colostrum"
+msgstr "Colostrum"
+
+#: CONE
+msgid "Biospy, Cone"
+msgstr "Biopsie conique"
+
+#: CRN
+msgid "CRN"
+msgstr "Cornée"
+
+#: CSCR
+msgid "Scratch, Cat"
+msgstr "Griffure de chat"
+
+#: CSERU
+msgid "Serum, Convalescent"
+msgstr "Sérum de convalescent"
+
+#: CSF
+msgid "Cerebral spinal fluid"
+msgstr "Liquide céphalorachidien"
+
+#: CSITE
+msgid "Catheter Insertion Site"
+msgstr "Cathéter (Site d'insertion)"
+
+#: CSMY
+msgid "Fluid,  Cystostomy Tube"
+msgstr "Liquide de tube de cystostomie"
+
+#: CST
+msgid "Fluid, Cyst"
+msgstr "Liquide de kyste"
+
+#: CSVR
+msgid "Blood, Cell Saver"
+msgstr "Récupérateur de sang"
+
+#: CTP
+msgid "Catheter tip"
+msgstr "Cathéter (embout)"
+
+#: CUR
+msgid "Curretage"
+msgstr "Curetage"
+
+#: CVM
+msgid "Cervical Mucus"
+msgstr "Glaire cervicale"
+
+#: CVPS
+msgid "Site, CVP"
+msgstr "Cathéter veineux central (site)"
+
+#: CVPT
+msgid "Catheter Tip, CVP"
+msgstr "Cathéter veineux central (embout)"
+
+#: CVX
+msgid "CVX"
+msgstr "Col de l’utérus"
+
+#: CYN
+msgid "Nodule, Cystic"
+msgstr "Nodule kystique"
+
+#: CYST
+msgid "Cyst"
+msgstr "Kyste"
+
+#: DBITE
+msgid "Bite, Dog"
+msgstr "Morsure de chien"
+
+#: DCS
+msgid "Sputum, Deep Cough"
+msgstr "Expectoration profonde (crachat)"
+
+#: DEC
+msgid "Ulcer, Decubitus"
+msgstr "Ulcère de décubitus"
+
+#: DEION
+msgid "Environmental, Water  (Deionized)"
+msgstr "Eau déminéralisée"
+
+#: DIA
+msgid "Dialysate"
+msgstr "Dialysat"
+
+#: DIAF
+msgid "Dialysis Fluid"
+msgstr "Liquide de dialyse"
+
+#: DISCHG
+msgid "Discharge"
+msgstr "Décharge"
+
+#: DIV
+msgid "Diverticulum"
+msgstr "Diverticule"
+
+#: DOSE
+msgid "DOSE"
+msgstr "Posologie (médicament ou substance)"
+
+#: DRN
+msgid "Drain"
+msgstr "Drain"
+
+#: DRNG
+msgid "Drainage, Tube"
+msgstr "Drain (Tube)"
+
+#: DRNGP
+msgid "Drainage, Penrose"
+msgstr "Drain Penrose"
+
+#: DUFL
+msgid "Duodenal fluid"
+msgstr "Liquide duodénal"
+
+#: EAR
+msgid "EAR"
+msgstr "Oreille"
+
+#: EARW
+msgid "Ear wax (cerumen)"
+msgstr "Cérumen"
+
+#: EBRUSH
+msgid "Brush, Esophageal"
+msgstr "Brossage oesophagien"
+
+#: EEYE
+msgid "Environmental, Eye Wash"
+msgstr "Lavage oculaire"
+
+#: EFF
+msgid "Environmental, Effluent"
+msgstr "Éffluent environnemental"
+
+#: EFFUS
+msgid "Effusion"
+msgstr "Éffusion"
+
+#: EFOD
+msgid "Environmental, Food"
+msgstr "Aliment"
+
+#: EISO
+msgid "Environmental, Isolette"
+msgstr "Isolette environnementale"
+
+#: ELT
+msgid "Electrode"
+msgstr "Electrode"
+
+#: ENDC
+msgid "ENDC"
+msgstr "Endocarde"
+
+#: ENDM
+msgid "ENDM"
+msgstr "Endomètre"
+
+#: ENVIR
+msgid "Environmental, Unidentified Substance"
+msgstr "Substance non identifiée"
+
+#: EOS
+msgid "Eosinophils"
+msgstr "Polynucléaires éosinophiles"
+
+#: EOTH
+msgid "Environmental, Other Substance"
+msgstr "Autre substance"
+
+#: ESOI
+msgid "Environmental, Soil"
+msgstr "Sol"
+
+#: ESOS
+msgid "Environmental, Solution (Sterile)"
+msgstr "Solution stérile"
+
+#: ETA
+msgid "Aspirate,  Endotrach"
+msgstr "Aspiration endotrachéale"
+
+#: ETTP
+msgid "Catheter Tip, Endotracheal"
+msgstr "Cathéter endotrachéal (embout)"
+
+#: ETTUB
+msgid "Tube, Endotracheal"
+msgstr "Tube endotrachéal"
+
+#: EWHI
+msgid "Environmental, Whirlpool"
+msgstr "Bain à remous"
+
+#: EXG
+msgid "Gas, exhaled (=breath)"
+msgstr "Gaz expiré"
+
+#: EXS
+msgid "Shunt, External"
+msgstr "Dérivation externe"
+
+#: EXUDTE
+msgid "Exudate"
+msgstr "Exudat"
+
+#: EYE
+msgid "EYE"
+msgstr "Oeil"
+
+#: FAW
+msgid "Environmental, Water  (Well)"
+msgstr "Eau de puits"
+
+#: FBLOOD
+msgid "Blood, Fetal"
+msgstr "Sang foetal"
+
+#: FGA
+msgid "Fluid,  Abdomen"
+msgstr "Liquide abdominal"
+
+#: FIB
+msgid "Fibroblasts"
+msgstr "Fibroblastes"
+
+#: FIST
+msgid "Fistula"
+msgstr "Fistule"
+
+#: FLD
+msgid "Fluid, Other"
+msgstr "Liquide (autre)"
+
+#: FLT
+msgid "Filter"
+msgstr "Filtre"
+
+#: FLU
+msgid "Fluid, Body unsp"
+msgstr "Liquide biologique"
+
+#: FLUID
+msgid "Fluid"
+msgstr "Liquide"
+
+#: FOLEY
+msgid "Catheter Tip, Foley"
+msgstr "Cathéter de Foley (embout)"
+
+#: FOOD
+msgid "FOOD"
+msgstr "Aliment"
+
+#: FRS
+msgid "Fluid, Respiratory"
+msgstr "Liquide respiratoire"
+
+#: FSCLP
+msgid "Scalp, Fetal"
+msgstr "Cuir chevelu foetal"
+
+#: FUR
+msgid "Furuncle"
+msgstr "Furoncle"
+
+#: GAS
+msgid "Gas"
+msgstr "Gaz du sang"
+
+#: GASA
+msgid "Aspirate, Gastric"
+msgstr "Aspiration gastrique"
+
+#: GASAN
+msgid "Antrum, Gastric"
+msgstr "Antre gastrique"
+
+#: GASBR
+msgid "Brushing, Gastric"
+msgstr "Brossage gastrique"
+
+#: GASD
+msgid "Drainage, Gastric"
+msgstr "Drainage gastrique"
+
+#: GAST
+msgid "Fluid/contents, Gastric"
+msgstr "Prélèvement digestif"
+
+#: GEN
+msgid "GEN"
+msgstr "Prélèvement génitaux"
+
+#: GENC
+msgid "GENC"
+msgstr "Prélèvement cervico-vaginal"
+
+#: GENF
+msgid "GENF"
+msgstr "Sécrétions des organes génitaux"
+
+#: GENL
+msgid "Genital lochia"
+msgstr "Lochies"
+
+#: GENV
+msgid "Genital vaginal"
+msgstr "Prélèvement vaginal"
+
+#: GRAFT
+msgid "Graft"
+msgstr "Greffe"
+
+#: GRAFTS
+msgid "Graft Site"
+msgstr "Greffe (Site)"
+
+#: GRANU
+msgid "Granuloma"
+msgstr "Granulome"
+
+#: GROSH
+msgid "Catheter, Groshong"
+msgstr "Cathéter Groshong"
+
+#: GSOL
+msgid "Solution, Gastrostomy"
+msgstr "Solution pour gastrostomie"
+
+#: GSPEC
+msgid "Biopsy, Gastric"
+msgstr "Biopsie gastrique"
+
+#: GT
+msgid "Tube, Gastric"
+msgstr "Sonde gastrique"
+
+#: GTUBE
+msgid "Drainage Tube, Drainage (Gastrostomy)"
+msgstr "Drainage de gastrostomie"
+
+#: HAR
+msgid "Hair"
+msgstr "Poils/Cheveux"
+
+#: HBITE
+msgid "Bite, Human"
+msgstr "Morsure humaine"
+
+#: HBLUD
+msgid "Blood, Autopsy"
+msgstr "Sang (Autopsie)"
+
+#: HEMAQ
+msgid "Catheter Tip, Hemaquit"
+msgstr "Cathéter Hemaquit (embout)"
+
+#: HEMO
+msgid "Catheter Tip, Hemovac"
+msgstr "Cathéter Hemovac (embout)"
+
+#: HERNI
+msgid "Tissue, Herniated"
+msgstr "Hernie"
+
+#: HEV
+msgid "Drain, Hemovac"
+msgstr "Drain Hemovac"
+
+#: HIC
+msgid "Catheter, Hickman"
+msgstr "Cathéter de Hickman"
+
+#: HYDC
+msgid "Fluid, Hydrocele"
+msgstr "Hydrocèle"
+
+#: IBITE
+msgid "Bite, Insect"
+msgstr "Morsure d'insecte"
+
+#: ICYST
+msgid "Cyst, Inclusion"
+msgstr "Kyste d'inclusion"
+
+#: IDC
+msgid "Catheter Tip, Indwelling"
+msgstr "Cathéter Indwelling (embout)"
+
+#: IHG
+msgid "Gas, Inhaled"
+msgstr "Gaz inhalé"
+
+#: ILEO
+msgid "Drainage, Ileostomy"
+msgstr "Drainage d'iléostomie"
+
+#: ILLEG
+msgid "Source of Specimen Is Illegible"
+msgstr "Source du spécimen illisible"
+
+#: IMP
+msgid "Implant"
+msgstr "Implant"
+
+#: INCI
+msgid "Site, Incision/Surgical"
+msgstr "Incision/chirurgie (Site)"
+
+#: INFIL
+msgid "Infiltrate"
+msgstr "Infiltration"
+
+#: INS
+msgid "Insect"
+msgstr "Insecte"
+
+#: INTRD
+msgid "Catheter Tip, Introducer"
+msgstr "Cathéter (Guide)"
+
+#: ISLT
+msgid "Isolate"
+msgstr "Isolat"
+
+#: IT
+msgid "Intubation tube"
+msgstr "Tube d'intubation"
+
+#: IUD
+msgid "Intrauterine Device"
+msgstr "Dispositif intra-utérin"
+
+#: IVCAT
+msgid "Catheter Tip, IV"
+msgstr "Cathéter intraveineux"
+
+#: IVFLD
+msgid "Fluid, IV"
+msgstr "Liquide intraveineux"
+
+#: IVTIP
+msgid "Tubing Tip, IV"
+msgstr "Sonde intraveineuse"
+
+#: JEJU
+msgid "Drainage, Jejunal"
+msgstr "Drainage jéjunal"
+
+#: JNTFLD
+msgid "Fluid, Joint"
+msgstr "Liquide articulaire"
+
+#: JP
+msgid "Drainage, Jackson Pratt"
+msgstr "Drain Jackson Pratt"
+
+#: KELOI
+msgid "Lavage"
+msgstr "Lavage"
+
+#: KIDFLD
+msgid "Fluid, Kidney"
+msgstr "Liquide rénal"
+
+#: LAM
+msgid "LAM"
+msgstr "Lame"
+
+#: LAVG
+msgid "Lavage, Bronhial"
+msgstr "Lavage bronchial"
+
+#: LAVGG
+msgid "Lavage, Gastric"
+msgstr "Lavage gastrique"
+
+#: LAVGP
+msgid "Lavage, Peritoneal"
+msgstr "Lavage péritonéal"
+
+#: LAVPG
+msgid "Lavage, Pre-Bronch"
+msgstr "Lavage pré-bronchial"
+
+#: LENS1
+msgid "Contact Lens"
+msgstr "Lentilles de contact"
+
+#: LENS2
+msgid "Contact Lens Case"
+msgstr "Étui pour lentilles de contact"
+
+#: LESN
+msgid "Lesion"
+msgstr "Lésion"
+
+#: LIQ
+msgid "Liquid, Unspecified"
+msgstr "Liquide non spécifié"
+
+#: LIQO
+msgid "Liquid, Other"
+msgstr "Liquide (autres)"
+
+#: LN
+msgid "LN"
+msgstr "Ponction"
+
+#: LNA
+msgid "Line arterial"
+msgstr "Ponction artérielle"
+
+#: LNV
+msgid "Line venous"
+msgstr "Ponction veineuse"
+
+#: LSAC
+msgid "Fluid, Lumbar Sac"
+msgstr "Liquide de sac lombaire"
+
+#: LYM
+msgid "Lymphocytes"
+msgstr "Lymphocytes"
+
+#: MAC
+msgid "Macrophages"
+msgstr "Macrophages"
+
+#: MAHUR
+msgid "Catheter Tip, Makurkour"
+msgstr "Catheter Makurkour"
+
+#: MAR
+msgid "Marrow"
+msgstr "Moelle osseuse"
+
+#: MASS
+msgid "Mass"
+msgstr "Masse"
+
+#: MBLD
+msgid "Blood, Menstrual"
+msgstr "Sang menstruel"
+
+#: MEC
+msgid "Meconium"
+msgstr "Méconium"
+
+#: MILK
+msgid "Breast milk"
+msgstr "Lait maternel"
+
+#: MLK
+msgid "Milk"
+msgstr "Lait"
+
+#: MUCOS
+msgid "Mucosa"
+msgstr "Muqueuse"
+
+#: MUCUS
+msgid "Mucus"
+msgstr "Mucus"
+
+#: NAIL
+msgid "Nail"
+msgstr "Ongle"
+
+#: NASDR
+msgid "Drainage, Nasal"
+msgstr "Drainage des voies nasales"
+
+#: NEDL
+msgid "Needle"
+msgstr "Aiguille"
+
+#: NEPH
+msgid "Site, Nephrostomy"
+msgstr "Néphrostomie (site)"
+
+#: NGASP
+msgid "Aspirate, Nasogastric"
+msgstr "Aspiration nasogastrique"
+
+#: NGAST
+msgid "Drainage, Nasogastric"
+msgstr "Drainage nasogastrique"
+
+#: NGS
+msgid "Site, Naso/Gastric"
+msgstr "Nasogastrique (site)"
+
+#: NODUL
+msgid "Nodule(s)"
+msgstr "Nodule(s)"
+
+#: NOS
+msgid "NOS"
+msgstr "Prélèvement nasopharyngée"
+
+#: NSECR
+msgid "Secretion, Nasal"
+msgstr "Sécrétion nasale"
+
+#: ORH
+msgid "Other"
+msgstr "Autre"
+
+#: ORL
+msgid "Lesion, Oral"
+msgstr "Lésion orale"
+
+#: OTH
+msgid "Source, Other"
+msgstr "Autre origine"
+
+#: PACEM
+msgid "Pacemaker"
+msgstr "Stimulateur cardiaque"
+
+#: PAFL
+msgid "Pancreatic fluid"
+msgstr "Liquide pancréatique"
+
+#: PAT
+msgid "PAT"
+msgstr "Patient"
+
+#: PCFL
+msgid "Fluid, Pericardial"
+msgstr "Liquide péricardique"
+
+#: PDSIT
+msgid "Site, Peritoneal Dialysis"
+msgstr "Dialyse péritonéale (site)"
+
+#: PDTS
+msgid "Site, Peritoneal Dialysis Tunnel"
+msgstr "Dialyse péritonéale, Tunnel (site)"
+
+#: PELVA
+msgid "Abscess, Pelvic"
+msgstr "Abcès pelvien"
+
+#: PENIL
+msgid "Lesion, Penile"
+msgstr "Lésion du pénis"
+
+#: PERIA
+msgid "Abscess, Perianal"
+msgstr "Abcès périanal"
+
+#: PILOC
+msgid "Cyst, Pilonidal"
+msgstr "kyste pilonidal"
+
+#: PINS
+msgid "Site, Pin"
+msgstr "Site de la broche"
+
+#: PIS
+msgid "Site, Pacemaker Insetion"
+msgstr "Site d'insertion du stimulateur cardiaque"
+
+#: PLAN
+msgid "Plant Material"
+msgstr "Matériel végétal"
+
+#: PLAS
+msgid "Plasma"
+msgstr "Plasma"
+
+#: PLB
+msgid "Plasma bag"
+msgstr "Poche de plasma"
+
+#: PLC
+msgid "Placenta"
+msgstr "Placenta"
+
+#: PLEVS
+msgid "Serum, Peak Level"
+msgstr "Sérum au pic"
+
+#: PLR
+msgid "Pleural fluid (thoracentesis fluid)"
+msgstr "Liquide pleural"
+
+#: PMN
+msgid "Polymorphonuclear neutrophils"
+msgstr "Polynucléaires neutrophiles"
+
+#: PND
+msgid "Drainage, Penile"
+msgstr "Drainage pénien"
+
+#: POL
+msgid "Polyps"
+msgstr "Polypes"
+
+#: POPGS
+msgid "Graft Site, Popliteal"
+msgstr "Site de greffe poplité"
+
+#: POPLG
+msgid "Graft, Popliteal"
+msgstr "Greffe poplitée"
+
+#: POPLV
+msgid "Site, Popliteal Vein"
+msgstr "Veine poplitée (site)"
+
+#: PORTA
+msgid "Catheter, Porta"
+msgstr "Chambre implantable"
+
+#: PPP
+msgid "Plasma, Platelet poor"
+msgstr "Plasma pauvre en plaquettes"
+
+#: PROST
+msgid "Prosthetic Device"
+msgstr "Appareil prothétique"
+
+#: PRP
+msgid "Plasma, Platelet rich"
+msgstr "Plasma riche en plaquettes"
+
+#: PRT
+msgid "PRT"
+msgstr "Liquide péritonéal"
+
+#: PSC
+msgid "Pseudocyst"
+msgstr "Pseudokyste"
+
+#: PUNCT
+msgid "Wound, Puncture"
+msgstr "Blessure, Perforation"
+
+#: PUS
+msgid "Pus"
+msgstr "Pus"
+
+#: PUSFR
+msgid "Pustule"
+msgstr "Pustule"
+
+#: PUST
+msgid "Pus"
+msgstr "Pus"
+
+#: QC3
+msgid "Quality Control"
+msgstr "Contrôle qualité"
+
+#: RANDU
+msgid "Urine, Random"
+msgstr "Urine aléatoire"
+
+#: RBC
+msgid "Erythrocytes"
+msgstr "Erythrocytes"
+
+#: RBITE
+msgid "Bite, Reptile"
+msgstr "Morsure de reptile"
+
+#: RECT
+msgid "Drainage, Rectal"
+msgstr "Drainage rectal"
+
+#: RECTA
+msgid "Abscess, Rectal"
+msgstr "Abcès rectal"
+
+#: RENALC
+msgid "Cyst, Renal"
+msgstr "Kyste rénal"
+
+#: RENC
+msgid "Fluid, Renal Cyst"
+msgstr "Liquide de kyste rénal"
+
+#: RES
+msgid "Respiratory"
+msgstr "Respiratoire"
+
+#: SAL
+msgid "Saliva"
+msgstr "Salive"
+
+#: SCAR
+msgid "Tissue, Keloid (Scar)"
+msgstr "Cicatrice"
+
+#: SCLV
+msgid "Catheter Tip, Subclavian"
+msgstr "Cathéter sous-clavière (embout)"
+
+#: SCROA
+msgid "Abscess, Scrotal"
+msgstr "Abcès scrotal"
+
+#: SECRE
+msgid "Secretion(s)"
+msgstr "Sécrétion(s)"
+
+#: SER
+msgid "Serum"
+msgstr "Sérum"
+
+#: SHU
+msgid "Site, Shunt"
+msgstr "Site du shunt"
+
+#: SHUNF
+msgid "Fluid, Shunt"
+msgstr "Liquide de shunt"
+
+#: SHUNT
+msgid "Shunt"
+msgstr "Shunt (site)"
+
+#: SITE
+msgid "Site"
+msgstr "Site"
+
+#: SKBP
+msgid "Biopsy, Skin"
+msgstr "Biopsie de peau"
+
+#: SKM
+msgid "SKM"
+msgstr "Muscle squelettique "
+
+#: SKN
+msgid "Skin"
+msgstr "Peau"
+
+#: SMM
+msgid "Mass, Sub-Mandibular"
+msgstr "Masse sous-mandibulaire"
+
+#: SMN
+msgid "Seminal fluid"
+msgstr "Sperme"
+
+#: SMPLS
+msgid "SMPLS"
+msgstr "Plasma séminal"
+
+#: SNV
+msgid "Fluid, synovial (Joint fluid)"
+msgstr "Liquide synovial"
+
+#: SPRM
+msgid "Spermatozoa"
+msgstr "Spermatozoïdes"
+
+#: SPRP
+msgid "Catheter Tip, Suprapubic"
+msgstr "Cathéter sus-pubien (embout)"
+
+#: SPRPB
+msgid "Cathether Tip, Suprapubic"
+msgstr "Cathéter suprapubien (embout)"
+
+#: SPS
+msgid "Environmental, Spore Strip"
+msgstr "Bande de spores"
+
+#: SPT
+msgid "Sputum"
+msgstr "Expectoration (crachat)"
+
+#: SPTC
+msgid "Sputum - coughed"
+msgstr "Expectoration (Toux)"
+
+#: SPTT
+msgid "Sputum - tracheal aspirate"
+msgstr "Expectoration (crachat) par aspiration trachéale"
+
+#: SPUT1
+msgid "Sputum, Simulated"
+msgstr "Expectoration simulée (crachat)"
+
+#: SPUTIN
+msgid "Sputum, Inducted"
+msgstr "Expectoration induite (crachat)"
+
+#: SPUTSP
+msgid "Sputum, Spontaneous"
+msgstr "Expectoration spontanée (crachat)"
+
+#: STER
+msgid "Environmental, Sterrad"
+msgstr "Sterrad"
+
+#: STL
+msgid "Stool = Fecal"
+msgstr "Selles"
+
+#: STONE
+msgid "Stone, Kidney"
+msgstr "Calcul rénal"
+
+#: SUBMA
+msgid "Abscess, Submandibular"
+msgstr "Abcès sous-mandibulaire"
+
+#: SUBMX
+msgid "Abscess, Submaxillary"
+msgstr "Abcès sous-maxillaire"
+
+#: SUMP
+msgid "Drainage, Sump"
+msgstr "Drain de puisard"
+
+#: SUP
+msgid "Suprapubic Tap"
+msgstr "Robinet suprapubien"
+
+#: SUTUR
+msgid "Suture"
+msgstr "Suture"
+
+#: SWGZ
+msgid "Catheter Tip, Swan Gantz"
+msgstr "Cathéter de Swan-Ganz"
+
+#: SWT
+msgid "Sweat"
+msgstr "Sueur"
+
+#: TASP
+msgid "Aspirate, Tracheal"
+msgstr "Aspiration trachéale"
+
+#: TEAR
+msgid "Tears"
+msgstr "Larmes"
+
+#: THRB
+msgid "Thrombocyte (platelet)"
+msgstr "Plaquettes"
+
+#: THRT
+msgid "THRT"
+msgstr "Gorge"
+
+#: TISG
+msgid "TISG"
+msgstr "Vésicule biliaire"
+
+#: TISPL
+msgid "TISPL"
+msgstr "Trophoblastes"
+
+#: TISS
+msgid "Tissue"
+msgstr "Tissu"
+
+#: TISU
+msgid "Tissue ulcer"
+msgstr "Tissu ulcéreux"
+
+#: TLC
+msgid "Cathether Tip, Triple Lumen"
+msgstr "Cathéter triple lumière (embout)"
+
+#: TLGI
+msgid "TLGI"
+msgstr "Gros intestin"
+
+#: TLNG
+msgid "TLNG"
+msgstr "Tissu pulmonaire"
+
+#: TRAC
+msgid "Site, Tracheostomy"
+msgstr "Trachéotomie (site)"
+
+#: TRANS
+msgid "Transudate"
+msgstr "Transudat"
+
+#: TSERU
+msgid "Serum, Trough"
+msgstr "par sérum"
+
+#: TSMI
+msgid "TSMI"
+msgstr "Intestin grêle"
+
+#: TSTES
+msgid "Abscess, Testicular"
+msgstr "Abcès testiculaire"
+
+#: TTRA
+msgid "Aspirate, Transtracheal"
+msgstr "Aspiration transtrachéale"
+
+#: TUB
+msgid "TUB"
+msgstr "Tube"
+
+#: TUBES
+msgid "Tubes"
+msgstr "Tubes"
+
+#: TUMOR
+msgid "Tumor"
+msgstr "Tumeur"
+
+#: TZANC
+msgid "Smear, Tzanck"
+msgstr "Frottis de Tzanck"
+
+#: UDENT
+msgid "Source, Unidentified"
+msgstr "Origine non identifiée"
+
+#: ULC
+msgid "ULC"
+msgstr "Ulcère"
+
+#: UMB
+msgid "UMB"
+msgstr "Sang de cordon ombilical"
+
+#: UMED
+msgid "Unknown Medicine"
+msgstr "Médicament inconnu"
+
+#: UR
+msgid "Urine"
+msgstr "Urine"
+
+#: URC
+msgid "Urine clean catch"
+msgstr "Urine 1er jet"
+
+#: URINB
+msgid "Urine, Bladder Washings"
+msgstr "Urine de lavage vésical"
+
+#: URINC
+msgid "Urine, Catheterized"
+msgstr "Urine cathétérisée"
+
+#: URINM
+msgid "Urine, Midstream"
+msgstr "Urine milieu de jet"
+
+#: URINN
+msgid "Urine, Nephrostomy"
+msgstr "Urine de néphrostomie"
+
+#: URINP
+msgid "Urine, Pedibag"
+msgstr "Urine de poche pédiatrique"
+
+#: URNS
+msgid "Urine sediment"
+msgstr "Sédiments urinaires"
+
+#: URT
+msgid "Urine catheter"
+msgstr "Urine par cathéter"
+
+#: URTH
+msgid "URTH"
+msgstr "Urètre"
+
+#: USCOP
+msgid "Urine, Cystoscopy"
+msgstr "Urine de cystoscopie"
+
+#: USPEC
+msgid "Source, Unspecified"
+msgstr "Origine non spécifiée"
+
+#: USUB
+msgid "Unkown substance"
+msgstr "Substance inconnue"
+
+#: VASTIP
+msgid "Catheter Tip, Vas"
+msgstr "Cathéter vasculaire (embout)"
+
+#: VENT
+msgid "Catheter Tip, Ventricular"
+msgstr "Cathéter ventriculaire (embout)"
+
+#: VITF
+msgid "Vitreous Fluid"
+msgstr "Corps vitré"
+
+#: VOM
+msgid "Vomitus"
+msgstr "Vomissure"
+
+#: WASH
+msgid "Wash"
+msgstr "Produit de lavage"
+
+#: WASI
+msgid "Washing, e.g. bronchial washing"
+msgstr "Lavage, par ex. lavage broncho-alvéolaire"
+
+#: WAT
+msgid "Water"
+msgstr "Eau"
+
+#: WB
+msgid "Blood, Whole"
+msgstr "Sang total"
+
+#: WBC
+msgid "Leukocytes"
+msgstr "Leucocytes"
+
+#: WEN
+msgid "Wen"
+msgstr "Loupe"
+
+#: WICK
+msgid "Wick"
+msgstr "Mèche"
+
+#: WND
+msgid "Wound"
+msgstr "Plaie"
+
+#: WNDA
+msgid "Wound abscess"
+msgstr "Abcès d'une plaie"
+
+#: WNDD
+msgid "Wound drainage"
+msgstr "Drainage d'une plaie"
+
+#: WNDE
+msgid "Wound exudate"
+msgstr "Exsudat d'une plaie"
+
+#: WORM
+msgid "Worm"
+msgstr "Ver"
+
+#: WRT
+msgid "Wart"
+msgstr "Verrue"
+
+#: WWA
+msgid "Environmental, Water"
+msgstr "Eau environnementale"
+
+#: WWO
+msgid "Environmental, Water (Ocean)"
+msgstr "Eau (océan)"
+
+#: WWT
+msgid "Environmental, Water  (Tap)"
+msgstr "Eau (robinet)"

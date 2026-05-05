@@ -1,14 +1,37 @@
+# Temporary folders #
+#####################
+fsh-generated*
+temp*
+template*
+output*
+local-template*
 
+# Ignore large files and frequently changed files in input-cache #
+##################################################################
+input-cache*
+
+# OS generated files #
+######################
+Thumbs.db
 .DS_Store
-.index.db
-.index.json
+.DS_Store?
 
-input-cache/
+# backup files #
+################
+*.bak
 
-output/
+# IDE generated files #
+#######################
+.vscode
+.idea
 
-temp/
+# Microsoft Office temp files #
+###############################
+~$*.xlsx
 
-template/
-
-translations/
+# Automated testing
+.classpath
+.project
+.settings/*
+target/*
+.mvn/wrapper/maven-wrapper.jar

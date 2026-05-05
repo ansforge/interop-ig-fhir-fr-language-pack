@@ -1,0 +1,49 @@
+# en -> fr
+
+#: A
+msgid "ASAP"
+msgstr "Aussi vite que possible"
+
+#: CR
+msgid "callback results"
+msgstr "A contacter dès que les résultats sont disponibles"
+
+#: EL
+msgid "elective"
+msgstr "Bénéfique pour le patient mais pas essentiel pour sa survie"
+
+#: EM
+msgid "emergency"
+msgstr "Très urgent"
+
+#: P
+msgid "preop"
+msgstr "A réaliser avant l'intervention"
+
+#: PRN
+msgid "as needed"
+msgstr "Si nécessaire"
+
+#: R
+msgid "routine"
+msgstr "A réaliser aux heures ouvrées"
+
+#: RR
+msgid "rush reporting"
+msgstr "Compte-rendu urgent"
+
+#: S
+msgid "stat"
+msgstr "Immédiatement"
+
+#: T
+msgid "timing critical"
+msgstr "Plannification à respecter"
+
+#: UD
+msgid "use as directed"
+msgstr "Médicament à utiliser selon les directives du prescripteur"
+
+#: UR
+msgid "urgent"
+msgstr "Urgent"
