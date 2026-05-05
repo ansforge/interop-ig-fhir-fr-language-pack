@@ -1,4 +1,1 @@
-# Swedish Language Pack
-
-ci build: https://build.fhir.org/ig/HL7Sweden/hl7.fhir.r4.sv/
-
+ci build: https://ansforge.github.io/interop-ig-fhir-fr-language-pack/main/ig
