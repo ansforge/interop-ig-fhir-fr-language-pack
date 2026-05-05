@@ -3,7 +3,7 @@ FHIRLangPackFrench : Validation Results
 
 err = 8, warn = 5, info = 5
 IG Publisher Version: 2.2.7
-Generated Tue May 05 15:19:38 UTC 2026. FHIR version 4.0.1 for ans.fhir.r4.fr#0.1.0 (canonical = https://interop.esante.gouv.fr/ig/fhir/fr)
+Generated Tue May 05 15:21:47 UTC 2026. FHIR version 4.0.1 for ans.fhir.r4.fr#0.1.0 (canonical = https://interop.esante.gouv.fr/ig/fhir/fr)
  Build Errors : 27 / 5 / 0
  /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/fsh-generated/resources/ImplementationGuide-ans.fhir.r4.fr : 1 / 0 / 1
  /home/runner/work/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/fsh-generated/resources/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis : 1 / 0 / 4

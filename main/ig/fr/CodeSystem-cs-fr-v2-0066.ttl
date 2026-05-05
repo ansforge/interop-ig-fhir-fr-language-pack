@@ -22,7 +22,7 @@
   fhir:name [ fhir:v "EmploymentStatus"] ; # 
   fhir:title [ fhir:v "employmentStatus"] ; # 
   fhir:status [ fhir:v "active"] ; # 
-  fhir:date [ fhir:v "2026-05-05T15:18:46+00:00"^^xsd:dateTime] ; # 
+  fhir:date [ fhir:v "2026-05-05T15:20:55+00:00"^^xsd:dateTime] ; # 
   fhir:publisher [ fhir:v "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris"] ; # 
   fhir:description [ fhir:v "HL7-defined code system of concepts which specify an employment status of a person. Used in HL7 Version 2 messaging in the GT1 segment."] ; # 
   fhir:jurisdiction ( [
