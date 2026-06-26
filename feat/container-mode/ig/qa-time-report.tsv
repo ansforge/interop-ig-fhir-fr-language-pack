@@ -1,0 +1,12 @@
+Source File	Size	loadResources	load	generateSnapshots	load-configure	scan	loadDepInfo	loadInfo	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	translate	generate1	generate2	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
+/fsh-generated/resources/ImplementationGuide-ans.fhir.r4.fr.json	2067	-	1	0	0	0	0	0	18	102	0	0	0	0	1	0	0	0	0	0	0	104	110	0	0	0	6	1	1
+fsh-generated/resources/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.json	1658	4	0	0	1	0	0	0	1	60	0	0	0	0	0	0	0	0	0	0	0	27	188	0	0	0	1	0	0
+input/translations/fr/CodeSystem-v3-AdministrativeGender.po	0	-	0	0	0	0	0	0	0	6	0	0	0	0	1	0	0	0	0	0	0	17	91	0	0	0	0	0	0
+input/translations/fr/CodeSystem-v2-0066.po	0	-	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	26	83	0	0	0	1	0	0
+input/translations/fr/CodeSystem-v3-orderableDrugForm.po	0	-	0	0	1	0	0	0	1	5	0	0	0	0	1	0	0	0	0	0	0	25	70	0	0	0	1	0	0
+/fsh-generated/includes/menu.xml	1587	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/fsh-generated/includes/fsh-link-references.md	75	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+/input/pagecontent/index.md	117	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/template/config	0	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/template/config/_config.yml	140	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/temp/pages/_includes/artifacts.xml	3703	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	0	0	0	0	0	0	0

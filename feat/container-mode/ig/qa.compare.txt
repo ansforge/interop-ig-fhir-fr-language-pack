@@ -1,0 +1,64 @@
+FHIRLangPackFrench : Validation Results
+=========================================
+
+err = 8, warn = 5, info = 5
+$--
+Generated $--. FHIR version $-- for ans.fhir.r4.fr#$-- (canonical = https://interop.esante.gouv.fr/ig/fhir/fr)
+ Build Errors : 27 / 5 / 0
+ /__w/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/fsh-generated/resources/ImplementationGuide-ans.fhir.r4.fr : 1 / 0 / 1
+ /__w/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/fsh-generated/resources/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis : 1 / 0 / 4
+ /__w/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/fr/CodeSystem-v2-0066 : 2 / 1 / 2
+ /__w/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/fr/CodeSystem-v3-AdministrativeGender : 2 / 1 / 2
+ /__w/interop-ig-fhir-fr-language-pack/interop-ig-fhir-fr-language-pack/igSource/input/translations/fr/CodeSystem-v3-orderableDrugForm : 2 / 1 / 2
+</table>
+== n/a ==
+ERROR: fr/CodeSystem-cs-fr-v2-0066-testing.html#/html/body/div/div/div/p/span/img at Line 64, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v2-0066.change.history.html#/html/body/div/div/div/p/span/img at Line 63, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v2-0066.html#/html/body/div/div/div/p/span/img at Line 64, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v2-0066.json.html#/html/body/div/div/div/p/span/img at Line 66, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v2-0066.ttl.html#/html/body/div/div/div/p/span/img at Line 66, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v2-0066.xml.html#/html/body/div/div/div/p/span/img at Line 66, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v3-AdministrativeGender-testing.html#/html/body/div/div/div/p/span/img at Line 64, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v3-AdministrativeGender.change.history.html#/html/body/div/div/div/p/span/img at Line 63, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v3-AdministrativeGender.html#/html/body/div/div/div/p/span/img at Line 64, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v3-AdministrativeGender.json.html#/html/body/div/div/div/p/span/img at Line 66, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v3-AdministrativeGender.ttl.html#/html/body/div/div/div/p/span/img at Line 66, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v3-AdministrativeGender.xml.html#/html/body/div/div/div/p/span/img at Line 66, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v3-orderableDrugForm-testing.html#/html/body/div/div/div/p/span/img at Line 64, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v3-orderableDrugForm.change.history.html#/html/body/div/div/div/p/span/img at Line 63, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v3-orderableDrugForm.html#/html/body/div/div/div/p/span/img at Line 64, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v3-orderableDrugForm.json.html#/html/body/div/div/div/p/span/img at Line 66, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v3-orderableDrugForm.ttl.html#/html/body/div/div/div/p/span/img at Line 66, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/CodeSystem-cs-fr-v3-orderableDrugForm.xml.html#/html/body/div/div/div/p/span/img at Line 66, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis-testing.html#/html/body/div/div/div/p/span/img at Line 64, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.change.history.html#/html/body/div/div/div/p/span/img at Line 63, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.html#/html/body/div/div/div/p/span/img at Line 63, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.json.html#/html/body/div/div/div/p/span/img at Line 66, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.ttl.html#/html/body/div/div/div/p/span/img at Line 66, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.xml.html#/html/body/div/div/div/p/span/img at Line 66, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/artifacts.html#/html/body/div/div/div/p/span/img at Line 63, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/index.html#/html/body/div/div/div/p/span/img at Line 63, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+ERROR: fr/toc.html#/html/body/div/div/div/p/span/img at Line 63, column 4: The image source 'assets/images/fra.svg' cannot be resolved
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml, dependency-table-nontech.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 5: The HTML fragment 'expansion-params.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated/resources/ImplementationGuide-ans.fhir.r4.fr.json ==
+ERROR: ImplementationGuide/ans.fhir.r4.fr: ImplementationGuide.jurisdiction[0].coding[0].display: Wrong Display Name 'France' for urn:iso:std:iso:3166#FR. Valid display is 'France (la)' (fr) (for the language(s) 'fr')
+== fsh-generated/resources/ValueSet-jdv-hl7-v3-AdministrativeGender-cisis.json ==
+INFORMATION: ValueSet.compose.include[0]: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender to 4.0.0
+INFORMATION: ValueSet.compose.include[1]: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm to 4.0.0
+ERROR: ValueSet/jdv-hl7-v3-AdministrativeGender-cisis: ValueSet.jurisdiction[0].coding[0].display: Wrong Display Name 'France' for urn:iso:std:iso:3166#FR. Valid display is 'France (la)' (fr) (for the language(s) 'fr')
+== input/translations/fr/CodeSystem-v2-0066.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v2-0066 to 3.0.0
+ERROR: CodeSystem/cs-fr-v2-0066: CodeSystem.jurisdiction[0].coding[0].display: Wrong Display Name 'France' for urn:iso:std:iso:3166#FR. Valid display is 'France (la)' (fr) (for the language(s) 'fr')
+ERROR: CodeSystem/cs-fr-v2-0066: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+== input/translations/fr/CodeSystem-v3-AdministrativeGender.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-AdministrativeGender to 4.0.0
+ERROR: CodeSystem/cs-fr-v3-AdministrativeGender: CodeSystem.jurisdiction[0].coding[0].display: Wrong Display Name 'France' for urn:iso:std:iso:3166#FR. Valid display is 'France (la)' (fr) (for the language(s) 'fr')
+ERROR: CodeSystem/cs-fr-v3-AdministrativeGender: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement
+== input/translations/fr/CodeSystem-v3-orderableDrugForm.po ==
+INFORMATION: CodeSystem.supplements: Pinned the version of http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm to 4.0.0
+ERROR: CodeSystem/cs-fr-v3-orderableDrugForm: CodeSystem.jurisdiction[0].coding[0].display: Wrong Display Name 'France' for urn:iso:std:iso:3166#FR. Valid display is 'France (la)' (fr) (for the language(s) 'fr')
+ERROR: CodeSystem/cs-fr-v3-orderableDrugForm: CodeSystem.caseSensitive: CodeSystems SHOULD NOT have a stated value for the caseSensitive element when they are a supplement

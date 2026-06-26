@@ -1,0 +1,19 @@
+{
+  "url" : "https://interop.esante.gouv.fr/ig/fhir/fr/ImplementationGuide/ans.fhir.r4.fr",
+  "name" : "FHIRLangPackFrench",
+  "title" : "French language pack for FHIR R4",
+  "description" : "Description du projet",
+  "status" : "draft",
+  "package-id" : "ans.fhir.r4.fr",
+  "ig-ver" : "0.1.0",
+  "date" : "Fri, 26 Jun, 2026 10:32:24 +0000",
+  "dateISO8601" : "2026-06-26T10:32:24+00:00",
+  "errs" : 8,
+  "warnings" : 5,
+  "hints" : 5,
+  "suppressed-hints" : 3,
+  "suppressed-warnings" : 3,
+  "version" : "4.0.1",
+  "tool" : "5.0.0 (3)",
+  "maxMemory" : 1050738272
+}
